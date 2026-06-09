@@ -1,35 +1,41 @@
 # WorldCup-Predictor-2026
 
-Track the 2026 FIFA World Cup schedule and maintain match-by-match predictions.
+[English](README.md) | [简体中文](docs/README.zh-CN.md) | [Changelog](CHANGELOG.md)
 
-追踪 2026 年 FIFA 世界杯赛程，并记录每场比赛的赛前预测。
+![Project status](https://img.shields.io/badge/status-planning-blue)
+![World Cup](https://img.shields.io/badge/world%20cup-2026-1f883d)
+![Languages](https://img.shields.io/badge/docs-EN%20%2F%20ZH--CN-0969da)
 
-## Goals / 目标
+Track the 2026 FIFA World Cup schedule, record match-by-match predictions, and compare those predictions with final results.
 
-- Store the tournament schedule in a structured format.
-- Track predictions for every match.
-- Compare predictions against final results.
-- Keep historical prediction records for analysis.
+This repository is in the initial setup phase. The schedule data, prediction workflow, and result-tracking tools will be added in later commits.
 
-- 使用结构化格式保存赛事赛程。
-- 记录每一场比赛的预测结果。
-- 将预测与最终赛果进行对比。
-- 保留历史预测记录，便于后续分析。
+## What This Project Tracks
 
-## Planned Data Model / 计划数据模型
+- Tournament schedule by group, round, venue, and kickoff time.
+- Match predictions including winner, scoreline, confidence, and notes.
+- Final results including score, winner, penalties when applicable, and prediction score.
+- Historical prediction records for later analysis.
 
-- `teams`: qualified national teams and group assignments.
-- `matches`: kickoff time, venue, group/round, home team, away team, and score.
-- `predictions`: predicted winner, scoreline, confidence, and notes.
-- `results`: final score, winner, penalties if applicable, and points awarded.
+## Planned Data Model
 
-- `teams`：参赛球队与小组分配。
-- `matches`：开球时间、比赛场地、小组或淘汰赛轮次、主队、客队和比分。
-- `predictions`：预测胜者、预测比分、信心等级和备注。
-- `results`：最终比分、胜者、点球结果和预测得分。
+| Entity | Purpose |
+| --- | --- |
+| `teams` | Qualified national teams and group assignments. |
+| `matches` | Kickoff time, venue, group or knockout round, teams, and score. |
+| `predictions` | Predicted winner, predicted scoreline, confidence, and notes. |
+| `results` | Final score, winner, penalties when applicable, and points awarded. |
 
-## Status / 状态
+## Roadmap
 
-Initial repository setup. Schedule and prediction tooling will be added in later commits.
+- [x] Create the repository and initial documentation.
+- [ ] Add structured schedule data.
+- [ ] Add prediction records for each match.
+- [ ] Add result comparison logic.
+- [ ] Add summary views for prediction accuracy.
 
-当前为仓库初始化阶段。赛程数据和预测工具会在后续提交中补充。
+## Repository Status
+
+Current status: project scaffold.
+
+The repository does not yet contain the full 2026 FIFA World Cup schedule or prediction tooling.
