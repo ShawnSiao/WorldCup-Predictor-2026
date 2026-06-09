@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 - Added the initial project README.
 - Added language navigation links for English and Simplified Chinese.
 - Added a Simplified Chinese README.
+- Documented the prediction reasoning model.
 
 ### 新增
 
@@ -21,3 +22,4 @@ All notable changes to this project will be documented in this file.
 - 添加初始项目 README。
 - 添加 English 和简体中文文档切换入口。
 - 添加简体中文 README。
+- 说明预测推理模型。

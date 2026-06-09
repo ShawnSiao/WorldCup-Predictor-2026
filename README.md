@@ -10,6 +10,10 @@ Track the 2026 FIFA World Cup schedule, record match-by-match predictions, and c
 
 This repository is in the initial setup phase. The schedule data, prediction workflow, and result-tracking tools will be added in later commits.
 
+## Reasoning Model
+
+All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model.
+
 ## What This Project Tracks
 
 - Tournament schedule by group, round, venue, and kickoff time.
@@ -29,6 +33,7 @@ This repository is in the initial setup phase. The schedule data, prediction wor
 ## Roadmap
 
 - [x] Create the repository and initial documentation.
+- [x] Document the prediction reasoning model.
 - [ ] Add structured schedule data.
 - [ ] Add prediction records for each match.
 - [ ] Add result comparison logic.
