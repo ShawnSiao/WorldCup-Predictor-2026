@@ -22,6 +22,7 @@ All notable changes to this project will be documented in this file.
 - Added repository validation tests and script.
 - Added `AGENTS.md` as the AI working index.
 - Expanded the first prediction with factual basis, prediction logic, social-platform copy, and investment advice disclaimers.
+- Added `$imagegen` raster prediction-card image support for repository pages, daily reports, and email delivery.
 
 ### 新增
 
@@ -37,3 +38,4 @@ All notable changes to this project will be documented in this file.
 - 添加仓库校验测试和脚本。
 - 添加 `AGENTS.md` 作为 AI 工作索引。
 - 补充第一场预测的事实依据、推理逻辑、社媒发布文案和投资建议免责声明。
+- 增加 `$imagegen` 真实位图预测配图支持，用于仓库页面、日报和邮件同步。

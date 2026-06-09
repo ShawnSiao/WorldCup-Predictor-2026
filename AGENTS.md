@@ -17,17 +17,19 @@ WorldCup-Predictor-2026 tracks the 2026 FIFA World Cup schedule, publishes pre-m
 1. Verify current facts from official or reputable sources.
 2. Update structured data under `data/`.
 3. Create or refresh predictions for upcoming matches.
-4. Create reviews for completed matches.
-5. Update the daily report in `reports/daily/`.
-6. Refresh README dashboard counters and links when visible state changes.
-7. Run validation.
-8. Commit and push only repository artifacts, never local specs.
+4. Generate or refresh raster share images for every published prediction with `$imagegen`.
+5. Create reviews for completed matches.
+6. Update the daily report in `reports/daily/`.
+7. Refresh README dashboard counters and links when visible state changes.
+8. Run validation.
+9. Commit and push only repository artifacts, never local specs.
 
 ## Prediction Requirements
 
 Every prediction file in `predictions/` must include:
 
 - `## Prediction`
+- `## Share Image`
 - `## Factual Basis`
 - `## Prediction Logic`
 - `## Risk Factors`
@@ -39,9 +41,21 @@ Prediction reasoning must be based on current facts such as official schedule, v
 
 All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model. Publish concise reasoning summaries only. Do not store hidden chain-of-thought or private reasoning traces.
 
+Each prediction record in `data/predictions.json` must include an `image_file` value. The image must exist under `assets/cards/`, and the prediction file plus the corresponding daily report must embed that image.
+
+Generate prediction images with this instruction pattern:
+
+```text
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+```
+
+Images must be raster files such as PNG, JPG, JPEG, or WebP. Do not create SVG, HTML, canvas, Mermaid, chart-only, or script-generated image substitutes for prediction share images.
+
 ## Platform Copy Requirements
 
 Prediction files should include share-ready copy suitable for Douyin, Xiaohongshu, Weibo, and WeChat. The copy should be concise, factual, and clear that the content is a sports prediction.
+
+Daily automation runs that publish or refresh predictions must prepare share-ready text and image assets. After validation, use the connected Gmail tool to read the current Gmail profile email address and send the daily result summary plus generated images to that Google mailbox. Do not use Git config email addresses, GitHub account emails, or repository metadata as the recipient.
 
 Every share-ready copy block must include a disclaimer equivalent to:
 

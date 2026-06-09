@@ -23,6 +23,7 @@ Allowed values:
 | File | Purpose |
 | --- | --- |
 | `AGENTS.md` | AI working index and repository maintenance rules. |
+| `assets/cards/` | `$imagegen` generated raster prediction-card images used by prediction pages, daily reports, and email delivery. |
 | `data/matches.json` | Canonical schedule and match lifecycle state. |
 | `data/teams.json` | Team metadata and group assignments. |
 | `data/venues.json` | Venue metadata. |

@@ -7,11 +7,22 @@ venue: "Mexico City Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-09T00:00:00Z"
 source_snapshot_at: "2026-06-09T00:00:00Z"
+image_file: "../assets/cards/match-001-mex-rsa.png"
 ---
 
 # Match 001: Mexico vs South Africa
 
 [Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-09.md)
+
+## Share Image
+
+![Mexico vs South Africa prediction card](../assets/cards/match-001-mex-rsa.png)
+
+Image generation instruction:
+
+```text
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，Mexico vs South Africa，世界杯揭幕战氛围，足球场、墨西哥与南非配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+```
 
 ## Prediction
 

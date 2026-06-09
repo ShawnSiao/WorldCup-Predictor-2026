@@ -8,6 +8,7 @@
     {
       "match_id": "001",
       "prediction_file": "predictions/match-001-mex-rsa.md",
+      "image_file": "assets/cards/match-001-mex-rsa.png",
       "model": "ChatGPT 5.5 ultra-high reasoning",
       "predicted_outcome": "home_win",
       "predicted_winner": "MEX",

@@ -5,6 +5,7 @@ from pathlib import Path
 REQUIRED_PATHS = [
     "AGENTS.md",
     "README.md",
+    "assets/cards/README.md",
     "docs/README.zh-CN.md",
     "docs/methodology.md",
     "docs/methodology.zh-CN.md",
@@ -25,8 +26,10 @@ REQUIRED_PATHS = [
 
 MATCH_STATUSES = {"scheduled", "predicted", "live", "final", "reviewed"}
 REVIEW_RATINGS = {"correct", "partial", "wrong"}
+IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 PREDICTION_REQUIRED_SECTIONS = [
     "## Prediction",
+    "## Share Image",
     "## Factual Basis",
     "## Prediction Logic",
     "## Risk Factors",
@@ -51,6 +54,18 @@ def validate_required_paths(repo_root: Path, errors: list[str]) -> None:
     for relative_path in REQUIRED_PATHS:
         if not (repo_root / relative_path).exists():
             errors.append(f"Missing required path: {relative_path}")
+
+
+def has_valid_raster_header(path: Path) -> bool:
+    header = path.read_bytes()[:16]
+    suffix = path.suffix.lower()
+    if suffix == ".png":
+        return header.startswith(b"\x89PNG\r\n\x1a\n")
+    if suffix in {".jpg", ".jpeg"}:
+        return header.startswith(b"\xff\xd8\xff")
+    if suffix == ".webp":
+        return header.startswith(b"RIFF") and header[8:12] == b"WEBP"
+    return False
 
 
 def validate_matches(repo_root: Path, errors: list[str]) -> set[str]:
@@ -108,6 +123,7 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
         if match_id not in match_ids:
             errors.append(f"Prediction references unknown match_id: {match_id}")
         prediction_file = prediction.get("prediction_file")
+        image_file = prediction.get("image_file")
         if not prediction_file or not (repo_root / prediction_file).exists():
             errors.append(f"Prediction file missing for match {match_id}: {prediction_file}")
         else:
@@ -119,6 +135,27 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
                 errors.append(f"Prediction {match_id} must include an investment advice disclaimer")
             if "投资建议" not in prediction_text:
                 errors.append(f"Prediction {match_id} must include a Chinese investment advice disclaimer")
+            if image_file and image_file not in prediction_text:
+                errors.append(f"Prediction {match_id} must embed image file: {image_file}")
+        if not image_file:
+            errors.append(f"Prediction {match_id} must include image_file")
+        elif not image_file.startswith("assets/cards/"):
+            errors.append(f"Prediction {match_id} image_file must be under assets/cards/: {image_file}")
+        elif (repo_root / image_file).suffix.lower() not in IMAGE_EXTENSIONS:
+            errors.append(f"Prediction {match_id} image_file must be a raster social card: {image_file}")
+        elif not (repo_root / image_file).exists():
+            errors.append(f"Prediction {match_id} image file missing: {image_file}")
+        elif not has_valid_raster_header(repo_root / image_file):
+            errors.append(f"Prediction {match_id} image file is not a valid raster image: {image_file}")
+        else:
+            published_at = prediction.get("published_at")
+            if isinstance(published_at, str) and "T" in published_at:
+                report_date = published_at.split("T", 1)[0]
+                daily_report = repo_root / "reports" / "daily" / f"{report_date}.md"
+                if daily_report.exists():
+                    daily_report_text = daily_report.read_text(encoding="utf-8")
+                    if image_file not in daily_report_text:
+                        errors.append(f"Daily report {report_date} must embed image file: {image_file}")
         probabilities = [
             prediction.get("home_win_probability"),
             prediction.get("draw_probability"),
@@ -152,9 +189,26 @@ def validate_reviews(repo_root: Path, match_ids: set[str], errors: list[str]) ->
             errors.append(f"Review {match_id} has invalid rating: {rating}")
 
 
+def validate_share_image_policy(repo_root: Path, errors: list[str]) -> None:
+    agent_index = repo_root / "AGENTS.md"
+    if agent_index.exists() and "$imagegen" not in agent_index.read_text(encoding="utf-8"):
+        errors.append("AGENTS.md must require $imagegen for prediction share images")
+
+    generator_script = repo_root / "scripts" / "generate_prediction_card.py"
+    if generator_script.exists():
+        errors.append("Prediction share images must not depend on code-generated image scripts")
+
+    cards_dir = repo_root / "assets" / "cards"
+    if cards_dir.exists():
+        svg_files = sorted(path.as_posix() for path in cards_dir.glob("*.svg"))
+        if svg_files:
+            errors.append(f"Prediction share images must not be SVG files: {', '.join(svg_files)}")
+
+
 def validate_repository(repo_root: Path) -> list[str]:
     errors: list[str] = []
     validate_required_paths(repo_root, errors)
+    validate_share_image_policy(repo_root, errors)
     match_ids = validate_matches(repo_root, errors)
     validate_predictions(repo_root, match_ids, errors)
     validate_reviews(repo_root, match_ids, errors)

@@ -30,6 +30,7 @@ Group-stage predictions include:
 - away win probability
 - predicted scoreline
 - confidence level
+- share image
 - factual basis
 - prediction logic
 - reasoning summary
@@ -44,6 +45,14 @@ Knockout predictions should add advancement probability and separate regulation-
 Each prediction should include share-ready copy for Douyin, Xiaohongshu, Weibo, and WeChat.
 
 Platform copy should be concise, fact-based, and clearly labeled as a match prediction. It must include a disclaimer that the content does not constitute investment advice.
+
+Each prediction and daily report should embed a `$imagegen` generated raster share image from `assets/cards/`. Use this instruction pattern:
+
+```text
+$imagegen: Generate a social-platform match prediction image, 16:9 landscape, real raster image for Douyin, Xiaohongshu, Weibo, and WeChat sharing; do not generate SVG, HTML, code art, wireframes, chart-only graphics, official FIFA logos, or watermarks.
+```
+
+Daily automation should read the current connected Gmail profile email address, then email the validated daily summary and generated image assets to that Google mailbox. Git config email addresses and GitHub account emails must not be used as recipients.
 
 ## Review Method
 
