@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-09",
+    "snapshot_date": "2026-06-10",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-09T00:00:00Z"
+    "source_snapshot_at": "2026-06-10T00:20:00Z"
   },
   "predictions": [
     {
@@ -13,12 +13,58 @@
       "predicted_outcome": "home_win",
       "predicted_winner": "MEX",
       "predicted_score": "2-0",
-      "home_win_probability": 0.58,
-      "draw_probability": 0.25,
-      "away_win_probability": 0.17,
+      "home_win_probability": 0.6,
+      "draw_probability": 0.24,
+      "away_win_probability": 0.16,
       "confidence": "medium",
       "published_at": "2026-06-09T00:00:00Z",
-      "source_snapshot_at": "2026-06-09T00:00:00Z"
+      "updated_at": "2026-06-10T00:20:00Z",
+      "source_snapshot_at": "2026-06-10T00:20:00Z"
+    },
+    {
+      "match_id": "002",
+      "prediction_file": "predictions/match-002-kor-cze.md",
+      "image_file": "assets/cards/match-002-kor-cze.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "draw",
+      "predicted_winner": null,
+      "predicted_score": "1-1",
+      "home_win_probability": 0.35,
+      "draw_probability": 0.36,
+      "away_win_probability": 0.29,
+      "confidence": "medium-low",
+      "published_at": "2026-06-10T00:20:00Z",
+      "source_snapshot_at": "2026-06-10T00:20:00Z"
+    },
+    {
+      "match_id": "003",
+      "prediction_file": "predictions/match-003-can-bih.md",
+      "image_file": "assets/cards/match-003-can-bih.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "CAN",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.53,
+      "draw_probability": 0.26,
+      "away_win_probability": 0.21,
+      "confidence": "medium",
+      "published_at": "2026-06-10T00:20:00Z",
+      "source_snapshot_at": "2026-06-10T00:20:00Z"
+    },
+    {
+      "match_id": "004",
+      "prediction_file": "predictions/match-004-usa-par.md",
+      "image_file": "assets/cards/match-004-usa-par.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "USA",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.55,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.2,
+      "confidence": "medium",
+      "published_at": "2026-06-10T00:20:00Z",
+      "source_snapshot_at": "2026-06-10T00:20:00Z"
     }
   ]
 }

@@ -1,13 +1,55 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-09",
-    "coverage": "squad publication status only; player-level records pending ingestion",
+    "snapshot_date": "2026-06-10",
+    "coverage": "squad publication status for the opening 72-hour match window; player-level records pending ingestion",
     "official_player_count": 1248,
     "tracked_player_count": 0,
     "source_urls": [
       "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
     ],
-    "last_verified_at": "2026-06-09T00:00:00Z"
+    "last_verified_at": "2026-06-10T00:20:00Z"
   },
+  "squad_snapshots": [
+    {
+      "team_code": "MEX",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "RSA",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "KOR",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "CZE",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "CAN",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "BIH",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "USA",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "PAR",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    }
+  ],
   "players": []
 }

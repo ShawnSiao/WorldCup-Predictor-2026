@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-09",
-    "coverage": "Group A teams needed for the opening-match snapshot",
+    "snapshot_date": "2026-06-10",
+    "coverage": "teams in the opening 72-hour match window",
     "official_team_count": 48,
-    "tracked_team_count": 4,
+    "tracked_team_count": 8,
     "source_urls": [
       "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed",
-      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums"
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
     ],
-    "last_verified_at": "2026-06-09T00:00:00Z"
+    "last_verified_at": "2026-06-10T00:20:00Z"
   },
   "teams": [
     {
@@ -37,6 +38,34 @@
       "name": "Czechia",
       "group": "A",
       "confederation": "UEFA",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "CAN",
+      "name": "Canada",
+      "group": "B",
+      "confederation": "CONCACAF",
+      "role": "co-host"
+    },
+    {
+      "team_code": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "group": "B",
+      "confederation": "UEFA",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "USA",
+      "name": "USA",
+      "group": "D",
+      "confederation": "CONCACAF",
+      "role": "co-host"
+    },
+    {
+      "team_code": "PAR",
+      "name": "Paraguay",
+      "group": "D",
+      "confederation": "CONMEBOL",
       "role": "qualified team"
     }
   ]

@@ -13,23 +13,36 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-09 |
+| 数据快照 | 2026-06-10 |
 | 赛事周期 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已追踪比赛 | 1 |
-| 已发布预测 | 1 |
+| 仓库已追踪比赛 | 4 |
+| 已发布预测 | 4 |
 | 已追踪赛果 | 0 |
 | 已发布复盘 | 0 |
 
-## 下一场比赛
+## 近期比赛
 
 | 比赛 | 阶段 | 开球时间 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
 | Mexico vs South Africa | Group A | 2026-06-11 19:00 UTC | Mexico City Stadium | [Mexico 胜，2-0](../predictions/match-001-mex-rsa.md) |
+| Korea Republic vs Czechia | Group A | 2026-06-12 02:00 UTC | Estadio Guadalajara | [平局，1-1](../predictions/match-002-kor-cze.md) |
+| Canada vs Bosnia and Herzegovina | Group B | 2026-06-12 19:00 UTC | Toronto Stadium | [Canada 胜，2-1](../predictions/match-003-can-bih.md) |
+| USA vs Paraguay | Group D | 2026-06-13 01:00 UTC | Los Angeles Stadium | [USA 胜，2-1](../predictions/match-004-usa-par.md) |
+
+## 预测配图
+
+[![Mexico vs South Africa prediction card](../assets/cards/match-001-mex-rsa.png)](../predictions/match-001-mex-rsa.md)
+
+[![Korea Republic vs Czechia prediction card](../assets/cards/match-002-kor-cze.png)](../predictions/match-002-kor-cze.md)
+
+[![Canada vs Bosnia and Herzegovina prediction card](../assets/cards/match-003-can-bih.png)](../predictions/match-003-can-bih.md)
+
+[![USA vs Paraguay prediction card](../assets/cards/match-004-usa-par.png)](../predictions/match-004-usa-par.md)
 
 ## 今日赛程
 
-2026-06-09 没有 FIFA World Cup 2026 比赛。
+2026-06-10 没有 FIFA World Cup 2026 比赛。
 
 ## 推理模型
 
@@ -53,8 +66,8 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[Match 001: Mexico vs South Africa](../predictions/match-001-mex-rsa.md)
-- 最新日报：[2026-06-09](../reports/daily/2026-06-09.md)
+- 最新预测：[Match 004: USA vs Paraguay](../predictions/match-004-usa-par.md)
+- 最新日报：[2026-06-10](../reports/daily/2026-06-10.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md)
 - 数据结构：[Repository data schema](data-schema.md)
 - 来源说明：[Source policy and current source list](sources.md)

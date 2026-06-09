@@ -13,23 +13,32 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-09 |
+| Data snapshot | 2026-06-10 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 1 |
-| Predictions published | 1 |
+| Tracked matches in repository | 4 |
+| Predictions published | 4 |
 | Final results tracked | 0 |
 | Post-match reviews published | 0 |
 
-## Next Match
+## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
 | Mexico vs South Africa | Group A | 2026-06-11 19:00 UTC | Mexico City Stadium | [Mexico win, 2-0](predictions/match-001-mex-rsa.md) |
+| Korea Republic vs Czechia | Group A | 2026-06-12 02:00 UTC | Estadio Guadalajara | [Draw, 1-1](predictions/match-002-kor-cze.md) |
+| Canada vs Bosnia and Herzegovina | Group B | 2026-06-12 19:00 UTC | Toronto Stadium | [Canada win, 2-1](predictions/match-003-can-bih.md) |
+| USA vs Paraguay | Group D | 2026-06-13 01:00 UTC | Los Angeles Stadium | [USA win, 2-1](predictions/match-004-usa-par.md) |
+
+## Featured Prediction Card
+
+[![Mexico vs South Africa prediction card](assets/cards/match-001-mex-rsa.png)](predictions/match-001-mex-rsa.md)
+
+Share image: [`assets/cards/match-001-mex-rsa.png`](assets/cards/match-001-mex-rsa.png)
 
 ## Today
 
-No FIFA World Cup 2026 matches are scheduled for 2026-06-09.
+No FIFA World Cup 2026 matches are scheduled for 2026-06-10.
 
 ## Reasoning Model
 
@@ -53,8 +62,8 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 001: Mexico vs South Africa](predictions/match-001-mex-rsa.md)
-- Latest daily report: [2026-06-09](reports/daily/2026-06-09.md)
+- Latest prediction: [Match 004: USA vs Paraguay](predictions/match-004-usa-par.md)
+- Latest daily report: [2026-06-10](reports/daily/2026-06-10.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md)
 - Data schema: [Repository data schema](docs/data-schema.md)
 - Sources: [Source policy and current source list](docs/sources.md)

@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-09",
-    "coverage": "venues referenced by the opening-day Group A snapshot",
+    "snapshot_date": "2026-06-10",
+    "coverage": "venues referenced by the opening 72-hour match window",
     "source_urls": [
-      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums"
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
     ],
-    "last_verified_at": "2026-06-09T00:00:00Z"
+    "last_verified_at": "2026-06-10T00:20:00Z"
   },
   "venues": [
     {
@@ -19,6 +20,18 @@
       "name": "Estadio Guadalajara",
       "city": "Guadalajara",
       "country": "Mexico"
+    },
+    {
+      "venue_id": "toronto-stadium",
+      "name": "Toronto Stadium",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    {
+      "venue_id": "los-angeles-stadium",
+      "name": "Los Angeles Stadium",
+      "city": "Los Angeles",
+      "country": "United States"
     }
   ]
 }

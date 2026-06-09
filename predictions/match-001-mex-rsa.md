@@ -6,13 +6,14 @@ kickoff_utc: "2026-06-11T19:00:00Z"
 venue: "Mexico City Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-09T00:00:00Z"
-source_snapshot_at: "2026-06-09T00:00:00Z"
+updated_at: "2026-06-10T00:20:00Z"
+source_snapshot_at: "2026-06-10T00:20:00Z"
 image_file: "../assets/cards/match-001-mex-rsa.png"
 ---
 
 # Match 001: Mexico vs South Africa
 
-[Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-09.md)
+[Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-10.md)
 
 ## Share Image
 
@@ -28,9 +29,9 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，Mexico vs 
 
 | Outcome | Probability |
 | --- | ---: |
-| Mexico win | 58% |
-| Draw | 25% |
-| South Africa win | 17% |
+| Mexico win | 60% |
+| Draw | 24% |
+| South Africa win | 16% |
 
 - Predicted winner: Mexico
 - Predicted scoreline: Mexico 2-0 South Africa
@@ -105,5 +106,7 @@ This is a football match prediction only. It does not constitute investment advi
 ## Source Snapshot
 
 - FIFA schedule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
+- FIFA updated schedule release: https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches
+- FIFA match schedule PDF: https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
 - FIFA Mexico ranking page: https://inside.fifa.com/fifa-world-ranking/MEX?gender=men
 - FIFA South Africa ranking page: https://inside.fifa.com/fifa-world-ranking/RSA?gender=men

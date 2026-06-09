@@ -1,13 +1,21 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-09",
-    "coverage": "teams in the opening-match prediction",
+    "snapshot_date": "2026-06-10",
+    "coverage": "teams in the opening 72-hour match window",
     "ranking_source": "FIFA/Coca-Cola Men's World Ranking",
+    "last_official_update": "2026-04-01",
+    "next_official_update": "2026-06-11",
     "source_urls": [
       "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/KOR?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/CZE?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/USA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men"
     ],
-    "last_verified_at": "2026-06-09T00:00:00Z"
+    "last_verified_at": "2026-06-10T00:20:00Z"
   },
   "rankings": [
     {
@@ -21,6 +29,42 @@
       "team": "South Africa",
       "rank": 60,
       "source_url": "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men"
+    },
+    {
+      "team_code": "KOR",
+      "team": "Korea Republic",
+      "rank": 25,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/KOR?gender=men"
+    },
+    {
+      "team_code": "CZE",
+      "team": "Czechia",
+      "rank": 43,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/CZE?gender=men"
+    },
+    {
+      "team_code": "CAN",
+      "team": "Canada",
+      "rank": 29,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men"
+    },
+    {
+      "team_code": "BIH",
+      "team": "Bosnia and Herzegovina",
+      "rank": 65,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men"
+    },
+    {
+      "team_code": "USA",
+      "team": "USA",
+      "rank": 16,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/USA?gender=men"
+    },
+    {
+      "team_code": "PAR",
+      "team": "Paraguay",
+      "rank": 40,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men"
     }
   ]
 }
