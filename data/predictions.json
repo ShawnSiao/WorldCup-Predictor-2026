@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "snapshot_date": "2026-06-09",
+    "model": "ChatGPT 5.5 ultra-high reasoning",
+    "source_snapshot_at": "2026-06-09T00:00:00Z"
+  },
+  "predictions": [
+    {
+      "match_id": "001",
+      "prediction_file": "predictions/match-001-mex-rsa.md",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "MEX",
+      "predicted_score": "2-0",
+      "home_win_probability": 0.58,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.17,
+      "confidence": "medium",
+      "published_at": "2026-06-09T00:00:00Z",
+      "source_snapshot_at": "2026-06-09T00:00:00Z"
+    }
+  ]
+}

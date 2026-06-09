@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "snapshot_date": "2026-06-09",
+    "coverage": "squad publication status only; player-level records pending ingestion",
+    "official_player_count": 1248,
+    "tracked_player_count": 0,
+    "source_urls": [
+      "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    ],
+    "last_verified_at": "2026-06-09T00:00:00Z"
+  },
+  "players": []
+}

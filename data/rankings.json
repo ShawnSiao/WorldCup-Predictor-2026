@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "snapshot_date": "2026-06-09",
+    "coverage": "teams in the opening-match prediction",
+    "ranking_source": "FIFA/Coca-Cola Men's World Ranking",
+    "source_urls": [
+      "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men"
+    ],
+    "last_verified_at": "2026-06-09T00:00:00Z"
+  },
+  "rankings": [
+    {
+      "team_code": "MEX",
+      "team": "Mexico",
+      "rank": 16,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men"
+    },
+    {
+      "team_code": "RSA",
+      "team": "South Africa",
+      "rank": 60,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men"
+    }
+  ]
+}

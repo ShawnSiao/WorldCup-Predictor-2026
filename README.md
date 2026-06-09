@@ -2,45 +2,70 @@
 
 [English](README.md) | [简体中文](docs/README.zh-CN.md) | [Changelog](CHANGELOG.md)
 
-![Project status](https://img.shields.io/badge/status-planning-blue)
+![Project status](https://img.shields.io/badge/status-active%20tracking-1f883d)
 ![World Cup](https://img.shields.io/badge/world%20cup-2026-1f883d)
-![Languages](https://img.shields.io/badge/docs-EN%20%2F%20ZH--CN-0969da)
+![Reasoning](https://img.shields.io/badge/reasoning-ChatGPT%205.5-blue)
+![Docs](https://img.shields.io/badge/docs-EN%20%2F%20ZH--CN-0969da)
 
-Track the 2026 FIFA World Cup schedule, record match-by-match predictions, and compare those predictions with final results.
+Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and review every prediction after the final whistle.
 
-This repository is in the initial setup phase. The schedule data, prediction workflow, and result-tracking tools will be added in later commits.
+## Dashboard
+
+| Item | Status |
+| --- | --- |
+| Data snapshot | 2026-06-09 |
+| Tournament window | 2026-06-11 to 2026-07-19 |
+| Official match count | 104 |
+| Tracked matches in repository | 1 |
+| Predictions published | 1 |
+| Final results tracked | 0 |
+| Post-match reviews published | 0 |
+
+## Next Match
+
+| Match | Stage | Kickoff | Venue | Prediction |
+| --- | --- | --- | --- | --- |
+| Mexico vs South Africa | Group A | 2026-06-11 19:00 UTC | Mexico City Stadium | [Mexico win, 2-0](predictions/match-001-mex-rsa.md) |
+
+## Today
+
+No FIFA World Cup 2026 matches are scheduled for 2026-06-09.
 
 ## Reasoning Model
 
 All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model.
 
-## What This Project Tracks
+The repository publishes concise reasoning summaries only. It does not store hidden chain-of-thought or private reasoning traces.
 
-- Tournament schedule by group, round, venue, and kickoff time.
-- Match predictions including winner, scoreline, confidence, and notes.
-- Final results including score, winner, penalties when applicable, and prediction score.
-- Historical prediction records for later analysis.
+## How The Repository Works
 
-## Planned Data Model
+- `data/` stores structured schedule, team, venue, ranking, prediction, result, and review indexes.
+- `predictions/` stores immutable pre-match prediction files.
+- `reviews/` stores post-match reviews after official results are confirmed.
+- `reports/daily/` stores daily tracking reports.
+- `docs/` stores methodology, sources, and data schema documentation.
 
-| Entity | Purpose |
-| --- | --- |
-| `teams` | Qualified national teams and group assignments. |
-| `matches` | Kickoff time, venue, group or knockout round, teams, and score. |
-| `predictions` | Predicted winner, predicted scoreline, confidence, and notes. |
-| `results` | Final score, winner, penalties when applicable, and points awarded. |
+Each match moves through this lifecycle:
+
+```text
+scheduled -> predicted -> live -> final -> reviewed
+```
+
+## Current Artifacts
+
+- Latest prediction: [Match 001: Mexico vs South Africa](predictions/match-001-mex-rsa.md)
+- Latest daily report: [2026-06-09](reports/daily/2026-06-09.md)
+- Methodology: [Prediction and review methodology](docs/methodology.md)
+- Data schema: [Repository data schema](docs/data-schema.md)
+- Sources: [Source policy and current source list](docs/sources.md)
 
 ## Roadmap
 
-- [x] Create the repository and initial documentation.
+- [x] Create the repository and bilingual documentation.
 - [x] Document the prediction reasoning model.
-- [ ] Add structured schedule data.
-- [ ] Add prediction records for each match.
-- [ ] Add result comparison logic.
-- [ ] Add summary views for prediction accuracy.
-
-## Repository Status
-
-Current status: project scaffold.
-
-The repository does not yet contain the full 2026 FIFA World Cup schedule or prediction tooling.
+- [x] Add data, prediction, review, and report structure.
+- [x] Publish the first pre-match prediction.
+- [ ] Expand `data/matches.json` to the full 104-match official schedule.
+- [ ] Add full squad snapshots for all 48 teams.
+- [ ] Create daily updates during the tournament.
+- [ ] Publish post-match reviews after each final result.

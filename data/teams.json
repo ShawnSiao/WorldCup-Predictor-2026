@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "snapshot_date": "2026-06-09",
+    "coverage": "Group A teams needed for the opening-match snapshot",
+    "official_team_count": 48,
+    "tracked_team_count": 4,
+    "source_urls": [
+      "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums"
+    ],
+    "last_verified_at": "2026-06-09T00:00:00Z"
+  },
+  "teams": [
+    {
+      "team_code": "MEX",
+      "name": "Mexico",
+      "group": "A",
+      "confederation": "CONCACAF",
+      "role": "co-host"
+    },
+    {
+      "team_code": "RSA",
+      "name": "South Africa",
+      "group": "A",
+      "confederation": "CAF",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "KOR",
+      "name": "Korea Republic",
+      "group": "A",
+      "confederation": "AFC",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "CZE",
+      "name": "Czechia",
+      "group": "A",
+      "confederation": "UEFA",
+      "role": "qualified team"
+    }
+  ]
+}
