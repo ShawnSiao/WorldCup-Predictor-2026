@@ -3,6 +3,7 @@ from pathlib import Path
 
 
 REQUIRED_PATHS = [
+    "AGENTS.md",
     "README.md",
     "docs/README.zh-CN.md",
     "docs/methodology.md",
@@ -24,6 +25,15 @@ REQUIRED_PATHS = [
 
 MATCH_STATUSES = {"scheduled", "predicted", "live", "final", "reviewed"}
 REVIEW_RATINGS = {"correct", "partial", "wrong"}
+PREDICTION_REQUIRED_SECTIONS = [
+    "## Prediction",
+    "## Factual Basis",
+    "## Prediction Logic",
+    "## Risk Factors",
+    "## Platform Share Copy",
+    "## Disclaimer",
+    "## Source Snapshot",
+]
 
 
 def load_json(repo_root: Path, relative_path: str, errors: list[str]):
@@ -100,6 +110,15 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
         prediction_file = prediction.get("prediction_file")
         if not prediction_file or not (repo_root / prediction_file).exists():
             errors.append(f"Prediction file missing for match {match_id}: {prediction_file}")
+        else:
+            prediction_text = (repo_root / prediction_file).read_text(encoding="utf-8")
+            for section in PREDICTION_REQUIRED_SECTIONS:
+                if section not in prediction_text:
+                    errors.append(f"Prediction {match_id} missing required section: {section}")
+            if "investment advice" not in prediction_text.lower():
+                errors.append(f"Prediction {match_id} must include an investment advice disclaimer")
+            if "投资建议" not in prediction_text:
+                errors.append(f"Prediction {match_id} must include a Chinese investment advice disclaimer")
         probabilities = [
             prediction.get("home_win_probability"),
             prediction.get("draw_probability"),

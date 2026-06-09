@@ -22,6 +22,7 @@ Allowed values:
 
 | File | Purpose |
 | --- | --- |
+| `AGENTS.md` | AI working index and repository maintenance rules. |
 | `data/matches.json` | Canonical schedule and match lifecycle state. |
 | `data/teams.json` | Team metadata and group assignments. |
 | `data/venues.json` | Venue metadata. |

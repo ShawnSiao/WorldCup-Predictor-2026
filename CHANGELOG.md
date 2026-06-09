@@ -20,6 +20,8 @@ All notable changes to this project will be documented in this file.
 - Published the first pre-match prediction: Mexico vs South Africa.
 - Added daily report, methodology, source, and data schema documentation.
 - Added repository validation tests and script.
+- Added `AGENTS.md` as the AI working index.
+- Expanded the first prediction with factual basis, prediction logic, social-platform copy, and investment advice disclaimers.
 
 ### 新增
 
@@ -33,3 +35,5 @@ All notable changes to this project will be documented in this file.
 - 发布第一场赛前预测：Mexico vs South Africa。
 - 添加日报、方法、来源和数据结构说明。
 - 添加仓库校验测试和脚本。
+- 添加 `AGENTS.md` 作为 AI 工作索引。
+- 补充第一场预测的事实依据、推理逻辑、社媒发布文案和投资建议免责声明。

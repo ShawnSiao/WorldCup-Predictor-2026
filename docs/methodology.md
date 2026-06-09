@@ -30,10 +30,20 @@ Group-stage predictions include:
 - away win probability
 - predicted scoreline
 - confidence level
+- factual basis
+- prediction logic
 - reasoning summary
 - risk factors
+- platform share copy
+- investment advice disclaimer
 
 Knockout predictions should add advancement probability and separate regulation-time outcome from extra-time or penalty scenarios.
+
+## Publishing Copy
+
+Each prediction should include share-ready copy for Douyin, Xiaohongshu, Weibo, and WeChat.
+
+Platform copy should be concise, fact-based, and clearly labeled as a match prediction. It must include a disclaimer that the content does not constitute investment advice.
 
 ## Review Method
 
