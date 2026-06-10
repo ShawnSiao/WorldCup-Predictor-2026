@@ -1,6 +1,6 @@
 # Reviews
 
-[English](../README.md) | [简体中文](../docs/README.zh-CN.md) | [Changelog](../CHANGELOG.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [Changelog](../CHANGELOG.md)
 
 This directory stores post-match reviews. A review is created only after the official final result is verified.
 

@@ -13,6 +13,8 @@ image_file: "../assets/cards/match-004-usa-par.png"
 # Match 004: USA vs Paraguay
 
 [Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-10.md)
+[Dashboard](../README.md) | [简体中文](match-004-usa-par.zh-CN.md) | [Daily report](../reports/daily/2026-06-10.md)
+
 
 ## Share Image
 
@@ -21,7 +23,7 @@ image_file: "../assets/cards/match-004-usa-par.png"
 Image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，USA vs Paraguay，世界杯小组赛氛围，足球场、美国与巴拉圭配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“美国 vs 巴拉圭”，副标题可保留英文“USA vs Paraguay”，世界杯小组赛氛围，足球场、球队配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
 ```
 
 ## Prediction
@@ -60,6 +62,36 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，USA vs Par
 - A transition goal or set piece could quickly change the match state.
 - Final lineup and injury information remain a data gap.
 - If the USA chase the game late, Paraguay's counterattacking value rises.
+- Ranking snapshot: USA are recorded as FIFA rank 16, while Paraguay are recorded as FIFA rank 40 in the current repository snapshot.
+- Data gap: this snapshot does not yet include confirmed lineups, injuries, player-level records, bookmaker odds, or verified expert consensus.
+
+## Prediction Coverage Checklist
+
+| Dimension | Snapshot status | Confidence impact |
+| --- | --- | --- |
+| Tactics | Covered from likely game script and USA home context, ranking edge, and Paraguay defensive-block transition risk. | Supports the lean but exact tactical plans are unconfirmed. |
+| Players | Covered at team-strength level through rankings and squad publication status. | Player-level uncertainty limits confidence. |
+| Injuries / suspensions | Not confirmed in this repository snapshot. | Missing availability data reduces certainty. |
+| Schedule / rest / travel | Covered through kickoff, venue, and opening-window context. | Supports schedule-aware risk assessment. |
+| History | Limited to group-opener and venue-context patterns in this snapshot. | Context only, not decisive evidence. |
+| Public sentiment | Not yet verified from reputable current sources. | Not used as a confirmed signal. |
+| Weather / venue conditions | Venue context covered; matchday weather not yet verified. | Weather remains a watch item before kickoff. |
+| Psychology | Covered through opener pressure and group-stage incentive context. | Raises variance. |
+| Odds movement | Not included because reputable odds snapshots are not yet stored. | Market confirmation is unavailable. |
+| Expert views | Not included because expert-source snapshots are not yet stored. | Expert consensus is unavailable. |
+
+## Prediction Logic
+
+1. **Baseline strength sets the starting point.** The FIFA ranking snapshot and venue context define the initial edge.
+2. **Opening-window caution matters.** Early group matches often reward risk control, so probabilities avoid overconfidence.
+3. **The underdog route is credible.** Compact defending, set pieces, or transition attacks can change the match state.
+4. **Scoreline call follows the expected script.** The forecast balances the favorite's territory or ranking edge against low-margin tournament variance.
+
+## Risk Factors
+
+- Final lineups and injury information are not yet reflected at player level.
+- A set piece, early goal, red card, or goalkeeper error could materially change the match state.
+- If the favored side fails to score first, draw probability rises.
 
 ## Platform Share Copy
 
@@ -85,6 +117,19 @@ Group D 预测：USA 2-1 Paraguay。USA 主场和排名占优，但 Paraguay 的
 USA 对 Paraguay 的预测是 USA 2-1。当前判断来自官方赛程、Los Angeles Stadium 的主场环境，以及 FIFA 排名快照中 USA 高于 Paraguay 的事实。
 
 这场的关键在于 USA 能否把主场优势转化成稳定机会。Paraguay 如果用防守阵型压低空间，并在转换中取得领先，比赛会明显偏向胶着。仅为足球赛事预测，不构成任何投资建议。
+世界杯 Group D 预测：USA vs Paraguay。我倾向 USA 2-1 Paraguay。判断依据包括官方赛程、场地、排名快照和主要风险路径。仅为足球赛事预测，不构成任何投资建议。
+
+### Xiaohongshu / 小红书
+
+USA vs Paraguay 赛前预测：USA 2-1 Paraguay。我会把战术、球员、伤病、赛程、历史、舆情、天气、心理、赔率和专家观点都作为检查维度；当前缺口会降低信心等级。仅为足球赛事预测，不构成任何投资建议。
+
+### Weibo / 微博
+
+Group D 预测：USA 2-1 Paraguay。依据是官方赛程、排名快照、场地环境和比赛风险。仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
+
+### WeChat / 微信
+
+USA vs Paraguay 的预测是 USA 2-1 Paraguay。当前判断来自官方赛程、场地、FIFA 排名快照和小组赛首轮风险控制。仅为足球赛事预测，不构成任何投资建议。
 
 ## Disclaimer
 

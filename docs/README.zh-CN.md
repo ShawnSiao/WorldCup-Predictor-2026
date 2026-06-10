@@ -40,6 +40,29 @@
 
 [![USA vs Paraguay prediction card](../assets/cards/match-004-usa-par.png)](../predictions/match-004-usa-par.md)
 
+| 墨西哥 vs 南非 | A 组 | 2026-06-11 19:00 UTC | 墨西哥城体育场 | [墨西哥胜，2-0](../predictions/match-001-mex-rsa.zh-CN.md) / [English](../predictions/match-001-mex-rsa.md) |
+
+## 重点预测配图
+
+[![墨西哥 vs 南非预测配图](../assets/cards/match-001-mex-rsa.png)](../predictions/match-001-mex-rsa.zh-CN.md)
+
+分享图片：[`assets/cards/match-001-mex-rsa.png`](../assets/cards/match-001-mex-rsa.png)
+
+| 墨西哥 vs 南非 | A 组 | 2026-06-11 19:00 UTC | 墨西哥城体育场 | [墨西哥胜，2-0](../predictions/match-001-mex-rsa.zh-CN.md) / [English](../predictions/match-001-mex-rsa.md) |
+| 韩国 vs 捷克 | A 组 | 2026-06-12 02:00 UTC | Estadio Guadalajara | [平局，1-1](../predictions/match-002-kor-cze.zh-CN.md) / [English](../predictions/match-002-kor-cze.md) |
+| 加拿大 vs 波黑 | B 组 | 2026-06-12 19:00 UTC | Toronto Stadium | [加拿大胜，2-1](../predictions/match-003-can-bih.zh-CN.md) / [English](../predictions/match-003-can-bih.md) |
+| 美国 vs 巴拉圭 | D 组 | 2026-06-13 01:00 UTC | Los Angeles Stadium | [美国胜，2-1](../predictions/match-004-usa-par.zh-CN.md) / [English](../predictions/match-004-usa-par.md) |
+
+## 预测配图
+
+[![墨西哥 vs 南非预测配图](../assets/cards/match-001-mex-rsa.png)](../predictions/match-001-mex-rsa.zh-CN.md)
+[![韩国 vs 捷克预测配图](../assets/cards/match-002-kor-cze.png)](../predictions/match-002-kor-cze.zh-CN.md)
+[![加拿大 vs 波黑预测配图](../assets/cards/match-003-can-bih.png)](../predictions/match-003-can-bih.zh-CN.md)
+[![美国 vs 巴拉圭预测配图](../assets/cards/match-004-usa-par.png)](../predictions/match-004-usa-par.zh-CN.md)
+
+分享图片目录：[`assets/cards/`](../assets/cards/)
+
+
 ## 今日赛程
 
 2026-06-10 没有 FIFA World Cup 2026 比赛。
@@ -49,6 +72,10 @@
 所有预测推理均指定使用 ChatGPT 5.5 超高推理模型。
 
 仓库只公开简明推理摘要，不保存隐藏推理链或私有推理过程。
+
+## 平台说明文案
+
+世界杯期间，社交平台发布内容会说明账号使用 ChatGPT 最高推理模型逐场预测比赛，包括胜平负倾向、预测比分、信心等级和关键风险。可直接发布的简体中文和英文文案维护在[平台发布文案](platform-copy.zh-CN.md)。
 
 ## 仓库结构
 
@@ -68,9 +95,23 @@ scheduled -> predicted -> live -> final -> reviewed
 
 - 最新预测：[Match 004: USA vs Paraguay](../predictions/match-004-usa-par.md)
 - 最新日报：[2026-06-10](../reports/daily/2026-06-10.md)
+- 最新预测：[第 001 场：墨西哥 vs 南非](../predictions/match-001-mex-rsa.zh-CN.md) / [English](../predictions/match-001-mex-rsa.md)
+- 最新日报：[2026-06-09](../reports/daily/2026-06-09.zh-CN.md) / [English](../reports/daily/2026-06-09.md)
+- 最新预测：[第 001 场：墨西哥 vs 南非](../predictions/match-001-mex-rsa.zh-CN.md) / [English](../predictions/match-001-mex-rsa.md)
+- 最新日报：[2026-06-09](../reports/daily/2026-06-09.zh-CN.md) / [English](../reports/daily/2026-06-09.md)
+- 最新预测：[第 001 场：墨西哥 vs 南非](../predictions/match-001-mex-rsa.zh-CN.md) / [English](../predictions/match-001-mex-rsa.md)
+- 最新日报：[2026-06-09](../reports/daily/2026-06-09.zh-CN.md) / [English](../reports/daily/2026-06-09.md)
+- 最新预测：[第 001 场：墨西哥 vs 南非](../predictions/match-001-mex-rsa.zh-CN.md) / [English](../predictions/match-001-mex-rsa.md)
+- 最新日报：[2026-06-09](../reports/daily/2026-06-09.zh-CN.md) / [English](../reports/daily/2026-06-09.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md)
-- 数据结构：[Repository data schema](data-schema.md)
-- 来源说明：[Source policy and current source list](sources.md)
+- 最新预测：[第 004 场：美国 vs 巴拉圭](../predictions/match-004-usa-par.zh-CN.md) / [English](../predictions/match-004-usa-par.md)
+- 最新日报：[2026-06-10](../reports/daily/2026-06-10.zh-CN.md) / [English](../reports/daily/2026-06-10.md)
+- 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
+- 最新预测：[第 004 场：美国 vs 巴拉圭](../predictions/match-004-usa-par.zh-CN.md) / [English](../predictions/match-004-usa-par.md)
+- 最新日报：[2026-06-10](../reports/daily/2026-06-10.zh-CN.md) / [English](../reports/daily/2026-06-10.md)
+- 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
+- 数据结构：[数据结构](data-schema.zh-CN.md) / [English](data-schema.md)
+- 来源说明：[来源政策与当前来源列表](sources.zh-CN.md) / [English](sources.md)
 
 ## 路线图
 

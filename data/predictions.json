@@ -8,6 +8,7 @@
     {
       "match_id": "001",
       "prediction_file": "predictions/match-001-mex-rsa.md",
+      "prediction_file_zh": "predictions/match-001-mex-rsa.zh-CN.md",
       "image_file": "assets/cards/match-001-mex-rsa.png",
       "model": "ChatGPT 5.5 ultra-high reasoning",
       "predicted_outcome": "home_win",
@@ -24,6 +25,7 @@
     {
       "match_id": "002",
       "prediction_file": "predictions/match-002-kor-cze.md",
+      "prediction_file_zh": "predictions/match-002-kor-cze.zh-CN.md",
       "image_file": "assets/cards/match-002-kor-cze.png",
       "model": "ChatGPT 5.5 ultra-high reasoning",
       "predicted_outcome": "draw",
@@ -39,6 +41,7 @@
     {
       "match_id": "003",
       "prediction_file": "predictions/match-003-can-bih.md",
+      "prediction_file_zh": "predictions/match-003-can-bih.zh-CN.md",
       "image_file": "assets/cards/match-003-can-bih.png",
       "model": "ChatGPT 5.5 ultra-high reasoning",
       "predicted_outcome": "home_win",
@@ -54,6 +57,7 @@
     {
       "match_id": "004",
       "prediction_file": "predictions/match-004-usa-par.md",
+      "prediction_file_zh": "predictions/match-004-usa-par.zh-CN.md",
       "image_file": "assets/cards/match-004-usa-par.png",
       "model": "ChatGPT 5.5 ultra-high reasoning",
       "predicted_outcome": "home_win",

@@ -14,6 +14,12 @@ image_file: "../assets/cards/match-001-mex-rsa.png"
 # Match 001: Mexico vs South Africa
 
 [Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-10.md)
+[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
+[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
+[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
+[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
+[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-10.md)
+[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-10.md)
 
 ## Share Image
 
@@ -22,7 +28,7 @@ image_file: "../assets/cards/match-001-mex-rsa.png"
 Image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，Mexico vs South Africa，世界杯揭幕战氛围，足球场、墨西哥与南非配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“墨西哥 vs 南非”，副标题可保留英文“Mexico vs South Africa”，世界杯揭幕战氛围，足球场、墨西哥与南非配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
 ```
 
 ## Prediction
@@ -46,6 +52,23 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，Mexico vs 
 - Ranking snapshot: Mexico are recorded as FIFA rank 16, while South Africa are recorded as FIFA rank 60 in the current repository snapshot.
 - Host context: Mexico are co-hosts and play this match in Mexico City.
 - Data gap: this snapshot does not yet include full player-level squad records, confirmed lineups, injuries, or bookmaker odds.
+
+## Prediction Coverage Checklist
+
+| Dimension | Snapshot status | Confidence impact |
+| --- | --- | --- |
+| Tactics | Covered from likely game script: Mexico pressure versus South Africa defensive block and transition threat. | Supports Mexico edge, but exact tactical plans are unconfirmed. |
+| Players | Covered only at team-strength level through ranking and host context. | Player-level uncertainty keeps confidence at medium. |
+| Players | Covered at team-strength level through rankings, host context, and squad publication status. | Player-level uncertainty keeps confidence at medium. |
+| Players | Covered at team-strength level through rankings, host context, and squad publication status. | Player-level uncertainty keeps confidence at medium. |
+| Injuries / suspensions | Not confirmed in this repository snapshot. | Missing availability data reduces certainty. |
+| Schedule / rest / travel | Covered through opening-match timing and Mexico City home context. | Supports Mexico, while opener pressure adds variance. |
+| History | Limited to tournament-opener and host-context patterns in this snapshot. | Useful as context, not decisive evidence. |
+| Public sentiment | Not yet verified from reputable current sources. | Not used as a confirmed signal. |
+| Weather / venue conditions | Venue and city context covered; matchday weather not yet verified. | Weather remains a watch item before kickoff. |
+| Psychology | Covered through host opener pressure and South Africa upset route. | Raises variance despite Mexico's baseline edge. |
+| Odds movement | Not included because reputable odds snapshots are not yet stored. | Market confirmation is unavailable. |
+| Expert views | Not included because expert-source snapshots are not yet stored. | Expert consensus is unavailable. |
 
 ## Prediction Logic
 

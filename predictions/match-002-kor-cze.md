@@ -14,6 +14,8 @@ image_file: "../assets/cards/match-002-kor-cze.png"
 
 [Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-10.md)
 
+[Dashboard](../README.md) | [简体中文](match-002-kor-cze.zh-CN.md) | [Daily report](../reports/daily/2026-06-10.md)
+
 ## Share Image
 
 ![Korea Republic vs Czechia prediction card](../assets/cards/match-002-kor-cze.png)
@@ -21,7 +23,7 @@ image_file: "../assets/cards/match-002-kor-cze.png"
 Image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，Korea Republic vs Czechia，世界杯小组赛氛围，足球场、韩国与捷克配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“韩国 vs 捷克”，副标题可保留英文“Korea Republic vs Czechia”，世界杯小组赛氛围，足球场、球队配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
 ```
 
 ## Prediction
@@ -61,6 +63,37 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，Korea Repu
 - The travel and climate adjustment in Guadalajara could affect tempo.
 - If either team scores early, the draw probability falls quickly.
 
+- Ranking snapshot: Korea Republic are recorded as FIFA rank 25, while Czechia are recorded as FIFA rank 43 in the current repository snapshot.
+- Data gap: this snapshot does not yet include confirmed lineups, injuries, player-level records, bookmaker odds, or verified expert consensus.
+
+## Prediction Coverage Checklist
+
+| Dimension | Snapshot status | Confidence impact |
+| --- | --- | --- |
+| Tactics | Covered from likely game script and ranking edge for Korea Republic, Czechia set-piece and midfield resistance, and neutral-venue opener caution. | Supports the lean but exact tactical plans are unconfirmed. |
+| Players | Covered at team-strength level through rankings and squad publication status. | Player-level uncertainty limits confidence. |
+| Injuries / suspensions | Not confirmed in this repository snapshot. | Missing availability data reduces certainty. |
+| Schedule / rest / travel | Covered through kickoff, venue, and opening-window context. | Supports schedule-aware risk assessment. |
+| History | Limited to group-opener and venue-context patterns in this snapshot. | Context only, not decisive evidence. |
+| Public sentiment | Not yet verified from reputable current sources. | Not used as a confirmed signal. |
+| Weather / venue conditions | Venue context covered; matchday weather not yet verified. | Weather remains a watch item before kickoff. |
+| Psychology | Covered through opener pressure and group-stage incentive context. | Raises variance. |
+| Odds movement | Not included because reputable odds snapshots are not yet stored. | Market confirmation is unavailable. |
+| Expert views | Not included because expert-source snapshots are not yet stored. | Expert consensus is unavailable. |
+
+## Prediction Logic
+
+1. **Baseline strength sets the starting point.** The FIFA ranking snapshot and venue context define the initial edge.
+2. **Opening-window caution matters.** Early group matches often reward risk control, so probabilities avoid overconfidence.
+3. **The underdog route is credible.** Compact defending, set pieces, or transition attacks can change the match state.
+4. **Scoreline call follows the expected script.** The forecast balances the favorite's territory or ranking edge against low-margin tournament variance.
+
+## Risk Factors
+
+- Final lineups and injury information are not yet reflected at player level.
+- A set piece, early goal, red card, or goalkeeper error could materially change the match state.
+- If the favored side fails to score first, draw probability rises.
+
 ## Platform Share Copy
 
 ### Douyin / 抖音
@@ -86,6 +119,21 @@ Korea Republic 对 Czechia 的预测是 1-1。当前依据包括官方赛程、E
 
 这不是强倾向判断。Czechia 的定位球和防守组织会抬高平局概率，而 Korea Republic 的优势更可能体现在转换速度和局部推进。仅为足球赛事预测，不构成任何投资建议。
 
+世界杯 Group A 预测：Korea Republic vs Czechia。我倾向 Korea Republic 1-1 Czechia。判断依据包括官方赛程、场地、排名快照和主要风险路径。仅为足球赛事预测，不构成任何投资建议。
+
+### Xiaohongshu / 小红书
+
+Korea Republic vs Czechia 赛前预测：Korea Republic 1-1 Czechia。我会把战术、球员、伤病、赛程、历史、舆情、天气、心理、赔率和专家观点都作为检查维度；当前缺口会降低信心等级。仅为足球赛事预测，不构成任何投资建议。
+
+### Weibo / 微博
+
+Group A 预测：Korea Republic 1-1 Czechia。依据是官方赛程、排名快照、场地环境和比赛风险。仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
+
+### WeChat / 微信
+
+Korea Republic vs Czechia 的预测是 Korea Republic 1-1 Czechia。当前判断来自官方赛程、场地、FIFA 排名快照和小组赛首轮风险控制。仅为足球赛事预测，不构成任何投资建议。
+
+
 ## Disclaimer
 
 This is a football match prediction only. It does not constitute investment advice, betting advice, financial advice, or any guarantee of outcome.
@@ -95,6 +143,9 @@ This is a football match prediction only. It does not constitute investment advi
 ## Source Snapshot
 
 - FIFA schedule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
+
+- FIFA updated schedule release: https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches
+
 - FIFA match schedule PDF: https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
 - FIFA Korea Republic ranking page: https://inside.fifa.com/fifa-world-ranking/KOR?gender=men
 - FIFA Czechia ranking page: https://inside.fifa.com/fifa-world-ranking/CZE?gender=men

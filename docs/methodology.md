@@ -10,16 +10,20 @@ The repository publishes concise reasoning summaries. It does not store hidden c
 
 ## Prediction Inputs
 
-Each pre-match prediction should consider:
+Each pre-match prediction must complete a pre-result coverage pass before publishing the outcome. The pass covers:
 
-- official schedule, kickoff time, venue, and travel context
-- FIFA ranking and ranking movement
-- squad strength and player availability
-- expected lineup and tactical matchup
-- recent international form
-- climate, rest days, and travel load
-- group-state or knockout incentive context
-- market odds only when the source is reputable and clearly labeled
+- tactics and expected tactical matchup
+- players, squad strength, and likely lineup quality
+- injuries, suspensions, and player availability
+- schedule, rest days, travel load, kickoff time, and venue context
+- head-to-head record, tournament history, and relevant historical patterns
+- public sentiment, media narrative, and crowd expectation
+- weather, climate, pitch, altitude, and venue conditions
+- psychology, pressure, motivation, and group/knockout incentives
+- reputable market odds and odds movement, clearly labeled as market context
+- expert views from reputable analysts or official broadcast/editorial sources
+
+If an input is unavailable, stale, or unverified, the prediction must label the gap, explain how it affects confidence, and avoid using the missing item as confirmed evidence.
 
 ## Prediction Output
 
@@ -32,6 +36,7 @@ Group-stage predictions include:
 - confidence level
 - share image
 - factual basis
+- prediction coverage checklist
 - prediction logic
 - reasoning summary
 - risk factors
@@ -44,12 +49,12 @@ Knockout predictions should add advancement probability and separate regulation-
 
 Each prediction should include share-ready copy for Douyin, Xiaohongshu, Weibo, and WeChat.
 
-Platform copy should be concise, fact-based, and clearly labeled as a match prediction. It must include a disclaimer that the content does not constitute investment advice.
+Platform copy should be concise, fact-based, and clearly labeled as a match prediction. It must include a disclaimer that the content does not constitute investment advice. Standing account-introduction copy for each platform is maintained in [Platform Publishing Copy](platform-copy.md).
 
 Each prediction and daily report should embed a `$imagegen` generated raster share image from `assets/cards/`. Use this instruction pattern:
 
 ```text
-$imagegen: Generate a social-platform match prediction image, 16:9 landscape, real raster image for Douyin, Xiaohongshu, Weibo, and WeChat sharing; do not generate SVG, HTML, code art, wireframes, chart-only graphics, official FIFA logos, or watermarks.
+$imagegen: Generate a social-platform match prediction image, 16:9 landscape, real raster image for Douyin, Xiaohongshu, Weibo, and WeChat sharing. For Simplified Chinese documents, make the primary match information Simplified Chinese and keep any English team or event text only as secondary text in an appropriate location; do not generate SVG, HTML, code art, wireframes, chart-only graphics, official FIFA logos, or watermarks.
 ```
 
 Daily automation should read the current connected Gmail profile email address, then email the validated daily summary and generated image assets to that Google mailbox. Git config email addresses and GitHub account emails must not be used as recipients.

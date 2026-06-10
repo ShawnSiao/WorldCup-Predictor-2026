@@ -1,6 +1,6 @@
 # Sources
 
-[English](../README.md) | [简体中文](README.zh-CN.md) | [Changelog](../CHANGELOG.md)
+[English](sources.md) | [简体中文](sources.zh-CN.md) | [Changelog](../CHANGELOG.md)
 
 ## Source Policy
 

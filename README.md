@@ -25,16 +25,19 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Mexico vs South Africa | Group A | 2026-06-11 19:00 UTC | Mexico City Stadium | [Mexico win, 2-0](predictions/match-001-mex-rsa.md) |
-| Korea Republic vs Czechia | Group A | 2026-06-12 02:00 UTC | Estadio Guadalajara | [Draw, 1-1](predictions/match-002-kor-cze.md) |
-| Canada vs Bosnia and Herzegovina | Group B | 2026-06-12 19:00 UTC | Toronto Stadium | [Canada win, 2-1](predictions/match-003-can-bih.md) |
-| USA vs Paraguay | Group D | 2026-06-13 01:00 UTC | Los Angeles Stadium | [USA win, 2-1](predictions/match-004-usa-par.md) |
+| Mexico vs South Africa | Group A | 2026-06-11 19:00 UTC | Mexico City Stadium | [Mexico win, 2-0](predictions/match-001-mex-rsa.md) / [简体中文](predictions/match-001-mex-rsa.zh-CN.md) |
+| Korea Republic vs Czechia | Group A | 2026-06-12 02:00 UTC | Estadio Guadalajara | [Draw, 1-1](predictions/match-002-kor-cze.md) / [简体中文](predictions/match-002-kor-cze.zh-CN.md) |
+| Canada vs Bosnia and Herzegovina | Group B | 2026-06-12 19:00 UTC | Toronto Stadium | [Canada win, 2-1](predictions/match-003-can-bih.md) / [简体中文](predictions/match-003-can-bih.zh-CN.md) |
+| USA vs Paraguay | Group D | 2026-06-13 01:00 UTC | Los Angeles Stadium | [USA win, 2-1](predictions/match-004-usa-par.md) / [简体中文](predictions/match-004-usa-par.zh-CN.md) |
 
-## Featured Prediction Card
+## Featured Prediction Cards
 
 [![Mexico vs South Africa prediction card](assets/cards/match-001-mex-rsa.png)](predictions/match-001-mex-rsa.md)
+[![Korea Republic vs Czechia prediction card](assets/cards/match-002-kor-cze.png)](predictions/match-002-kor-cze.md)
+[![Canada vs Bosnia and Herzegovina prediction card](assets/cards/match-003-can-bih.png)](predictions/match-003-can-bih.md)
+[![USA vs Paraguay prediction card](assets/cards/match-004-usa-par.png)](predictions/match-004-usa-par.md)
 
-Share image: [`assets/cards/match-001-mex-rsa.png`](assets/cards/match-001-mex-rsa.png)
+Share images live under [`assets/cards/`](assets/cards/).
 
 ## Today
 
@@ -45,6 +48,10 @@ No FIFA World Cup 2026 matches are scheduled for 2026-06-10.
 All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model.
 
 The repository publishes concise reasoning summaries only. It does not store hidden chain-of-thought or private reasoning traces.
+
+## Platform Announcement Copy
+
+During the World Cup, social-platform posts will explain that the account uses ChatGPT's highest reasoning model for match-by-match football predictions, including outcome lean, projected scoreline, confidence, and key risks. Ready-to-publish English and Simplified Chinese copy is maintained in [Platform Publishing Copy](docs/platform-copy.md).
 
 ## How The Repository Works
 
@@ -64,9 +71,26 @@ scheduled -> predicted -> live -> final -> reviewed
 
 - Latest prediction: [Match 004: USA vs Paraguay](predictions/match-004-usa-par.md)
 - Latest daily report: [2026-06-10](reports/daily/2026-06-10.md)
+- Latest prediction: [Match 001: Mexico vs South Africa](predictions/match-001-mex-rsa.md) / [简体中文](predictions/match-001-mex-rsa.zh-CN.md)
+- Latest daily report: [2026-06-09](reports/daily/2026-06-09.md) / [简体中文](reports/daily/2026-06-09.zh-CN.md)
+
+- Latest prediction: [Match 001: Mexico vs South Africa](predictions/match-001-mex-rsa.md) / [简体中文](predictions/match-001-mex-rsa.zh-CN.md)
+- Latest daily report: [2026-06-09](reports/daily/2026-06-09.md) / [简体中文](reports/daily/2026-06-09.zh-CN.md)
+
+- Latest prediction: [Match 001: Mexico vs South Africa](predictions/match-001-mex-rsa.md) / [简体中文](predictions/match-001-mex-rsa.zh-CN.md)
+- Latest daily report: [2026-06-09](reports/daily/2026-06-09.md) / [简体中文](reports/daily/2026-06-09.zh-CN.md)
+
+- Latest prediction: [Match 001: Mexico vs South Africa](predictions/match-001-mex-rsa.md) / [简体中文](predictions/match-001-mex-rsa.zh-CN.md)
+- Latest daily report: [2026-06-09](reports/daily/2026-06-09.md) / [简体中文](reports/daily/2026-06-09.zh-CN.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md)
-- Data schema: [Repository data schema](docs/data-schema.md)
-- Sources: [Source policy and current source list](docs/sources.md)
+- Latest prediction: [Match 004: USA vs Paraguay](predictions/match-004-usa-par.md) / [简体中文](predictions/match-004-usa-par.zh-CN.md)
+- Latest daily report: [2026-06-10](reports/daily/2026-06-10.md) / [简体中文](reports/daily/2026-06-10.zh-CN.md)
+- Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
+- Latest prediction: [Match 004: USA vs Paraguay](predictions/match-004-usa-par.md) / [简体中文](predictions/match-004-usa-par.zh-CN.md)
+- Latest daily report: [2026-06-10](reports/daily/2026-06-10.md) / [简体中文](reports/daily/2026-06-10.zh-CN.md)
+- Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
+- Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)
+- Sources: [Source policy and current source list](docs/sources.md) / [简体中文](docs/sources.zh-CN.md)
 
 ## Roadmap
 

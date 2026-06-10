@@ -6,11 +6,16 @@ REQUIRED_PATHS = [
     "AGENTS.md",
     "README.md",
     "assets/cards/README.md",
+    "assets/cards/README.zh-CN.md",
     "docs/README.zh-CN.md",
     "docs/methodology.md",
     "docs/methodology.zh-CN.md",
+    "docs/platform-copy.md",
+    "docs/platform-copy.zh-CN.md",
     "docs/sources.md",
+    "docs/sources.zh-CN.md",
     "docs/data-schema.md",
+    "docs/data-schema.zh-CN.md",
     "data/matches.json",
     "data/teams.json",
     "data/venues.json",
@@ -20,8 +25,11 @@ REQUIRED_PATHS = [
     "data/results.json",
     "data/review-index.json",
     "predictions/README.md",
+    "predictions/README.zh-CN.md",
     "reviews/README.md",
+    "reviews/README.zh-CN.md",
     "reports/daily/README.md",
+    "reports/daily/README.zh-CN.md",
 ]
 
 MATCH_STATUSES = {"scheduled", "predicted", "live", "final", "reviewed"}
@@ -31,11 +39,22 @@ PREDICTION_REQUIRED_SECTIONS = [
     "## Prediction",
     "## Share Image",
     "## Factual Basis",
+    "## Prediction Coverage Checklist",
     "## Prediction Logic",
     "## Risk Factors",
     "## Platform Share Copy",
     "## Disclaimer",
     "## Source Snapshot",
+]
+
+BILINGUAL_DOCUMENT_PAIRS = [
+    ("docs/data-schema.md", "docs/data-schema.zh-CN.md"),
+    ("docs/sources.md", "docs/sources.zh-CN.md"),
+    ("docs/platform-copy.md", "docs/platform-copy.zh-CN.md"),
+    ("assets/cards/README.md", "assets/cards/README.zh-CN.md"),
+    ("predictions/README.md", "predictions/README.zh-CN.md"),
+    ("reports/daily/README.md", "reports/daily/README.zh-CN.md"),
+    ("reviews/README.md", "reviews/README.zh-CN.md"),
 ]
 
 
@@ -54,6 +73,14 @@ def validate_required_paths(repo_root: Path, errors: list[str]) -> None:
     for relative_path in REQUIRED_PATHS:
         if not (repo_root / relative_path).exists():
             errors.append(f"Missing required path: {relative_path}")
+
+
+def validate_bilingual_document_pairs(repo_root: Path, errors: list[str]) -> None:
+    for english_path, chinese_path in BILINGUAL_DOCUMENT_PAIRS:
+        if not (repo_root / english_path).exists():
+            errors.append(f"Missing English document: {english_path}")
+        if not (repo_root / chinese_path).exists():
+            errors.append(f"Missing Simplified Chinese document: {chinese_path}")
 
 
 def has_valid_raster_header(path: Path) -> bool:
@@ -123,6 +150,7 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
         if match_id not in match_ids:
             errors.append(f"Prediction references unknown match_id: {match_id}")
         prediction_file = prediction.get("prediction_file")
+        prediction_file_zh = prediction.get("prediction_file_zh")
         image_file = prediction.get("image_file")
         if not prediction_file or not (repo_root / prediction_file).exists():
             errors.append(f"Prediction file missing for match {match_id}: {prediction_file}")
@@ -137,6 +165,16 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
                 errors.append(f"Prediction {match_id} must include a Chinese investment advice disclaimer")
             if image_file and image_file not in prediction_text:
                 errors.append(f"Prediction {match_id} must embed image file: {image_file}")
+        if not prediction_file_zh or not (repo_root / prediction_file_zh).exists():
+            errors.append(f"Prediction {match_id} missing Simplified Chinese prediction file: {prediction_file_zh}")
+        elif image_file:
+            prediction_text_zh = (repo_root / prediction_file_zh).read_text(encoding="utf-8")
+            if image_file not in prediction_text_zh:
+                errors.append(f"Chinese prediction {match_id} must embed image file: {image_file}")
+            if "## 预测覆盖检查" not in prediction_text_zh:
+                errors.append(f"Chinese prediction {match_id} missing required section: ## 预测覆盖检查")
+            if "投资建议" not in prediction_text_zh:
+                errors.append(f"Chinese prediction {match_id} must include a Chinese investment advice disclaimer")
         if not image_file:
             errors.append(f"Prediction {match_id} must include image_file")
         elif not image_file.startswith("assets/cards/"):
@@ -156,6 +194,11 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
                     daily_report_text = daily_report.read_text(encoding="utf-8")
                     if image_file not in daily_report_text:
                         errors.append(f"Daily report {report_date} must embed image file: {image_file}")
+                    daily_report_zh = repo_root / "reports" / "daily" / f"{report_date}.zh-CN.md"
+                    if not daily_report_zh.exists():
+                        errors.append(f"Daily report {report_date} missing Simplified Chinese file")
+                    elif image_file not in daily_report_zh.read_text(encoding="utf-8"):
+                        errors.append(f"Chinese daily report {report_date} must embed image file: {image_file}")
         probabilities = [
             prediction.get("home_win_probability"),
             prediction.get("draw_probability"),
@@ -191,8 +234,12 @@ def validate_reviews(repo_root: Path, match_ids: set[str], errors: list[str]) ->
 
 def validate_share_image_policy(repo_root: Path, errors: list[str]) -> None:
     agent_index = repo_root / "AGENTS.md"
-    if agent_index.exists() and "$imagegen" not in agent_index.read_text(encoding="utf-8"):
-        errors.append("AGENTS.md must require $imagegen for prediction share images")
+    if agent_index.exists():
+        agent_text = agent_index.read_text(encoding="utf-8")
+        if "$imagegen" not in agent_text:
+            errors.append("AGENTS.md must require $imagegen for prediction share images")
+        if "简体中文" not in agent_text:
+            errors.append("AGENTS.md must require Simplified Chinese match information for Chinese prediction images")
 
     generator_script = repo_root / "scripts" / "generate_prediction_card.py"
     if generator_script.exists():
@@ -208,6 +255,7 @@ def validate_share_image_policy(repo_root: Path, errors: list[str]) -> None:
 def validate_repository(repo_root: Path) -> list[str]:
     errors: list[str] = []
     validate_required_paths(repo_root, errors)
+    validate_bilingual_document_pairs(repo_root, errors)
     validate_share_image_policy(repo_root, errors)
     match_ids = validate_matches(repo_root, errors)
     validate_predictions(repo_root, match_ids, errors)

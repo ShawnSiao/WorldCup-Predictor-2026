@@ -1,6 +1,6 @@
 # Data Schema
 
-[English](../README.md) | [简体中文](README.zh-CN.md) | [Changelog](../CHANGELOG.md)
+[English](data-schema.md) | [简体中文](data-schema.zh-CN.md) | [Changelog](../CHANGELOG.md)
 
 ## Match Status
 
@@ -29,7 +29,7 @@ Allowed values:
 | `data/venues.json` | Venue metadata. |
 | `data/players.json` | Player-level squad data. |
 | `data/rankings.json` | FIFA ranking snapshots. |
-| `data/predictions.json` | Index of prediction files and prediction summaries. |
+| `data/predictions.json` | Index of prediction files and prediction summaries. Generated predictions should maintain both English and Simplified Chinese files. |
 | `data/results.json` | Official final result records. |
 | `data/review-index.json` | Index of post-match review files. |
 
