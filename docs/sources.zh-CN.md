@@ -19,10 +19,6 @@
 | 主题 | 来源 | URL |
 | --- | --- | --- |
 | 赛程、比赛、场馆、赛果 | FIFA | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums |
-| 球队名单确认 | FIFA | https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed |
-| 墨西哥排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/MEX?gender=men |
-| 南非排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/RSA?gender=men |
-
 | 更新时间表公告 | FIFA | https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches |
 | 赛程 PDF | FIFA | https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf |
 | 球队名单确认 | FIFA | https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed |

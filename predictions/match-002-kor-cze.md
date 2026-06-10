@@ -12,8 +12,6 @@ image_file: "../assets/cards/match-002-kor-cze.png"
 
 # Match 002: Korea Republic vs Czechia
 
-[Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-10.md)
-
 [Dashboard](../README.md) | [简体中文](match-002-kor-cze.zh-CN.md) | [Daily report](../reports/daily/2026-06-10.md)
 
 ## Share Image
@@ -48,24 +46,6 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题�
 - Venue context: the match is in Mexico, so neither team has the same host-country advantage Mexico carry in Match 001.
 - Data gap: this snapshot does not yet include confirmed lineups, injuries, player-level squad records, or bookmaker odds.
 
-## Prediction Logic
-
-1. **Ranking signal gives Korea Republic a narrow base edge.** Korea Republic sit higher in the FIFA ranking snapshot, but the gap is not large enough to justify a strong favorite call.
-2. **Neutral venue reduces asymmetry.** Guadalajara does not create a direct home advantage for either side, so the ranking signal is moderated.
-3. **Czechia's route to control is credible.** Czechia can keep the match close through compact defending, set pieces, and midfield duels.
-4. **Game-state risk favors a draw.** Group openers often reward risk management, and both teams can rationally protect a point if the match is level late.
-5. **Scoreline call follows a balanced script.** Korea Republic are projected to create slightly more transition threat, while Czechia are projected to answer through structured possession and dead-ball pressure.
-
-## Risk Factors
-
-- A confirmed attacking lineup from either side could move the forecast away from draw.
-- Set pieces are a major swing factor in a low-margin matchup.
-- The travel and climate adjustment in Guadalajara could affect tempo.
-- If either team scores early, the draw probability falls quickly.
-
-- Ranking snapshot: Korea Republic are recorded as FIFA rank 25, while Czechia are recorded as FIFA rank 43 in the current repository snapshot.
-- Data gap: this snapshot does not yet include confirmed lineups, injuries, player-level records, bookmaker odds, or verified expert consensus.
-
 ## Prediction Coverage Checklist
 
 | Dimension | Snapshot status | Confidence impact |
@@ -83,16 +63,18 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题�
 
 ## Prediction Logic
 
-1. **Baseline strength sets the starting point.** The FIFA ranking snapshot and venue context define the initial edge.
-2. **Opening-window caution matters.** Early group matches often reward risk control, so probabilities avoid overconfidence.
-3. **The underdog route is credible.** Compact defending, set pieces, or transition attacks can change the match state.
-4. **Scoreline call follows the expected script.** The forecast balances the favorite's territory or ranking edge against low-margin tournament variance.
+1. **Ranking signal gives Korea Republic a narrow base edge.** Korea Republic sit higher in the FIFA ranking snapshot, but the gap is not large enough to justify a strong favorite call.
+2. **Neutral venue reduces asymmetry.** Guadalajara does not create a direct home advantage for either side, so the ranking signal is moderated.
+3. **Czechia's route to control is credible.** Czechia can keep the match close through compact defending, set pieces, and midfield duels.
+4. **Game-state risk favors a draw.** Group openers often reward risk management, and both teams can rationally protect a point if the match is level late.
+5. **Scoreline call follows a balanced script.** Korea Republic are projected to create slightly more transition threat, while Czechia are projected to answer through structured possession and dead-ball pressure.
 
 ## Risk Factors
 
-- Final lineups and injury information are not yet reflected at player level.
-- A set piece, early goal, red card, or goalkeeper error could materially change the match state.
-- If the favored side fails to score first, draw probability rises.
+- A confirmed attacking lineup from either side could move the forecast away from draw.
+- Set pieces are a major swing factor in a low-margin matchup.
+- The travel and climate adjustment in Guadalajara could affect tempo.
+- If either team scores early, the draw probability falls quickly.
 
 ## Platform Share Copy
 
@@ -118,21 +100,6 @@ Group A 预测：Korea Republic 1-1 Czechia。排名信号略偏 Korea Republic�
 Korea Republic 对 Czechia 的预测是 1-1。当前依据包括官方赛程、Estadio Guadalajara 的中立场地环境，以及 FIFA 排名快照中 Korea Republic 高于 Czechia 的事实。
 
 这不是强倾向判断。Czechia 的定位球和防守组织会抬高平局概率，而 Korea Republic 的优势更可能体现在转换速度和局部推进。仅为足球赛事预测，不构成任何投资建议。
-
-世界杯 Group A 预测：Korea Republic vs Czechia。我倾向 Korea Republic 1-1 Czechia。判断依据包括官方赛程、场地、排名快照和主要风险路径。仅为足球赛事预测，不构成任何投资建议。
-
-### Xiaohongshu / 小红书
-
-Korea Republic vs Czechia 赛前预测：Korea Republic 1-1 Czechia。我会把战术、球员、伤病、赛程、历史、舆情、天气、心理、赔率和专家观点都作为检查维度；当前缺口会降低信心等级。仅为足球赛事预测，不构成任何投资建议。
-
-### Weibo / 微博
-
-Group A 预测：Korea Republic 1-1 Czechia。依据是官方赛程、排名快照、场地环境和比赛风险。仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
-
-### WeChat / 微信
-
-Korea Republic vs Czechia 的预测是 Korea Republic 1-1 Czechia。当前判断来自官方赛程、场地、FIFA 排名快照和小组赛首轮风险控制。仅为足球赛事预测，不构成任何投资建议。
-
 
 ## Disclaimer
 

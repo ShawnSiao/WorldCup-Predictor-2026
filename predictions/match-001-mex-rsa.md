@@ -13,12 +13,6 @@ image_file: "../assets/cards/match-001-mex-rsa.png"
 
 # Match 001: Mexico vs South Africa
 
-[Dashboard](../README.md) | [Daily report](../reports/daily/2026-06-10.md)
-[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
-[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
-[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
-[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-09.md)
-[Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-10.md)
 [Dashboard](../README.md) | [简体中文](match-001-mex-rsa.zh-CN.md) | [Daily report](../reports/daily/2026-06-10.md)
 
 ## Share Image
@@ -58,8 +52,6 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题�
 | Dimension | Snapshot status | Confidence impact |
 | --- | --- | --- |
 | Tactics | Covered from likely game script: Mexico pressure versus South Africa defensive block and transition threat. | Supports Mexico edge, but exact tactical plans are unconfirmed. |
-| Players | Covered only at team-strength level through ranking and host context. | Player-level uncertainty keeps confidence at medium. |
-| Players | Covered at team-strength level through rankings, host context, and squad publication status. | Player-level uncertainty keeps confidence at medium. |
 | Players | Covered at team-strength level through rankings, host context, and squad publication status. | Player-level uncertainty keeps confidence at medium. |
 | Injuries / suspensions | Not confirmed in this repository snapshot. | Missing availability data reduces certainty. |
 | Schedule / rest / travel | Covered through opening-match timing and Mexico City home context. | Supports Mexico, while opener pressure adds variance. |

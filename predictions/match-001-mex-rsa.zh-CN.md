@@ -12,8 +12,6 @@ image_file: "../assets/cards/match-001-mex-rsa.png"
 
 # 第 001 场：墨西哥 vs 南非
 
-[首页](../docs/README.zh-CN.md) | [English](match-001-mex-rsa.md) | [日报](../reports/daily/2026-06-09.zh-CN.md)
-[首页](../docs/README.zh-CN.md) | [English](match-001-mex-rsa.md) | [日报](../reports/daily/2026-06-10.zh-CN.md)
 [首页](../docs/README.zh-CN.md) | [English](match-001-mex-rsa.md) | [日报](../reports/daily/2026-06-10.zh-CN.md)
 
 ## 预测配图
