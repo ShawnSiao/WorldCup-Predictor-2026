@@ -6,7 +6,7 @@ kickoff_utc: "2026-06-13T01:00:00Z"
 venue: "Los Angeles Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-source_snapshot_at: "2026-06-10T00:20:00Z"
+source_snapshot_at: "2026-06-11T00:00:06Z"
 image_file: "../assets/cards/match-004-usa-par.png"
 ---
 

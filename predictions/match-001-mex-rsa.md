@@ -6,8 +6,8 @@ kickoff_utc: "2026-06-11T19:00:00Z"
 venue: "Mexico City Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-09T00:00:00Z"
-updated_at: "2026-06-10T00:20:00Z"
-source_snapshot_at: "2026-06-10T00:20:00Z"
+updated_at: "2026-06-11T00:00:06Z"
+source_snapshot_at: "2026-06-11T00:00:06Z"
 image_file: "../assets/cards/match-001-mex-rsa.png"
 ---
 
@@ -43,7 +43,7 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题�
 - Official fixture: Mexico vs South Africa is the opening match of the 2026 FIFA World Cup.
 - Kickoff and venue: 2026-06-11 19:00 UTC at Mexico City Stadium.
 - Group context: both teams are in Group A with Korea Republic and Czechia.
-- Ranking snapshot: Mexico are recorded as FIFA rank 16, while South Africa are recorded as FIFA rank 60 in the current repository snapshot.
+- Ranking snapshot: Mexico are recorded as FIFA rank 15, while South Africa are recorded as FIFA rank 60 in the current repository snapshot.
 - Host context: Mexico are co-hosts and play this match in Mexico City.
 - Data gap: this snapshot does not yet include full player-level squad records, confirmed lineups, injuries, or bookmaker odds.
 

@@ -6,7 +6,7 @@ kickoff_utc: "2026-06-12T02:00:00Z"
 venue: "Estadio Guadalajara"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-source_snapshot_at: "2026-06-10T00:20:00Z"
+source_snapshot_at: "2026-06-11T00:00:06Z"
 image_file: "../assets/cards/match-002-kor-cze.png"
 ---
 
@@ -42,7 +42,7 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题�
 - Official fixture: Korea Republic vs Czechia is Match 002 in Group A.
 - Kickoff and venue: 2026-06-12 02:00 UTC at Estadio Guadalajara.
 - Group context: Group A also includes Mexico and South Africa.
-- Ranking snapshot: Korea Republic are recorded as FIFA rank 25, while Czechia are recorded as FIFA rank 43 in the current repository snapshot.
+- Ranking snapshot: Korea Republic are recorded as FIFA rank 25, while Czechia are recorded as FIFA rank 41 in the current repository snapshot.
 - Venue context: the match is in Mexico, so neither team has the same host-country advantage Mexico carry in Match 001.
 - Data gap: this snapshot does not yet include confirmed lineups, injuries, player-level squad records, or bookmaker odds.
 

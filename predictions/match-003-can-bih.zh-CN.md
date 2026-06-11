@@ -6,7 +6,7 @@ kickoff_utc: "2026-06-12T19:00:00Z"
 venue: "Toronto Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-source_snapshot_at: "2026-06-10T00:20:00Z"
+source_snapshot_at: "2026-06-11T00:00:06Z"
 image_file: "../assets/cards/match-003-can-bih.png"
 ---
 

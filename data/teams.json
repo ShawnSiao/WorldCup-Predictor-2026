@@ -1,72 +1,32 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-10",
-    "coverage": "teams in the opening 72-hour match window",
+    "snapshot_date": "2026-06-11",
+    "coverage": "teams in the opening matchday window through Match 008",
     "official_team_count": 48,
-    "tracked_team_count": 8,
+    "tracked_team_count": 16,
     "source_urls": [
       "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed",
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
     ],
-    "last_verified_at": "2026-06-10T00:20:00Z"
+    "last_verified_at": "2026-06-11T00:00:06Z"
   },
   "teams": [
-    {
-      "team_code": "MEX",
-      "name": "Mexico",
-      "group": "A",
-      "confederation": "CONCACAF",
-      "role": "co-host"
-    },
-    {
-      "team_code": "RSA",
-      "name": "South Africa",
-      "group": "A",
-      "confederation": "CAF",
-      "role": "qualified team"
-    },
-    {
-      "team_code": "KOR",
-      "name": "Korea Republic",
-      "group": "A",
-      "confederation": "AFC",
-      "role": "qualified team"
-    },
-    {
-      "team_code": "CZE",
-      "name": "Czechia",
-      "group": "A",
-      "confederation": "UEFA",
-      "role": "qualified team"
-    },
-    {
-      "team_code": "CAN",
-      "name": "Canada",
-      "group": "B",
-      "confederation": "CONCACAF",
-      "role": "co-host"
-    },
-    {
-      "team_code": "BIH",
-      "name": "Bosnia and Herzegovina",
-      "group": "B",
-      "confederation": "UEFA",
-      "role": "qualified team"
-    },
-    {
-      "team_code": "USA",
-      "name": "USA",
-      "group": "D",
-      "confederation": "CONCACAF",
-      "role": "co-host"
-    },
-    {
-      "team_code": "PAR",
-      "name": "Paraguay",
-      "group": "D",
-      "confederation": "CONMEBOL",
-      "role": "qualified team"
-    }
+    { "team_code": "MEX", "name": "Mexico", "group": "A", "confederation": "CONCACAF", "role": "co-host" },
+    { "team_code": "RSA", "name": "South Africa", "group": "A", "confederation": "CAF", "role": "qualified team" },
+    { "team_code": "KOR", "name": "Korea Republic", "group": "A", "confederation": "AFC", "role": "qualified team" },
+    { "team_code": "CZE", "name": "Czechia", "group": "A", "confederation": "UEFA", "role": "qualified team" },
+    { "team_code": "CAN", "name": "Canada", "group": "B", "confederation": "CONCACAF", "role": "co-host" },
+    { "team_code": "BIH", "name": "Bosnia and Herzegovina", "group": "B", "confederation": "UEFA", "role": "qualified team" },
+    { "team_code": "QAT", "name": "Qatar", "group": "B", "confederation": "AFC", "role": "qualified team" },
+    { "team_code": "SUI", "name": "Switzerland", "group": "B", "confederation": "UEFA", "role": "qualified team" },
+    { "team_code": "HAI", "name": "Haiti", "group": "C", "confederation": "CONCACAF", "role": "qualified team" },
+    { "team_code": "SCO", "name": "Scotland", "group": "C", "confederation": "UEFA", "role": "qualified team" },
+    { "team_code": "BRA", "name": "Brazil", "group": "C", "confederation": "CONMEBOL", "role": "qualified team" },
+    { "team_code": "MAR", "name": "Morocco", "group": "C", "confederation": "CAF", "role": "qualified team" },
+    { "team_code": "USA", "name": "USA", "group": "D", "confederation": "CONCACAF", "role": "co-host" },
+    { "team_code": "PAR", "name": "Paraguay", "group": "D", "confederation": "CONMEBOL", "role": "qualified team" },
+    { "team_code": "AUS", "name": "Australia", "group": "D", "confederation": "AFC", "role": "qualified team" },
+    { "team_code": "TUR", "name": "Türkiye", "group": "D", "confederation": "UEFA", "role": "qualified team" }
   ]
 }

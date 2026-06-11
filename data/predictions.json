@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-10",
+    "snapshot_date": "2026-06-11",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-10T00:20:00Z"
+    "source_snapshot_at": "2026-06-11T00:00:06Z"
   },
   "predictions": [
     {
@@ -19,8 +19,8 @@
       "away_win_probability": 0.16,
       "confidence": "medium",
       "published_at": "2026-06-09T00:00:00Z",
-      "updated_at": "2026-06-10T00:20:00Z",
-      "source_snapshot_at": "2026-06-10T00:20:00Z"
+      "updated_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
     },
     {
       "match_id": "002",
@@ -36,7 +36,8 @@
       "away_win_probability": 0.29,
       "confidence": "medium-low",
       "published_at": "2026-06-10T00:20:00Z",
-      "source_snapshot_at": "2026-06-10T00:20:00Z"
+      "updated_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
     },
     {
       "match_id": "003",
@@ -52,7 +53,8 @@
       "away_win_probability": 0.21,
       "confidence": "medium",
       "published_at": "2026-06-10T00:20:00Z",
-      "source_snapshot_at": "2026-06-10T00:20:00Z"
+      "updated_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
     },
     {
       "match_id": "004",
@@ -68,7 +70,72 @@
       "away_win_probability": 0.2,
       "confidence": "medium",
       "published_at": "2026-06-10T00:20:00Z",
-      "source_snapshot_at": "2026-06-10T00:20:00Z"
+      "updated_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "005",
+      "prediction_file": "predictions/match-005-hai-sco.md",
+      "prediction_file_zh": "predictions/match-005-hai-sco.zh-CN.md",
+      "image_file": "assets/cards/match-005-hai-sco.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "SCO",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.2,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.53,
+      "confidence": "medium-low",
+      "published_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "006",
+      "prediction_file": "predictions/match-006-aus-tur.md",
+      "prediction_file_zh": "predictions/match-006-aus-tur.zh-CN.md",
+      "image_file": "assets/cards/match-006-aus-tur.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "TUR",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.3,
+      "draw_probability": 0.3,
+      "away_win_probability": 0.4,
+      "confidence": "medium-low",
+      "published_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "007",
+      "prediction_file": "predictions/match-007-bra-mar.md",
+      "prediction_file_zh": "predictions/match-007-bra-mar.zh-CN.md",
+      "image_file": "assets/cards/match-007-bra-mar.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "BRA",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.47,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.26,
+      "confidence": "medium",
+      "published_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "008",
+      "prediction_file": "predictions/match-008-qat-sui.md",
+      "prediction_file_zh": "predictions/match-008-qat-sui.zh-CN.md",
+      "image_file": "assets/cards/match-008-qat-sui.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "SUI",
+      "predicted_score": "0-2",
+      "home_win_probability": 0.18,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.57,
+      "confidence": "medium",
+      "published_at": "2026-06-11T00:00:06Z",
+      "source_snapshot_at": "2026-06-11T00:00:06Z"
     }
   ]
 }

@@ -6,7 +6,7 @@ kickoff_utc: "2026-06-12T19:00:00Z"
 venue: "Toronto Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-source_snapshot_at: "2026-06-10T00:20:00Z"
+source_snapshot_at: "2026-06-11T00:00:06Z"
 image_file: "../assets/cards/match-003-can-bih.png"
 ---
 
@@ -42,7 +42,7 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题�
 - Official fixture: Canada vs Bosnia and Herzegovina is Match 003 in Group B.
 - Kickoff and venue: 2026-06-12 19:00 UTC at Toronto Stadium.
 - Host context: Canada are co-hosts and open at home in Toronto.
-- Ranking snapshot: Canada are recorded as FIFA rank 29, while Bosnia and Herzegovina are recorded as FIFA rank 65 in the current repository snapshot.
+- Ranking snapshot: Canada are recorded as FIFA rank 30, while Bosnia and Herzegovina are recorded as FIFA rank 65 in the current repository snapshot.
 - Schedule context: FIFA's updated schedule release confirms Canada's opening match in Toronto at 15:00 local time.
 - Data gap: this snapshot does not yet include confirmed lineups, injuries, player-level squad records, or bookmaker odds.
 

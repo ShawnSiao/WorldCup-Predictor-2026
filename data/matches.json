@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-10",
-    "coverage": "opening 72-hour match window snapshot",
+    "snapshot_date": "2026-06-11",
+    "coverage": "opening matchday window through Match 008",
     "official_match_count": 104,
-    "tracked_match_count": 4,
+    "tracked_match_count": 8,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
-      "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
+      "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+      "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
     ],
-    "last_verified_at": "2026-06-10T00:20:00Z"
+    "last_verified_at": "2026-06-11T00:00:06Z"
   },
   "matches": [
     {
@@ -31,7 +32,7 @@
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
       ],
-      "last_verified_at": "2026-06-10T00:20:00Z"
+      "last_verified_at": "2026-06-11T00:00:06Z"
     },
     {
       "match_id": "002",
@@ -51,7 +52,7 @@
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
       ],
-      "last_verified_at": "2026-06-10T00:20:00Z"
+      "last_verified_at": "2026-06-11T00:00:06Z"
     },
     {
       "match_id": "003",
@@ -72,7 +73,7 @@
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
       ],
-      "last_verified_at": "2026-06-10T00:20:00Z"
+      "last_verified_at": "2026-06-11T00:00:06Z"
     },
     {
       "match_id": "004",
@@ -93,7 +94,88 @@
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
       ],
-      "last_verified_at": "2026-06-10T00:20:00Z"
+      "last_verified_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "005",
+      "stage": "Group C",
+      "group": "C",
+      "kickoff_utc": "2026-06-14T01:00:00Z",
+      "kickoff_local": "2026-06-13T21:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "boston-stadium",
+      "venue_name": "Boston Stadium",
+      "city": "Boston",
+      "country": "United States",
+      "home_team_code": "HAI",
+      "away_team_code": "SCO",
+      "status": "predicted",
+      "source_urls": [
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "006",
+      "stage": "Group D",
+      "group": "D",
+      "kickoff_utc": "2026-06-14T04:00:00Z",
+      "kickoff_local": "2026-06-13T21:00:00-07:00",
+      "timezone": "America/Vancouver",
+      "venue_id": "bc-place-vancouver",
+      "venue_name": "BC Place Vancouver",
+      "city": "Vancouver",
+      "country": "Canada",
+      "home_team_code": "AUS",
+      "away_team_code": "TUR",
+      "status": "predicted",
+      "source_urls": [
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "007",
+      "stage": "Group C",
+      "group": "C",
+      "kickoff_utc": "2026-06-13T22:00:00Z",
+      "kickoff_local": "2026-06-13T18:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "new-york-new-jersey-stadium",
+      "venue_name": "New York New Jersey Stadium",
+      "city": "New York/New Jersey",
+      "country": "United States",
+      "home_team_code": "BRA",
+      "away_team_code": "MAR",
+      "status": "predicted",
+      "source_urls": [
+        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "008",
+      "stage": "Group B",
+      "group": "B",
+      "kickoff_utc": "2026-06-13T19:00:00Z",
+      "kickoff_local": "2026-06-13T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "venue_id": "san-francisco-bay-area-stadium",
+      "venue_name": "San Francisco Bay Area Stadium",
+      "city": "San Francisco Bay Area",
+      "country": "United States",
+      "home_team_code": "QAT",
+      "away_team_code": "SUI",
+      "status": "predicted",
+      "source_urls": [
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-11T00:00:06Z"
     }
   ]
 }
