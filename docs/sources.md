@@ -21,6 +21,14 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Schedule, fixtures, stadiums, results | FIFA | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums |
 | Updated schedule release | FIFA | https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches |
 | Match schedule PDF | FIFA | https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf |
+| Official squad list PDF | FIFA | https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |
+| Opening-day schedule context | AP | https://apnews.com/article/world-cup-schedule-results-news-94a3ba298b30a7d6314b00b20cd455ae |
+| Matchday 1 Group A overview | Fox Sports | https://www.foxsports.com/stories/soccer/world-cup-match-day-1-mexico-south-africa-south-korea-czechia |
+| Group A preview | MLSsoccer.com | https://www.mlssoccer.com/news/2026-fifa-world-cup-group-a-preview-mexico-south-africa-south-korea-czechia |
+| Mexico vs South Africa team-news preview | Sports Mole | https://www.sportsmole.co.uk/football/mexico/world-cup-2026/preview/mexico-vs-south-africa-prediction-team-news-lineups_598869.html |
+| Korea Republic vs Czechia team-news preview | Sports Mole | https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-czech-republic-prediction-team-news-lineups_598872.html |
+| World Cup weather tracker | AccuWeather | https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-forecasts-for-key-matches-stadium-conditions-and-fan-impacts/1898671 |
+| Match 001 heat profile | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/1 |
 | Fixture time cross-check | FourFourTwo | https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day |
 | Group strength cross-check | SF Chronicle | https://www.sfchronicle.com/sports/article/ranking-12-world-cup-groups-toughest-tamest-22298432.php |
 | Squad confirmation | FIFA | https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed |
@@ -45,6 +53,6 @@ Secondary sources may be used only when they add context that FIFA does not publ
 
 - Full 104-match structured schedule ingestion is pending.
 - Full 48-team player-level squad ingestion is pending.
-- Injury and expected-lineup sources have not been added yet.
+- Injury and expected-lineup sources have been added for Matches 001-002; the remaining tracked matches still need dedicated team-news sources before kickoff.
 - FIFA ranking pages show the last official men's ranking update as 2026-04-01, with the next official update listed for 2026-06-11.
 - Brazil's FIFA team ranking page was checked, but the text fetch did not expose a current rank; the repository stores a current media cross-check and keeps the FIFA page listed for re-verification.

@@ -22,7 +22,7 @@ This is a match prediction only and does not constitute investment advice.
 
 World Cup prediction notes are starting here.
 
-During the tournament, I will use ChatGPT's highest reasoning model to review each match from tactics, players, injuries, schedule, history, public sentiment, weather, psychology, odds movement, and expert commentary before publishing a concise forecast.
+During the tournament, I will use ChatGPT's highest reasoning model to review each match from tactics, players, injuries, schedule, history, public sentiment, weather, psychology, public forecast movement, and expert commentary before publishing a concise forecast.
 
 Every post will separate facts from prediction, include the expected result and scoreline, and list the risks that could overturn the call.
 
@@ -30,10 +30,10 @@ This is a match prediction only and does not constitute investment advice.
 
 ## Weibo Caption
 
-2026 World Cup prediction series: this account will use ChatGPT's highest reasoning model to analyze each match before kickoff, covering tactics, players, injuries, schedule, history, public sentiment, weather, psychology, odds movement, and expert views. Posts will include win/draw/loss lean, scoreline call, and key risks. This is a match prediction only and does not constitute investment advice. #WorldCup2026#
+2026 World Cup prediction series: this account will use ChatGPT's highest reasoning model to analyze each match before kickoff, covering tactics, players, injuries, schedule, history, public sentiment, weather, psychology, public forecast movement, and expert views. Posts will include win/draw/loss lean, scoreline call, and key risks. This is a match prediction only and does not constitute investment advice. #WorldCup2026#
 
 ## WeChat Intro Paragraph
 
-During the 2026 World Cup, this account will publish structured pre-match predictions powered by ChatGPT's highest reasoning model. Each preview will first check tactics, player availability, injuries and suspensions, schedule and travel context, historical matchup patterns, public sentiment, weather and venue conditions, psychological pressure, odds movement, and expert views. The final post will provide a concise result forecast, projected scoreline, confidence level, and risk factors.
+During the 2026 World Cup, this account will publish structured pre-match predictions powered by ChatGPT's highest reasoning model. Each preview will first check tactics, player availability, injuries and suspensions, schedule and travel context, historical matchup patterns, public sentiment, weather and venue conditions, psychological pressure, public forecast movement, and expert views. The final post will provide a concise result forecast, projected scoreline, confidence level, and risk factors.
 
 This is a match prediction only and does not constitute investment advice.

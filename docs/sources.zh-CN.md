@@ -21,6 +21,14 @@
 | 赛程、比赛、场馆、赛果 | FIFA | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums |
 | 更新时间表公告 | FIFA | https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches |
 | 赛程 PDF | FIFA | https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf |
+| 官方球队名单 PDF | FIFA | https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |
+| 开幕日赛程背景 | AP | https://apnews.com/article/world-cup-schedule-results-news-94a3ba298b30a7d6314b00b20cd455ae |
+| 首个比赛日 A 组概览 | Fox Sports | https://www.foxsports.com/stories/soccer/world-cup-match-day-1-mexico-south-africa-south-korea-czechia |
+| A 组预览 | MLSsoccer.com | https://www.mlssoccer.com/news/2026-fifa-world-cup-group-a-preview-mexico-south-africa-south-korea-czechia |
+| 墨西哥 vs 南非球队新闻预览 | Sports Mole | https://www.sportsmole.co.uk/football/mexico/world-cup-2026/preview/mexico-vs-south-africa-prediction-team-news-lineups_598869.html |
+| 韩国 vs 捷克球队新闻预览 | Sports Mole | https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-czech-republic-prediction-team-news-lineups_598872.html |
+| 世界杯天气追踪 | AccuWeather | https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-forecasts-for-key-matches-stadium-conditions-and-fan-impacts/1898671 |
+| 第 001 场热风险资料 | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/1 |
 | 开球时间交叉核验 | FourFourTwo | https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day |
 | 小组强度交叉核验 | SF Chronicle | https://www.sfchronicle.com/sports/article/ranking-12-world-cup-groups-toughest-tamest-22298432.php |
 | 球队名单确认 | FIFA | https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed |
@@ -46,6 +54,6 @@
 
 - 尚未导入官方 104 场完整结构化赛程。
 - 尚未导入 48 支球队完整球员名单快照。
-- 伤病和预计首发来源尚未加入。
+- 第 001-002 场已加入伤病和预计首发来源；其余已追踪比赛仍需在开球前补充对应球队新闻来源。
 - FIFA 排名页面显示最近一次男子排名更新时间为 2026-04-01，下一次官方更新时间为 2026-06-11。
 - 已核验 FIFA 巴西球队排名页，但文本抓取未展示当前排名；仓库暂存可靠媒体交叉核验值，并保留 FIFA 页面用于后续复核。

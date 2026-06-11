@@ -20,7 +20,7 @@ Each pre-match prediction must complete a pre-result coverage pass before publis
 - public sentiment, media narrative, and crowd expectation
 - weather, climate, pitch, altitude, and venue conditions
 - psychology, pressure, motivation, and group/knockout incentives
-- reputable market odds and odds movement, clearly labeled as market context
+- reputable public forecast signals and movement, clearly labeled as context
 - expert views from reputable analysts or official broadcast/editorial sources
 
 If an input is unavailable, stale, or unverified, the prediction must label the gap, explain how it affects confidence, and avoid using the missing item as confirmed evidence.
