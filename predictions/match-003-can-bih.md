@@ -8,6 +8,7 @@ model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
 updated_at: "2026-06-12T01:05:00Z"
 source_snapshot_at: "2026-06-12T01:05:00Z"
+lead_image_file: "../assets/cards/match-003-can-bih-lead.png"
 image_file: "../assets/cards/match-003-can-bih.png"
 ---
 
@@ -17,12 +18,20 @@ image_file: "../assets/cards/match-003-can-bih.png"
 
 ## Share Image
 
+![Canada vs Bosnia and Herzegovina lead prediction image](../assets/cards/match-003-can-bih-lead.png)
+
 ![Canada vs Bosnia and Herzegovina prediction card](../assets/cards/match-003-can-bih.png)
 
-Image generation instruction:
+Lead image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“加拿大 vs 波黑”，副标题“预测：加拿大 2-1”，小字“B 组｜Toronto Stadium”，世界杯小组赛氛围，真实足球场、加拿大红白与波黑蓝黄配色、无品牌球员剪影，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印，不要使用真实球队徽章或赞助商标志，不要出现任何非赛事诱导文字。
+$imagegen: 生成【社交平台赛事预测首图】，16:9 横版，真实位图图片，只展示赛事对阵、比赛阶段、城市/场馆氛围和球队色彩；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不输出比分，不输出预测胜负，不输出概率，不使用胜/平/负、晋级、爆冷等结果暗示词；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+```
+
+Result image generation instruction:
+
+```text
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
 ```
 
 ## Prediction

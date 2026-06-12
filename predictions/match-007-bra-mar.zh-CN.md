@@ -7,6 +7,7 @@ venue: "New York New Jersey Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-11T00:00:06Z"
 source_snapshot_at: "2026-06-11T00:00:06Z"
+lead_image_file: "../assets/cards/match-007-bra-mar-lead.png"
 image_file: "../assets/cards/match-007-bra-mar.png"
 ---
 
@@ -14,14 +15,22 @@ image_file: "../assets/cards/match-007-bra-mar.png"
 
 [首页](../docs/README.zh-CN.md) | [English](match-007-bra-mar.md) | [日报](../reports/daily/2026-06-11.zh-CN.md)
 
-## 分享配图
+## 预测配图
+
+![巴西 vs 摩洛哥赛前首图](../assets/cards/match-007-bra-mar-lead.png)
 
 ![巴西 vs 摩洛哥预测配图](../assets/cards/match-007-bra-mar.png)
 
-图片生成指令：
+首图生成指令：
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“巴西 vs 摩洛哥”，副标题可保留英文“Brazil vs Morocco”，世界杯小组赛氛围，足球场、球队配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: 生成【社交平台赛事预测首图】，16:9 横版，真实位图图片，只展示赛事对阵、比赛阶段、城市/场馆氛围和球队色彩；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不输出比分，不输出预测胜负，不输出概率，不使用胜/平/负、晋级、爆冷等结果暗示词；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+```
+
+结果图生成指令：
+
+```text
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
 ```
 
 ## 预测

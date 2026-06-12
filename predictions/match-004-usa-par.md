@@ -8,6 +8,7 @@ model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
 updated_at: "2026-06-12T00:36:14Z"
 source_snapshot_at: "2026-06-12T00:36:14Z"
+lead_image_file: "../assets/cards/match-004-usa-par-lead.png"
 image_file: "../assets/cards/match-004-usa-par.png"
 ---
 
@@ -17,12 +18,20 @@ image_file: "../assets/cards/match-004-usa-par.png"
 
 ## Share Image
 
+![USA vs Paraguay lead prediction image](../assets/cards/match-004-usa-par-lead.png)
+
 ![USA vs Paraguay prediction card](../assets/cards/match-004-usa-par.png)
 
-Image generation instruction:
+Lead image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“美国 vs 巴拉圭”，副标题“预测：美国 2-1”，小字“D 组｜Los Angeles Stadium”，世界杯小组赛夜场氛围，真实足球场、红白蓝配色、无品牌球员剪影，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印，不要使用真实球队徽章或赞助商标志，不要出现任何非赛事诱导文字。
+$imagegen: 生成【社交平台赛事预测首图】，16:9 横版，真实位图图片，只展示赛事对阵、比赛阶段、城市/场馆氛围和球队色彩；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不输出比分，不输出预测胜负，不输出概率，不使用胜/平/负、晋级、爆冷等结果暗示词；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+```
+
+Result image generation instruction:
+
+```text
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
 ```
 
 ## Prediction

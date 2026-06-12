@@ -95,6 +95,51 @@ def has_valid_raster_header(path: Path) -> bool:
     return False
 
 
+def validate_raster_image(
+    repo_root: Path,
+    match_id: str | None,
+    field_name: str,
+    image_file: str | None,
+    errors: list[str],
+) -> bool:
+    if not image_file:
+        errors.append(f"Prediction {match_id} must include {field_name}")
+        return False
+    if not image_file.startswith("assets/cards/"):
+        errors.append(f"Prediction {match_id} {field_name} must be under assets/cards/: {image_file}")
+        return False
+    if (repo_root / image_file).suffix.lower() not in IMAGE_EXTENSIONS:
+        errors.append(f"Prediction {match_id} {field_name} must be a raster social card: {image_file}")
+        return False
+    if not (repo_root / image_file).exists():
+        errors.append(f"Prediction {match_id} {field_name} missing: {image_file}")
+        return False
+    if not has_valid_raster_header(repo_root / image_file):
+        errors.append(f"Prediction {match_id} {field_name} is not a valid raster image: {image_file}")
+        return False
+    return True
+
+
+def validate_image_order(
+    text: str,
+    match_id: str | None,
+    label: str,
+    lead_image_file: str | None,
+    result_image_file: str | None,
+    errors: list[str],
+) -> None:
+    if not lead_image_file or not result_image_file:
+        return
+    lead_index = text.find(lead_image_file)
+    result_index = text.find(result_image_file)
+    if lead_index == -1:
+        errors.append(f"{label} {match_id} must embed lead image file: {lead_image_file}")
+    if result_index == -1:
+        errors.append(f"{label} {match_id} must embed result image file: {result_image_file}")
+    if lead_index != -1 and result_index != -1 and lead_index > result_index:
+        errors.append(f"{label} {match_id} must embed lead image before result image")
+
+
 def validate_matches(repo_root: Path, errors: list[str]) -> set[str]:
     data = load_json(repo_root, "data/matches.json", errors)
     if not data:
@@ -151,7 +196,8 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
             errors.append(f"Prediction references unknown match_id: {match_id}")
         prediction_file = prediction.get("prediction_file")
         prediction_file_zh = prediction.get("prediction_file_zh")
-        image_file = prediction.get("image_file")
+        lead_image_file = prediction.get("lead_image_file")
+        result_image_file = prediction.get("image_file")
         if not prediction_file or not (repo_root / prediction_file).exists():
             errors.append(f"Prediction file missing for match {match_id}: {prediction_file}")
         else:
@@ -163,42 +209,61 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
                 errors.append(f"Prediction {match_id} must include an investment advice disclaimer")
             if "投资建议" not in prediction_text:
                 errors.append(f"Prediction {match_id} must include a Chinese investment advice disclaimer")
-            if image_file and image_file not in prediction_text:
-                errors.append(f"Prediction {match_id} must embed image file: {image_file}")
+            validate_image_order(
+                prediction_text,
+                match_id,
+                "Prediction",
+                lead_image_file,
+                result_image_file,
+                errors,
+            )
         if not prediction_file_zh or not (repo_root / prediction_file_zh).exists():
             errors.append(f"Prediction {match_id} missing Simplified Chinese prediction file: {prediction_file_zh}")
-        elif image_file:
+        else:
             prediction_text_zh = (repo_root / prediction_file_zh).read_text(encoding="utf-8")
-            if image_file not in prediction_text_zh:
-                errors.append(f"Chinese prediction {match_id} must embed image file: {image_file}")
+            validate_image_order(
+                prediction_text_zh,
+                match_id,
+                "Chinese prediction",
+                lead_image_file,
+                result_image_file,
+                errors,
+            )
             if "## 预测覆盖检查" not in prediction_text_zh:
                 errors.append(f"Chinese prediction {match_id} missing required section: ## 预测覆盖检查")
             if "投资建议" not in prediction_text_zh:
                 errors.append(f"Chinese prediction {match_id} must include a Chinese investment advice disclaimer")
-        if not image_file:
-            errors.append(f"Prediction {match_id} must include image_file")
-        elif not image_file.startswith("assets/cards/"):
-            errors.append(f"Prediction {match_id} image_file must be under assets/cards/: {image_file}")
-        elif (repo_root / image_file).suffix.lower() not in IMAGE_EXTENSIONS:
-            errors.append(f"Prediction {match_id} image_file must be a raster social card: {image_file}")
-        elif not (repo_root / image_file).exists():
-            errors.append(f"Prediction {match_id} image file missing: {image_file}")
-        elif not has_valid_raster_header(repo_root / image_file):
-            errors.append(f"Prediction {match_id} image file is not a valid raster image: {image_file}")
-        else:
+        lead_image_valid = validate_raster_image(repo_root, match_id, "lead_image_file", lead_image_file, errors)
+        result_image_valid = validate_raster_image(repo_root, match_id, "image_file", result_image_file, errors)
+        if lead_image_file and result_image_file and lead_image_file == result_image_file:
+            errors.append(f"Prediction {match_id} lead_image_file and image_file must be different")
+        if lead_image_valid and result_image_valid:
             published_at = prediction.get("published_at")
             if isinstance(published_at, str) and "T" in published_at:
                 report_date = published_at.split("T", 1)[0]
                 daily_report = repo_root / "reports" / "daily" / f"{report_date}.md"
                 if daily_report.exists():
                     daily_report_text = daily_report.read_text(encoding="utf-8")
-                    if image_file not in daily_report_text:
-                        errors.append(f"Daily report {report_date} must embed image file: {image_file}")
+                    validate_image_order(
+                        daily_report_text,
+                        match_id,
+                        f"Daily report {report_date}",
+                        lead_image_file,
+                        result_image_file,
+                        errors,
+                    )
                     daily_report_zh = repo_root / "reports" / "daily" / f"{report_date}.zh-CN.md"
                     if not daily_report_zh.exists():
                         errors.append(f"Daily report {report_date} missing Simplified Chinese file")
-                    elif image_file not in daily_report_zh.read_text(encoding="utf-8"):
-                        errors.append(f"Chinese daily report {report_date} must embed image file: {image_file}")
+                    else:
+                        validate_image_order(
+                            daily_report_zh.read_text(encoding="utf-8"),
+                            match_id,
+                            f"Chinese daily report {report_date}",
+                            lead_image_file,
+                            result_image_file,
+                            errors,
+                        )
         probabilities = [
             prediction.get("home_win_probability"),
             prediction.get("draw_probability"),
@@ -240,6 +305,10 @@ def validate_share_image_policy(repo_root: Path, errors: list[str]) -> None:
             errors.append("AGENTS.md must require $imagegen for prediction share images")
         if "简体中文" not in agent_text:
             errors.append("AGENTS.md must require Simplified Chinese match information for Chinese prediction images")
+        if "lead_image_file" not in agent_text:
+            errors.append("AGENTS.md must require a lead_image_file for first prediction share images")
+        if "不输出比分" not in agent_text or "胜负" not in agent_text:
+            errors.append("AGENTS.md must state that first prediction share images omit scoreline and winner/result")
 
     generator_script = repo_root / "scripts" / "generate_prediction_card.py"
     if generator_script.exists():

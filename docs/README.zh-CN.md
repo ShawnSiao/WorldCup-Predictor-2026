@@ -36,21 +36,21 @@
 | 荷兰 vs 日本 | F 组 | 2026-06-14 20:00 UTC | Dallas Stadium | [荷兰胜，2-1](../predictions/match-011-ned-jpn.zh-CN.md) / [English](../predictions/match-011-ned-jpn.md) |
 | 科特迪瓦 vs 厄瓜多尔 | E 组 | 2026-06-14 23:00 UTC | Philadelphia Stadium | [平局，1-1](../predictions/match-009-civ-ecu.zh-CN.md) / [English](../predictions/match-009-civ-ecu.md) |
 
-## 重点预测配图
+## 重点预测首图
 
-[![墨西哥 vs 南非预测配图](../assets/cards/match-001-mex-rsa.png)](../predictions/match-001-mex-rsa.zh-CN.md)
-[![韩国 vs 捷克预测配图](../assets/cards/match-002-kor-cze.png)](../predictions/match-002-kor-cze.zh-CN.md)
-[![加拿大 vs 波黑预测配图](../assets/cards/match-003-can-bih.png)](../predictions/match-003-can-bih.zh-CN.md)
-[![美国 vs 巴拉圭预测配图](../assets/cards/match-004-usa-par.png)](../predictions/match-004-usa-par.zh-CN.md)
-[![海地 vs 苏格兰预测配图](../assets/cards/match-005-hai-sco.png)](../predictions/match-005-hai-sco.zh-CN.md)
-[![澳大利亚 vs 土耳其预测配图](../assets/cards/match-006-aus-tur.png)](../predictions/match-006-aus-tur.zh-CN.md)
-[![巴西 vs 摩洛哥预测配图](../assets/cards/match-007-bra-mar.png)](../predictions/match-007-bra-mar.zh-CN.md)
-[![卡塔尔 vs 瑞士预测配图](../assets/cards/match-008-qat-sui.png)](../predictions/match-008-qat-sui.zh-CN.md)
-[![科特迪瓦 vs 厄瓜多尔预测配图](../assets/cards/match-009-civ-ecu.png)](../predictions/match-009-civ-ecu.zh-CN.md)
-[![德国 vs 库拉索预测配图](../assets/cards/match-010-ger-cuw.png)](../predictions/match-010-ger-cuw.zh-CN.md)
-[![荷兰 vs 日本预测配图](../assets/cards/match-011-ned-jpn.png)](../predictions/match-011-ned-jpn.zh-CN.md)
+[![墨西哥 vs 南非赛前首图](../assets/cards/match-001-mex-rsa-lead.png)](../predictions/match-001-mex-rsa.zh-CN.md)
+[![韩国 vs 捷克赛前首图](../assets/cards/match-002-kor-cze-lead.png)](../predictions/match-002-kor-cze.zh-CN.md)
+[![加拿大 vs 波黑赛前首图](../assets/cards/match-003-can-bih-lead.png)](../predictions/match-003-can-bih.zh-CN.md)
+[![美国 vs 巴拉圭赛前首图](../assets/cards/match-004-usa-par-lead.png)](../predictions/match-004-usa-par.zh-CN.md)
+[![海地 vs 苏格兰赛前首图](../assets/cards/match-005-hai-sco-lead.png)](../predictions/match-005-hai-sco.zh-CN.md)
+[![澳大利亚 vs 土耳其赛前首图](../assets/cards/match-006-aus-tur-lead.png)](../predictions/match-006-aus-tur.zh-CN.md)
+[![巴西 vs 摩洛哥赛前首图](../assets/cards/match-007-bra-mar-lead.png)](../predictions/match-007-bra-mar.zh-CN.md)
+[![卡塔尔 vs 瑞士赛前首图](../assets/cards/match-008-qat-sui-lead.png)](../predictions/match-008-qat-sui.zh-CN.md)
+[![科特迪瓦 vs 厄瓜多尔赛前首图](../assets/cards/match-009-civ-ecu-lead.png)](../predictions/match-009-civ-ecu.zh-CN.md)
+[![德国 vs 库拉索赛前首图](../assets/cards/match-010-ger-cuw-lead.png)](../predictions/match-010-ger-cuw.zh-CN.md)
+[![荷兰 vs 日本赛前首图](../assets/cards/match-011-ned-jpn-lead.png)](../predictions/match-011-ned-jpn.zh-CN.md)
 
-分享图片目录：[`assets/cards/`](../assets/cards/)。
+分享图片目录：[`assets/cards/`](../assets/cards/)。每场预测先嵌入不含比分/胜负的赛前首图，再嵌入结果预测图。
 
 ## 今日赛程
 

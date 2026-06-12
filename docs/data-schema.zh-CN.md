@@ -33,6 +33,15 @@ scheduled -> predicted -> live -> final -> reviewed
 | `data/results.json` | 官方最终赛果记录。 |
 | `data/review-index.json` | 赛后复盘文件索引。 |
 
+## 预测配图
+
+`data/predictions.json` 中每条记录必须包含：
+
+- `lead_image_file`：第一张分享图，位于 `assets/cards/`；只介绍对阵，不包含比分、预测胜负、胜/平/负措辞、概率或结果暗示。
+- `image_file`：第二张分享图，位于 `assets/cards/`；保留现有预测配图规范，可包含预测结果和比分。
+
+预测文件及对应日报必须按此顺序嵌入两张图片。
+
 ## 验证
 
 运行：

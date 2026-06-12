@@ -33,6 +33,15 @@ Allowed values:
 | `data/results.json` | Official final result records. |
 | `data/review-index.json` | Index of post-match review files. |
 
+## Prediction Images
+
+Each record in `data/predictions.json` must include:
+
+- `lead_image_file`: first share image under `assets/cards/`; introduces the fixture only and omits scoreline, predicted winner, win/draw/loss wording, probabilities, and result language.
+- `image_file`: second share image under `assets/cards/`; keeps the existing prediction-card convention and may include the predicted result and scoreline.
+
+Prediction files and their corresponding daily reports embed both images in that order.
+
 ## Validation
 
 Run:

@@ -36,21 +36,21 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 | Netherlands vs Japan | Group F | 2026-06-14 20:00 UTC | Dallas Stadium | [Netherlands win, 2-1](predictions/match-011-ned-jpn.md) / [简体中文](predictions/match-011-ned-jpn.zh-CN.md) |
 | Côte d'Ivoire vs Ecuador | Group E | 2026-06-14 23:00 UTC | Philadelphia Stadium | [Draw, 1-1](predictions/match-009-civ-ecu.md) / [简体中文](predictions/match-009-civ-ecu.zh-CN.md) |
 
-## Featured Prediction Cards
+## Featured Prediction Image Sets
 
-[![Mexico vs South Africa prediction card](assets/cards/match-001-mex-rsa.png)](predictions/match-001-mex-rsa.md)
-[![Korea Republic vs Czechia prediction card](assets/cards/match-002-kor-cze.png)](predictions/match-002-kor-cze.md)
-[![Canada vs Bosnia and Herzegovina prediction card](assets/cards/match-003-can-bih.png)](predictions/match-003-can-bih.md)
-[![USA vs Paraguay prediction card](assets/cards/match-004-usa-par.png)](predictions/match-004-usa-par.md)
-[![Haiti vs Scotland prediction card](assets/cards/match-005-hai-sco.png)](predictions/match-005-hai-sco.md)
-[![Australia vs Türkiye prediction card](assets/cards/match-006-aus-tur.png)](predictions/match-006-aus-tur.md)
-[![Brazil vs Morocco prediction card](assets/cards/match-007-bra-mar.png)](predictions/match-007-bra-mar.md)
-[![Qatar vs Switzerland prediction card](assets/cards/match-008-qat-sui.png)](predictions/match-008-qat-sui.md)
-[![Côte d'Ivoire vs Ecuador prediction card](assets/cards/match-009-civ-ecu.png)](predictions/match-009-civ-ecu.md)
-[![Germany vs Curaçao prediction card](assets/cards/match-010-ger-cuw.png)](predictions/match-010-ger-cuw.md)
-[![Netherlands vs Japan prediction card](assets/cards/match-011-ned-jpn.png)](predictions/match-011-ned-jpn.md)
+[![Mexico vs South Africa lead prediction image](assets/cards/match-001-mex-rsa-lead.png)](predictions/match-001-mex-rsa.md)
+[![Korea Republic vs Czechia lead prediction image](assets/cards/match-002-kor-cze-lead.png)](predictions/match-002-kor-cze.md)
+[![Canada vs Bosnia and Herzegovina lead prediction image](assets/cards/match-003-can-bih-lead.png)](predictions/match-003-can-bih.md)
+[![USA vs Paraguay lead prediction image](assets/cards/match-004-usa-par-lead.png)](predictions/match-004-usa-par.md)
+[![Haiti vs Scotland lead prediction image](assets/cards/match-005-hai-sco-lead.png)](predictions/match-005-hai-sco.md)
+[![Australia vs Türkiye lead prediction image](assets/cards/match-006-aus-tur-lead.png)](predictions/match-006-aus-tur.md)
+[![Brazil vs Morocco lead prediction image](assets/cards/match-007-bra-mar-lead.png)](predictions/match-007-bra-mar.md)
+[![Qatar vs Switzerland lead prediction image](assets/cards/match-008-qat-sui-lead.png)](predictions/match-008-qat-sui.md)
+[![Côte d'Ivoire vs Ecuador lead prediction image](assets/cards/match-009-civ-ecu-lead.png)](predictions/match-009-civ-ecu.md)
+[![Germany vs Curaçao lead prediction image](assets/cards/match-010-ger-cuw-lead.png)](predictions/match-010-ger-cuw.md)
+[![Netherlands vs Japan lead prediction image](assets/cards/match-011-ned-jpn-lead.png)](predictions/match-011-ned-jpn.md)
 
-Share images live under [`assets/cards/`](assets/cards/).
+Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 
 ## Today
 

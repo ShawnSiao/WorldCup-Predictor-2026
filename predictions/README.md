@@ -4,6 +4,8 @@
 
 This directory stores pre-match prediction records. Prediction files are immutable after kickoff except for clerical corrections.
 
+Each prediction embeds two share images: a fixture-only lead image first, followed by the result prediction card.
+
 ## Published Predictions
 
 | Match | Fixture | Prediction | File |
