@@ -6,13 +6,14 @@ kickoff_utc: "2026-06-13T01:00:00Z"
 venue: "Los Angeles Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-source_snapshot_at: "2026-06-11T00:00:06Z"
+updated_at: "2026-06-12T00:36:14Z"
+source_snapshot_at: "2026-06-12T00:36:14Z"
 image_file: "../assets/cards/match-004-usa-par.png"
 ---
 
 # 第 004 场：美国 vs 巴拉圭
 
-[首页](../docs/README.zh-CN.md) | [English](match-004-usa-par.md) | [日报](../reports/daily/2026-06-10.zh-CN.md)
+[首页](../docs/README.zh-CN.md) | [English](match-004-usa-par.md) | [日报](../reports/daily/2026-06-12.zh-CN.md)
 
 ## 预测配图
 
@@ -21,85 +22,111 @@ image_file: "../assets/cards/match-004-usa-par.png"
 配图生成指令：
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“美国 vs 巴拉圭”，副标题可保留英文“USA vs Paraguay”，世界杯小组赛氛围，足球场、球队配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“美国 vs 巴拉圭”，副标题“预测：美国 2-1”，小字“D 组｜Los Angeles Stadium”，世界杯小组赛夜场氛围，真实足球场、红白蓝配色、无品牌球员剪影，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印，不要使用真实球队徽章或赞助商标志，不要出现任何非赛事诱导文字。
 ```
 
 ## 预测
 
 | 结果 | 概率 |
 | --- | ---: |
-| 美国胜 | 55% |
-| 平局 | 25% |
+| 美国胜 | 56% |
+| 平局 | 24% |
 | 巴拉圭胜 | 20% |
 
 - 预测胜者：美国
-- 预测比分：USA 2-1 Paraguay
+- 预测比分：美国 2-1 巴拉圭
 - 信心等级：中等
 - 模型：ChatGPT 5.5 ultra-high reasoning
 
 ## 事实依据
 
-- 官方赛程：USA vs Paraguay 是 2026 年 FIFA 世界杯 D 组 比赛。
-- 开球时间和场地：2026-06-13 01:00 UTC，Los Angeles Stadium。
-- 当前仓库快照已纳入官方赛程、球队、场地和 FIFA 排名信息。
-- 数据缺口：当前快照尚未包含确认首发、球员级名单、伤病停赛、公开预测变化或专家观点数据。
+- 官方赛程：美国 vs 巴拉圭是第 004 场，属于 D 组，开球时间为 2026-06-13 01:00 UTC，比赛地为 Los Angeles Stadium。
+- 时间换算：洛杉矶当地时间为 2026-06-12 18:00，北京时间为 2026-06-13 09:00。
+- 小组背景：D 组还包括澳大利亚和土耳其，美国如果拿下主场首战，会在出线节奏上取得主动。
+- 排名快照：当前仓库记录的 FIFA 排名为美国第 17、巴拉圭第 41。
+- 阵容与可用性：FIFA 已发布最终名单；U.S. Soccer 官方比赛页显示美国队整套名单均可用于小组赛首战。
+- 战术人员背景：美国拥有 Christian Pulisic、Folarin Balogun、Tyler Adams、Weston McKennie、Malik Tillman 以及边后卫推进能力。巴拉圭的赛前画像重点在 Gustavo Gomez、Omar Alderete、Miguel Almiron、Diego Gomez、Julio Enciso 和 Tonny Sanabria。
+- 对位背景：公开赛前分析普遍把巴拉圭描述为务实、能接受低控球、依靠定位球、反击和禁区对抗制造威胁的球队。
+- 场地与天气：Los Angeles Stadium 给美国带来主场观众和旅行优势。Climate Central 对第 004 场保留热风险观察，但当前天气信息不是本场预测的首要变量。
+- 数据缺口：仓库尚未保存官方首发、最终战术形态、实时天气和已核验的公开预测变化。
 
 ## 预测覆盖检查
 
 | 维度 | 快照状态 | 对信心的影响 |
 | --- | --- | --- |
-| 战术 | 已按基础比赛脚本覆盖：美国拥有主场和排名优势，但巴拉圭防守硬度、转换和定位球会压低确定性。 | 支持当前倾向，但具体战术尚未确认。 |
-| 球员 | 已通过球队强度、排名和名单发布状态进行团队层面覆盖。 | 球员级数据不足限制信心。 |
-| 伤病 / 停赛 | 当前仓库快照未确认。 | 可用性缺口降低确定性。 |
-| 赛程 / 休息 / 旅行 | 已覆盖开球时间、场地和开赛窗口。 | 支持赛程风险判断。 |
-| 历史 | 当前快照仅作小组赛首轮和场地背景参考。 | 不作为决定性依据。 |
-| 舆情 | 尚未从可靠当前来源验证。 | 不作为已确认信号使用。 |
-| 天气 / 场馆条件 | 已覆盖场地；比赛日天气尚未验证。 | 天气仍需赛前跟踪。 |
-| 心理 | 已覆盖首轮压力和小组赛动机。 | 提高比赛方差。 |
-| 公开预测变化 | 暂未纳入，因为仓库尚未保存可靠公开预测快照。 | 缺少外部确认。 |
-| 专家观点 | 暂未纳入，因为仓库尚未保存专家来源快照。 | 缺少专家共识参考。 |
+| 战术 | 美国预计会更主动压迫、使用边路宽度并制造更多前场回合。巴拉圭可能保护中路、放慢节奏，通过 Almiron、Diego Gomez 的转换和 Sanabria 支点寻找机会。 | 支持美国，但巴拉圭结构会让比分接近。 |
+| 球员 | U.S. Soccer 显示美国全员可用。美国有 Pulisic 和中场后插上的创造力；巴拉圭有中卫领导力、Sanabria 禁区存在感和转换威胁。 | 支持美国，同时保留巴拉圭进球风险。 |
+| 伤病 / 停赛 | 美国官方比赛页未列出不可用球员；公开赛前分析提到 Enciso 近期小伤但仍被预计可参与。最终首发未确认。 | 美国阵容可用性更清晰，略微加分。 |
+| 赛程 / 休息 / 旅行 | 美国在 Los Angeles 主场开局，旅行负担更低；巴拉圭以客队身份进入首轮小组赛。 | 支持美国。 |
+| 交锋与赛事历史 | 公开赛前资料显示双方世界杯交锋样本有限，巴拉圭历史上并不是容易被打穿的首战对手。 | 更支持一球差，而不是大比分。 |
+| 舆情 / 媒体叙事 | 美国官方语境强调主场世界杯首战展示上限；巴拉圭则是低外部压力的破坏者角色。 | 美国动机更强，但也有压力波动。 |
+| 天气 / 场馆条件 | 洛杉矶晚场条件和热风险观察需要关注，但目前没有覆盖战术和阵容信号。 | 中性，略微提高波动。 |
+| 心理 / 压力 / 动机 | 美国作为东道主承受较高期待；巴拉圭可以用紧凑防守把比赛拖进低比分。 | 支持美国强度，同时保留平局风险。 |
+| 公开预测变化 | 仓库没有已核验的变化快照；本节只使用足球分析语境。 | 不作为确认依据。 |
+| 专家观点 | 当前公开赛前分析更倾向美国小胜，而不是轻松大胜。巴拉圭防守阵型和转换是主要反向论点。 | 支持美国 2-1。 |
 
 ## 预测逻辑
 
-1. **基础实力先定基准。** 当前排名和场地背景是主要量化信号。
-2. **小组赛首轮降低激进程度。** 首场比赛通常更重视风险控制。
-3. **弱势方仍有明确路径。** 防守阵型、定位球、转换进攻或早段事件都可能改变局面。
-4. **比分判断来自预期比赛脚本。** 当前比分预测在优势方条件和杯赛波动之间做平衡。
+1. **美国是赛前优势更清楚的一方。** 主场、排名第 17 对第 41、阵容全员可用，以及中场推进能力，都让美国获得基础优势。
+2. **巴拉圭会主动压低比赛空间。** 他们最现实的方案是中路保护、身体对抗、定位球和快速找 Almiron、Diego Gomez、Enciso 或 Sanabria。
+3. **这不像一场轻松大胜。** 主场首战会带来强度，也会让美国在久攻不下时更容易急躁。
+4. **美国的赢球路线是机会数量和后段场面控制。** 如果 Adams 与 McKennie 能把前后场连接起来，Pulisic 和 Balogun 会得到足够多的前场进入机会。
+5. **比分判断：美国 2-1 巴拉圭。** 巴拉圭有能力制造一次高质量转换或定位球机会，但美国的主场、可用性和进攻深度更适合拿下小胜。
 
 ## 风险因素
 
-- 最终首发、伤病和战术选择尚未锁定到仓库快照中。
-- 定位球、早段进球、红牌或门将失误可能显著改变比赛状态。
-- 如果优势方不能先进球，平局概率会上升。
+- 巴拉圭的低位防守可能把比赛压成低节奏，提升平局概率。
+- Sanabria、Almiron、Diego Gomez 和 Enciso 足以利用一次防守失误制造威胁。
+- 如果美国边后卫压得过深，巴拉圭反击空间会变大。
+- 若美国前 20 分钟没有制造清晰机会，主场压力可能让处理球变急。
+- 仓库尚未锁定最终首发和实时天气条件。
 
 ## 平台发布文案
 
 ### 抖音
 
-世界杯 D 组 预测：美国 vs 巴拉圭。我倾向 USA 2-1 Paraguay。判断依据包括官方赛程、场地、排名快照和主要风险路径。仅为足球赛事预测，不构成任何投资建议。
+世界杯 D 组预测：美国 vs 巴拉圭。
+
+我倾向美国 2-1。美国有主场、排名和全员可用优势；巴拉圭会用低位防守、身体对抗、转换和定位球把比赛压成一球差。
+
+仅为足球赛事预测，不构成任何投资建议。
 
 ### 小红书
 
-美国 vs 巴拉圭 赛前预测：USA 2-1 Paraguay。我会把战术、球员、伤病、赛程、历史、舆情、天气、心理、公开预测变化和专家观点都作为检查维度；当前缺口会降低信心等级。仅为足球赛事预测，不构成任何投资建议。
+美国 vs 巴拉圭赛前预测：美国 2-1。
+
+美国优势很清楚：Los Angeles 主场、排名更高、阵容可用性更完整，Pulisic 和 Balogun 的前场组合也更有持续制造机会的能力。风险也很具体：巴拉圭防守硬、转换快，Sanabria 和 Almiron 能把一次失误变成威胁。
+
+仅为足球赛事预测，不构成任何投资建议。
 
 ### 微博
 
-D 组 预测：USA 2-1 Paraguay。依据是官方赛程、排名快照、场地环境和比赛风险。仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
+D 组预测：美国 2-1 巴拉圭。美国主场、排名和阵容可用性占优；巴拉圭的低位防守、定位球和反击会让比赛很难轻松拉开。信心等级：中等。
+
+仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
 
 ### 微信
 
-美国 vs 巴拉圭 的预测是 USA 2-1 Paraguay。当前判断来自官方赛程、场地、FIFA 排名快照和小组赛首轮风险控制。仅为足球赛事预测，不构成任何投资建议。
+美国 vs 巴拉圭的预测是美国 2-1。
+
+美国的优势来自 Los Angeles 主场、排名基础和官方比赛页显示的阵容可用性。比赛脚本上，美国更可能通过 Pulisic、Balogun、McKennie、Adams 和边路推进制造持续压力。
+
+但巴拉圭的风险不可忽视。他们可以让出控球，保护中路，再通过 Almiron、Diego Gomez、Enciso 或 Sanabria 找转换和禁区机会。若美国开局急躁，比赛会很快进入一球差拉扯。仅为足球赛事预测，不构成任何投资建议。
 
 ## 免责声明
 
-This is a football match prediction only. It does not constitute investment advice, financial advice, or any guarantee of outcome.
+This is a football match prediction only. It does not constitute investment advice or any guarantee of outcome.
 
-仅为足球赛事预测，不构成任何投资建议、财务建议或结果承诺。
+仅为足球赛事预测，不构成任何投资建议或结果承诺。
 
 ## 来源快照
 
-- FIFA 赛程页：https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
-- FIFA 更新时间表公告：https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches
+- FIFA 赛程页：https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
 - FIFA 赛程 PDF：https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
-- FIFA USA 排名页：https://inside.fifa.com/fifa-world-ranking/USA?gender=men
-- FIFA PAR 排名页：https://inside.fifa.com/fifa-world-ranking/PAR?gender=men
+- FIFA 球队名单 PDF：https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf
+- FIFA 美国排名页：https://inside.fifa.com/fifa-world-ranking/USA?gender=men
+- FIFA 巴拉圭排名页：https://inside.fifa.com/fifa-world-ranking/PAR?gender=men
+- U.S. Soccer 比赛页：https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights
+- Sports Mole 美国 vs 巴拉圭赛前新闻：https://www.sportsmole.co.uk/football/usa/world-cup-2026/preview/usa-vs-paraguay-prediction-team-news-lineups_598859.html
+- Climate Central 比赛热风险资料：https://www.climatecentral.org/world-cup-2026/matches/4
+- 核验时间：2026-06-12T00:36:14Z

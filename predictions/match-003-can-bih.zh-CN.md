@@ -6,13 +6,14 @@ kickoff_utc: "2026-06-12T19:00:00Z"
 venue: "Toronto Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-source_snapshot_at: "2026-06-11T00:00:06Z"
+updated_at: "2026-06-12T01:05:00Z"
+source_snapshot_at: "2026-06-12T01:05:00Z"
 image_file: "../assets/cards/match-003-can-bih.png"
 ---
 
 # 第 003 场：加拿大 vs 波黑
 
-[首页](../docs/README.zh-CN.md) | [English](match-003-can-bih.md) | [日报](../reports/daily/2026-06-10.zh-CN.md)
+[首页](../docs/README.zh-CN.md) | [English](match-003-can-bih.md) | [日报](../reports/daily/2026-06-12.zh-CN.md)
 
 ## 预测配图
 
@@ -21,85 +22,113 @@ image_file: "../assets/cards/match-003-can-bih.png"
 配图生成指令：
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“加拿大 vs 波黑”，副标题可保留英文“Canada vs Bosnia and Herzegovina”，世界杯小组赛氛围，足球场、球队配色元素，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，主标题使用简体中文“加拿大 vs 波黑”，副标题“预测：加拿大 2-1”，小字“B 组｜Toronto Stadium”，世界杯小组赛氛围，真实足球场、加拿大红白与波黑蓝黄配色、无品牌球员剪影，真实位图图片，用于抖音、小红书、微博和微信分享；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印，不要使用真实球队徽章或赞助商标志，不要出现任何非赛事诱导文字。
 ```
 
 ## 预测
 
 | 结果 | 概率 |
 | --- | ---: |
-| 加拿大胜 | 53% |
-| 平局 | 26% |
+| 加拿大胜 | 52% |
+| 平局 | 27% |
 | 波黑胜 | 21% |
 
 - 预测胜者：加拿大
-- 预测比分：Canada 2-1 Bosnia and Herzegovina
+- 预测比分：加拿大 2-1 波黑
 - 信心等级：中等
 - 模型：ChatGPT 5.5 ultra-high reasoning
 
 ## 事实依据
 
-- 官方赛程：Canada vs Bosnia and Herzegovina 是 2026 年 FIFA 世界杯 B 组 比赛。
-- 开球时间和场地：2026-06-12 19:00 UTC，Toronto Stadium。
-- 当前仓库快照已纳入官方赛程、球队、场地和 FIFA 排名信息。
-- 数据缺口：当前快照尚未包含确认首发、球员级名单、伤病停赛、公开预测变化或专家观点数据。
+- 官方赛程：加拿大 vs 波黑是第 003 场，属于 B 组，开球时间为 2026-06-12 19:00 UTC，比赛地为 Toronto Stadium。
+- 时间换算：多伦多当地时间为 2026-06-12 15:00，北京时间为 2026-06-13 03:00。
+- 东道主背景：这是加拿大男足首次在本土参加世界杯正赛，主场和观众是优势，但期待值也会带来额外压力。
+- 排名快照：当前仓库记录的 FIFA 排名为加拿大第 30、波黑第 64。
+- 阵容与可用性：FIFA 已发布 48 队最终名单。Bavarian Football Works 报道 Alphonso Davies 无缘加拿大首战；Guardian 报道 Ismael Kone 和 Moise Bombito 可以出场。Guardian 和 FourFourTwo 的资料都把 Edin Dzeko 作为波黑的老将进攻支点。
+- 战术人员背景：加拿大仍有 Jonathan David、Cyle Larin、Tajon Buchanan、Stephen Eustaquio 等进攻和中场支点，但 Davies 缺阵会削弱左路持球推进和回追速度。波黑可以围绕 Dzeko 支点、二点球和定位球制造威胁。
+- 场地与天气：Climate Central 对第 003 场给出需要关注的热风险背景，多伦多赛前报道也提示存在天气扰动可能。天气不是决定性实力信号，但会影响节奏和专注度。
+- 数据缺口：仓库尚未保存官方首发、最终比赛日伤停公告、实时天气和已核验的公开预测变化。
 
 ## 预测覆盖检查
 
 | 维度 | 快照状态 | 对信心的影响 |
 | --- | --- | --- |
-| 战术 | 已按基础比赛脚本覆盖：加拿大拥有主场和排名优势，但波黑定位球与反击保留冷门路径。 | 支持当前倾向，但具体战术尚未确认。 |
-| 球员 | 已通过球队强度、排名和名单发布状态进行团队层面覆盖。 | 球员级数据不足限制信心。 |
-| 伤病 / 停赛 | 当前仓库快照未确认。 | 可用性缺口降低确定性。 |
-| 赛程 / 休息 / 旅行 | 已覆盖开球时间、场地和开赛窗口。 | 支持赛程风险判断。 |
-| 历史 | 当前快照仅作小组赛首轮和场地背景参考。 | 不作为决定性依据。 |
-| 舆情 | 尚未从可靠当前来源验证。 | 不作为已确认信号使用。 |
-| 天气 / 场馆条件 | 已覆盖场地；比赛日天气尚未验证。 | 天气仍需赛前跟踪。 |
-| 心理 | 已覆盖首轮压力和小组赛动机。 | 提高比赛方差。 |
-| 公开预测变化 | 暂未纳入，因为仓库尚未保存可靠公开预测快照。 | 缺少外部确认。 |
-| 专家观点 | 暂未纳入，因为仓库尚未保存专家来源快照。 | 缺少专家共识参考。 |
+| 战术 | 加拿大预计会在主场争取更多控球和边路推进，但 Davies 缺阵后左路爆点下降。波黑可以收紧阵型，找 Dzeko 支点、二点球和定位球。 | 倾向加拿大，但优势不如“主场 + 排名”那么大。 |
+| 球员 | 加拿大有 David、Larin、Buchanan、Eustaquio，且 Kone、Bombito 可用；Dzeko 是波黑名单与赛前资料中的核心支点，球队也有欧洲比赛经验。 | 加拿大略占优，但 Davies 缺阵压低上限。 |
+| 伤病 / 停赛 | Davies 被报道缺阵；Kone 和 Bombito 被报道可用；本快照没有找到确认 Dzeko 无法出场的可靠赛前来源；最终首发尚未确认。 | 混合信号：加拿大失去关键爆点，波黑保留禁区支点。 |
+| 赛程 / 休息 / 旅行 | 加拿大在 Toronto 主场开局；波黑需要客场旅行并面对主队氛围。 | 支持加拿大。 |
+| 交锋与赛事历史 | 仓库没有足以决定判断的近期交锋信号；更重要的是加拿大本土世界杯首战的历史语境。 | 提升动机，也提高压力波动。 |
+| 舆情 / 媒体叙事 | 加拿大媒体将这场视为历史性主场窗口，同时也强调没有 Davies 的调整难度。 | 情绪加成与压力并存。 |
+| 天气 / 场馆条件 | 多伦多下午存在热风险和天气扰动背景。节奏被打断时，弱势方更容易把比赛压成一球差。 | 提高平局风险，降低信心等级。 |
+| 心理 / 压力 / 动机 | 加拿大有主场和小组赛开局动机；波黑可以用更低外部压力的姿态扮演挑战者。 | 加拿大动机占优，但不是低波动场景。 |
+| 公开预测变化 | 仓库没有已核验的变化快照；本节只使用足球分析语境。 | 不作为确认依据。 |
+| 专家观点 | 当前公开赛前分析整体仍因主场和排名倾向加拿大，但最新球队新闻使 Davies 缺阵和波黑的 Dzeko 支点路线成为必须修正的变量。 | 支持加拿大小胜，而不是大胜判断。 |
 
 ## 预测逻辑
 
-1. **基础实力先定基准。** 当前排名和场地背景是主要量化信号。
-2. **小组赛首轮降低激进程度。** 首场比赛通常更重视风险控制。
-3. **弱势方仍有明确路径。** 防守阵型、定位球、转换进攻或早段事件都可能改变局面。
-4. **比分判断来自预期比赛脚本。** 当前比分预测在优势方条件和杯赛波动之间做平衡。
+1. **加拿大仍是更好的基准方，但优势被削薄。** 主场、排名第 30 对第 64、以及更完整的前场选择让加拿大保持领先；Davies 缺阵则让最明显的边路错位消失。
+2. **波黑有明确的追平或反超路径。** 只要 Dzeko 能压住中卫并带动二点球，波黑就能把加拿大拖入防传中和防定位球的场景。
+3. **Toronto 主场是加成，也是压力。** 主场观众会推动加拿大持续压上，但本土世界杯首战也可能带来开局急躁。
+4. **天气和比赛状态更支持一球差判断。** 热风险、天气扰动和小组赛首战谨慎性，都让大比分加拿大胜不够稳。
+5. **比分判断：加拿大 2-1 波黑。** 基础剧本是加拿大创造更多机会并打进两球，波黑则凭借高点和定位球制造进球或最后阶段压力。
 
 ## 风险因素
 
-- 最终首发、伤病和战术选择尚未锁定到仓库快照中。
-- 定位球、早段进球、红牌或门将失误可能显著改变比赛状态。
-- 如果优势方不能先进球，平局概率会上升。
+- Davies 缺阵可能影响加拿大左路推进、回追和局部突破质量。
+- 如果 Dzeko 首发或作为前场支点使用，波黑在传中、头球、二点球和定位球上会更有威胁。
+- 多伦多天气扰动可能降低比赛连续性，增加偶发事件。
+- 如果加拿大先丢球，主场压力会放大，平局概率会明显上升。
+- 仓库尚未保存官方首发名单。
 
 ## 平台发布文案
 
 ### 抖音
 
-世界杯 B 组 预测：加拿大 vs 波黑。我倾向 Canada 2-1 Bosnia and Herzegovina。判断依据包括官方赛程、场地、排名快照和主要风险路径。仅为足球赛事预测，不构成任何投资建议。
+世界杯 B 组预测：加拿大 vs 波黑。
+
+我倾向加拿大 2-1。加拿大有主场、排名和进攻深度优势，但 Davies 缺阵会削弱左路推进；波黑的机会在 Dzeko 支点、二点球和定位球。
+
+仅为足球赛事预测，不构成任何投资建议。
 
 ### 小红书
 
-加拿大 vs 波黑 赛前预测：Canada 2-1 Bosnia and Herzegovina。我会把战术、球员、伤病、赛程、历史、舆情、天气、心理、公开预测变化和专家观点都作为检查维度；当前缺口会降低信心等级。仅为足球赛事预测，不构成任何投资建议。
+加拿大 vs 波黑赛前预测：加拿大 2-1。
+
+这场不是简单的“东道主稳拿”。加拿大优势来自 Toronto 主场、整体排名和前场人选；风险来自 Davies 缺阵、波黑高点和可能的天气扰动。我的判断是加拿大更可能赢，但过程会偏紧。
+
+仅为足球赛事预测，不构成任何投资建议。
 
 ### 微博
 
-B 组 预测：Canada 2-1 Bosnia and Herzegovina。依据是官方赛程、排名快照、场地环境和比赛风险。仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
+B 组预测：加拿大 2-1 波黑。加拿大主场和排名占优，但 Davies 缺阵会降低边路爆点；波黑有 Dzeko 支点和定位球路线。信心等级：中等。
+
+仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
 
 ### 微信
 
-加拿大 vs 波黑 的预测是 Canada 2-1 Bosnia and Herzegovina。当前判断来自官方赛程、场地、FIFA 排名快照和小组赛首轮风险控制。仅为足球赛事预测，不构成任何投资建议。
+加拿大 vs 波黑的预测是加拿大 2-1。
+
+核心逻辑有三点：第一，加拿大在 Toronto 开局，主场和排名信号都占优；第二，Davies 缺阵会让加拿大左路推进和回追质量下降；第三，波黑不是没有办法，他们可以通过 Dzeko 支点、二点球和定位球把比赛拖进一球差。
+
+所以这场倾向加拿大，但不是高信心大胜。若加拿大先进球，比赛会更接近主队节奏；若波黑先守住前 30 分钟并制造定位球压力，平局风险会明显上升。仅为足球赛事预测，不构成任何投资建议。
 
 ## 免责声明
 
-This is a football match prediction only. It does not constitute investment advice, financial advice, or any guarantee of outcome.
+This is a football match prediction only. It does not constitute investment advice or any guarantee of outcome.
 
-仅为足球赛事预测，不构成任何投资建议、财务建议或结果承诺。
+仅为足球赛事预测，不构成任何投资建议或结果承诺。
 
 ## 来源快照
 
-- FIFA 赛程页：https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
-- FIFA 更新时间表公告：https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches
+- FIFA 赛程页：https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
 - FIFA 赛程 PDF：https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
-- FIFA CAN 排名页：https://inside.fifa.com/fifa-world-ranking/CAN?gender=men
-- FIFA BIH 排名页：https://inside.fifa.com/fifa-world-ranking/BIH?gender=men
+- FIFA 球队名单 PDF：https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf
+- FIFA 加拿大排名页：https://inside.fifa.com/fifa-world-ranking/CAN?gender=men
+- FIFA 波黑排名页：https://inside.fifa.com/fifa-world-ranking/BIH?gender=men
+- Canada Soccer 比赛页：https://www.canadasoccer.com/events/canmnt-fifa-world-cup/?matchId=7248
+- Guardian 加拿大球队新闻：https://www.theguardian.com/football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup
+- Bavarian Football Works Davies 可用性报道：https://www.bavarianfootballworks.com/germany-international-soccer/214142/breaking-alphonso-davies-out-for-canada-vs-bosnia-herzegovina
+- Guardian Edin Dzeko 专访：https://www.theguardian.com/football/2026/jun/09/playing-at-40-edin-dzeko-bosnia-and-herzegovina-world-cup
+- FourFourTwo 波黑名单资料：https://www.fourfourtwo.com/team/bosnia-world-cup-2026-squad
+- Climate Central 比赛热风险资料：https://www.climatecentral.org/world-cup-2026/matches/3
+- 核验时间：2026-06-12T01:05:00Z
