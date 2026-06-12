@@ -13,19 +13,18 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-11 |
+| Data snapshot | 2026-06-12 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 8 |
-| Predictions published | 8 |
-| Final results tracked | 0 |
-| Post-match reviews published | 0 |
+| Tracked matches in repository | 11 |
+| Predictions published | 11 |
+| Final results tracked | 1 |
+| Post-match reviews published | 1 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Mexico vs South Africa | Group A | 2026-06-11 19:00 UTC | Mexico City Stadium | [Mexico win, 2-0](predictions/match-001-mex-rsa.md) / [简体中文](predictions/match-001-mex-rsa.zh-CN.md) |
 | Korea Republic vs Czechia | Group A | 2026-06-12 02:00 UTC | Estadio Guadalajara | [Draw, 1-1](predictions/match-002-kor-cze.md) / [简体中文](predictions/match-002-kor-cze.zh-CN.md) |
 | Canada vs Bosnia and Herzegovina | Group B | 2026-06-12 19:00 UTC | Toronto Stadium | [Canada win, 2-1](predictions/match-003-can-bih.md) / [简体中文](predictions/match-003-can-bih.zh-CN.md) |
 | USA vs Paraguay | Group D | 2026-06-13 01:00 UTC | Los Angeles Stadium | [USA win, 2-1](predictions/match-004-usa-par.md) / [简体中文](predictions/match-004-usa-par.zh-CN.md) |
@@ -33,6 +32,9 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 | Brazil vs Morocco | Group C | 2026-06-13 22:00 UTC | New York New Jersey Stadium | [Brazil win, 2-1](predictions/match-007-bra-mar.md) / [简体中文](predictions/match-007-bra-mar.zh-CN.md) |
 | Haiti vs Scotland | Group C | 2026-06-14 01:00 UTC | Boston Stadium | [Scotland win, 2-1](predictions/match-005-hai-sco.md) / [简体中文](predictions/match-005-hai-sco.zh-CN.md) |
 | Australia vs Türkiye | Group D | 2026-06-14 04:00 UTC | BC Place Vancouver | [Türkiye win, 2-1](predictions/match-006-aus-tur.md) / [简体中文](predictions/match-006-aus-tur.zh-CN.md) |
+| Germany vs Curaçao | Group E | 2026-06-14 17:00 UTC | Houston Stadium | [Germany win, 3-0](predictions/match-010-ger-cuw.md) / [简体中文](predictions/match-010-ger-cuw.zh-CN.md) |
+| Netherlands vs Japan | Group F | 2026-06-14 20:00 UTC | Dallas Stadium | [Netherlands win, 2-1](predictions/match-011-ned-jpn.md) / [简体中文](predictions/match-011-ned-jpn.zh-CN.md) |
+| Côte d'Ivoire vs Ecuador | Group E | 2026-06-14 23:00 UTC | Philadelphia Stadium | [Draw, 1-1](predictions/match-009-civ-ecu.md) / [简体中文](predictions/match-009-civ-ecu.zh-CN.md) |
 
 ## Featured Prediction Cards
 
@@ -44,12 +46,15 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 [![Australia vs Türkiye prediction card](assets/cards/match-006-aus-tur.png)](predictions/match-006-aus-tur.md)
 [![Brazil vs Morocco prediction card](assets/cards/match-007-bra-mar.png)](predictions/match-007-bra-mar.md)
 [![Qatar vs Switzerland prediction card](assets/cards/match-008-qat-sui.png)](predictions/match-008-qat-sui.md)
+[![Côte d'Ivoire vs Ecuador prediction card](assets/cards/match-009-civ-ecu.png)](predictions/match-009-civ-ecu.md)
+[![Germany vs Curaçao prediction card](assets/cards/match-010-ger-cuw.png)](predictions/match-010-ger-cuw.md)
+[![Netherlands vs Japan prediction card](assets/cards/match-011-ned-jpn.png)](predictions/match-011-ned-jpn.md)
 
 Share images live under [`assets/cards/`](assets/cards/).
 
 ## Today
 
-Opening day is scheduled for 2026-06-11. Mexico vs South Africa kicks off at 19:00 UTC, and Korea Republic vs Czechia follows at 02:00 UTC on 2026-06-12.
+Mexico opened the tournament with a 2-0 win over South Africa. The current 72-hour prediction window runs through Côte d'Ivoire vs Ecuador on 2026-06-14 23:00 UTC.
 
 ## Reasoning Model
 
@@ -77,8 +82,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 008: Qatar vs Switzerland](predictions/match-008-qat-sui.md)
-- Latest daily report: [2026-06-11](reports/daily/2026-06-11.md)
+- Latest prediction: [Match 011: Netherlands vs Japan](predictions/match-011-ned-jpn.md)
+- Latest review: [Match 001: Mexico vs South Africa](reviews/match-001-mex-rsa.md)
+- Latest daily report: [2026-06-12](reports/daily/2026-06-12.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)
 - Sources: [Source policy and current source list](docs/sources.md) / [简体中文](docs/sources.zh-CN.md)

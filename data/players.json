@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-11",
-    "coverage": "squad publication status for tracked teams through Match 008; player-level records pending ingestion",
+    "snapshot_date": "2026-06-12",
+    "coverage": "squad publication status for tracked teams through Match 011; player-level records pending ingestion",
     "official_player_count": 1248,
     "tracked_player_count": 0,
     "source_urls": [
       "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
     ],
-    "last_verified_at": "2026-06-11T00:00:06Z"
+    "last_verified_at": "2026-06-12T08:08:19+08:00"
   },
   "squad_snapshots": [
     { "team_code": "MEX", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
@@ -25,7 +25,13 @@
     { "team_code": "USA", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
     { "team_code": "PAR", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
     { "team_code": "AUS", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
-    { "team_code": "TUR", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" }
+    { "team_code": "TUR", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
+    { "team_code": "CIV", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
+    { "team_code": "ECU", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
+    { "team_code": "GER", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
+    { "team_code": "CUW", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
+    { "team_code": "NED", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" },
+    { "team_code": "JPN", "status": "confirmed", "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed" }
   ],
   "players": []
 }

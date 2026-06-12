@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-11",
-    "coverage": "teams in the opening matchday window through Match 008",
+    "snapshot_date": "2026-06-12",
+    "coverage": "teams in the opening matchday window through Match 011",
     "official_team_count": 48,
-    "tracked_team_count": 16,
+    "tracked_team_count": 22,
     "source_urls": [
       "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed",
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
     ],
-    "last_verified_at": "2026-06-11T00:00:06Z"
+    "last_verified_at": "2026-06-12T08:08:19+08:00"
   },
   "teams": [
     { "team_code": "MEX", "name": "Mexico", "group": "A", "confederation": "CONCACAF", "role": "co-host" },
@@ -27,6 +27,12 @@
     { "team_code": "USA", "name": "USA", "group": "D", "confederation": "CONCACAF", "role": "co-host" },
     { "team_code": "PAR", "name": "Paraguay", "group": "D", "confederation": "CONMEBOL", "role": "qualified team" },
     { "team_code": "AUS", "name": "Australia", "group": "D", "confederation": "AFC", "role": "qualified team" },
-    { "team_code": "TUR", "name": "Türkiye", "group": "D", "confederation": "UEFA", "role": "qualified team" }
+    { "team_code": "TUR", "name": "Türkiye", "group": "D", "confederation": "UEFA", "role": "qualified team" },
+    { "team_code": "CIV", "name": "Côte d'Ivoire", "group": "E", "confederation": "CAF", "role": "qualified team" },
+    { "team_code": "ECU", "name": "Ecuador", "group": "E", "confederation": "CONMEBOL", "role": "qualified team" },
+    { "team_code": "GER", "name": "Germany", "group": "E", "confederation": "UEFA", "role": "qualified team" },
+    { "team_code": "CUW", "name": "Curaçao", "group": "E", "confederation": "CONCACAF", "role": "qualified team" },
+    { "team_code": "NED", "name": "Netherlands", "group": "F", "confederation": "UEFA", "role": "qualified team" },
+    { "team_code": "JPN", "name": "Japan", "group": "F", "confederation": "AFC", "role": "qualified team" }
   ]
 }

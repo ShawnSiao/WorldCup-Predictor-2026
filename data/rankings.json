@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-11",
-    "coverage": "teams in the opening matchday window through Match 008",
-    "ranking_source": "FIFA/Coca-Cola Men's World Ranking team pages, with one reputable media cross-check where the FIFA team page text fetch was incomplete",
-    "last_official_update": "2026-04-01",
-    "next_official_update": "2026-06-11",
+    "snapshot_date": "2026-06-12",
+    "coverage": "teams in the opening matchday window through Match 011",
+    "ranking_source": "FIFA/Coca-Cola Men's World Ranking team pages",
+    "last_official_update": "2026-06-11",
+    "next_official_update": "2026-07-20",
     "source_urls": [
       "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men",
@@ -22,32 +22,37 @@
       "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/AUS?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/TUR?gender=men",
-      "https://www.sfchronicle.com/sports/article/ranking-12-world-cup-groups-toughest-tamest-22298432.php"
+      "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/GER?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/NED?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men"
     ],
-    "last_verified_at": "2026-06-11T00:00:06Z"
+    "last_verified_at": "2026-06-12T08:08:19+08:00"
   },
   "rankings": [
-    { "team_code": "MEX", "team": "Mexico", "rank": 15, "source_url": "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men" },
+    { "team_code": "MEX", "team": "Mexico", "rank": 14, "source_url": "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men" },
     { "team_code": "RSA", "team": "South Africa", "rank": 60, "source_url": "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men" },
     { "team_code": "KOR", "team": "Korea Republic", "rank": 25, "source_url": "https://inside.fifa.com/fifa-world-ranking/KOR?gender=men" },
-    { "team_code": "CZE", "team": "Czechia", "rank": 41, "source_url": "https://inside.fifa.com/fifa-world-ranking/CZE?gender=men" },
+    { "team_code": "CZE", "team": "Czechia", "rank": 40, "source_url": "https://inside.fifa.com/fifa-world-ranking/CZE?gender=men" },
     { "team_code": "CAN", "team": "Canada", "rank": 30, "source_url": "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men" },
-    { "team_code": "BIH", "team": "Bosnia and Herzegovina", "rank": 65, "source_url": "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men" },
-    { "team_code": "QAT", "team": "Qatar", "rank": 55, "source_url": "https://inside.fifa.com/fifa-world-ranking/QAT?gender=men" },
+    { "team_code": "BIH", "team": "Bosnia and Herzegovina", "rank": 64, "source_url": "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men" },
+    { "team_code": "QAT", "team": "Qatar", "rank": 56, "source_url": "https://inside.fifa.com/fifa-world-ranking/QAT?gender=men" },
     { "team_code": "SUI", "team": "Switzerland", "rank": 19, "source_url": "https://inside.fifa.com/fifa-world-ranking/SUI?gender=men" },
     { "team_code": "HAI", "team": "Haiti", "rank": 83, "source_url": "https://inside.fifa.com/fifa-world-ranking/HAI?gender=men" },
-    { "team_code": "SCO", "team": "Scotland", "rank": 43, "source_url": "https://inside.fifa.com/fifa-world-ranking/SCO?gender=men" },
-    {
-      "team_code": "BRA",
-      "team": "Brazil",
-      "rank": 6,
-      "source_url": "https://www.sfchronicle.com/sports/article/ranking-12-world-cup-groups-toughest-tamest-22298432.php",
-      "source_note": "FIFA Brazil ranking page was checked but did not expose the current rank in the text fetch; cross-checked from a current reputable group preview."
-    },
-    { "team_code": "MAR", "team": "Morocco", "rank": 8, "source_url": "https://inside.fifa.com/fifa-world-ranking/MAR?gender=men" },
-    { "team_code": "USA", "team": "USA", "rank": 16, "source_url": "https://inside.fifa.com/fifa-world-ranking/USA?gender=men" },
-    { "team_code": "PAR", "team": "Paraguay", "rank": 40, "source_url": "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men" },
+    { "team_code": "SCO", "team": "Scotland", "rank": 42, "source_url": "https://inside.fifa.com/fifa-world-ranking/SCO?gender=men" },
+    { "team_code": "BRA", "team": "Brazil", "rank": 6, "source_url": "https://inside.fifa.com/fifa-world-ranking/BRA?gender=men" },
+    { "team_code": "MAR", "team": "Morocco", "rank": 7, "source_url": "https://inside.fifa.com/fifa-world-ranking/MAR?gender=men" },
+    { "team_code": "USA", "team": "USA", "rank": 17, "source_url": "https://inside.fifa.com/fifa-world-ranking/USA?gender=men" },
+    { "team_code": "PAR", "team": "Paraguay", "rank": 41, "source_url": "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men" },
     { "team_code": "AUS", "team": "Australia", "rank": 27, "source_url": "https://inside.fifa.com/fifa-world-ranking/AUS?gender=men" },
-    { "team_code": "TUR", "team": "Türkiye", "rank": 22, "source_url": "https://inside.fifa.com/fifa-world-ranking/TUR?gender=men" }
+    { "team_code": "TUR", "team": "Türkiye", "rank": 22, "source_url": "https://inside.fifa.com/fifa-world-ranking/TUR?gender=men" },
+    { "team_code": "CIV", "team": "Côte d'Ivoire", "rank": 33, "source_url": "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men" },
+    { "team_code": "ECU", "team": "Ecuador", "rank": 23, "source_url": "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men" },
+    { "team_code": "GER", "team": "Germany", "rank": 10, "source_url": "https://inside.fifa.com/fifa-world-ranking/GER?gender=men" },
+    { "team_code": "CUW", "team": "Curaçao", "rank": 82, "source_url": "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men" },
+    { "team_code": "NED", "team": "Netherlands", "rank": 8, "source_url": "https://inside.fifa.com/fifa-world-ranking/NED?gender=men" },
+    { "team_code": "JPN", "team": "Japan", "rank": 18, "source_url": "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men" }
   ]
 }

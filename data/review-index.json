@@ -1,8 +1,21 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-11",
-    "tracked_review_count": 0,
-    "last_verified_at": "2026-06-11T00:00:06Z"
+    "snapshot_date": "2026-06-12",
+    "tracked_review_count": 1,
+    "last_verified_at": "2026-06-12T08:08:19+08:00"
   },
-  "reviews": []
+  "reviews": [
+    {
+      "match_id": "001",
+      "review_file": "reviews/match-001-mex-rsa.md",
+      "review_file_zh": "reviews/match-001-mex-rsa.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": "MEX",
+      "actual_winner": "MEX",
+      "predicted_score": "2-0",
+      "actual_score": "2-0",
+      "published_at": "2026-06-12T08:08:19+08:00",
+      "source_snapshot_at": "2026-06-12T08:08:19+08:00"
+    }
+  ]
 }

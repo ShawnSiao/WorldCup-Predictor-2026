@@ -13,19 +13,18 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-11 |
+| 数据快照 | 2026-06-12 |
 | 赛事周期 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已追踪比赛 | 8 |
-| 已发布预测 | 8 |
-| 已追踪赛果 | 0 |
-| 已发布复盘 | 0 |
+| 仓库已追踪比赛 | 11 |
+| 已发布预测 | 11 |
+| 已追踪赛果 | 1 |
+| 已发布复盘 | 1 |
 
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球时间 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 墨西哥 vs 南非 | A 组 | 2026-06-11 19:00 UTC | 墨西哥城体育场 | [墨西哥胜，2-0](../predictions/match-001-mex-rsa.zh-CN.md) / [English](../predictions/match-001-mex-rsa.md) |
 | 韩国 vs 捷克 | A 组 | 2026-06-12 02:00 UTC | Estadio Guadalajara | [平局，1-1](../predictions/match-002-kor-cze.zh-CN.md) / [English](../predictions/match-002-kor-cze.md) |
 | 加拿大 vs 波黑 | B 组 | 2026-06-12 19:00 UTC | Toronto Stadium | [加拿大胜，2-1](../predictions/match-003-can-bih.zh-CN.md) / [English](../predictions/match-003-can-bih.md) |
 | 美国 vs 巴拉圭 | D 组 | 2026-06-13 01:00 UTC | Los Angeles Stadium | [美国胜，2-1](../predictions/match-004-usa-par.zh-CN.md) / [English](../predictions/match-004-usa-par.md) |
@@ -33,6 +32,9 @@
 | 巴西 vs 摩洛哥 | C 组 | 2026-06-13 22:00 UTC | New York New Jersey Stadium | [巴西胜，2-1](../predictions/match-007-bra-mar.zh-CN.md) / [English](../predictions/match-007-bra-mar.md) |
 | 海地 vs 苏格兰 | C 组 | 2026-06-14 01:00 UTC | Boston Stadium | [苏格兰胜，2-1](../predictions/match-005-hai-sco.zh-CN.md) / [English](../predictions/match-005-hai-sco.md) |
 | 澳大利亚 vs 土耳其 | D 组 | 2026-06-14 04:00 UTC | BC Place Vancouver | [土耳其胜，2-1](../predictions/match-006-aus-tur.zh-CN.md) / [English](../predictions/match-006-aus-tur.md) |
+| 德国 vs 库拉索 | E 组 | 2026-06-14 17:00 UTC | Houston Stadium | [德国胜，3-0](../predictions/match-010-ger-cuw.zh-CN.md) / [English](../predictions/match-010-ger-cuw.md) |
+| 荷兰 vs 日本 | F 组 | 2026-06-14 20:00 UTC | Dallas Stadium | [荷兰胜，2-1](../predictions/match-011-ned-jpn.zh-CN.md) / [English](../predictions/match-011-ned-jpn.md) |
+| 科特迪瓦 vs 厄瓜多尔 | E 组 | 2026-06-14 23:00 UTC | Philadelphia Stadium | [平局，1-1](../predictions/match-009-civ-ecu.zh-CN.md) / [English](../predictions/match-009-civ-ecu.md) |
 
 ## 重点预测配图
 
@@ -44,12 +46,15 @@
 [![澳大利亚 vs 土耳其预测配图](../assets/cards/match-006-aus-tur.png)](../predictions/match-006-aus-tur.zh-CN.md)
 [![巴西 vs 摩洛哥预测配图](../assets/cards/match-007-bra-mar.png)](../predictions/match-007-bra-mar.zh-CN.md)
 [![卡塔尔 vs 瑞士预测配图](../assets/cards/match-008-qat-sui.png)](../predictions/match-008-qat-sui.zh-CN.md)
+[![科特迪瓦 vs 厄瓜多尔预测配图](../assets/cards/match-009-civ-ecu.png)](../predictions/match-009-civ-ecu.zh-CN.md)
+[![德国 vs 库拉索预测配图](../assets/cards/match-010-ger-cuw.png)](../predictions/match-010-ger-cuw.zh-CN.md)
+[![荷兰 vs 日本预测配图](../assets/cards/match-011-ned-jpn.png)](../predictions/match-011-ned-jpn.zh-CN.md)
 
 分享图片目录：[`assets/cards/`](../assets/cards/)。
 
 ## 今日赛程
 
-2026-06-11 是世界杯开幕日。墨西哥 vs 南非将于 19:00 UTC 开球，韩国 vs 捷克将于 2026-06-12 02:00 UTC 开球。
+墨西哥 2-0 战胜南非，完成本届世界杯揭幕战。当前 72 小时预测窗口覆盖至 2026-06-14 23:00 UTC 的科特迪瓦 vs 厄瓜多尔。
 
 ## 推理模型
 
@@ -77,8 +82,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 008 场：卡塔尔 vs 瑞士](../predictions/match-008-qat-sui.zh-CN.md) / [English](../predictions/match-008-qat-sui.md)
-- 最新日报：[2026-06-11](../reports/daily/2026-06-11.zh-CN.md) / [English](../reports/daily/2026-06-11.md)
+- 最新预测：[第 011 场：荷兰 vs 日本](../predictions/match-011-ned-jpn.zh-CN.md) / [English](../predictions/match-011-ned-jpn.md)
+- 最新复盘：[第 001 场：墨西哥 vs 南非](../reviews/match-001-mex-rsa.zh-CN.md) / [English](../reviews/match-001-mex-rsa.md)
+- 最新日报：[2026-06-12](../reports/daily/2026-06-12.zh-CN.md) / [English](../reports/daily/2026-06-12.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
 - 数据结构：[数据结构](data-schema.zh-CN.md) / [English](data-schema.md)
 - 来源说明：[来源政策与当前来源列表](sources.zh-CN.md) / [English](sources.md)

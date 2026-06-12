@@ -16,3 +16,6 @@
 | 006 | 澳大利亚 vs 土耳其 | 土耳其胜，2-1 | [English](match-006-aus-tur.md) / [简体中文](match-006-aus-tur.zh-CN.md) |
 | 007 | 巴西 vs 摩洛哥 | 巴西胜，2-1 | [English](match-007-bra-mar.md) / [简体中文](match-007-bra-mar.zh-CN.md) |
 | 008 | 卡塔尔 vs 瑞士 | 瑞士胜，2-0 | [English](match-008-qat-sui.md) / [简体中文](match-008-qat-sui.zh-CN.md) |
+| 009 | 科特迪瓦 vs 厄瓜多尔 | 平局，1-1 | [English](match-009-civ-ecu.md) / [简体中文](match-009-civ-ecu.zh-CN.md) |
+| 010 | 德国 vs 库拉索 | 德国胜，3-0 | [English](match-010-ger-cuw.md) / [简体中文](match-010-ger-cuw.zh-CN.md) |
+| 011 | 荷兰 vs 日本 | 荷兰胜，2-1 | [English](match-011-ned-jpn.md) / [简体中文](match-011-ned-jpn.zh-CN.md) |

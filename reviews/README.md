@@ -6,7 +6,9 @@ This directory stores post-match reviews. A review is created only after the off
 
 ## Published Reviews
 
-No post-match reviews have been published yet.
+| Match | Actual result | Prediction rating | File |
+| --- | --- | --- | --- |
+| 001 | Mexico 2-0 South Africa | correct | [English](match-001-mex-rsa.md) / [简体中文](match-001-mex-rsa.zh-CN.md) |
 
 ## Review Ratings
 

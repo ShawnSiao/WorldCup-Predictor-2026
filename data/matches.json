@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-11",
-    "coverage": "opening matchday window through Match 008",
+    "snapshot_date": "2026-06-12",
+    "coverage": "opening matchday window through Match 011",
     "official_match_count": 104,
-    "tracked_match_count": 8,
+    "tracked_match_count": 11,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
       "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
       "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
     ],
-    "last_verified_at": "2026-06-11T00:00:06Z"
+    "last_verified_at": "2026-06-12T08:08:19+08:00"
   },
   "matches": [
     {
@@ -26,13 +26,13 @@
       "country": "Mexico",
       "home_team_code": "MEX",
       "away_team_code": "RSA",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
       ],
-      "last_verified_at": "2026-06-11T11:01:20Z"
+      "last_verified_at": "2026-06-12T08:08:19+08:00"
     },
     {
       "match_id": "002",
@@ -176,6 +176,69 @@
         "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
       ],
       "last_verified_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "009",
+      "stage": "Group E",
+      "group": "E",
+      "kickoff_utc": "2026-06-14T23:00:00Z",
+      "kickoff_local": "2026-06-14T19:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "philadelphia-stadium",
+      "venue_name": "Philadelphia Stadium",
+      "city": "Philadelphia",
+      "country": "United States",
+      "home_team_code": "CIV",
+      "away_team_code": "ECU",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-12T08:08:19+08:00"
+    },
+    {
+      "match_id": "010",
+      "stage": "Group E",
+      "group": "E",
+      "kickoff_utc": "2026-06-14T17:00:00Z",
+      "kickoff_local": "2026-06-14T12:00:00-05:00",
+      "timezone": "America/Chicago",
+      "venue_id": "houston-stadium",
+      "venue_name": "Houston Stadium",
+      "city": "Houston",
+      "country": "United States",
+      "home_team_code": "GER",
+      "away_team_code": "CUW",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-12T08:08:19+08:00"
+    },
+    {
+      "match_id": "011",
+      "stage": "Group F",
+      "group": "F",
+      "kickoff_utc": "2026-06-14T20:00:00Z",
+      "kickoff_local": "2026-06-14T15:00:00-05:00",
+      "timezone": "America/Chicago",
+      "venue_id": "dallas-stadium",
+      "venue_name": "Dallas Stadium",
+      "city": "Dallas",
+      "country": "United States",
+      "home_team_code": "NED",
+      "away_team_code": "JPN",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-12T08:08:19+08:00"
     }
   ]
 }

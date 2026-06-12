@@ -30,6 +30,13 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | World Cup weather tracker | AccuWeather | https://www.accuweather.com/en/sports/live-news/world-cup-2026-weather-updates-forecasts-for-key-matches-stadium-conditions-and-fan-impacts/1898671 |
 | Match 001 heat profile | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/1 |
 | Fixture time cross-check | FourFourTwo | https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day |
+| Match 001 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live |
+| Group E forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/ |
+| Group F forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/ |
+| Germany squad context | FourFourTwo | https://www.fourfourtwo.com/team/germany-world-cup-2026-squad |
+| Netherlands squad context | FourFourTwo | https://www.fourfourtwo.com/team/netherlands-world-cup-2026-squad |
+| Japan squad context | FourFourTwo | https://www.fourfourtwo.com/team/japan-world-cup-2026-squad |
+| Ecuador eligibility context | FourFourTwo | https://www.fourfourtwo.com/person/player/decision-made-on-moises-caicedos-eligibility-for-world-cup-2026-report |
 | Group strength cross-check | SF Chronicle | https://www.sfchronicle.com/sports/article/ranking-12-world-cup-groups-toughest-tamest-22298432.php |
 | Squad confirmation | FIFA | https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed |
 | Mexico ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/MEX?gender=men |
@@ -48,11 +55,16 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Paraguay ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/PAR?gender=men |
 | Australia ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/AUS?gender=men |
 | Türkiye ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/TUR?gender=men |
+| Côte d'Ivoire ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/CIV?gender=men |
+| Ecuador ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ECU?gender=men |
+| Germany ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/GER?gender=men |
+| Curaçao ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/CUW?gender=men |
+| Netherlands ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/NED?gender=men |
+| Japan ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/JPN?gender=men |
 
 ## Current Known Gaps
 
 - Full 104-match structured schedule ingestion is pending.
 - Full 48-team player-level squad ingestion is pending.
-- Injury and expected-lineup sources have been added for Matches 001-002; the remaining tracked matches still need dedicated team-news sources before kickoff.
-- FIFA ranking pages show the last official men's ranking update as 2026-04-01, with the next official update listed for 2026-06-11.
-- Brazil's FIFA team ranking page was checked, but the text fetch did not expose a current rank; the repository stores a current media cross-check and keeps the FIFA page listed for re-verification.
+- Injury and expected-lineup sources have been added for Matches 001-002 and squad/availability context has been added for Matches 009-011; the remaining tracked matches still need dedicated team-news sources before kickoff.
+- FIFA ranking pages show the last official men's ranking update as 2026-06-11, with the next official update listed for 2026-07-20.

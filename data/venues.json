@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-11",
-    "coverage": "venues referenced by tracked matches through Match 008",
+    "snapshot_date": "2026-06-12",
+    "coverage": "venues referenced by tracked matches through Match 011",
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
     ],
-    "last_verified_at": "2026-06-11T00:00:06Z"
+    "last_verified_at": "2026-06-12T08:08:19+08:00"
   },
   "venues": [
     { "venue_id": "mexico-city-stadium", "name": "Mexico City Stadium", "city": "Mexico City", "country": "Mexico" },
@@ -16,6 +16,9 @@
     { "venue_id": "boston-stadium", "name": "Boston Stadium", "city": "Boston", "country": "United States" },
     { "venue_id": "bc-place-vancouver", "name": "BC Place Vancouver", "city": "Vancouver", "country": "Canada" },
     { "venue_id": "new-york-new-jersey-stadium", "name": "New York New Jersey Stadium", "city": "New York/New Jersey", "country": "United States" },
-    { "venue_id": "san-francisco-bay-area-stadium", "name": "San Francisco Bay Area Stadium", "city": "San Francisco Bay Area", "country": "United States" }
+    { "venue_id": "san-francisco-bay-area-stadium", "name": "San Francisco Bay Area Stadium", "city": "San Francisco Bay Area", "country": "United States" },
+    { "venue_id": "philadelphia-stadium", "name": "Philadelphia Stadium", "city": "Philadelphia", "country": "United States" },
+    { "venue_id": "houston-stadium", "name": "Houston Stadium", "city": "Houston", "country": "United States" },
+    { "venue_id": "dallas-stadium", "name": "Dallas Stadium", "city": "Dallas", "country": "United States" }
   ]
 }

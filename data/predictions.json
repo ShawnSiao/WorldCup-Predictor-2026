@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-11",
+    "snapshot_date": "2026-06-12",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-11T00:00:06Z"
+    "source_snapshot_at": "2026-06-12T08:08:19+08:00"
   },
   "predictions": [
     {
@@ -136,6 +136,54 @@
       "confidence": "medium",
       "published_at": "2026-06-11T00:00:06Z",
       "source_snapshot_at": "2026-06-11T00:00:06Z"
+    },
+    {
+      "match_id": "009",
+      "prediction_file": "predictions/match-009-civ-ecu.md",
+      "prediction_file_zh": "predictions/match-009-civ-ecu.zh-CN.md",
+      "image_file": "assets/cards/match-009-civ-ecu.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "draw",
+      "predicted_winner": null,
+      "predicted_score": "1-1",
+      "home_win_probability": 0.32,
+      "draw_probability": 0.34,
+      "away_win_probability": 0.34,
+      "confidence": "medium-low",
+      "published_at": "2026-06-12T08:08:19+08:00",
+      "source_snapshot_at": "2026-06-12T08:08:19+08:00"
+    },
+    {
+      "match_id": "010",
+      "prediction_file": "predictions/match-010-ger-cuw.md",
+      "prediction_file_zh": "predictions/match-010-ger-cuw.zh-CN.md",
+      "image_file": "assets/cards/match-010-ger-cuw.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "GER",
+      "predicted_score": "3-0",
+      "home_win_probability": 0.72,
+      "draw_probability": 0.18,
+      "away_win_probability": 0.1,
+      "confidence": "medium-high",
+      "published_at": "2026-06-12T08:08:19+08:00",
+      "source_snapshot_at": "2026-06-12T08:08:19+08:00"
+    },
+    {
+      "match_id": "011",
+      "prediction_file": "predictions/match-011-ned-jpn.md",
+      "prediction_file_zh": "predictions/match-011-ned-jpn.zh-CN.md",
+      "image_file": "assets/cards/match-011-ned-jpn.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "NED",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.48,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.24,
+      "confidence": "medium",
+      "published_at": "2026-06-12T08:08:19+08:00",
+      "source_snapshot_at": "2026-06-12T08:08:19+08:00"
     }
   ]
 }
