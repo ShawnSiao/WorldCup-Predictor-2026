@@ -31,6 +31,7 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Match 001 heat profile | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/1 |
 | Fixture time cross-check | FourFourTwo | https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day |
 | Match 001 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live |
+| Match 002 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest |
 | Group E forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/ |
 | Group F forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/ |
 | Germany squad context | FourFourTwo | https://www.fourfourtwo.com/team/germany-world-cup-2026-squad |

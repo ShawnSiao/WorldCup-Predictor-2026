@@ -1,12 +1,13 @@
 {
   "metadata": {
     "snapshot_date": "2026-06-12",
-    "tracked_result_count": 1,
+    "tracked_result_count": 2,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
-      "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live"
+      "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
+      "https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest"
     ],
-    "last_verified_at": "2026-06-12T08:08:19+08:00"
+    "last_verified_at": "2026-06-12T13:27:05+08:00"
   },
   "results": [
     {
@@ -23,6 +24,21 @@
         "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live"
       ],
       "last_verified_at": "2026-06-12T08:08:19+08:00"
+    },
+    {
+      "match_id": "002",
+      "home_team_code": "KOR",
+      "away_team_code": "CZE",
+      "home_score": 2,
+      "away_score": 1,
+      "winner_team_code": "KOR",
+      "status": "final",
+      "result_label": "Korea Republic 2-1 Czechia",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest"
+      ],
+      "last_verified_at": "2026-06-12T13:27:05+08:00"
     }
   ]
 }

@@ -18,14 +18,13 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 | Official match count | 104 |
 | Tracked matches in repository | 11 |
 | Predictions published | 11 |
-| Final results tracked | 1 |
-| Post-match reviews published | 1 |
+| Final results tracked | 2 |
+| Post-match reviews published | 2 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Korea Republic vs Czechia | Group A | 2026-06-12 02:00 UTC | Estadio Guadalajara | [Draw, 1-1](predictions/match-002-kor-cze.md) / [简体中文](predictions/match-002-kor-cze.zh-CN.md) |
 | Canada vs Bosnia and Herzegovina | Group B | 2026-06-12 19:00 UTC | Toronto Stadium | [Canada win, 2-1](predictions/match-003-can-bih.md) / [简体中文](predictions/match-003-can-bih.zh-CN.md) |
 | USA vs Paraguay | Group D | 2026-06-13 01:00 UTC | Los Angeles Stadium | [USA win, 2-1](predictions/match-004-usa-par.md) / [简体中文](predictions/match-004-usa-par.zh-CN.md) |
 | Qatar vs Switzerland | Group B | 2026-06-13 19:00 UTC | San Francisco Bay Area Stadium | [Switzerland win, 2-0](predictions/match-008-qat-sui.md) / [简体中文](predictions/match-008-qat-sui.zh-CN.md) |
@@ -54,7 +53,7 @@ Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds
 
 ## Today
 
-Mexico opened the tournament with a 2-0 win over South Africa. The current 72-hour prediction window runs through Côte d'Ivoire vs Ecuador on 2026-06-14 23:00 UTC.
+Mexico opened the tournament with a 2-0 win over South Africa, and Korea Republic followed with a 2-1 comeback win over Czechia. The current 72-hour prediction window runs through Côte d'Ivoire vs Ecuador on 2026-06-14 23:00 UTC.
 
 ## Reasoning Model
 
@@ -83,7 +82,7 @@ scheduled -> predicted -> live -> final -> reviewed
 ## Current Artifacts
 
 - Latest prediction: [Match 011: Netherlands vs Japan](predictions/match-011-ned-jpn.md)
-- Latest review: [Match 001: Mexico vs South Africa](reviews/match-001-mex-rsa.md)
+- Latest review: [Match 002: Korea Republic vs Czechia](reviews/match-002-kor-cze.md)
 - Latest daily report: [2026-06-12](reports/daily/2026-06-12.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

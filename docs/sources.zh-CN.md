@@ -31,6 +31,7 @@
 | 第 001 场热风险资料 | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/1 |
 | 开球时间交叉核验 | FourFourTwo | https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day |
 | 第 001 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live |
+| 第 002 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest |
 | E 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/ |
 | F 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/ |
 | 德国名单背景 | FourFourTwo | https://www.fourfourtwo.com/team/germany-world-cup-2026-squad |

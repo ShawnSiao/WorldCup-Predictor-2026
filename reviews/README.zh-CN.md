@@ -9,3 +9,4 @@
 | 场次 | 实际赛果 | 预测评级 | 文件 |
 | --- | --- | --- | --- |
 | 001 | Mexico 2-0 South Africa | correct | [English](match-001-mex-rsa.md) / [简体中文](match-001-mex-rsa.zh-CN.md) |
+| 002 | Korea Republic 2-1 Czechia | partial | [English](match-002-kor-cze.md) / [简体中文](match-002-kor-cze.zh-CN.md) |

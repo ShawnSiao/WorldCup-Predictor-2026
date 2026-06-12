@@ -10,7 +10,7 @@
       "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
       "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
     ],
-    "last_verified_at": "2026-06-12T08:08:19+08:00"
+    "last_verified_at": "2026-06-12T13:27:05+08:00"
   },
   "matches": [
     {
@@ -47,12 +47,12 @@
       "country": "Mexico",
       "home_team_code": "KOR",
       "away_team_code": "CZE",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
       ],
-      "last_verified_at": "2026-06-11T11:01:20Z"
+      "last_verified_at": "2026-06-12T13:27:05+08:00"
     },
     {
       "match_id": "003",
