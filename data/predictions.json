@@ -2,7 +2,7 @@
   "metadata": {
     "snapshot_date": "2026-06-12",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-12T01:05:00Z"
+    "source_snapshot_at": "2026-06-12T14:10:06+08:00"
   },
   "predictions": [
     {
@@ -56,8 +56,8 @@
       "away_win_probability": 0.21,
       "confidence": "medium",
       "published_at": "2026-06-10T00:20:00Z",
-      "updated_at": "2026-06-12T01:05:00Z",
-      "source_snapshot_at": "2026-06-12T01:05:00Z"
+      "updated_at": "2026-06-12T14:10:06+08:00",
+      "source_snapshot_at": "2026-06-12T14:10:06+08:00"
     },
     {
       "match_id": "004",
@@ -74,8 +74,8 @@
       "away_win_probability": 0.2,
       "confidence": "medium",
       "published_at": "2026-06-10T00:20:00Z",
-      "updated_at": "2026-06-12T00:36:14Z",
-      "source_snapshot_at": "2026-06-12T00:36:14Z"
+      "updated_at": "2026-06-12T14:10:06+08:00",
+      "source_snapshot_at": "2026-06-12T14:10:06+08:00"
     },
     {
       "match_id": "005",

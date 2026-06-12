@@ -32,6 +32,14 @@
 | 开球时间交叉核验 | FourFourTwo | https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day |
 | 第 001 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live |
 | 第 002 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest |
+| 加拿大 vs 波黑官方比赛页 | Canada Soccer | https://www.canadasoccer.com/events/canmnt-fifa-world-cup/?matchId=7248 |
+| 加拿大 vs 波黑球队新闻背景 | Guardian | https://www.theguardian.com/football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup |
+| 加拿大 Davies 可用性报道 | Bavarian Football Works | https://www.bavarianfootballworks.com/germany-international-soccer/214142/breaking-alphonso-davies-out-for-canada-vs-bosnia-herzegovina |
+| 波黑进攻支点资料 | Guardian | https://www.theguardian.com/football/2026/jun/09/playing-at-40-edin-dzeko-bosnia-and-herzegovina-world-cup |
+| 第 003 场热风险资料 | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/3 |
+| 美国 vs 巴拉圭官方比赛页 | U.S. Soccer | https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights |
+| 美国 vs 巴拉圭球队新闻预览 | Sports Mole | https://www.sportsmole.co.uk/football/usa/world-cup-2026/preview/usa-vs-paraguay-prediction-team-news-lineups_598859.html |
+| 第 004 场热风险资料 | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/4 |
 | E 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/ |
 | F 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/ |
 | 德国名单背景 | FourFourTwo | https://www.fourfourtwo.com/team/germany-world-cup-2026-squad |
@@ -68,5 +76,5 @@
 
 - 尚未导入官方 104 场完整结构化赛程。
 - 尚未导入 48 支球队完整球员名单快照。
-- 第 001-002 场已加入伤病和预计首发来源，第 009-011 场已加入名单 / 可用性背景；其余已追踪比赛仍需在开球前补充对应球队新闻来源。
+- 第 001-004 场已加入伤病、球队新闻和可用性来源，第 009-011 场已加入名单 / 可用性背景；其余已追踪比赛仍需在开球前补充对应球队新闻来源。
 - FIFA 排名页面显示最近一次男子排名更新时间为 2026-06-11，下一次官方更新时间为 2026-07-20。

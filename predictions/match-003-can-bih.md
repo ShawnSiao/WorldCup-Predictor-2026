@@ -6,8 +6,8 @@ kickoff_utc: "2026-06-12T19:00:00Z"
 venue: "Toronto Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-updated_at: "2026-06-12T01:05:00Z"
-source_snapshot_at: "2026-06-12T01:05:00Z"
+updated_at: "2026-06-12T14:10:06+08:00"
+source_snapshot_at: "2026-06-12T14:10:06+08:00"
 lead_image_file: "../assets/cards/match-003-can-bih-lead.png"
 image_file: "../assets/cards/match-003-can-bih.png"
 ---
@@ -72,6 +72,13 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位�
 | Psychology / pressure / motivation | Canada have the home opener and group-stage urgency; Bosnia and Herzegovina can play the spoiler role with less external pressure. | Canada motivation edge, but not a low-variance setup. |
 | Public forecast movement | No verified movement snapshot is stored in the repository; this section intentionally uses only football-analysis framing. | Not used as confirmed evidence. |
 | Expert views | Current public previews generally still lean Canada because of home field and ranking, while recent team-news coverage materially emphasizes the Davies-out adjustment and Bosnia and Herzegovina's Dzeko-led route. | Supports Canada by a narrow margin rather than a heavy favorite call. |
+
+## Pre-Kickoff Recheck
+
+- Rechecked at 2026-06-12T14:10:06+08:00 after the Match 001 and Match 002 post-match reviews. Mexico 2-0 South Africa supported the value of host-field control when the stronger side avoids discipline errors; Korea Republic 2-1 Czechia reinforced that one set-piece, second-ball, or bench-control sequence can swing a tight forecast.
+- Those lessons do not require a new predicted result. Canada still have the better baseline through home field, ranking gap, and attacking depth, but Davies' absence keeps the advantage narrow rather than raising it.
+- Bosnia and Herzegovina's route remains credible through Dzeko, aerial duels, second balls, and set pieces, so the draw and upset tail remains meaningful.
+- Recheck decision: keep Canada 2-1, keep 52% / 27% / 21% probabilities, and keep medium confidence. No image refresh is required because the predicted result and scoreline did not change.
 
 ## Prediction Logic
 
@@ -140,4 +147,4 @@ This is a football match prediction only. It does not constitute investment advi
 - Guardian Edin Dzeko profile: https://www.theguardian.com/football/2026/jun/09/playing-at-40-edin-dzeko-bosnia-and-herzegovina-world-cup
 - FourFourTwo Bosnia and Herzegovina squad profile: https://www.fourfourtwo.com/team/bosnia-world-cup-2026-squad
 - Climate Central match heat profile: https://www.climatecentral.org/world-cup-2026/matches/3
-- Verified at: 2026-06-12T01:05:00Z
+- Verified at: 2026-06-12T14:10:06+08:00

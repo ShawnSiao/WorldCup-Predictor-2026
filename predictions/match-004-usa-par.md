@@ -6,8 +6,8 @@ kickoff_utc: "2026-06-13T01:00:00Z"
 venue: "Los Angeles Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-10T00:20:00Z"
-updated_at: "2026-06-12T00:36:14Z"
-source_snapshot_at: "2026-06-12T00:36:14Z"
+updated_at: "2026-06-12T14:10:06+08:00"
+source_snapshot_at: "2026-06-12T14:10:06+08:00"
 lead_image_file: "../assets/cards/match-004-usa-par-lead.png"
 image_file: "../assets/cards/match-004-usa-par.png"
 ---
@@ -74,6 +74,13 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位�
 | Public forecast movement | No verified movement snapshot is stored in the repository; this section intentionally uses only football-analysis framing. | Not used as confirmed evidence. |
 | Expert views | Current public previews lean toward a tight USA home win, not a comfortable blowout. The strongest dissenting case is Paraguay's defensive block and transition value. | Supports USA 2-1. |
 
+## Pre-Kickoff Recheck
+
+- Rechecked at 2026-06-12T14:10:06+08:00 after the Match 001 and Match 002 post-match reviews. The opening Group A reviews support treating home/territory advantages as real but still pricing discipline, set pieces, and late control as high-leverage variables.
+- The current USA read remains stronger than Paraguay's through home field, ranking, squad availability, and attacking depth. That keeps the USA as the preferred winner.
+- The same review lessons argue against stretching the forecast into a comfortable host win. Paraguay's compact block, transition runners, box presence, and set-piece route still make one goal conceded a live scenario.
+- Recheck decision: keep USA 2-1, keep 56% / 24% / 20% probabilities, and keep medium confidence. No image refresh is required because the predicted result and scoreline did not change.
+
 ## Prediction Logic
 
 1. **The USA have the clearest pre-match edge of the two sides.** Home venue, rank 17 vs rank 41, full roster availability, and a deeper ball-progressing midfield all point toward the host.
@@ -138,4 +145,4 @@ This is a football match prediction only. It does not constitute investment advi
 - U.S. Soccer match hub: https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights
 - Sports Mole USA vs Paraguay team-news preview: https://www.sportsmole.co.uk/football/usa/world-cup-2026/preview/usa-vs-paraguay-prediction-team-news-lineups_598859.html
 - Climate Central match heat profile: https://www.climatecentral.org/world-cup-2026/matches/4
-- Verified at: 2026-06-12T00:36:14Z
+- Verified at: 2026-06-12T14:10:06+08:00

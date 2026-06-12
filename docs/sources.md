@@ -32,6 +32,14 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Fixture time cross-check | FourFourTwo | https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day |
 | Match 001 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live |
 | Match 002 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest |
+| Canada vs Bosnia and Herzegovina official match hub | Canada Soccer | https://www.canadasoccer.com/events/canmnt-fifa-world-cup/?matchId=7248 |
+| Canada vs Bosnia and Herzegovina team-news context | Guardian | https://www.theguardian.com/football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup |
+| Canada Davies availability report | Bavarian Football Works | https://www.bavarianfootballworks.com/germany-international-soccer/214142/breaking-alphonso-davies-out-for-canada-vs-bosnia-herzegovina |
+| Bosnia and Herzegovina attacking reference profile | Guardian | https://www.theguardian.com/football/2026/jun/09/playing-at-40-edin-dzeko-bosnia-and-herzegovina-world-cup |
+| Match 003 heat profile | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/3 |
+| USA vs Paraguay official match hub | U.S. Soccer | https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights |
+| USA vs Paraguay team-news preview | Sports Mole | https://www.sportsmole.co.uk/football/usa/world-cup-2026/preview/usa-vs-paraguay-prediction-team-news-lineups_598859.html |
+| Match 004 heat profile | Climate Central | https://www.climatecentral.org/world-cup-2026/matches/4 |
 | Group E forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/ |
 | Group F forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/ |
 | Germany squad context | FourFourTwo | https://www.fourfourtwo.com/team/germany-world-cup-2026-squad |
@@ -67,5 +75,5 @@ Secondary sources may be used only when they add context that FIFA does not publ
 
 - Full 104-match structured schedule ingestion is pending.
 - Full 48-team player-level squad ingestion is pending.
-- Injury and expected-lineup sources have been added for Matches 001-002 and squad/availability context has been added for Matches 009-011; the remaining tracked matches still need dedicated team-news sources before kickoff.
+- Injury, team-news, and availability sources have been added for Matches 001-004, and squad/availability context has been added for Matches 009-011; the remaining tracked matches still need dedicated team-news sources before kickoff.
 - FIFA ranking pages show the last official men's ranking update as 2026-06-11, with the next official update listed for 2026-07-20.
