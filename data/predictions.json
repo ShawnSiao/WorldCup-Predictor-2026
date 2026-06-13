@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-12",
+    "snapshot_date": "2026-06-13",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-12T14:10:06+08:00"
+    "source_snapshot_at": "2026-06-13T10:39:10+08:00"
   },
   "predictions": [
     {
@@ -195,6 +195,91 @@
       "confidence": "medium",
       "published_at": "2026-06-12T08:08:19+08:00",
       "source_snapshot_at": "2026-06-12T08:08:19+08:00"
+    },
+    {
+      "match_id": "012",
+      "prediction_file": "predictions/match-012-swe-tun.md",
+      "prediction_file_zh": "predictions/match-012-swe-tun.zh-CN.md",
+      "lead_image_file": "assets/cards/match-012-swe-tun-lead.png",
+      "image_file": "assets/cards/match-012-swe-tun.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "SWE",
+      "predicted_score": "1-0",
+      "home_win_probability": 0.43,
+      "draw_probability": 0.31,
+      "away_win_probability": 0.26,
+      "confidence": "medium-low",
+      "published_at": "2026-06-13T10:39:10+08:00",
+      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+    },
+    {
+      "match_id": "013",
+      "prediction_file": "predictions/match-013-ksa-uru.md",
+      "prediction_file_zh": "predictions/match-013-ksa-uru.zh-CN.md",
+      "lead_image_file": "assets/cards/match-013-ksa-uru-lead.png",
+      "image_file": "assets/cards/match-013-ksa-uru.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "URU",
+      "predicted_score": "0-2",
+      "home_win_probability": 0.15,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.6,
+      "confidence": "medium",
+      "published_at": "2026-06-13T10:39:10+08:00",
+      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+    },
+    {
+      "match_id": "014",
+      "prediction_file": "predictions/match-014-esp-cpv.md",
+      "prediction_file_zh": "predictions/match-014-esp-cpv.zh-CN.md",
+      "lead_image_file": "assets/cards/match-014-esp-cpv-lead.png",
+      "image_file": "assets/cards/match-014-esp-cpv.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "ESP",
+      "predicted_score": "3-0",
+      "home_win_probability": 0.76,
+      "draw_probability": 0.16,
+      "away_win_probability": 0.08,
+      "confidence": "medium-high",
+      "published_at": "2026-06-13T10:39:10+08:00",
+      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+    },
+    {
+      "match_id": "015",
+      "prediction_file": "predictions/match-015-irn-nzl.md",
+      "prediction_file_zh": "predictions/match-015-irn-nzl.zh-CN.md",
+      "lead_image_file": "assets/cards/match-015-irn-nzl-lead.png",
+      "image_file": "assets/cards/match-015-irn-nzl.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "IRN",
+      "predicted_score": "2-0",
+      "home_win_probability": 0.62,
+      "draw_probability": 0.24,
+      "away_win_probability": 0.14,
+      "confidence": "medium",
+      "published_at": "2026-06-13T10:39:10+08:00",
+      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+    },
+    {
+      "match_id": "016",
+      "prediction_file": "predictions/match-016-bel-egy.md",
+      "prediction_file_zh": "predictions/match-016-bel-egy.zh-CN.md",
+      "lead_image_file": "assets/cards/match-016-bel-egy-lead.png",
+      "image_file": "assets/cards/match-016-bel-egy.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "BEL",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.52,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.21,
+      "confidence": "medium",
+      "published_at": "2026-06-13T10:39:10+08:00",
+      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
     }
   ]
 }

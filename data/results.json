@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-12",
-    "tracked_result_count": 2,
+    "snapshot_date": "2026-06-13",
+    "tracked_result_count": 3,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
-      "https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest"
+      "https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest",
+      "https://www.mlssoccer.com/news/canada-fall-short-of-dream-world-cup-start-vs-bosnia-and-herzegovina",
+      "https://www.theguardian.com/football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live"
     ],
-    "last_verified_at": "2026-06-12T13:27:05+08:00"
+    "last_verified_at": "2026-06-13T10:39:10+08:00"
   },
   "results": [
     {
@@ -39,6 +41,22 @@
         "https://www.theguardian.com/football/live/2026/jun/12/fifa-world-cup-2026-live-south-korea-v-czechia-updates-kor-vs-cze-group-a-match-score-latest"
       ],
       "last_verified_at": "2026-06-12T13:27:05+08:00"
+    },
+    {
+      "match_id": "003",
+      "home_team_code": "CAN",
+      "away_team_code": "BIH",
+      "home_score": 1,
+      "away_score": 1,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "Canada 1-1 Bosnia and Herzegovina",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.mlssoccer.com/news/canada-fall-short-of-dream-world-cup-start-vs-bosnia-and-herzegovina",
+        "https://www.theguardian.com/football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live"
+      ],
+      "last_verified_at": "2026-06-13T10:39:10+08:00"
     }
   ]
 }

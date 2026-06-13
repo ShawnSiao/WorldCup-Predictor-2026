@@ -70,10 +70,29 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Curaçao ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/CUW?gender=men |
 | Netherlands ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/NED?gender=men |
 | Japan ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/JPN?gender=men |
+| Match 003 final result cross-check | MLSsoccer | https://www.mlssoccer.com/news/canada-fall-short-of-dream-world-cup-start-vs-bosnia-and-herzegovina |
+| Match 003 live report cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live |
+| Match 012 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474 |
+| Match 013 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486 |
+| Match 014 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482 |
+| Match 015 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476 |
+| Match 016 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478 |
+| Group G forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-g-preview-prediction-odds-full-team-overviews/ |
+| Group H forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-h-preview-prediction-odds-full-team-overviews/ |
+| Sweden ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/SWE?gender=men |
+| Tunisia ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/TUN?gender=men |
+| Saudi Arabia ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/KSA?gender=men |
+| Uruguay ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/URU?gender=men |
+| Spain ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ESP?gender=men |
+| Cabo Verde ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/CPV?gender=men |
+| IR Iran ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/IRN?gender=men |
+| New Zealand ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/NZL?gender=men |
+| Belgium ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/BEL?gender=men |
+| Egypt ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/EGY?gender=men |
 
 ## Current Known Gaps
 
 - Full 104-match structured schedule ingestion is pending.
 - Full 48-team player-level squad ingestion is pending.
-- Injury, team-news, and availability sources have been added for Matches 001-004, and squad/availability context has been added for Matches 009-011; the remaining tracked matches still need dedicated team-news sources before kickoff.
+- Injury, team-news, and availability sources have been added for Matches 001-004 and 009-016 where available; Matches 005-008 still need dedicated team-news sources before kickoff.
 - FIFA ranking pages show the last official men's ranking update as 2026-06-11, with the next official update listed for 2026-07-20.

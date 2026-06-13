@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-12",
-    "tracked_review_count": 2,
-    "last_verified_at": "2026-06-12T13:27:05+08:00"
+    "snapshot_date": "2026-06-13",
+    "tracked_review_count": 3,
+    "last_verified_at": "2026-06-13T10:39:10+08:00"
   },
   "reviews": [
     {
@@ -28,6 +28,18 @@
       "actual_score": "2-1",
       "published_at": "2026-06-12T13:27:05+08:00",
       "source_snapshot_at": "2026-06-12T13:27:05+08:00"
+    },
+    {
+      "match_id": "003",
+      "review_file": "reviews/match-003-can-bih.md",
+      "review_file_zh": "reviews/match-003-can-bih.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "CAN",
+      "actual_winner": null,
+      "predicted_score": "2-1",
+      "actual_score": "1-1",
+      "published_at": "2026-06-13T10:39:10+08:00",
+      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
     }
   ]
 }

@@ -21,3 +21,8 @@
 | 009 | 科特迪瓦 vs 厄瓜多尔 | 平局，1-1 | [English](match-009-civ-ecu.md) / [简体中文](match-009-civ-ecu.zh-CN.md) |
 | 010 | 德国 vs 库拉索 | 德国胜，3-0 | [English](match-010-ger-cuw.md) / [简体中文](match-010-ger-cuw.zh-CN.md) |
 | 011 | 荷兰 vs 日本 | 荷兰胜，2-1 | [English](match-011-ned-jpn.md) / [简体中文](match-011-ned-jpn.zh-CN.md) |
+| 012 | 瑞典 vs 突尼斯 | 瑞典胜，1-0 | [简体中文](match-012-swe-tun.zh-CN.md) / [English](match-012-swe-tun.md) |
+| 013 | 沙特阿拉伯 vs 乌拉圭 | 乌拉圭胜，2-0 | [简体中文](match-013-ksa-uru.zh-CN.md) / [English](match-013-ksa-uru.md) |
+| 014 | 西班牙 vs 佛得角 | 西班牙胜，3-0 | [简体中文](match-014-esp-cpv.zh-CN.md) / [English](match-014-esp-cpv.md) |
+| 015 | 伊朗 vs 新西兰 | 伊朗胜，2-0 | [简体中文](match-015-irn-nzl.zh-CN.md) / [English](match-015-irn-nzl.md) |
+| 016 | 比利时 vs 埃及 | 比利时胜，2-1 | [简体中文](match-016-bel-egy.zh-CN.md) / [English](match-016-bel-egy.md) |

@@ -10,6 +10,7 @@ This directory stores post-match reviews. A review is created only after the off
 | --- | --- | --- | --- |
 | 001 | Mexico 2-0 South Africa | correct | [English](match-001-mex-rsa.md) / [简体中文](match-001-mex-rsa.zh-CN.md) |
 | 002 | Korea Republic 2-1 Czechia | partial | [English](match-002-kor-cze.md) / [简体中文](match-002-kor-cze.zh-CN.md) |
+| 003 | Canada 1-1 Bosnia and Herzegovina | partial | [English](match-003-can-bih.md) / [简体中文](match-003-can-bih.zh-CN.md) |
 
 ## Review Ratings
 

@@ -70,11 +70,29 @@
 | 库拉索排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/CUW?gender=men |
 | 荷兰排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/NED?gender=men |
 | 日本排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/JPN?gender=men |
-
+| 第 003 场赛果交叉核验 MLS | MLSsoccer | https://www.mlssoccer.com/news/canada-fall-short-of-dream-world-cup-start-vs-bosnia-and-herzegovina |
+| 第 003 场直播交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live |
+| 第 012 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474 |
+| 第 013 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486 |
+| 第 014 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482 |
+| 第 015 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476 |
+| 第 016 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478 |
+| G 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-g-preview-prediction-odds-full-team-overviews/ |
+| H 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-h-preview-prediction-odds-full-team-overviews/ |
+| Sweden 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/SWE?gender=men |
+| Tunisia 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/TUN?gender=men |
+| Saudi Arabia 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/KSA?gender=men |
+| Uruguay 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/URU?gender=men |
+| Spain 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/ESP?gender=men |
+| Cabo Verde 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/CPV?gender=men |
+| IR Iran 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/IRN?gender=men |
+| New Zealand 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/NZL?gender=men |
+| Belgium 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/BEL?gender=men |
+| Egypt 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/EGY?gender=men |
 
 ## 当前已知缺口
 
 - 尚未导入官方 104 场完整结构化赛程。
 - 尚未导入 48 支球队完整球员名单快照。
-- 第 001-004 场已加入伤病、球队新闻和可用性来源，第 009-011 场已加入名单 / 可用性背景；其余已追踪比赛仍需在开球前补充对应球队新闻来源。
+- 第 001-004、009-016 场已在可用范围内加入伤病、球队新闻和可用性来源；第 005-008 场仍需在开球前补充对应球队新闻来源。
 - FIFA 排名页面显示最近一次男子排名更新时间为 2026-06-11，下一次官方更新时间为 2026-07-20。
