@@ -296,7 +296,27 @@
       "away_win_probability": 0.23,
       "confidence": "medium",
       "published_at": "2026-06-14T11:12:46+08:00",
-      "source_snapshot_at": "2026-06-14T11:12:46+08:00"
+      "source_snapshot_at": "2026-06-14T11:12:46+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.13,
+          "rationale": "France edge a balanced game while Senegal still score through transition or set pieces."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Senegal keep the match compact and the unresolved lineup/weather gaps preserve draw risk."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-0",
+          "probability": 0.09,
+          "rationale": "France control possession but the match stays low scoring if Senegal defend deep."
+        }
+      ]
     },
     {
       "match_id": "018",
@@ -313,7 +333,27 @@
       "away_win_probability": 0.56,
       "confidence": "medium",
       "published_at": "2026-06-14T11:12:46+08:00",
-      "source_snapshot_at": "2026-06-14T11:12:46+08:00"
+      "source_snapshot_at": "2026-06-14T11:12:46+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-2",
+          "probability": 0.14,
+          "rationale": "Norway convert the stronger attacking-ceiling signal and limit Iraq transition volume."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Iraq compact defending and set pieces turn the favorite lean into a draw path."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-1",
+          "probability": 0.12,
+          "rationale": "Norway win but the low block and missing late team-news detail keep the margin narrow."
+        }
+      ]
     },
     {
       "match_id": "019",
@@ -330,7 +370,27 @@
       "away_win_probability": 0.13,
       "confidence": "medium-high",
       "published_at": "2026-06-14T11:12:46+08:00",
-      "source_snapshot_at": "2026-06-14T11:12:46+08:00"
+      "source_snapshot_at": "2026-06-14T11:12:46+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-0",
+          "probability": 0.16,
+          "rationale": "Argentina possession control and squad-quality edge produce a controlled favorite result."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.08,
+          "rationale": "Algeria transition speed and uncertainty around final minutes/lineups keep a draw route alive."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "3-1",
+          "probability": 0.1,
+          "rationale": "Argentina turn territorial control into a wider result if the first goal arrives early."
+        }
+      ]
     }
   ]
 }

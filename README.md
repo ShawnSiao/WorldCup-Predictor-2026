@@ -96,6 +96,7 @@ scheduled -> predicted -> live -> final -> reviewed
 - Latest review: [Match 008: Qatar vs Switzerland](reviews/match-008-qat-sui.md)
 - Latest daily report: [2026-06-14](reports/daily/2026-06-14.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
+- Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)
 - Sources: [Source policy and current source list](docs/sources.md) / [简体中文](docs/sources.zh-CN.md)
 

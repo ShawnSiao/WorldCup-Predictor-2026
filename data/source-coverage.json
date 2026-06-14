@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "snapshot_date": "2026-06-14",
+    "purpose": "Source coverage plan for closing pre-match prediction data gaps.",
+    "last_reviewed_at": "2026-06-14T12:35:00+08:00"
+  },
+  "dimensions": [
+    {
+      "dimension": "schedule_results",
+      "coverage_status": "covered",
+      "primary_sources": [
+        "FIFA fixtures/results pages",
+        "FIFA match centre",
+        "official federation match hubs"
+      ],
+      "fallback_sources": [
+        "AP",
+        "Guardian live report",
+        "ESPN fixtures/results"
+      ],
+      "refresh_cadence": "Daily, plus immediately after final whistle for tracked matches.",
+      "prediction_use": "Match context, lifecycle status, result records, review triggers."
+    },
+    {
+      "dimension": "squads_players",
+      "coverage_status": "partially_covered",
+      "primary_sources": [
+        "FIFA confirmed squad lists",
+        "official federation squad announcements"
+      ],
+      "fallback_sources": [
+        "official club/federation player updates",
+        "reputable squad trackers"
+      ],
+      "refresh_cadence": "At T-72h, T-24h, and when official squad or lineup updates appear.",
+      "prediction_use": "Squad quality, depth, key-player availability, likely lineup quality."
+    },
+    {
+      "dimension": "injuries_suspensions_lineups",
+      "coverage_status": "gap_to_close",
+      "primary_sources": [
+        "official federation press conferences",
+        "official matchday lineups",
+        "official suspension/disciplinary notices"
+      ],
+      "fallback_sources": [
+        "reputable team-news previews",
+        "beat reporters with direct federation access",
+        "official broadcast lineup sheets"
+      ],
+      "refresh_cadence": "T-24h team-news pass, T-6h availability pass, and T-1h lineup pass.",
+      "prediction_use": "Confidence gate, late risk factors, scoreline-scenario adjustment."
+    },
+    {
+      "dimension": "weather_venue_pitch",
+      "coverage_status": "gap_to_close",
+      "primary_sources": [
+        "National Weather Service for United States venues",
+        "Environment and Climate Change Canada for Canada venues",
+        "Mexico national meteorological service for Mexico venues"
+      ],
+      "fallback_sources": [
+        "Open-Meteo forecast API",
+        "AccuWeather sports/weather tracker",
+        "venue roof or pitch-condition reports"
+      ],
+      "refresh_cadence": "T-72h baseline, T-24h forecast refresh, T-6h match-condition refresh.",
+      "prediction_use": "Tempo, fatigue, set-piece variance, finishing quality, draw risk."
+    },
+    {
+      "dimension": "odds_market_movement",
+      "coverage_status": "gap_to_close",
+      "primary_sources": [
+        "reputable public odds aggregators",
+        "bookmaker consensus snapshots where legally accessible"
+      ],
+      "fallback_sources": [
+        "reputable previews that cite current market prices",
+        "The Odds API or equivalent licensed feed if configured"
+      ],
+      "refresh_cadence": "T-72h opening snapshot, T-24h movement snapshot, T-6h final movement snapshot.",
+      "prediction_use": "Calibration signal only; never betting advice or proof of outcome."
+    },
+    {
+      "dimension": "expert_tactical_views",
+      "coverage_status": "partially_covered",
+      "primary_sources": [
+        "official broadcast/editorial previews",
+        "AP/Guardian/ESPN/Fox/SI tactical previews",
+        "official federation tactical quotes"
+      ],
+      "fallback_sources": [
+        "reputable local beat reporting",
+        "technical-stat previews"
+      ],
+      "refresh_cadence": "T-72h baseline and T-24h disagreement pass.",
+      "prediction_use": "Dissenting case, tactical matchup, public narrative, psychology."
+    },
+    {
+      "dimension": "post_match_error_tags",
+      "coverage_status": "new_required",
+      "primary_sources": [
+        "review-index.json",
+        "post-match review files",
+        "official final result"
+      ],
+      "fallback_sources": [
+        "manual review tags from daily automation"
+      ],
+      "refresh_cadence": "After each reviewed match.",
+      "prediction_use": "Calibration feedback for draw floor, favorite margin, clean-sheet, and underdog resilience."
+    }
+  ]
+}

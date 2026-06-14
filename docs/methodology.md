@@ -25,6 +25,8 @@ Each pre-match prediction must complete a pre-result coverage pass before publis
 
 If an input is unavailable, stale, or unverified, the prediction must label the gap, explain how it affects confidence, and avoid using the missing item as confirmed evidence.
 
+Data gaps should be closed through the source tiers in [Prediction Calibration](prediction-calibration.md). In short: schedule/results/rankings are refreshed from official structured sources; weather, odds movement, and expert views require timestamped snapshots; injuries, suspensions, and likely lineups require official or reputable late team-news verification before confidence can be raised.
+
 ## Prediction Output
 
 Group-stage predictions include:
@@ -33,6 +35,7 @@ Group-stage predictions include:
 - draw probability
 - away win probability
 - predicted scoreline
+- three scoreline scenarios for Match 017 onward: primary, conservative/draw path, and upside/alternate path
 - confidence level
 - share image
 - factual basis
@@ -44,6 +47,8 @@ Group-stage predictions include:
 - investment advice disclaimer
 
 Knockout predictions should add advancement probability and separate regulation-time outcome from extra-time or penalty scenarios.
+
+Scoreline scenario probabilities are single-score estimates and do not need to sum to 100%. The three scenarios must include the main non-primary route so readers can see how a draw, narrow result, or underdog path could happen.
 
 ## Publishing Copy
 
@@ -78,3 +83,5 @@ Review ratings:
 - `correct`: core outcome correct and match script close.
 - `partial`: useful read, but material misses.
 - `wrong`: core outcome missed.
+
+Reviews should add structured error tags when they reveal calibration issues, such as `draw_underweighted`, `favorite_margin_overstated`, `clean_sheet_overstated`, `underdog_resilience_underweighted`, or `data_gap_overconfidence`.

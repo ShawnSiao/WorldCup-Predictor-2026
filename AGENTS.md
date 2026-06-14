@@ -31,6 +31,7 @@ Every prediction file in `predictions/` must include:
 - `## Prediction`
 - `## Share Image`
 - `## Factual Basis`
+- `## Scoreline Scenarios` for Match 017 onward and future refreshed predictions
 - `## Prediction Logic`
 - `## Risk Factors`
 - `## Platform Share Copy`
@@ -40,6 +41,16 @@ Every prediction file in `predictions/` must include:
 Prediction reasoning must be based on current facts such as official schedule, venue, team strength, rankings, squad availability, recent form, and verified source updates.
 
 Before publishing any predicted result, the model must complete a documented coverage pass across all of these dimensions: tactics, players, injuries/suspensions, schedule/rest/travel, head-to-head and tournament history, public sentiment/media narrative, weather and venue conditions, psychology/pressure/motivation, odds movement, and expert views. If a dimension is unavailable or not yet verified, the prediction must say so explicitly, explain the impact on confidence, and avoid treating that dimension as confirmed evidence.
+
+Use `data/source-coverage.json` and `docs/prediction-calibration.md` as the standing data-gap closure plan. Schedule/results/rankings should be refreshed from official structured sources. Weather, odds movement, expert views, injuries, suspensions, and likely lineups need timestamped snapshots or official/reputable late team-news verification before confidence is raised.
+
+For Match 017 onward, every new or refreshed prediction must include three scoreline scenarios in addition to the three-way win/draw/loss probabilities:
+
+- `primary`: the headline scoreline aligned with the published lean.
+- `conservative_draw_path`: the lower-margin or draw route that best reflects unresolved gaps.
+- `upside_alternate`: the higher-margin or underdog route that captures the main volatility risk.
+
+Scenario probabilities are single-score estimates and do not need to sum to 100%.
 
 All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model. Publish concise reasoning summaries only. Do not store hidden chain-of-thought or private reasoning traces.
 
@@ -95,6 +106,8 @@ Reviews must compare:
 - assumptions that held up
 - assumptions that failed
 - future model adjustment notes
+
+When useful, reviews should add calibration error tags such as `draw_underweighted`, `favorite_margin_overstated`, `clean_sheet_overstated`, `underdog_resilience_underweighted`, `transition_risk_underweighted`, `set_piece_risk_underweighted`, or `data_gap_overconfidence`.
 
 ## Validation
 

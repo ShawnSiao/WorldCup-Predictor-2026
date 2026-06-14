@@ -12,6 +12,8 @@ REQUIRED_PATHS = [
     "docs/methodology.zh-CN.md",
     "docs/platform-copy.md",
     "docs/platform-copy.zh-CN.md",
+    "docs/prediction-calibration.md",
+    "docs/prediction-calibration.zh-CN.md",
     "docs/sources.md",
     "docs/sources.zh-CN.md",
     "docs/data-schema.md",
@@ -21,6 +23,7 @@ REQUIRED_PATHS = [
     "data/venues.json",
     "data/players.json",
     "data/rankings.json",
+    "data/source-coverage.json",
     "data/predictions.json",
     "data/results.json",
     "data/review-index.json",
@@ -35,6 +38,17 @@ REQUIRED_PATHS = [
 MATCH_STATUSES = {"scheduled", "predicted", "live", "final", "reviewed"}
 REVIEW_RATINGS = {"correct", "partial", "wrong"}
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
+SCORELINE_SCENARIO_REQUIRED_FROM_MATCH = 17
+SCORELINE_SCENARIO_LABELS = {"primary", "conservative_draw_path", "upside_alternate"}
+SOURCE_COVERAGE_DIMENSIONS = {
+    "schedule_results",
+    "squads_players",
+    "injuries_suspensions_lineups",
+    "weather_venue_pitch",
+    "odds_market_movement",
+    "expert_tactical_views",
+    "post_match_error_tags",
+}
 PREDICTION_REQUIRED_SECTIONS = [
     "## Prediction",
     "## Share Image",
@@ -50,6 +64,7 @@ PREDICTION_REQUIRED_SECTIONS = [
 BILINGUAL_DOCUMENT_PAIRS = [
     ("docs/data-schema.md", "docs/data-schema.zh-CN.md"),
     ("docs/sources.md", "docs/sources.zh-CN.md"),
+    ("docs/prediction-calibration.md", "docs/prediction-calibration.zh-CN.md"),
     ("docs/platform-copy.md", "docs/platform-copy.zh-CN.md"),
     ("assets/cards/README.md", "assets/cards/README.zh-CN.md"),
     ("predictions/README.md", "predictions/README.zh-CN.md"),
@@ -140,6 +155,45 @@ def validate_image_order(
         errors.append(f"{label} {match_id} must embed lead image before result image")
 
 
+def requires_scoreline_scenarios(match_id: str | None) -> bool:
+    if not match_id:
+        return False
+    try:
+        return int(match_id) >= SCORELINE_SCENARIO_REQUIRED_FROM_MATCH
+    except ValueError:
+        return False
+
+
+def validate_scoreline_scenarios(match_id: str | None, prediction: dict, errors: list[str]) -> None:
+    if not requires_scoreline_scenarios(match_id):
+        return
+
+    scenarios = prediction.get("scoreline_scenarios")
+    if not isinstance(scenarios, list) or len(scenarios) != 3:
+        errors.append(f"Prediction {match_id} must include exactly three scoreline_scenarios")
+        return
+
+    labels = {scenario.get("label") for scenario in scenarios if isinstance(scenario, dict)}
+    if labels != SCORELINE_SCENARIO_LABELS:
+        errors.append(
+            f"Prediction {match_id} scoreline_scenarios labels must be: "
+            f"{', '.join(sorted(SCORELINE_SCENARIO_LABELS))}"
+        )
+    for index, scenario in enumerate(scenarios, start=1):
+        if not isinstance(scenario, dict):
+            errors.append(f"Prediction {match_id} scoreline_scenarios[{index}] must be an object")
+            continue
+        scoreline = scenario.get("scoreline")
+        probability = scenario.get("probability")
+        rationale = scenario.get("rationale")
+        if not isinstance(scoreline, str) or "-" not in scoreline:
+            errors.append(f"Prediction {match_id} scoreline_scenarios[{index}] must include a scoreline")
+        if not isinstance(probability, (int, float)) or not 0 < probability < 1:
+            errors.append(f"Prediction {match_id} scoreline_scenarios[{index}] must include probability between 0 and 1")
+        if not isinstance(rationale, str) or not rationale.strip():
+            errors.append(f"Prediction {match_id} scoreline_scenarios[{index}] must include rationale")
+
+
 def validate_matches(repo_root: Path, errors: list[str]) -> set[str]:
     data = load_json(repo_root, "data/matches.json", errors)
     if not data:
@@ -209,6 +263,8 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
                 errors.append(f"Prediction {match_id} must include an investment advice disclaimer")
             if "投资建议" not in prediction_text:
                 errors.append(f"Prediction {match_id} must include a Chinese investment advice disclaimer")
+            if requires_scoreline_scenarios(match_id) and "## Scoreline Scenarios" not in prediction_text:
+                errors.append(f"Prediction {match_id} missing required section: ## Scoreline Scenarios")
             validate_image_order(
                 prediction_text,
                 match_id,
@@ -231,6 +287,8 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
             )
             if "## 预测覆盖检查" not in prediction_text_zh:
                 errors.append(f"Chinese prediction {match_id} missing required section: ## 预测覆盖检查")
+            if requires_scoreline_scenarios(match_id) and "## 比分情景" not in prediction_text_zh:
+                errors.append(f"Chinese prediction {match_id} missing required section: ## 比分情景")
             if "投资建议" not in prediction_text_zh:
                 errors.append(f"Chinese prediction {match_id} must include a Chinese investment advice disclaimer")
         lead_image_valid = validate_raster_image(repo_root, match_id, "lead_image_file", lead_image_file, errors)
@@ -273,6 +331,7 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
             errors.append(f"Prediction {match_id} must include numeric probabilities")
         elif round(sum(probabilities), 2) != 1:
             errors.append(f"Prediction {match_id} probabilities must sum to 1.00")
+        validate_scoreline_scenarios(match_id, prediction, errors)
 
 
 def validate_reviews(repo_root: Path, match_ids: set[str], errors: list[str]) -> None:
@@ -321,11 +380,41 @@ def validate_share_image_policy(repo_root: Path, errors: list[str]) -> None:
             errors.append(f"Prediction share images must not be SVG files: {', '.join(svg_files)}")
 
 
+def validate_source_coverage(repo_root: Path, errors: list[str]) -> None:
+    data = load_json(repo_root, "data/source-coverage.json", errors)
+    if not data:
+        return
+
+    dimensions = data.get("dimensions")
+    if not isinstance(dimensions, list):
+        errors.append("data/source-coverage.json must contain a dimensions array")
+        return
+
+    seen = set()
+    for entry in dimensions:
+        if not isinstance(entry, dict):
+            errors.append("data/source-coverage.json dimensions entries must be objects")
+            continue
+        dimension = entry.get("dimension")
+        if dimension:
+            seen.add(dimension)
+        for field in ["coverage_status", "primary_sources", "fallback_sources", "refresh_cadence", "prediction_use"]:
+            if field not in entry:
+                errors.append(f"Source coverage dimension {dimension or '<unknown>'} missing field: {field}")
+        if not entry.get("primary_sources"):
+            errors.append(f"Source coverage dimension {dimension or '<unknown>'} must include primary_sources")
+
+    missing = sorted(SOURCE_COVERAGE_DIMENSIONS - seen)
+    if missing:
+        errors.append(f"data/source-coverage.json missing dimensions: {', '.join(missing)}")
+
+
 def validate_repository(repo_root: Path) -> list[str]:
     errors: list[str] = []
     validate_required_paths(repo_root, errors)
     validate_bilingual_document_pairs(repo_root, errors)
     validate_share_image_policy(repo_root, errors)
+    validate_source_coverage(repo_root, errors)
     match_ids = validate_matches(repo_root, errors)
     validate_predictions(repo_root, match_ids, errors)
     validate_reviews(repo_root, match_ids, errors)

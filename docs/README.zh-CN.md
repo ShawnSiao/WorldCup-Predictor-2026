@@ -96,6 +96,7 @@ scheduled -> predicted -> live -> final -> reviewed
 - 最新复盘：[第 008 场：卡塔尔 vs 瑞士](../reviews/match-008-qat-sui.zh-CN.md) / [English](../reviews/match-008-qat-sui.md)
 - 最新日报：[2026-06-14](../reports/daily/2026-06-14.zh-CN.md) / [English](../reports/daily/2026-06-14.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
+- 校准规则：[预测校准](prediction-calibration.zh-CN.md) / [English](prediction-calibration.md)
 - 数据结构：[数据结构](data-schema.zh-CN.md) / [English](data-schema.md)
 - 来源说明：[来源政策与当前来源列表](sources.zh-CN.md) / [English](sources.md)
 
