@@ -5,15 +5,15 @@ stage: "Group F"
 kickoff_utc: "2026-06-15T02:00:00Z"
 venue: "Monterrey Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
-published_at: "2026-06-13T10:39:10+08:00"
-source_snapshot_at: "2026-06-13T10:39:10+08:00"
+published_at: "2026-06-15T00:00:00+08:00"
+source_snapshot_at: "2026-06-14T13:14:35+08:00"
 lead_image_file: "../assets/cards/match-012-swe-tun-lead.png"
 image_file: "../assets/cards/match-012-swe-tun.png"
 ---
 
 # Match 012: Sweden vs Tunisia
 
-[Dashboard](../README.md) | [简体中文](match-012-swe-tun.zh-CN.md) | [Daily report](../reports/daily/2026-06-13.md)
+[Dashboard](../README.md) | [简体中文](match-012-swe-tun.zh-CN.md) | [Daily report](../reports/daily/2026-06-15.md)
 
 ## Share Image
 
@@ -24,99 +24,101 @@ image_file: "../assets/cards/match-012-swe-tun.png"
 Lead image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测首图】，16:9 横版，真实位图图片，只展示赛事对阵、比赛阶段、城市/场馆氛围和球队色彩；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不输出比分，不输出预测胜负，不输出概率，不使用胜/平/负、晋级、爆冷等结果暗示词；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: Generate a social-platform fixture lead image, 16:9 landscape, realistic raster bitmap, showing only matchup, stage, city/venue atmosphere, and team colors; Simplified Chinese must be used for main match information on Chinese document artwork, with English team names/event text allowed only as secondary text; no scoreline, no predicted winner, no probability, no win/draw/loss or result-hint words; do not generate SVG, HTML, code images, wireframes, official FIFA logos, or watermarks.
 ```
 
-Result image generation instruction:
+Prediction card generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: Generate a social-platform match prediction card, 16:9 landscape, realistic raster bitmap, for Douyin, Xiaohongshu, Weibo, and WeChat sharing; Simplified Chinese must be used for main match information on Chinese document artwork, with English team names/event text allowed only as secondary text; do not generate SVG, HTML, code images, wireframes, official FIFA logos, or watermarks.
 ```
 
 ## Prediction
 
 | Outcome | Probability |
 | --- | ---: |
-| Sweden win | 43% |
+| Sweden win | 45% |
 | Draw | 31% |
-| Tunisia win | 26% |
+| Tunisia win | 24% |
 
 - Predicted winner: SWE
-- Predicted scoreline: Sweden vs Tunisia 1-0
+- Predicted scoreline: 1-0
 - Confidence: medium-low
 - Model: ChatGPT 5.5 ultra-high reasoning
 
+## Scoreline Scenarios
+
+| Scenario | Scoreline | Single-score estimate | Rationale |
+| --- | --- | ---: | --- |
+| primary | 1-0 | 12% | Sweden edge a tight game through set pieces or direct service. |
+| conservative_draw_path | 1-1 | 11% | Tunisia's low block frustrates Sweden and finds one transition or set-piece response. |
+| upside_alternate | 2-1 | 8% | Sweden's attacking quality creates enough volume despite conceding once. |
+
 ## Factual Basis
 
-- Official fixture: Match 012 is Sweden vs Tunisia in Group F at Monterrey Stadium.
-- Kickoff is 2026-06-15T02:00:00Z; this falls inside the current 72-hour window from the actual automation run time.
-- FIFA's 2026-06-11 ranking pages list Sweden 38 and Tunisia 45.
-- FIFA has confirmed final squads, but full player-level squad ingestion and final matchday injury bulletins remain data gaps.
+- Official schedule context: Group F, Sweden vs Tunisia, Monterrey Stadium; China-time kickoff is 2026-06-15 10:00.
+- FIFA's 2026-06-11 ranking snapshot has Sweden at No. 38 and Tunisia at No. 45.
+- FOX/RotoWire market and preview context make Sweden a narrow favorite, with low scoring expected.
+- Final lineups, late injuries, and matchday weather/roof operations remain data gaps.
 
 ## Prediction Coverage Checklist
 
-| Dimension | Snapshot status | Confidence impact |
+| Dimension | Snapshot | Lean |
 | --- | --- | --- |
-| Tactics | Style matchup, pressing, transitions, and set pieces checked from group previews and team profiles. | mixed |
-| Players | Key ranking, squad status, and headline player context checked. | supports lean |
-| Injuries / suspensions | Official matchday medical bulletin is not stored yet. | data gap lowers confidence |
-| Schedule / rest / travel | Kickoff, venue, neutral-site travel, and local timing verified. | mixed |
-| History | Tournament history considered lightly because squads and coaches change. | low weight |
-| Public sentiment | Media narrative and fan expectation checked as context, not proof. | mixed |
-| Weather / venue conditions | City and venue context checked; matchday forecast is not stored. | data gap lowers confidence |
-| Psychology | Opening-match caution, favorite pressure, and underdog motivation considered. | mixed |
-| Odds movement | Public preview odds/context checked where available; movement snapshot not stored. | data gap |
-| Expert views | Reputable group previews reviewed, with uncertainty kept in the confidence rating. | supports medium or lower confidence |
+| Tactics | Sweden should look for set pieces and direct forward service; Tunisia can compress space and slow the match. | supports Sweden |
+| Players | Sweden's attacking ceiling is higher, while Tunisia's defensive discipline keeps the match tight. | supports Sweden |
+| Injuries | Official matchday lineups and late fitness reports are unavailable. | unavailable |
+| Schedule | Neutral-site opener in Monterrey with no known rest edge. | mixed |
+| History | Historical signals are not strong enough to drive the forecast. | unavailable |
+| Public sentiment | Market and preview framing make Sweden favored but not dominant. | supports Sweden |
+| Weather | Monterrey conditions/roof operations still need final confirmation, so heat and tempo risk remain. | mixed |
+| Psychology | Sweden carry favorite pressure; Tunisia can benefit from a lower block and lower expectations. | mixed |
+| Odds movement | Available market pages lean Sweden and the under, supporting a one-goal script. | supports Sweden |
+| Expert views | Preview analysis stresses Sweden's higher attacking quality against Tunisia's compact defending. | supports Sweden |
 
 ## Prediction Logic
 
-1. The probability split prices the ranking and squad-quality signal while preserving draw risk for a first group match.
-2. The match script leans toward Sweden win, 1-0 because Tunisia defensive discipline is the main route that can pull the game away from the base case.
-3. Confidence stays below high because lineups, weather, and odds-movement snapshots are not fully verified in the repository.
+1. Sweden have enough attacking and set-piece edge to be favored, but not enough verified evidence for a wide margin.
+2. Tunisia's low-block path keeps the draw probability above 30% under the new calibration layer.
+3. 1-0 matches the under-leaning market and a script where one set piece or second-ball sequence decides the game.
 
 ## Risk Factors
 
-- Tunisia defensive discipline
-- Final lineups and matchday medical bulletins are not yet stored.
-- An early set-piece goal would materially change game state.
+- Tunisia's compact defense can turn Sweden's favorite edge into a 1-1 draw.
+- If match tempo slows in Monterrey conditions, chance volume may drop sharply.
+- Final lineups and late injury news are not fully verified.
 
 ## Platform Share Copy
 
-### Douyin / 抖音
+### Douyin
 
-World Cup Group F prediction: Sweden vs Tunisia. I lean Sweden win, 1-0; key risk: Tunisia defensive discipline.
-仅为足球赛事预测，不构成任何投资建议。
+World Cup Group F prediction: Sweden vs Tunisia. I lean Sweden win, 1-0. Key risk: the non-primary path remains live because final lineups are not confirmed. This is a match prediction only and does not constitute investment advice.
 
-### Xiaohongshu / 小红书
+### Xiaohongshu
 
-Sweden vs Tunisia prediction: Sweden win, 1-0. Built from official schedule, FIFA rankings, squad status, and current preview context.
-仅为足球赛事预测，不构成任何投资建议。
+Sweden vs Tunisia prediction: Sweden win, 1-0. The latest calibration keeps draw risk visible instead of forcing a single-score story. This is a match prediction only and does not constitute investment advice.
 
-### Weibo / 微博
+### Weibo
 
-Group F prediction: Sweden win, 1-0. Probability: SWE 43%, draw 31%, TUN 26%. Confidence: medium-low.
-仅为足球赛事预测，不构成任何投资建议。#WorldCup2026#
+Group F prediction: Sweden win, 1-0. Probability split: SWE 45%, draw 31%, TUN 24%. Confidence: medium-low. This is a match prediction only and does not constitute investment advice. #WorldCup2026#
 
-### WeChat / 微信
+### WeChat
 
-Sweden vs Tunisia forecast: Sweden win, 1-0. This is based on verified fixture data, FIFA ranking pages, squad confirmation, and reputable preview context. This is a football match prediction only and does not constitute investment advice. 仅为足球赛事预测，不构成任何投资建议。
+Sweden vs Tunisia prediction: Sweden win, 1-0. The forecast uses official schedule/ranking checks plus current market and preview context. It is a football match prediction only and does not constitute investment advice.
+
+Chinese copy for mainland platforms: 瑞典 vs 突尼斯预测：瑞典 1-0。瑞典小幅占优，但突尼斯低位防守让平局概率不低。仅为足球赛事预测，不构成任何投资建议。
 
 ## Disclaimer
 
-This is a football match prediction only. It does not constitute investment advice, financial advice, or any guarantee of outcome.
+This is a football match prediction only. It does not constitute investment advice, financial advice, betting advice, or any guarantee of outcome.
 
-仅为足球赛事预测，不构成任何投资建议、财务建议或结果承诺。
+仅为足球赛事预测，不构成任何投资建议、财务建议、投注建议或结果承诺。
 
 ## Source Snapshot
 
-- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
-- https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
-- https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day
-- https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed
-- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474
-- https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/
-- https://www.fourfourtwo.com/team/sweden-world-cup-2026-squad
-- https://www.fourfourtwo.com/team/tunisia-world-cup-2026-squad
-- https://inside.fifa.com/fifa-world-ranking/SWE?gender=men
-- https://inside.fifa.com/fifa-world-ranking/TUN?gender=men
-- Verified at: 2026-06-13T10:39:10+08:00
+- FIFA match centre: https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474
+- FOX Sports match page: https://www.foxsports.com/soccer/fifa-world-cup-men-sweden-vs-tunisia-jun-14-2026-game-boxscore-647627
+- Preview/market context: https://www.transfermarkt.rotowire.com/soccer/article/sweden-vs-tunisia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117963
+- FIFA home-team ranking: https://inside.fifa.com/fifa-world-ranking/SWE?gender=men
+- FIFA away-team ranking: https://inside.fifa.com/fifa-world-ranking/TUN?gender=men
+- Verified at: 2026-06-14T13:14:35+08:00

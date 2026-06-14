@@ -18,9 +18,28 @@
       "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights",
       "https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live",
       "https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live",
-      "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live"
+      "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021467",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-cote-d-ivoire-vs-ecuador-jun-14-2026-game-boxscore-647623",
+      "https://www.sofascore.com/football/match/cote-divoire-ecuador/nUbsaUb#id:16296829",
+      "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021464",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-germany-vs-curacao-jun-14-2026-game-boxscore-647624",
+      "https://www.rotowire.com/soccer/article/germany-vs-curacao-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-117956",
+      "https://inside.fifa.com/fifa-world-ranking/GER?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021470",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-netherlands-vs-japan-jun-14-2026-game-boxscore-647625",
+      "https://www.rotowire.com/soccer/article/netherlands-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117958",
+      "https://inside.fifa.com/fifa-world-ranking/NED?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-sweden-vs-tunisia-jun-14-2026-game-boxscore-647627",
+      "https://www.transfermarkt.rotowire.com/soccer/article/sweden-vs-tunisia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117963",
+      "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men"
     ],
-    "last_verified_at": "2026-06-14T11:12:46+08:00"
+    "last_verified_at": "2026-06-14T13:14:35+08:00"
   },
   "matches": [
     {
@@ -212,9 +231,14 @@
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021467",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-cote-d-ivoire-vs-ecuador-jun-14-2026-game-boxscore-647623",
+        "https://www.sofascore.com/football/match/cote-divoire-ecuador/nUbsaUb#id:16296829",
+        "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men"
       ],
-      "last_verified_at": "2026-06-12T08:08:19+08:00"
+      "last_verified_at": "2026-06-14T13:14:35+08:00"
     },
     {
       "match_id": "010",
@@ -233,9 +257,14 @@
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021464",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-germany-vs-curacao-jun-14-2026-game-boxscore-647624",
+        "https://www.rotowire.com/soccer/article/germany-vs-curacao-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-117956",
+        "https://inside.fifa.com/fifa-world-ranking/GER?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men"
       ],
-      "last_verified_at": "2026-06-12T08:08:19+08:00"
+      "last_verified_at": "2026-06-14T13:14:35+08:00"
     },
     {
       "match_id": "011",
@@ -254,9 +283,14 @@
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021470",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-netherlands-vs-japan-jun-14-2026-game-boxscore-647625",
+        "https://www.rotowire.com/soccer/article/netherlands-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117958",
+        "https://inside.fifa.com/fifa-world-ranking/NED?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men"
       ],
-      "last_verified_at": "2026-06-12T08:08:19+08:00"
+      "last_verified_at": "2026-06-14T13:14:35+08:00"
     },
     {
       "match_id": "012",
@@ -276,9 +310,13 @@
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
-        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474"
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-sweden-vs-tunisia-jun-14-2026-game-boxscore-647627",
+        "https://www.transfermarkt.rotowire.com/soccer/article/sweden-vs-tunisia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117963",
+        "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men"
       ],
-      "last_verified_at": "2026-06-13T10:39:10+08:00"
+      "last_verified_at": "2026-06-14T13:14:35+08:00"
     },
     {
       "match_id": "013",

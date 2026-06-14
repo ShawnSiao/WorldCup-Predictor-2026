@@ -1,128 +1,124 @@
 ---
 match_id: "009"
-match: "Côte d'Ivoire vs Ecuador"
+match: "Cote d'Ivoire vs Ecuador"
 stage: "Group E"
 kickoff_utc: "2026-06-14T23:00:00Z"
 venue: "Philadelphia Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
-published_at: "2026-06-12T08:08:19+08:00"
-source_snapshot_at: "2026-06-12T08:08:19+08:00"
+published_at: "2026-06-15T00:00:00+08:00"
+source_snapshot_at: "2026-06-14T13:14:35+08:00"
 lead_image_file: "../assets/cards/match-009-civ-ecu-lead.png"
 image_file: "../assets/cards/match-009-civ-ecu.png"
 ---
 
-# Match 009: Côte d'Ivoire vs Ecuador
+# Match 009: Cote d'Ivoire vs Ecuador
 
-[Dashboard](../README.md) | [简体中文](match-009-civ-ecu.zh-CN.md) | [Daily report](../reports/daily/2026-06-12.md)
+[Dashboard](../README.md) | [简体中文](match-009-civ-ecu.zh-CN.md) | [Daily report](../reports/daily/2026-06-15.md)
 
 ## Share Image
 
-![Côte d'Ivoire vs Ecuador lead prediction image](../assets/cards/match-009-civ-ecu-lead.png)
+![Cote d'Ivoire vs Ecuador lead prediction image](../assets/cards/match-009-civ-ecu-lead.png)
 
-![Côte d'Ivoire vs Ecuador prediction card](../assets/cards/match-009-civ-ecu.png)
+![Cote d'Ivoire vs Ecuador prediction card](../assets/cards/match-009-civ-ecu.png)
 
 Lead image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测首图】，16:9 横版，真实位图图片，只展示赛事对阵、比赛阶段、城市/场馆氛围和球队色彩；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不输出比分，不输出预测胜负，不输出概率，不使用胜/平/负、晋级、爆冷等结果暗示词；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: Generate a social-platform fixture lead image, 16:9 landscape, realistic raster bitmap, showing only matchup, stage, city/venue atmosphere, and team colors; Simplified Chinese must be used for main match information on Chinese document artwork, with English team names/event text allowed only as secondary text; no scoreline, no predicted winner, no probability, no win/draw/loss or result-hint words; do not generate SVG, HTML, code images, wireframes, official FIFA logos, or watermarks.
 ```
 
-Result image generation instruction:
+Prediction card generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: Generate a social-platform match prediction card, 16:9 landscape, realistic raster bitmap, for Douyin, Xiaohongshu, Weibo, and WeChat sharing; Simplified Chinese must be used for main match information on Chinese document artwork, with English team names/event text allowed only as secondary text; do not generate SVG, HTML, code images, wireframes, official FIFA logos, or watermarks.
 ```
 
 ## Prediction
 
 | Outcome | Probability |
 | --- | ---: |
-| Côte d'Ivoire win | 32% |
-| Draw | 34% |
-| Ecuador win | 34% |
+| Cote d'Ivoire win | 30% |
+| Draw | 31% |
+| Ecuador win | 39% |
 
-- Predicted result: draw
-- Predicted scoreline: Côte d'Ivoire 1-1 Ecuador
+- Predicted winner: ECU
+- Predicted scoreline: 0-1
 - Confidence: medium-low
 - Model: ChatGPT 5.5 ultra-high reasoning
 
+## Scoreline Scenarios
+
+| Scenario | Scoreline | Single-score estimate | Rationale |
+| --- | --- | ---: | --- |
+| primary | 0-1 | 12% | Ecuador control midfield territory and protect a narrow lead. |
+| conservative_draw_path | 1-1 | 11% | Cote d'Ivoire transition or set pieces cancel Ecuador's control. |
+| upside_alternate | 1-2 | 9% | The match opens after the first goal and Ecuador create a second transition chance. |
+
 ## Factual Basis
 
-- Official fixture: Côte d'Ivoire vs Ecuador is a Group E match in the next 72-hour China-time window.
-- Kickoff and venue: 2026-06-14 23:00 UTC at Philadelphia Stadium.
-- Ranking snapshot: FIFA's 2026-06-11 pages list Côte d'Ivoire at rank 33 and Ecuador at rank 23.
-- Group context: Group E also includes Germany and Curaçao, which raises the value of avoiding an opening loss.
-- Squad context: FIFA has confirmed final squads. Current public previews describe Côte d'Ivoire as fast and direct, while Ecuador are more defensive and midfield-led.
-- Availability context: FourFourTwo reports Moisés Caicedo has been cleared for Ecuador's opener after a disciplinary amnesty.
-- Data gap: final starting lineups, official injury bulletins, matchday weather, and reliable odds movement are not yet stored in the repository.
+- Official schedule context: Group E, Cote d'Ivoire vs Ecuador, Philadelphia Stadium; China-time kickoff is 2026-06-15 07:00.
+- FIFA's 2026-06-11 ranking snapshot has Cote d'Ivoire at No. 33 and Ecuador at No. 23.
+- FOX/Sofascore market context makes Ecuador a narrow favorite while keeping the total-goals expectation low.
+- Final confirmed lineups, late official injury notes, and pitch condition remain data gaps, so confidence is capped below medium.
 
 ## Prediction Coverage Checklist
 
-| Dimension | Snapshot status | Confidence impact |
+| Dimension | Snapshot | Lean |
 | --- | --- | --- |
-| Tactics | Côte d'Ivoire offer pace, wide carries, and transition threat; Ecuador project as compact, physical, and lower-event. | Mixed. |
-| Players | Ecuador's ranking and midfield baseline are stronger; Côte d'Ivoire have credible attacking depth and Franck Kessié-led balance. | Slight Ecuador edge. |
-| Injuries / suspensions | Caicedo is reported cleared; full official injury status is not stored. | Removes a major Ecuador downgrade but keeps uncertainty. |
-| Schedule / rest / travel | Philadelphia kickoff is verified; both teams face neutral-site travel. | Mixed. |
-| History | No decisive recent World Cup head-to-head signal is stored. | Low weight. |
-| Public sentiment | Group previews frame Côte d'Ivoire as dangerous and Ecuador as disciplined but goal-limited. | Mixed. |
-| Weather / venue conditions | Venue and kickoff are verified; matchday weather is not yet verified. | Unavailable watch item. |
-| Psychology | Both teams know Germany are group favorites, so opening loss avoidance matters. | Supports cautious first half. |
-| Public forecast movement | One public group preview lists Ecuador shorter than Côte d'Ivoire, but no movement snapshot is stored. | Slight Ecuador edge, low weight. |
-| Expert views | Available previews lean toward Germany topping the group and treat this as a close second-place contest. | Supports a tight result. |
+| Tactics | Ecuador project as the more compact midfield side; Cote d'Ivoire carry transition and set-piece routes. | supports Ecuador |
+| Players | Ecuador have the ranking edge and midfield control profile; Cote d'Ivoire have athletic wide/forward threats. | mixed |
+| Injuries | No fully confirmed matchday lineup or official late injury sheet is stored yet. | unavailable |
+| Schedule | Neutral-site opening match; no clear rest advantage, with China-time morning kickoff after a Philadelphia evening slot. | mixed |
+| History | Useful recent head-to-head/tournament evidence is limited and not treated as decisive. | unavailable |
+| Public sentiment | Public previews and market context lean Ecuador but frame the match as low-margin. | supports Ecuador |
+| Weather | Outdoor venue conditions still need final matchday confirmation; no weather edge is assumed. | mixed |
+| Psychology | Both teams are in an opening-match risk-management script; Ecuador carry slightly higher expectation pressure. | mixed |
+| Odds movement | Available market pages show Ecuador as a modest favorite with draw risk still material. | supports Ecuador |
+| Expert views | Preview framing points to Ecuador's structure but keeps Cote d'Ivoire's transition path alive. | supports Ecuador |
 
 ## Prediction Logic
 
-1. Ecuador's ranking edge and midfield structure make them marginally safer on baseline strength.
-2. Côte d'Ivoire have enough pace and set-piece pressure to prevent this from becoming an Ecuador-control game.
-3. The group context rewards caution because both teams likely view this as a direct advancement contest.
-4. A 1-1 draw fits a low-margin match where Ecuador control stretches but Côte d'Ivoire create transition danger.
+1. Ecuador's midfield structure and lower-risk game script fit a narrow favorite better than a high-margin result.
+2. Cote d'Ivoire have enough transition threat to keep the draw floor high, so Ecuador are not pushed near a 50% win probability.
+3. A 0-1 scoreline matches a low-total market read and a match script where Ecuador score first or control the final half-hour.
 
 ## Risk Factors
 
-- An early Ecuador goal could force Côte d'Ivoire into a less controlled chase.
-- Côte d'Ivoire's pace could punish Ecuador if the fullbacks push too high.
-- Matchday weather and confirmed lineups are still unverified.
-- If Caicedo or Kessié is limited, the midfield balance changes sharply.
+- Cote d'Ivoire set pieces or first-contact defending errors can flip a tight game.
+- If Ecuador lack final-third efficiency, the most natural miss is 1-1.
+- Lineups and late injury news are not fully confirmed.
 
 ## Platform Share Copy
 
-### Douyin / 抖音
+### Douyin
 
-世界杯 Group E 预测：Côte d'Ivoire vs Ecuador。  
-我倾向 1-1 平局。Ecuador 排名和中场稳定性更好，但 Côte d'Ivoire 的速度、转换和定位球足以制造威胁。  
-仅为足球赛事预测，不构成任何投资建议。
+World Cup Group E prediction: Cote d'Ivoire vs Ecuador. I lean Ecuador win, 1-0. Key risk: the non-primary path remains live because final lineups are not confirmed. This is a match prediction only and does not constitute investment advice.
 
-### Xiaohongshu / 小红书
+### Xiaohongshu
 
-Côte d'Ivoire vs Ecuador 预测：1-1。  
-这场更像小组出线直接竞争，双方都不适合冒太大风险。Ecuador 更稳，Côte d'Ivoire 更有速度冲击。  
-仅为足球赛事预测，不构成任何投资建议。
+Cote d'Ivoire vs Ecuador prediction: Ecuador win, 1-0. The latest calibration keeps draw risk visible instead of forcing a single-score story. This is a match prediction only and does not constitute investment advice.
 
-### Weibo / 微博
+### Weibo
 
-Group E 预测：Côte d'Ivoire 1-1 Ecuador。Ecuador 的排名和防守结构略占优，Côte d'Ivoire 的转换速度让比赛很难单边化。信心等级 medium-low。  
-仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
+Group E prediction: Ecuador win, 1-0. Probability split: CIV 30%, draw 31%, ECU 39%. Confidence: medium-low. This is a match prediction only and does not constitute investment advice. #WorldCup2026#
 
-### WeChat / 微信
+### WeChat
 
-Côte d'Ivoire 对 Ecuador 的预测是 1-1。当前判断来自官方赛程、Philadelphia Stadium 场地信息、2026-06-11 FIFA 排名更新，以及 Group E 的竞争结构。
+Cote d'Ivoire vs Ecuador prediction: Ecuador win, 1-0. The forecast uses official schedule/ranking checks plus current market and preview context. It is a football match prediction only and does not constitute investment advice.
 
-Ecuador 的优势在于防守纪律和中场质量；Côte d'Ivoire 的机会在于速度、身体对抗和定位球。两队都需要避免开局输球，因此平局是当前最稳妥的比分判断。仅为足球赛事预测，不构成任何投资建议。
+Chinese copy for mainland platforms: 科特迪瓦 vs 厄瓜多尔预测：厄瓜多尔 1-0。厄瓜多尔结构更稳，但科特迪瓦转换和定位球让平局风险很高。仅为足球赛事预测，不构成任何投资建议。
 
 ## Disclaimer
 
-This is a football match prediction only. It does not constitute investment advice, financial advice, or any guarantee of outcome.
+This is a football match prediction only. It does not constitute investment advice, financial advice, betting advice, or any guarantee of outcome.
 
-仅为足球赛事预测，不构成任何投资建议、财务建议或结果承诺。
+仅为足球赛事预测，不构成任何投资建议、财务建议、投注建议或结果承诺。
 
 ## Source Snapshot
 
-- FIFA schedule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
-- FIFA match schedule PDF: https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
-- FourFourTwo day-by-day fixtures: https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day
-- FIFA Côte d'Ivoire ranking page: https://inside.fifa.com/fifa-world-ranking/CIV?gender=men
-- FIFA Ecuador ranking page: https://inside.fifa.com/fifa-world-ranking/ECU?gender=men
-- NY Post Group E preview: https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/
-- FourFourTwo Caicedo eligibility report: https://www.fourfourtwo.com/person/player/decision-made-on-moises-caicedos-eligibility-for-world-cup-2026-report
-- Verified at: 2026-06-12T08:08:19+08:00
+- FIFA match centre: https://www.fifa.com/en/match-centre/match/17/285023/289273/400021467
+- FOX Sports match page: https://www.foxsports.com/soccer/fifa-world-cup-men-cote-d-ivoire-vs-ecuador-jun-14-2026-game-boxscore-647623
+- Preview/market context: https://www.sofascore.com/football/match/cote-divoire-ecuador/nUbsaUb#id:16296829
+- FIFA home-team ranking: https://inside.fifa.com/fifa-world-ranking/CIV?gender=men
+- FIFA away-team ranking: https://inside.fifa.com/fifa-world-ranking/ECU?gender=men
+- Verified at: 2026-06-14T13:14:35+08:00

@@ -1,127 +1,124 @@
 ---
 match_id: "010"
-match: "Germany vs Curaçao"
+match: "Germany vs Curacao"
 stage: "Group E"
 kickoff_utc: "2026-06-14T17:00:00Z"
 venue: "Houston Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
-published_at: "2026-06-12T08:08:19+08:00"
-source_snapshot_at: "2026-06-12T08:08:19+08:00"
+published_at: "2026-06-15T00:00:00+08:00"
+source_snapshot_at: "2026-06-14T13:14:35+08:00"
 lead_image_file: "../assets/cards/match-010-ger-cuw-lead.png"
 image_file: "../assets/cards/match-010-ger-cuw.png"
 ---
 
-# Match 010: Germany vs Curaçao
+# Match 010: Germany vs Curacao
 
-[Dashboard](../README.md) | [简体中文](match-010-ger-cuw.zh-CN.md) | [Daily report](../reports/daily/2026-06-12.md)
+[Dashboard](../README.md) | [简体中文](match-010-ger-cuw.zh-CN.md) | [Daily report](../reports/daily/2026-06-15.md)
 
 ## Share Image
 
-![Germany vs Curaçao lead prediction image](../assets/cards/match-010-ger-cuw-lead.png)
+![Germany vs Curacao lead prediction image](../assets/cards/match-010-ger-cuw-lead.png)
 
-![Germany vs Curaçao prediction card](../assets/cards/match-010-ger-cuw.png)
+![Germany vs Curacao prediction card](../assets/cards/match-010-ger-cuw.png)
 
 Lead image generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测首图】，16:9 横版，真实位图图片，只展示赛事对阵、比赛阶段、城市/场馆氛围和球队色彩；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不输出比分，不输出预测胜负，不输出概率，不使用胜/平/负、晋级、爆冷等结果暗示词；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: Generate a social-platform fixture lead image, 16:9 landscape, realistic raster bitmap, showing only matchup, stage, city/venue atmosphere, and team colors; Simplified Chinese must be used for main match information on Chinese document artwork, with English team names/event text allowed only as secondary text; no scoreline, no predicted winner, no probability, no win/draw/loss or result-hint words; do not generate SVG, HTML, code images, wireframes, official FIFA logos, or watermarks.
 ```
 
-Result image generation instruction:
+Prediction card generation instruction:
 
 ```text
-$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+$imagegen: Generate a social-platform match prediction card, 16:9 landscape, realistic raster bitmap, for Douyin, Xiaohongshu, Weibo, and WeChat sharing; Simplified Chinese must be used for main match information on Chinese document artwork, with English team names/event text allowed only as secondary text; do not generate SVG, HTML, code images, wireframes, official FIFA logos, or watermarks.
 ```
 
 ## Prediction
 
 | Outcome | Probability |
 | --- | ---: |
-| Germany win | 72% |
-| Draw | 18% |
-| Curaçao win | 10% |
+| Germany win | 84% |
+| Draw | 10% |
+| Curacao win | 6% |
 
-- Predicted winner: Germany
-- Predicted scoreline: Germany 3-0 Curaçao
+- Predicted winner: GER
+- Predicted scoreline: 3-0
 - Confidence: medium-high
 - Model: ChatGPT 5.5 ultra-high reasoning
 
+## Scoreline Scenarios
+
+| Scenario | Scoreline | Single-score estimate | Rationale |
+| --- | --- | ---: | --- |
+| primary | 3-0 | 18% | Germany convert territorial control into a clean favorite result. |
+| conservative_draw_path | 2-0 | 14% | Curacao's low block delays the margin but not the result. |
+| upside_alternate | 4-0 | 12% | An early goal forces Curacao to open up and Germany add late goals. |
+
 ## Factual Basis
 
-- Official fixture: Germany vs Curaçao is a Group E match in the next 72-hour China-time window.
-- Kickoff and venue: 2026-06-14 17:00 UTC at Houston Stadium.
-- Ranking snapshot: FIFA's 2026-06-11 pages list Germany at rank 10 and Curaçao at rank 82.
-- Group context: Germany are the Group E favorite in current public previews; Curaçao are making a historic World Cup debut.
-- Squad context: FIFA has confirmed final squads. FourFourTwo describes Germany's final squad as deep, led by high-end creative talent and Joshua Kimmich as captain.
-- Data gap: final starting lineups, official matchday injury bulletins, live weather, and reliable odds movement are not yet stored.
+- Official schedule context: Group E, Germany vs Curacao, Houston Stadium; China-time kickoff is 2026-06-15 01:00.
+- FIFA's 2026-06-11 ranking snapshot has Germany at No. 10 and Curacao at No. 82.
+- FOX/RotoWire market and preview context strongly favor Germany and price Curacao as a clear underdog.
+- Final lineups and late matchday medical notes are still data gaps, so the confidence stays below high.
 
 ## Prediction Coverage Checklist
 
-| Dimension | Snapshot status | Confidence impact |
+| Dimension | Snapshot | Lean |
 | --- | --- | --- |
-| Tactics | Germany project to press high, dominate possession, and attack through central creators; Curaçao need a compact low block and direct counters. | Strongly supports Germany. |
-| Players | Germany have major ranking, depth, and creative-quality advantages; Curaçao rely on collective discipline and experienced European-based players. | Strongly supports Germany. |
-| Injuries / suspensions | No official matchday injury bulletin is stored; squad previews note Germany depth even with omissions. | Slight uncertainty only. |
-| Schedule / rest / travel | Houston kickoff is verified; both teams open at a neutral North American venue. | Mixed, low impact. |
-| History | No useful recent World Cup head-to-head is stored; Germany's tournament pedigree is much stronger. | Supports Germany, low weight. |
-| Public sentiment | Public group previews frame Germany as clear Group E favorites and Curaçao as a debut underdog. | Supports Germany. |
-| Weather / venue conditions | Houston Stadium is an indoor/retractable-roof venue context; matchday operational conditions are not verified. | Low weather risk, not confirmed. |
-| Psychology | Germany carry pressure after recent World Cup group-stage failures; Curaçao can play with lower expectation. | Slightly raises variance. |
-| Public forecast movement | One group preview lists Germany as a heavy group favorite; no movement track is stored. | Supports Germany, low precision. |
-| Expert views | Available previews emphasize Germany's quality gap and Curaçao's debut story rather than parity. | Supports Germany. |
+| Tactics | Germany should control territory with counter-pressing and central creation; Curacao likely need a compact low block. | supports Germany |
+| Players | Germany's depth, ranking and creation profile are far stronger. | supports Germany |
+| Injuries | Final official team sheets are not out; Germany's depth reduces but does not erase uncertainty. | mixed |
+| Schedule | Neutral-site opener with no obvious rest gap. | mixed |
+| History | Germany's tournament pedigree is much stronger; direct matchup history is not a primary input. | supports Germany |
+| Public sentiment | Public previews frame Germany as a group favorite and Curacao as an underdog story. | supports Germany |
+| Weather | Houston Stadium conditions reduce weather variance, but operational details are not final in the repo. | supports Germany |
+| Psychology | Germany face pressure to start cleanly; Curacao can play with low expectation. | mixed |
+| Odds movement | Available market pages show Germany as a heavy favorite. | supports Germany |
+| Expert views | Preview analysis aligns with a controlled Germany win. | supports Germany |
 
 ## Prediction Logic
 
-1. Germany's ranking edge, squad depth, and chance-creation baseline make them the clear favorite.
-2. Curaçao's best route is to compress the first half, slow transitions, and force Germany into low-value wide shots.
-3. Germany should eventually create enough pressure through counter-pressing and midfield overloads to break the block.
-4. A 3-0 forecast reflects the quality gap while still acknowledging that opening matches can take time to unlock.
+1. The ranking and squad-depth gap is large enough to move Germany above the usual group-stage favorite cap.
+2. Curacao's main path is delaying the first goal; if Germany score early, the match can become territory-heavy quickly.
+3. 3-0 keeps Germany's edge clear while avoiding an overextended scoreline before final lineups are known.
 
 ## Risk Factors
 
-- Germany could become impatient if the first goal does not arrive early.
-- Curaçao's low block can shorten the match and raise draw risk into halftime.
-- Final lineup rotation is not yet verified.
-- A set piece or goalkeeping error could give Curaçao a rare but meaningful scoring chance.
+- A slow first goal keeps Curacao alive longer than the baseline model expects.
+- German rotation or early-game impatience can reduce chance quality.
+- Final lineups remain unconfirmed.
 
 ## Platform Share Copy
 
-### Douyin / 抖音
+### Douyin
 
-世界杯 Group E 预测：Germany vs Curaçao。  
-我倾向 Germany 3-0。德国的排名、阵容深度和前场创造力优势明显；Curaçao 的机会在于低位防守和拖慢比赛。  
-仅为足球赛事预测，不构成任何投资建议。
+World Cup Group E prediction: Germany vs Curacao. I lean Germany win, 3-0. Key risk: the non-primary path remains live because final lineups are not confirmed. This is a match prediction only and does not constitute investment advice.
 
-### Xiaohongshu / 小红书
+### Xiaohongshu
 
-Germany vs Curaçao 预测：Germany 3-0。  
-这场最大的变量不是德国是否占优，而是能多快破掉密集防守。Curaçao 首次世界杯参赛，低预期会让他们更敢于死守反击。  
-仅为足球赛事预测，不构成任何投资建议。
+Germany vs Curacao prediction: Germany win, 3-0. The latest calibration keeps draw risk visible instead of forcing a single-score story. This is a match prediction only and does not constitute investment advice.
 
-### Weibo / 微博
+### Weibo
 
-Group E 预测：Germany 3-0 Curaçao。德国排名第 10，Curaçao 第 82，实力差距明显；风险在德国开局急躁和对手低位防守。信心等级 medium-high。  
-仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
+Group E prediction: Germany win, 3-0. Probability split: GER 84%, draw 10%, CUW 6%. Confidence: medium-high. This is a match prediction only and does not constitute investment advice. #WorldCup2026#
 
-### WeChat / 微信
+### WeChat
 
-Germany 对 Curaçao 的预测是 Germany 3-0。当前判断来自官方赛程、Houston Stadium 场地信息、2026-06-11 FIFA 排名更新，以及公开小组预览对德国实力优势的描述。
+Germany vs Curacao prediction: Germany win, 3-0. The forecast uses official schedule/ranking checks plus current market and preview context. It is a football match prediction only and does not constitute investment advice.
 
-Curaçao 的现实目标是把比赛压低节奏并尽量延长 0-0 时间；德国如果早早进球，比赛会迅速向多球优势倾斜。仅为足球赛事预测，不构成任何投资建议。
+Chinese copy for mainland platforms: 德国 vs 库拉索预测：德国 3-0。德国实力和市场信号都很强，但低位防守可能拖慢节奏。仅为足球赛事预测，不构成任何投资建议。
 
 ## Disclaimer
 
-This is a football match prediction only. It does not constitute investment advice, financial advice, or any guarantee of outcome.
+This is a football match prediction only. It does not constitute investment advice, financial advice, betting advice, or any guarantee of outcome.
 
-仅为足球赛事预测，不构成任何投资建议、财务建议或结果承诺。
+仅为足球赛事预测，不构成任何投资建议、财务建议、投注建议或结果承诺。
 
 ## Source Snapshot
 
-- FIFA schedule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
-- FIFA match schedule PDF: https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
-- FourFourTwo day-by-day fixtures: https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day
-- FIFA Germany ranking page: https://inside.fifa.com/fifa-world-ranking/GER?gender=men
-- FIFA Curaçao ranking page: https://inside.fifa.com/fifa-world-ranking/CUW?gender=men
-- NY Post Group E preview: https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/
-- FourFourTwo Germany squad page: https://www.fourfourtwo.com/team/germany-world-cup-2026-squad
-- Verified at: 2026-06-12T08:08:19+08:00
+- FIFA match centre: https://www.fifa.com/en/match-centre/match/17/285023/289273/400021464
+- FOX Sports match page: https://www.foxsports.com/soccer/fifa-world-cup-men-germany-vs-curacao-jun-14-2026-game-boxscore-647624
+- Preview/market context: https://www.rotowire.com/soccer/article/germany-vs-curacao-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-117956
+- FIFA home-team ranking: https://inside.fifa.com/fifa-world-ranking/GER?gender=men
+- FIFA away-team ranking: https://inside.fifa.com/fifa-world-ranking/CUW?gender=men
+- Verified at: 2026-06-14T13:14:35+08:00

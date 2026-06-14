@@ -2,7 +2,7 @@
   "metadata": {
     "snapshot_date": "2026-06-14",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-14T11:12:46+08:00"
+    "source_snapshot_at": "2026-06-14T13:14:35+08:00"
   },
   "predictions": [
     {
@@ -152,15 +152,36 @@
       "lead_image_file": "assets/cards/match-009-civ-ecu-lead.png",
       "image_file": "assets/cards/match-009-civ-ecu.png",
       "model": "ChatGPT 5.5 ultra-high reasoning",
-      "predicted_outcome": "draw",
-      "predicted_winner": null,
-      "predicted_score": "1-1",
-      "home_win_probability": 0.32,
-      "draw_probability": 0.34,
-      "away_win_probability": 0.34,
+      "predicted_outcome": "away_win",
+      "predicted_winner": "ECU",
+      "predicted_score": "0-1",
+      "home_win_probability": 0.3,
+      "draw_probability": 0.31,
+      "away_win_probability": 0.39,
       "confidence": "medium-low",
-      "published_at": "2026-06-12T08:08:19+08:00",
-      "source_snapshot_at": "2026-06-12T08:08:19+08:00"
+      "published_at": "2026-06-15T00:00:00+08:00",
+      "source_snapshot_at": "2026-06-14T13:14:35+08:00",
+      "updated_at": "2026-06-14T13:14:35+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-1",
+          "probability": 0.12,
+          "rationale": "Ecuador control midfield territory and protect a narrow lead."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Cote d'Ivoire transition or set pieces cancel Ecuador's control."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.09,
+          "rationale": "The match opens after the first goal and Ecuador create a second transition chance."
+        }
+      ]
     },
     {
       "match_id": "010",
@@ -172,12 +193,33 @@
       "predicted_outcome": "home_win",
       "predicted_winner": "GER",
       "predicted_score": "3-0",
-      "home_win_probability": 0.72,
-      "draw_probability": 0.18,
-      "away_win_probability": 0.1,
+      "home_win_probability": 0.84,
+      "draw_probability": 0.1,
+      "away_win_probability": 0.06,
       "confidence": "medium-high",
-      "published_at": "2026-06-12T08:08:19+08:00",
-      "source_snapshot_at": "2026-06-12T08:08:19+08:00"
+      "published_at": "2026-06-15T00:00:00+08:00",
+      "source_snapshot_at": "2026-06-14T13:14:35+08:00",
+      "updated_at": "2026-06-14T13:14:35+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "3-0",
+          "probability": 0.18,
+          "rationale": "Germany convert territorial control into a clean favorite result."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "2-0",
+          "probability": 0.14,
+          "rationale": "Curacao's low block delays the margin but not the result."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "4-0",
+          "probability": 0.12,
+          "rationale": "An early goal forces Curacao to open up and Germany add late goals."
+        }
+      ]
     },
     {
       "match_id": "011",
@@ -189,12 +231,33 @@
       "predicted_outcome": "home_win",
       "predicted_winner": "NED",
       "predicted_score": "2-1",
-      "home_win_probability": 0.48,
-      "draw_probability": 0.28,
-      "away_win_probability": 0.24,
-      "confidence": "medium",
-      "published_at": "2026-06-12T08:08:19+08:00",
-      "source_snapshot_at": "2026-06-12T08:08:19+08:00"
+      "home_win_probability": 0.44,
+      "draw_probability": 0.3,
+      "away_win_probability": 0.26,
+      "confidence": "medium-low",
+      "published_at": "2026-06-15T00:00:00+08:00",
+      "source_snapshot_at": "2026-06-14T13:14:35+08:00",
+      "updated_at": "2026-06-14T13:14:35+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.11,
+          "rationale": "Netherlands control more phases but concede one transition chance."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Japan's press keeps the match level and the favorite edge never fully materializes."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.08,
+          "rationale": "A Japanese first goal turns the match into transition-heavy chasing for the Netherlands."
+        }
+      ]
     },
     {
       "match_id": "012",
@@ -206,12 +269,33 @@
       "predicted_outcome": "home_win",
       "predicted_winner": "SWE",
       "predicted_score": "1-0",
-      "home_win_probability": 0.43,
+      "home_win_probability": 0.45,
       "draw_probability": 0.31,
-      "away_win_probability": 0.26,
+      "away_win_probability": 0.24,
       "confidence": "medium-low",
-      "published_at": "2026-06-13T10:39:10+08:00",
-      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+      "published_at": "2026-06-15T00:00:00+08:00",
+      "source_snapshot_at": "2026-06-14T13:14:35+08:00",
+      "updated_at": "2026-06-14T13:14:35+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-0",
+          "probability": 0.12,
+          "rationale": "Sweden edge a tight game through set pieces or direct service."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Tunisia's low block frustrates Sweden and finds one transition or set-piece response."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-1",
+          "probability": 0.08,
+          "rationale": "Sweden's attacking quality creates enough volume despite conceding once."
+        }
+      ]
     },
     {
       "match_id": "013",

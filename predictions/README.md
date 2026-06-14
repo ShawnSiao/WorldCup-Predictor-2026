@@ -18,7 +18,7 @@ Each prediction embeds two share images: a fixture-only lead image first, follow
 | 006 | Australia vs Türkiye | Türkiye win, 2-1 | [English](match-006-aus-tur.md) / [简体中文](match-006-aus-tur.zh-CN.md) |
 | 007 | Brazil vs Morocco | Brazil win, 2-1 | [English](match-007-bra-mar.md) / [简体中文](match-007-bra-mar.zh-CN.md) |
 | 008 | Qatar vs Switzerland | Switzerland win, 2-0 | [English](match-008-qat-sui.md) / [简体中文](match-008-qat-sui.zh-CN.md) |
-| 009 | Côte d'Ivoire vs Ecuador | Draw, 1-1 | [English](match-009-civ-ecu.md) / [简体中文](match-009-civ-ecu.zh-CN.md) |
+| 009 | Côte d'Ivoire vs Ecuador | Ecuador win, 1-0 | [English](match-009-civ-ecu.md) / [简体中文](match-009-civ-ecu.zh-CN.md) |
 | 010 | Germany vs Curaçao | Germany win, 3-0 | [English](match-010-ger-cuw.md) / [简体中文](match-010-ger-cuw.zh-CN.md) |
 | 011 | Netherlands vs Japan | Netherlands win, 2-1 | [English](match-011-ned-jpn.md) / [简体中文](match-011-ned-jpn.zh-CN.md) |
 | 012 | Sweden vs Tunisia | Sweden win, 1-0 | [English](match-012-swe-tun.md) / [简体中文](match-012-swe-tun.zh-CN.md) |
