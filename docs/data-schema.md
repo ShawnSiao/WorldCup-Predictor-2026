@@ -43,6 +43,17 @@ Each record in `data/predictions.json` must include:
 
 Prediction files and their corresponding daily reports embed both images in that order.
 
+## Daily Overview Images
+
+Daily reports that cover two or more predicted matches on the same China-time date should include an additional overview image under `assets/cards/`:
+
+- File pattern: `daily-YYYY-MM-DD-summary.<png|jpg|jpeg|webp>`.
+- The file is a `$imagegen` raster image, not a replacement for per-match prediction images.
+- The image appears before per-match images in the daily report.
+- The report includes `## Summary Card Notes` and `## Scoreline Scenario Overview`.
+
+The scenario overview table repeats each match's three scoreline scenarios and attaches the matching public rationale to each scoreline.
+
 ## Prediction Scoreline Scenarios
 
 For Match 017 onward, each prediction record must include `scoreline_scenarios` with exactly three entries:

@@ -38,6 +38,12 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 | Iraq vs Norway | Group I | 2026-06-16 19:00 UTC | Boston Stadium | [Norway win, 2-0](predictions/match-018-irq-nor.md) / [简体中文](predictions/match-018-irq-nor.zh-CN.md) |
 | Argentina vs Algeria | Group J | 2026-06-17 01:00 UTC | Kansas City Stadium | [Argentina win, 2-0](predictions/match-019-arg-alg.md) / [简体中文](predictions/match-019-arg-alg.zh-CN.md) |
 
+## Daily Overview Card
+
+[![China-time 2026-06-15 prediction overview card](assets/cards/daily-2026-06-15-summary.png)](reports/daily/2026-06-15.md)
+
+The overview card groups the same China-time date into one share image and links each scoreline scenario to its own rationale.
+
 ## Featured Prediction Image Sets
 
 [![Mexico vs South Africa lead prediction image](assets/cards/match-001-mex-rsa-lead.png)](predictions/match-001-mex-rsa.md)

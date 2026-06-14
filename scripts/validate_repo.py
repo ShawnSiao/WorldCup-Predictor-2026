@@ -40,6 +40,7 @@ REVIEW_RATINGS = {"correct", "partial", "wrong"}
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 SCORELINE_SCENARIO_REQUIRED_FROM_MATCH = 17
 SCORELINE_SCENARIO_LABELS = {"primary", "conservative_draw_path", "upside_alternate"}
+DAILY_OVERVIEW_REQUIRED_FROM = "2026-06-15"
 SOURCE_COVERAGE_DIMENSIONS = {
     "schedule_results",
     "squads_players",
@@ -409,12 +410,74 @@ def validate_source_coverage(repo_root: Path, errors: list[str]) -> None:
         errors.append(f"data/source-coverage.json missing dimensions: {', '.join(missing)}")
 
 
+def find_daily_overview_image(repo_root: Path, report_date: str) -> Path | None:
+    cards_dir = repo_root / "assets" / "cards"
+    for extension in sorted(IMAGE_EXTENSIONS):
+        candidate = cards_dir / f"daily-{report_date}-summary{extension}"
+        if candidate.exists():
+            return candidate
+    return None
+
+
+def validate_daily_overview_cards(repo_root: Path, errors: list[str]) -> None:
+    reports_dir = repo_root / "reports" / "daily"
+    if not reports_dir.exists():
+        return
+
+    for daily_report in sorted(reports_dir.glob("20??-??-??.md")):
+        report_date = daily_report.stem
+        if report_date < DAILY_OVERVIEW_REQUIRED_FROM:
+            continue
+
+        daily_report_zh = reports_dir / f"{report_date}.zh-CN.md"
+        if not daily_report_zh.exists():
+            errors.append(f"Daily report {report_date} missing Simplified Chinese file")
+            continue
+
+        overview_image = find_daily_overview_image(repo_root, report_date)
+        if overview_image is None:
+            errors.append(f"Daily report {report_date} missing daily overview image under assets/cards/")
+            continue
+        if overview_image.suffix.lower() not in IMAGE_EXTENSIONS:
+            errors.append(f"Daily report {report_date} overview image must be raster: {overview_image.name}")
+        elif not has_valid_raster_header(overview_image):
+            errors.append(f"Daily report {report_date} overview image is not a valid raster image: {overview_image.name}")
+
+        image_reference = f"assets/cards/{overview_image.name}"
+        daily_text = daily_report.read_text(encoding="utf-8")
+        daily_text_zh = daily_report_zh.read_text(encoding="utf-8")
+
+        if image_reference not in daily_text:
+            errors.append(f"Daily report {report_date} must embed overview image: {image_reference}")
+        if image_reference not in daily_text_zh:
+            errors.append(f"Chinese daily report {report_date} must embed overview image: {image_reference}")
+        if "## Summary Card Notes" not in daily_text:
+            errors.append(f"Daily report {report_date} missing required section: ## Summary Card Notes")
+        if "## Scoreline Scenario Overview" not in daily_text:
+            errors.append(f"Daily report {report_date} missing required section: ## Scoreline Scenario Overview")
+        if "## 总览图说明" not in daily_text_zh:
+            errors.append(f"Chinese daily report {report_date} missing required section: ## 总览图说明")
+        if "## 比分情景总览" not in daily_text_zh:
+            errors.append(f"Chinese daily report {report_date} missing required section: ## 比分情景总览")
+        for label in SCORELINE_SCENARIO_LABELS:
+            if label not in daily_text:
+                errors.append(f"Daily report {report_date} scenario overview must include label: {label}")
+        for label in ["主情景", "保守 / 平局路径", "上限 / 替代路径"]:
+            if label not in daily_text_zh:
+                errors.append(f"Chinese daily report {report_date} scenario overview must include label: {label}")
+        if "investment advice" not in daily_text.lower() or "投资建议" not in daily_text:
+            errors.append(f"Daily report {report_date} overview notes must include investment advice disclaimer")
+        if "投资建议" not in daily_text_zh:
+            errors.append(f"Chinese daily report {report_date} overview notes must include investment advice disclaimer")
+
+
 def validate_repository(repo_root: Path) -> list[str]:
     errors: list[str] = []
     validate_required_paths(repo_root, errors)
     validate_bilingual_document_pairs(repo_root, errors)
     validate_share_image_policy(repo_root, errors)
     validate_source_coverage(repo_root, errors)
+    validate_daily_overview_cards(repo_root, errors)
     match_ids = validate_matches(repo_root, errors)
     validate_predictions(repo_root, match_ids, errors)
     validate_reviews(repo_root, match_ids, errors)

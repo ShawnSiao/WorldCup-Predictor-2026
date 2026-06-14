@@ -19,7 +19,7 @@ WorldCup-Predictor-2026 tracks the 2026 FIFA World Cup schedule, publishes pre-m
 3. Create or refresh predictions for upcoming matches.
 4. Generate or refresh two raster share images for every published prediction with `$imagegen`.
 5. Create reviews for completed matches.
-6. Update the daily report in `reports/daily/`.
+6. Update the daily report in `reports/daily/`, including a daily overview card when the report covers multiple predicted matches on the same China-time date.
 7. Refresh README dashboard counters and links when visible state changes.
 8. Run validation.
 9. Commit and push only repository artifacts, never local specs.
@@ -76,6 +76,27 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位�
 Images must be raster files such as PNG, JPG, JPEG, or WebP. Do not create SVG, HTML, canvas, Mermaid, chart-only, or script-generated image substitutes for prediction share images.
 
 Generated public artifacts must be bilingual. For every generated English prediction or daily report, maintain a Simplified Chinese counterpart, link the language pair from both files, and embed the same two share images in both versions.
+
+## Daily Overview Requirements
+
+When a daily report covers two or more predicted matches on the same China-time date, create a daily prediction overview card in `assets/cards/`, named with the pattern `daily-YYYY-MM-DD-summary.<png|jpg|jpeg|webp>`.
+
+The daily overview card is a supplement and must not replace per-match `lead_image_file` or `image_file` assets. It must be generated with `$imagegen` as a real raster image. Do not use SVG, HTML, Mermaid, canvas, chart-only images, or script-generated substitutes.
+
+The overview card must summarize each match with:
+
+- China-time kickoff.
+- Matchup.
+- Win/draw/loss probability summary.
+- Three scoreline scenarios: `primary`, `conservative_draw_path`, and `upside_alternate`.
+- The public `rationale` for each scenario, tied directly to that scoreline rather than written as a generic match reason.
+
+If one image would become too crowded, split the same date into multiple overview cards. A four-match date should normally fit one 16:9 landscape card.
+
+The daily report must embed the overview card before per-match images and include:
+
+- `## Summary Card Notes` / `## 总览图说明`: a short paragraph explaining how to read the card, what evidence was used, what late variables can change the forecast, and the investment-advice disclaimer.
+- `## Scoreline Scenario Overview` / `## 比分情景总览`: a table that lists every match and the rationale attached to each scoreline scenario.
 
 ## Platform Copy Requirements
 

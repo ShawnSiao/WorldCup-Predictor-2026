@@ -43,6 +43,17 @@ scheduled -> predicted -> live -> final -> reviewed
 
 预测文件及对应日报必须按此顺序嵌入两张图片。
 
+## 每日总览图
+
+当日报覆盖同一中国时间日期下两场或更多已预测比赛时，应额外在 `assets/cards/` 下包含一张总览图：
+
+- 文件命名：`daily-YYYY-MM-DD-summary.<png|jpg|jpeg|webp>`。
+- 文件必须是 `$imagegen` 生成的真实位图，不替代单场预测图。
+- 日报中应先嵌入总览图，再嵌入单场配图。
+- 英文日报需要包含 `## Summary Card Notes` 和 `## Scoreline Scenario Overview`；中文日报使用 `## 总览图说明` 和 `## 比分情景总览`。
+
+比分情景总览表需要列出每场比赛的三种比分情景，并把每个比分与对应公开理由绑定展示。
+
 ## 预测比分情景
 
 从第 017 场开始，每条预测记录必须包含 `scoreline_scenarios`，且正好有三条：

@@ -38,6 +38,12 @@
 | 伊拉克 vs 挪威 | I 组 | 2026-06-16 19:00 UTC | Boston Stadium | [挪威胜，2-0](../predictions/match-018-irq-nor.zh-CN.md) / [English](../predictions/match-018-irq-nor.md) |
 | 阿根廷 vs 阿尔及利亚 | J 组 | 2026-06-17 01:00 UTC | Kansas City Stadium | [阿根廷胜，2-0](../predictions/match-019-arg-alg.zh-CN.md) / [English](../predictions/match-019-arg-alg.md) |
 
+## 每日总览图
+
+[![2026-06-15 中国时间预测总览图](../assets/cards/daily-2026-06-15-summary.png)](../reports/daily/2026-06-15.zh-CN.md)
+
+总览图把同一中国时间日期的比赛放在一张分享图里，并把每个比分情景和对应理由绑定展示。
+
 ## 重点预测首图
 
 [![墨西哥 vs 南非赛前首图](../assets/cards/match-001-mex-rsa-lead.png)](../predictions/match-001-mex-rsa.zh-CN.md)

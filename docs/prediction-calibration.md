@@ -36,6 +36,23 @@ For Match 017 onward, every new or refreshed prediction must provide three score
 
 Scenario probabilities are top-scoreline estimates, not a complete probability distribution. They do not need to sum to 100%, because other scorelines remain possible.
 
+## Daily Overview Cards
+
+For daily reports with two or more predicted matches on the same China-time date, add one daily overview card after the snapshot and before the per-match images.
+
+The overview card should show each match as one row or compact block:
+
+- kickoff in China time
+- matchup
+- win/draw/loss probabilities
+- primary scoreline with its scenario rationale
+- conservative / draw scoreline with its scenario rationale
+- upside / alternate scoreline with its scenario rationale
+
+The rationale must come from the matching scoreline scenario. Do not use one generic reason for the whole match when the image displays multiple scoreline paths.
+
+Each daily report must include a short `Summary Card Notes` section explaining how to read the card, which evidence families were used, which late variables can change the forecast, and that the content does not constitute investment advice.
+
 ## Review Feedback Tags
 
 Post-match reviews should add one or more structured error tags when useful:
