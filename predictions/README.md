@@ -26,3 +26,6 @@ Each prediction embeds two share images: a fixture-only lead image first, follow
 | 014 | Spain vs Cabo Verde | Spain win, 3-0 | [English](match-014-esp-cpv.md) / [简体中文](match-014-esp-cpv.zh-CN.md) |
 | 015 | IR Iran vs New Zealand | IR Iran win, 2-0 | [English](match-015-irn-nzl.md) / [简体中文](match-015-irn-nzl.zh-CN.md) |
 | 016 | Belgium vs Egypt | Belgium win, 2-1 | [English](match-016-bel-egy.md) / [简体中文](match-016-bel-egy.zh-CN.md) |
+| 017 | France vs Senegal | France win, 2-1 | [English](match-017-fra-sen.md) / [简体中文](match-017-fra-sen.zh-CN.md) |
+| 018 | Iraq vs Norway | Norway win, 2-0 | [English](match-018-irq-nor.md) / [简体中文](match-018-irq-nor.zh-CN.md) |
+| 019 | Argentina vs Algeria | Argentina win, 2-0 | [English](match-019-arg-alg.md) / [简体中文](match-019-arg-alg.zh-CN.md) |

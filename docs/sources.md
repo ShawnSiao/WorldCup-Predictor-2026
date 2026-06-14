@@ -90,9 +90,21 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Belgium ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/BEL?gender=men |
 | Egypt ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/EGY?gender=men |
 
+| Match 004 final result official hub | U.S. Soccer | https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights |
+| Match 005 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live |
+| Match 007 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live |
+| Match 008 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live |
+| Fixture time cross-check and bracket | ESPN | https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket |
+| France ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/FRA?gender=men |
+| Senegal ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/SEN?gender=men |
+| Iraq ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men |
+| Norway ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/NOR?gender=men |
+| Argentina ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ARG?gender=men |
+| Algeria ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ALG?gender=men |
+
 ## Current Known Gaps
 
 - Full 104-match structured schedule ingestion is pending.
 - Full 48-team player-level squad ingestion is pending.
-- Injury, team-news, and availability sources have been added for Matches 001-004 and 009-016 where available; Matches 005-008 still need dedicated team-news sources before kickoff.
+- Injury, team-news, and availability sources have been added for Matches 001-004 and 009-016 where available; Matches 006 and 017-019 still need dedicated late team-news sources before kickoff.
 - FIFA ranking pages show the last official men's ranking update as 2026-06-11, with the next official update listed for 2026-07-20.

@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-13",
-    "coverage": "squad publication status for tracked teams through Match 016; player-level records pending ingestion",
+    "snapshot_date": "2026-06-14",
+    "coverage": "squad publication status for tracked teams through Match 019; player-level records pending ingestion",
     "official_player_count": 1248,
     "tracked_player_count": 0,
     "source_urls": [
       "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
     ],
-    "last_verified_at": "2026-06-13T10:39:10+08:00"
+    "last_verified_at": "2026-06-14T11:12:46+08:00"
   },
   "squad_snapshots": [
     {
@@ -167,6 +167,36 @@
     },
     {
       "team_code": "EGY",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "FRA",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "SEN",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "IRQ",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "NOR",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "ARG",
+      "status": "confirmed",
+      "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
+    },
+    {
+      "team_code": "ALG",
       "status": "confirmed",
       "source_url": "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed"
     }

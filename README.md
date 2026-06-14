@@ -13,22 +13,18 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-13 |
+| Data snapshot | 2026-06-14 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 16 |
-| Predictions published | 16 |
-| Final results tracked | 3 |
-| Post-match reviews published | 3 |
+| Tracked matches in repository | 19 |
+| Predictions published | 19 |
+| Final results tracked | 7 |
+| Post-match reviews published | 7 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| USA vs Paraguay | Group D | 2026-06-13 01:00 UTC | Los Angeles Stadium | [Live at verification time; pre-match prediction USA win, 2-1](predictions/match-004-usa-par.md) / [简体中文](predictions/match-004-usa-par.zh-CN.md) |
-| Qatar vs Switzerland | Group B | 2026-06-13 19:00 UTC | San Francisco Bay Area Stadium | [Switzerland win, 2-0](predictions/match-008-qat-sui.md) / [简体中文](predictions/match-008-qat-sui.zh-CN.md) |
-| Brazil vs Morocco | Group C | 2026-06-13 22:00 UTC | New York New Jersey Stadium | [Brazil win, 2-1](predictions/match-007-bra-mar.md) / [简体中文](predictions/match-007-bra-mar.zh-CN.md) |
-| Haiti vs Scotland | Group C | 2026-06-14 01:00 UTC | Boston Stadium | [Scotland win, 2-1](predictions/match-005-hai-sco.md) / [简体中文](predictions/match-005-hai-sco.zh-CN.md) |
 | Australia vs Türkiye | Group D | 2026-06-14 04:00 UTC | BC Place Vancouver | [Türkiye win, 2-1](predictions/match-006-aus-tur.md) / [简体中文](predictions/match-006-aus-tur.zh-CN.md) |
 | Germany vs Curaçao | Group E | 2026-06-14 17:00 UTC | Houston Stadium | [Germany win, 3-0](predictions/match-010-ger-cuw.md) / [简体中文](predictions/match-010-ger-cuw.zh-CN.md) |
 | Netherlands vs Japan | Group F | 2026-06-14 20:00 UTC | Dallas Stadium | [Netherlands win, 2-1](predictions/match-011-ned-jpn.md) / [简体中文](predictions/match-011-ned-jpn.zh-CN.md) |
@@ -38,6 +34,9 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 | Belgium vs Egypt | Group G | 2026-06-15 19:00 UTC | Seattle Stadium | [Belgium win, 2-1](predictions/match-016-bel-egy.md) / [简体中文](predictions/match-016-bel-egy.zh-CN.md) |
 | Saudi Arabia vs Uruguay | Group H | 2026-06-15 22:00 UTC | Miami Stadium | [Uruguay win, 2-0](predictions/match-013-ksa-uru.md) / [简体中文](predictions/match-013-ksa-uru.zh-CN.md) |
 | IR Iran vs New Zealand | Group G | 2026-06-16 01:00 UTC | Los Angeles Stadium | [IR Iran win, 2-0](predictions/match-015-irn-nzl.md) / [简体中文](predictions/match-015-irn-nzl.zh-CN.md) |
+| France vs Senegal | Group I | 2026-06-16 16:00 UTC | New York New Jersey Stadium | [France win, 2-1](predictions/match-017-fra-sen.md) / [简体中文](predictions/match-017-fra-sen.zh-CN.md) |
+| Iraq vs Norway | Group I | 2026-06-16 19:00 UTC | Boston Stadium | [Norway win, 2-0](predictions/match-018-irq-nor.md) / [简体中文](predictions/match-018-irq-nor.zh-CN.md) |
+| Argentina vs Algeria | Group J | 2026-06-17 01:00 UTC | Kansas City Stadium | [Argentina win, 2-0](predictions/match-019-arg-alg.md) / [简体中文](predictions/match-019-arg-alg.zh-CN.md) |
 
 ## Featured Prediction Image Sets
 
@@ -57,12 +56,15 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 [![Spain vs Cabo Verde lead prediction image](assets/cards/match-014-esp-cpv-lead.png)](predictions/match-014-esp-cpv.md)
 [![IR Iran vs New Zealand lead prediction image](assets/cards/match-015-irn-nzl-lead.png)](predictions/match-015-irn-nzl.md)
 [![Belgium vs Egypt lead prediction image](assets/cards/match-016-bel-egy-lead.png)](predictions/match-016-bel-egy.md)
+[![France vs Senegal lead prediction image](assets/cards/match-017-fra-sen-lead.png)](predictions/match-017-fra-sen.md)
+[![Iraq vs Norway lead prediction image](assets/cards/match-018-irq-nor-lead.png)](predictions/match-018-irq-nor.md)
+[![Argentina vs Algeria lead prediction image](assets/cards/match-019-arg-alg-lead.png)](predictions/match-019-arg-alg.md)
 
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 
 ## Today
 
-Canada drew Bosnia and Herzegovina 1-1, producing a `partial` review for Match 003. The current 72-hour prediction window now extends through IR Iran vs New Zealand on 2026-06-16 01:00 UTC.
+USA beat Paraguay 4-1, Scotland beat Haiti 1-0, Brazil drew Morocco 1-1, and Qatar drew Switzerland 1-1. The current 72-hour prediction window now extends through Argentina vs Algeria on 2026-06-17 01:00 UTC.
 
 ## Reasoning Model
 
@@ -90,9 +92,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 016: Belgium vs Egypt](predictions/match-016-bel-egy.md)
-- Latest review: [Match 003: Canada vs Bosnia and Herzegovina](reviews/match-003-can-bih.md)
-- Latest daily report: [2026-06-13](reports/daily/2026-06-13.md)
+- Latest prediction: [Match 019: Argentina vs Algeria](predictions/match-019-arg-alg.md)
+- Latest review: [Match 008: Qatar vs Switzerland](reviews/match-008-qat-sui.md)
+- Latest daily report: [2026-06-14](reports/daily/2026-06-14.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)
 - Sources: [Source policy and current source list](docs/sources.md) / [简体中文](docs/sources.zh-CN.md)

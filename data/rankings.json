@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-13",
-    "coverage": "teams in the opening matchday window through Match 016",
+    "snapshot_date": "2026-06-14",
+    "coverage": "teams in the opening matchday window through Match 019",
     "ranking_source": "FIFA/Coca-Cola Men's World Ranking team pages",
     "last_official_update": "2026-06-11",
     "next_official_update": "2026-07-20",
@@ -37,9 +37,15 @@
       "https://inside.fifa.com/fifa-world-ranking/IRN?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/NZL?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/BEL?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/FRA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/SEN?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/NOR?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/ARG?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men"
     ],
-    "last_verified_at": "2026-06-13T10:39:10+08:00"
+    "last_verified_at": "2026-06-14T11:12:46+08:00"
   },
   "rankings": [
     {
@@ -233,6 +239,42 @@
       "team": "Egypt",
       "rank": 29,
       "source_url": "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men"
+    },
+    {
+      "team_code": "FRA",
+      "team": "France",
+      "rank": 3,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/FRA?gender=men"
+    },
+    {
+      "team_code": "SEN",
+      "team": "Senegal",
+      "rank": 21,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/SEN?gender=men"
+    },
+    {
+      "team_code": "IRQ",
+      "team": "Iraq",
+      "rank": 58,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men"
+    },
+    {
+      "team_code": "NOR",
+      "team": "Norway",
+      "rank": 11,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/NOR?gender=men"
+    },
+    {
+      "team_code": "ARG",
+      "team": "Argentina",
+      "rank": 1,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/ARG?gender=men"
+    },
+    {
+      "team_code": "ALG",
+      "team": "Algeria",
+      "rank": 35,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men"
     }
   ]
 }

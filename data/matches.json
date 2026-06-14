@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-13",
-    "coverage": "opening matchday window through Match 016",
+    "snapshot_date": "2026-06-14",
+    "coverage": "opening matchday window through Match 019",
     "official_match_count": 104,
-    "tracked_match_count": 16,
+    "tracked_match_count": 19,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -13,9 +13,14 @@
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476",
-      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478"
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478",
+      "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights",
+      "https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live",
+      "https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live",
+      "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live"
     ],
-    "last_verified_at": "2026-06-13T10:39:10+08:00"
+    "last_verified_at": "2026-06-14T11:12:46+08:00"
   },
   "matches": [
     {
@@ -94,14 +99,14 @@
       "country": "United States",
       "home_team_code": "USA",
       "away_team_code": "PAR",
-      "status": "live",
+      "status": "reviewed",
       "source_urls": [
-        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
-        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights"
       ],
-      "last_verified_at": "2026-06-13T10:39:10+08:00"
+      "last_verified_at": "2026-06-14T11:12:46+08:00"
     },
     {
       "match_id": "005",
@@ -116,12 +121,14 @@
       "country": "United States",
       "home_team_code": "HAI",
       "away_team_code": "SCO",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live"
       ],
-      "last_verified_at": "2026-06-11T00:00:06Z"
+      "last_verified_at": "2026-06-14T11:12:46+08:00"
     },
     {
       "match_id": "006",
@@ -156,13 +163,15 @@
       "country": "United States",
       "home_team_code": "BRA",
       "away_team_code": "MAR",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
-        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live"
       ],
-      "last_verified_at": "2026-06-11T00:00:06Z"
+      "last_verified_at": "2026-06-14T11:12:46+08:00"
     },
     {
       "match_id": "008",
@@ -177,12 +186,14 @@
       "country": "United States",
       "home_team_code": "QAT",
       "away_team_code": "SUI",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live"
       ],
-      "last_verified_at": "2026-06-11T00:00:06Z"
+      "last_verified_at": "2026-06-14T11:12:46+08:00"
     },
     {
       "match_id": "009",
@@ -356,6 +367,75 @@
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478"
       ],
       "last_verified_at": "2026-06-13T10:39:10+08:00"
+    },
+    {
+      "match_id": "017",
+      "stage": "Group I",
+      "group": "I",
+      "kickoff_utc": "2026-06-16T16:00:00Z",
+      "kickoff_local": "2026-06-16T12:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "new-york-new-jersey-stadium",
+      "venue_name": "New York New Jersey Stadium",
+      "city": "New York/New Jersey",
+      "country": "United States",
+      "home_team_code": "FRA",
+      "away_team_code": "SEN",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-14T11:12:46+08:00"
+    },
+    {
+      "match_id": "018",
+      "stage": "Group I",
+      "group": "I",
+      "kickoff_utc": "2026-06-16T19:00:00Z",
+      "kickoff_local": "2026-06-16T15:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "boston-stadium",
+      "venue_name": "Boston Stadium",
+      "city": "Boston",
+      "country": "United States",
+      "home_team_code": "IRQ",
+      "away_team_code": "NOR",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-14T11:12:46+08:00"
+    },
+    {
+      "match_id": "019",
+      "stage": "Group J",
+      "group": "J",
+      "kickoff_utc": "2026-06-17T01:00:00Z",
+      "kickoff_local": "2026-06-16T20:00:00-05:00",
+      "timezone": "America/Chicago",
+      "venue_id": "kansas-city-stadium",
+      "venue_name": "Kansas City Stadium",
+      "city": "Kansas City",
+      "country": "United States",
+      "home_team_code": "ARG",
+      "away_team_code": "ALG",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+      ],
+      "last_verified_at": "2026-06-14T11:12:46+08:00"
     }
   ]
 }

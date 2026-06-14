@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-13",
-    "coverage": "teams in the opening matchday window through Match 016",
+    "snapshot_date": "2026-06-14",
+    "coverage": "teams in the opening matchday window through Match 019",
     "official_team_count": 48,
-    "tracked_team_count": 32,
+    "tracked_team_count": 38,
     "source_urls": [
       "https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed",
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
-      "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf"
+      "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+      "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches"
     ],
-    "last_verified_at": "2026-06-13T10:39:10+08:00"
+    "last_verified_at": "2026-06-14T11:12:46+08:00"
   },
   "teams": [
     {
@@ -233,6 +234,48 @@
       "team_code": "EGY",
       "name": "Egypt",
       "group": "G",
+      "confederation": "CAF",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "FRA",
+      "name": "France",
+      "group": "I",
+      "confederation": "UEFA",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "SEN",
+      "name": "Senegal",
+      "group": "I",
+      "confederation": "CAF",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "IRQ",
+      "name": "Iraq",
+      "group": "I",
+      "confederation": "AFC",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "NOR",
+      "name": "Norway",
+      "group": "I",
+      "confederation": "UEFA",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "ARG",
+      "name": "Argentina",
+      "group": "J",
+      "confederation": "CONMEBOL",
+      "role": "qualified team"
+    },
+    {
+      "team_code": "ALG",
+      "name": "Algeria",
+      "group": "J",
       "confederation": "CAF",
       "role": "qualified team"
     }

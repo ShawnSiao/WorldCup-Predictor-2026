@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-13",
+    "snapshot_date": "2026-06-14",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+    "source_snapshot_at": "2026-06-14T11:12:46+08:00"
   },
   "predictions": [
     {
@@ -280,6 +280,57 @@
       "confidence": "medium",
       "published_at": "2026-06-13T10:39:10+08:00",
       "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+    },
+    {
+      "match_id": "017",
+      "prediction_file": "predictions/match-017-fra-sen.md",
+      "prediction_file_zh": "predictions/match-017-fra-sen.zh-CN.md",
+      "lead_image_file": "assets/cards/match-017-fra-sen-lead.png",
+      "image_file": "assets/cards/match-017-fra-sen.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "FRA",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.5,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.23,
+      "confidence": "medium",
+      "published_at": "2026-06-14T11:12:46+08:00",
+      "source_snapshot_at": "2026-06-14T11:12:46+08:00"
+    },
+    {
+      "match_id": "018",
+      "prediction_file": "predictions/match-018-irq-nor.md",
+      "prediction_file_zh": "predictions/match-018-irq-nor.zh-CN.md",
+      "lead_image_file": "assets/cards/match-018-irq-nor-lead.png",
+      "image_file": "assets/cards/match-018-irq-nor.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "NOR",
+      "predicted_score": "0-2",
+      "home_win_probability": 0.18,
+      "draw_probability": 0.26,
+      "away_win_probability": 0.56,
+      "confidence": "medium",
+      "published_at": "2026-06-14T11:12:46+08:00",
+      "source_snapshot_at": "2026-06-14T11:12:46+08:00"
+    },
+    {
+      "match_id": "019",
+      "prediction_file": "predictions/match-019-arg-alg.md",
+      "prediction_file_zh": "predictions/match-019-arg-alg.zh-CN.md",
+      "lead_image_file": "assets/cards/match-019-arg-alg-lead.png",
+      "image_file": "assets/cards/match-019-arg-alg.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "ARG",
+      "predicted_score": "2-0",
+      "home_win_probability": 0.65,
+      "draw_probability": 0.22,
+      "away_win_probability": 0.13,
+      "confidence": "medium-high",
+      "published_at": "2026-06-14T11:12:46+08:00",
+      "source_snapshot_at": "2026-06-14T11:12:46+08:00"
     }
   ]
 }

@@ -90,9 +90,21 @@
 | Belgium 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/BEL?gender=men |
 | Egypt 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/EGY?gender=men |
 
+| 第 004 场官方赛果页 | U.S. Soccer | https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights |
+| 第 005 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live |
+| 第 007 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live |
+| 第 008 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live |
+| 开球时间与淘汰赛表交叉核验 | ESPN | https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket |
+| France 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/FRA?gender=men |
+| Senegal 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/SEN?gender=men |
+| Iraq 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men |
+| Norway 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/NOR?gender=men |
+| Argentina 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/ARG?gender=men |
+| Algeria 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/ALG?gender=men |
+
 ## 当前已知缺口
 
 - 尚未导入官方 104 场完整结构化赛程。
 - 尚未导入 48 支球队完整球员名单快照。
-- 第 001-004、009-016 场已在可用范围内加入伤病、球队新闻和可用性来源；第 005-008 场仍需在开球前补充对应球队新闻来源。
+- 第 001-004、009-016 场已在可用范围内加入伤病、球队新闻和可用性来源；第 006、017-019 场仍需在开球前补充对应临场球队新闻来源。
 - FIFA 排名页面显示最近一次男子排名更新时间为 2026-06-11，下一次官方更新时间为 2026-07-20。
