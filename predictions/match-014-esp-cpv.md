@@ -6,7 +6,7 @@ kickoff_utc: "2026-06-15T16:00:00Z"
 venue: "Atlanta Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-13T10:39:10+08:00"
-source_snapshot_at: "2026-06-13T10:39:10+08:00"
+source_snapshot_at: "2026-06-15T21:49:26+08:00"
 lead_image_file: "../assets/cards/match-014-esp-cpv-lead.png"
 image_file: "../assets/cards/match-014-esp-cpv.png"
 ---
@@ -37,69 +37,78 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位�
 
 | Outcome | Probability |
 | --- | ---: |
-| Spain win | 76% |
-| Draw | 16% |
-| Cabo Verde win | 8% |
+| Spain win | 78% |
+| Draw | 15% |
+| Cabo Verde win | 7% |
 
 - Predicted winner: ESP
 - Predicted scoreline: Spain vs Cabo Verde 3-0
 - Confidence: medium-high
 - Model: ChatGPT 5.5 ultra-high reasoning
 
+## Scoreline Scenarios
+
+| Scenario | Scoreline | Probability | Rationale |
+| --- | --- | ---: | --- |
+| Primary | 3-0 | 18% | Spain's possession control and counter-pressing pin Cabo Verde deep, creating enough volume for a multi-goal win. |
+| Conservative / draw path | 1-1 | 6% | The draw path needs Spain to rotate or finish poorly while Cabo Verde convert one transition or set-piece chance. |
+| Upside / alternate | 4-0 | 12% | An early Spain goal forces Cabo Verde out of their low block and opens wide-area overloads for a larger margin. |
+
 ## Factual Basis
 
 - Official fixture: Match 014 is Spain vs Cabo Verde in Group H at Atlanta Stadium.
-- Kickoff is 2026-06-15T16:00:00Z; this falls inside the current 72-hour window from the actual automation run time.
+- Kickoff is 2026-06-15T16:00:00Z (2026-06-16 00:00 CST), placing it on the 2026-06-16 China-time slate.
 - FIFA's 2026-06-11 ranking pages list Spain 2 and Cabo Verde 67.
-- FIFA has confirmed final squads, but full player-level squad ingestion and final matchday injury bulletins remain data gaps.
+- FIFA has confirmed final squads, while the repository still lacks final starting XIs and official matchday injury bulletins.
+- The June 14 Fox preview, current venue/weather context, and public market framing were checked; unresolved late variables are reflected in the confidence rating.
 
 ## Prediction Coverage Checklist
 
 | Dimension | Snapshot status | Confidence impact |
 | --- | --- | --- |
-| Tactics | Style matchup, pressing, transitions, and set pieces checked from group previews and team profiles. | mixed |
-| Players | Key ranking, squad status, and headline player context checked. | supports lean |
-| Injuries / suspensions | Official matchday medical bulletin is not stored yet. | data gap lowers confidence |
-| Schedule / rest / travel | Kickoff, venue, neutral-site travel, and local timing verified. | mixed |
-| History | Tournament history considered lightly because squads and coaches change. | low weight |
-| Public sentiment | Media narrative and fan expectation checked as context, not proof. | mixed |
-| Weather / venue conditions | City and venue context checked; matchday forecast is not stored. | data gap lowers confidence |
-| Psychology | Opening-match caution, favorite pressure, and underdog motivation considered. | mixed |
-| Odds movement | Public preview odds/context checked where available; movement snapshot not stored. | data gap |
-| Expert views | Reputable group previews reviewed, with uncertainty kept in the confidence rating. | supports medium or lower confidence |
+| Tactics | Spain's expected possession, counter-pressing, and wide rotations give them the clearest tactical edge. | supports base lean with stated risk |
+| Players | Ranking and squad-depth signals strongly favor Spain; Cabo Verde need goalkeeper performance, set pieces, and transition efficiency. | supports lean, but not high confidence alone |
+| Injuries / suspensions | No official matchday medical bulletin or final starting XI is stored yet. | data gap lowers confidence |
+| Schedule / rest / travel | FIFA kickoff, venue, local time, and China-time date were verified; all four matches are opening group fixtures. | mixed |
+| History | Tournament history is low weight because current squads, coaching, and match state matter more. | low weight |
+| Public sentiment | Preview context frames Spain as a clear Group H favorite, but the scoreline still depends on finishing and rotation choices. | context only, not proof |
+| Weather / venue conditions | Atlanta's stadium environment lowers weather exposure, though roof and surface conditions still need matchday confirmation. | tactical and tempo risk |
+| Psychology / pressure / motivation | Opening-match caution and favorite pressure are included; underdog motivation is not treated as a measurable edge. | mixed |
+| Odds movement | Public preview and market framing were checked, but a timestamped odds-movement trail is not stored. | data gap |
+| Expert views | FIFA ranking checks and the Fox June 14 preview support Spain as the strongest favorite among the four China-time matches. | supports published confidence |
 
 ## Prediction Logic
 
-1. The probability split prices the ranking and squad-quality signal while preserving draw risk for a first group match.
-2. The match script leans toward Spain win, 3-0 because Spain rotation and finishing efficiency is the main route that can pull the game away from the base case.
-3. Confidence stays below high because lineups, weather, and odds-movement snapshots are not fully verified in the repository.
+1. The three-way probabilities start from verified FIFA schedule/ranking data and are then adjusted for tactical matchup, squad depth, venue conditions, and first-match volatility.
+2. The headline scoreline follows the strongest repeatable route: Spain's possession control and counter-pressing pin Cabo Verde deep, creating enough volume for a multi-goal win.
+3. The draw or upset scenarios remain explicit because final lineups, injury/suspension details, odds movement, and matchday conditions are not fully stored.
 
 ## Risk Factors
 
-- Spain rotation and finishing efficiency
+- Spain rotation and finishing efficiency.
+- Cabo Verde set pieces or a rare transition can change the first-half script.
 - Final lineups and matchday medical bulletins are not yet stored.
-- An early set-piece goal would materially change game state.
 
 ## Platform Share Copy
 
 ### Douyin / 抖音
 
-World Cup Group H prediction: Spain vs Cabo Verde. I lean Spain win, 3-0; key risk: Spain rotation and finishing efficiency.
+World Cup Group H prediction: Spain vs Cabo Verde. Lean: Spain win, 3-0. Scoreline paths: primary 3-0, draw-risk path 1-1, alternate 4-0.
 仅为足球赛事预测，不构成任何投资建议。
 
 ### Xiaohongshu / 小红书
 
-Spain vs Cabo Verde prediction: Spain win, 3-0. Built from official schedule, FIFA rankings, squad status, and current preview context.
+Spain vs Cabo Verde prediction: Spain win, 3-0. The main reason is tied to the primary scoreline: Spain's possession control and counter-pressing pin Cabo Verde deep, creating enough volume for a multi-goal win.
 仅为足球赛事预测，不构成任何投资建议。
 
 ### Weibo / 微博
 
-Group H prediction: Spain win, 3-0. Probability: ESP 76%, draw 16%, CPV 8%. Confidence: medium-high.
+Group H prediction: Spain win, 3-0. Probability: ESP 78%, draw 15%, CPV 7%. Main alternate: 1-1 if the risk path lands.
 仅为足球赛事预测，不构成任何投资建议。#WorldCup2026#
 
 ### WeChat / 微信
 
-Spain vs Cabo Verde forecast: Spain win, 3-0. This is based on verified fixture data, FIFA ranking pages, squad confirmation, and reputable preview context. This is a football match prediction only and does not constitute investment advice. 仅为足球赛事预测，不构成任何投资建议。
+Spain vs Cabo Verde forecast: Spain win, 3-0. The prediction uses official fixture data, FIFA rankings, confirmed squad context, venue/weather checks, public preview context, and a specific rationale for each scoreline scenario. This is a football match prediction only and does not constitute investment advice. 仅为足球赛事预测，不构成任何投资建议。
 
 ## Disclaimer
 
@@ -114,7 +123,7 @@ This is a football match prediction only. It does not constitute investment advi
 - https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day
 - https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed
 - https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482
-- https://nypost.com/2026/06/10/sports/world-cup-2026-group-h-preview-prediction-odds-full-team-overviews/
+- https://www.foxsports.com/stories/soccer/world-cup-spain-cape-verde-uruguay-saudi-arabia-iran-belgium-egypt-new-zealand
 - https://inside.fifa.com/fifa-world-ranking/ESP?gender=men
 - https://inside.fifa.com/fifa-world-ranking/CPV?gender=men
-- Verified at: 2026-06-13T10:39:10+08:00
+- Verified at: 2026-06-15T21:49:26+08:00

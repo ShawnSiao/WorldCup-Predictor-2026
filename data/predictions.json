@@ -307,12 +307,32 @@
       "predicted_outcome": "away_win",
       "predicted_winner": "URU",
       "predicted_score": "0-2",
-      "home_win_probability": 0.15,
+      "home_win_probability": 0.16,
       "draw_probability": 0.25,
-      "away_win_probability": 0.6,
+      "away_win_probability": 0.59,
       "confidence": "medium",
       "published_at": "2026-06-13T10:39:10+08:00",
-      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+      "source_snapshot_at": "2026-06-15T21:49:26+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-2",
+          "probability": 0.14,
+          "rationale": "Uruguay's higher midfield and forward quality create repeated entries while Saudi Arabia struggle to turn defensive phases into sustained possession."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Saudi Arabia keep a compact block, lower the tempo, and turn one set piece or counterattack into an equalizer."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-1",
+          "probability": 0.12,
+          "rationale": "Uruguay control territory but opening-match caution and Miami heat keep the margin to one goal."
+        }
+      ]
     },
     {
       "match_id": "014",
@@ -324,12 +344,32 @@
       "predicted_outcome": "home_win",
       "predicted_winner": "ESP",
       "predicted_score": "3-0",
-      "home_win_probability": 0.76,
-      "draw_probability": 0.16,
-      "away_win_probability": 0.08,
+      "home_win_probability": 0.78,
+      "draw_probability": 0.15,
+      "away_win_probability": 0.07,
       "confidence": "medium-high",
       "published_at": "2026-06-13T10:39:10+08:00",
-      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+      "source_snapshot_at": "2026-06-15T21:49:26+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "3-0",
+          "probability": 0.18,
+          "rationale": "Spain's possession control and counter-pressing pin Cabo Verde deep, creating enough volume for a multi-goal win."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.06,
+          "rationale": "The draw path needs Spain to rotate or finish poorly while Cabo Verde convert one transition or set-piece chance."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "4-0",
+          "probability": 0.12,
+          "rationale": "An early Spain goal forces Cabo Verde out of their low block and opens wide-area overloads for a larger margin."
+        }
+      ]
     },
     {
       "match_id": "015",
@@ -341,12 +381,32 @@
       "predicted_outcome": "home_win",
       "predicted_winner": "IRN",
       "predicted_score": "2-0",
-      "home_win_probability": 0.62,
-      "draw_probability": 0.24,
-      "away_win_probability": 0.14,
+      "home_win_probability": 0.64,
+      "draw_probability": 0.23,
+      "away_win_probability": 0.13,
       "confidence": "medium",
       "published_at": "2026-06-13T10:39:10+08:00",
-      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+      "source_snapshot_at": "2026-06-15T21:49:26+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-0",
+          "probability": 0.15,
+          "rationale": "Iran's duel strength and set-piece threat combine with a compact defensive base to keep New Zealand chance quality low."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.09,
+          "rationale": "New Zealand's aerial game keeps the draw alive if Iran's possession becomes slow and the first goal is delayed."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-0",
+          "probability": 0.12,
+          "rationale": "Iran still win a low-event game if New Zealand's block holds but cannot create enough open-play threat."
+        }
+      ]
     },
     {
       "match_id": "016",
@@ -358,12 +418,32 @@
       "predicted_outcome": "home_win",
       "predicted_winner": "BEL",
       "predicted_score": "2-1",
-      "home_win_probability": 0.52,
-      "draw_probability": 0.27,
+      "home_win_probability": 0.51,
+      "draw_probability": 0.28,
       "away_win_probability": 0.21,
       "confidence": "medium",
       "published_at": "2026-06-13T10:39:10+08:00",
-      "source_snapshot_at": "2026-06-13T10:39:10+08:00"
+      "source_snapshot_at": "2026-06-15T21:49:26+08:00",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.13,
+          "rationale": "Belgium's deeper chance creation edges the match, but Egypt's transition threat is strong enough to score."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Egypt keep a compact block, attack space through Salah-led transitions, and slow Belgium's central rhythm."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.07,
+          "rationale": "The upset route opens if Egypt score first from transition or a set piece and Belgium's chase leaves space behind."
+        }
+      ]
     },
     {
       "match_id": "017",
