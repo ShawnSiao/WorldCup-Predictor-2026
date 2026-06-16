@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-14",
+    "snapshot_date": "2026-06-16",
     "purpose": "Source coverage plan for closing pre-match prediction data gaps.",
-    "last_reviewed_at": "2026-06-14T12:35:00+08:00"
+    "last_reviewed_at": "2026-06-16T16:13:02+08:00"
   },
   "dimensions": [
     {
@@ -65,7 +65,7 @@
         "venue roof or pitch-condition reports"
       ],
       "refresh_cadence": "T-72h baseline, T-24h forecast refresh, T-6h match-condition refresh.",
-      "prediction_use": "Tempo, fatigue, set-piece variance, finishing quality, draw risk."
+      "prediction_use": "Tempo, fatigue, set-piece variance, finishing quality, draw risk, cooling-break effects, and late-stadium heat/shade effects."
     },
     {
       "dimension": "odds_market_movement",
@@ -94,7 +94,7 @@
         "technical-stat previews"
       ],
       "refresh_cadence": "T-72h baseline and T-24h disagreement pass.",
-      "prediction_use": "Dissenting case, tactical matchup, public narrative, psychology."
+      "prediction_use": "Dissenting case, tactical matchup, public narrative, psychology, late formation surprises, and substitute-impact scenarios."
     },
     {
       "dimension": "post_match_error_tags",
@@ -108,7 +108,7 @@
         "manual review tags from daily automation"
       ],
       "refresh_cadence": "After each reviewed match.",
-      "prediction_use": "Calibration feedback for draw floor, favorite margin, clean-sheet, and underdog resilience."
+      "prediction_use": "Calibration feedback for draw floor, favorite margin, clean-sheet, underdog resilience, transition routes, travel/logistics disruption, goalkeeper variance, and late tactical changes."
     }
   ]
 }

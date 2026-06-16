@@ -89,22 +89,50 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | New Zealand ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/NZL?gender=men |
 | Belgium ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/BEL?gender=men |
 | Egypt ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/EGY?gender=men |
-
 | Match 004 final result official hub | U.S. Soccer | https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights |
 | Match 005 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live |
+| Match 006 final result cross-check | Al Jazeera | https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass |
 | Match 007 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live |
 | Match 008 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live |
+| Match 009 final result cross-check | ESPN | https://www.espn.com/soccer/story/_/id/49064087/ivory-coast-ecuador-live-world-cup-2026-latest-updates-commentary-score-result |
+| Match 009 final result highlights | FOX Sports | https://www.foxsports.com/watch/fmc-43wd33qm20poy8zk |
+| Match 010 final result cross-check | Al Jazeera | https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup |
+| Match 010 box-score cross-check | ESPN | https://www.espn.com/soccer/report/_/gameId/760422 |
+| Match 011 final result cross-check | FIFA | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/netherlands-japan-highlights-match-report |
+| Match 011 live-updates cross-check | FOX Sports | https://www.foxsports.com/live-blog/soccer/netherlands-vs-japan-live-updates-score-top-plays-from-group-showdown |
+| Match 012 final result cross-check | Al Jazeera | https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup |
+| Match 012 tactical disruption report | NY Post | https://nypost.com/2026/06/15/sports/tunisia-firing-manager-sabri-lamouchi-after-one-world-cup-game/ |
+| Match 013 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live |
+| Match 013 local result report | NBC Miami | https://www.nbcmiami.com/world-cup/world-cup-comes-to-miami-saudi-arabia-takes-on-uruguay-today/3820657/ |
+| Match 014 final result cross-check | Guardian | https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report |
+| Match 014 live report cross-check | Al Jazeera | https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026 |
+| Match 015 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest |
+| Match 015 match-report cross-check | Al Jazeera | https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match |
+| Match 016 final result cross-check | Guardian | https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live |
+| Match 016 match report | Guardian | https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report |
 | Fixture time cross-check and bracket | ESPN | https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket |
+| France vs Senegal preview | Opta Analyst | https://theanalyst.com/articles/france-vs-senegal-prediction-world-cup-2026-match-preview |
+| Matchday 6 team-news overview | Times of India | https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms |
+| Iraq vs Norway team-news preview | ESPN | https://www.espn.com/soccer/story/_/id/49047658/fifa-world-cup-2026-iraq-vs-norway-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| Norway team context | Guardian | https://www.theguardian.com/football/2026/jun/15/norway-world-cup-slick-modern-model-erling-haaland |
+| Group J tactical preview | RotoWire | https://www.rotowire.com/soccer/article/2026-world-cup-group-j-preview-argentina-algeria-austria-jordan-tactics-lineups-set-pieces-odds-109964 |
+| Austria team guide | Guardian | https://www.theguardian.com/football/2026/jun/08/austria-world-cup-2026-team-guide |
+| Jordan team-news context | Guardian | https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026 |
+| Austria vs Jordan venue/weather context | SF Chronicle | https://www.sfchronicle.com/sports/article/austria-jordan-meet-lights-levi-s-stadium-22305810.php |
+| Austria vs Jordan venue page | Levi's Stadium | https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-16/ |
+| Match 020 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498 |
 | France ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/FRA?gender=men |
 | Senegal ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/SEN?gender=men |
 | Iraq ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men |
 | Norway ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/NOR?gender=men |
 | Argentina ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ARG?gender=men |
 | Algeria ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ALG?gender=men |
+| Austria ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/AUT?gender=men |
+| Jordan ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/JOR?gender=men |
 
 ## Current Known Gaps
 
 - Full 104-match structured schedule ingestion is pending.
 - Full 48-team player-level squad ingestion is pending.
-- Injury, team-news, and availability sources have been added for Matches 001-004 and 009-016 where available; Matches 006 and 017-019 still need dedicated late team-news sources before kickoff.
+- Injury, team-news, and availability sources have been added for Matches 001-004 and 009-020 where available; official lineups and final medical bulletins remain the main late gaps before kickoff.
 - FIFA ranking pages show the last official men's ranking update as 2026-06-11, with the next official update listed for 2026-07-20.

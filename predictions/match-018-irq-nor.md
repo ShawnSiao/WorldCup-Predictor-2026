@@ -6,7 +6,8 @@ kickoff_utc: "2026-06-16T19:00:00Z"
 venue: "Boston Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-14T11:12:46+08:00"
-source_snapshot_at: "2026-06-14T11:12:46+08:00"
+updated_at: "2026-06-16T16:13:02+08:00"
+source_snapshot_at: "2026-06-16T16:13:02+08:00"
 lead_image_file: "../assets/cards/match-018-irq-nor-lead.png"
 image_file: "../assets/cards/match-018-irq-nor.png"
 ---
@@ -76,6 +77,10 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位�
 | Odds movement | No complete odds-movement trail is stored. | data gap |
 | Expert views | Reputable schedule and group-preview context reviewed; uncertainty remains around Iraq resistance. | supports medium confidence |
 
+## Post-Review Calibration Update
+
+The completed-match review pass showed that low blocks, set pieces, and favorite frustration deserve a larger share of the probability mass. Norway still keep the prediction because the ranking gap, attacking-ceiling signal, and current team-news previews point to the stronger baseline. The 0-2 call is retained, but the 1-1 scenario is treated as a live path rather than a token hedge.
+
 ## Prediction Logic
 
 1. Norway have the stronger ranking baseline and the clearer attacking-ceiling signal, while Iraq need defensive compactness to keep the match narrow.
@@ -121,7 +126,10 @@ This is a football match prediction only. It does not constitute investment advi
 - https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches
 - https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
 - https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket
+- https://www.espn.com/soccer/story/_/id/49047658/fifa-world-cup-2026-iraq-vs-norway-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups
+- https://www.theguardian.com/football/2026/jun/15/norway-world-cup-slick-modern-model-erling-haaland
+- https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms
 - https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed
 - https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men
 - https://inside.fifa.com/fifa-world-ranking/NOR?gender=men
-- Verified at: 2026-06-14T11:12:46+08:00
+- Verified at: 2026-06-16T16:13:02+08:00

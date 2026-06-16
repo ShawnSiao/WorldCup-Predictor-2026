@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-14",
-    "tracked_result_count": 7,
+    "snapshot_date": "2026-06-16",
+    "tracked_result_count": 16,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
@@ -11,9 +11,26 @@
       "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights",
       "https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live",
       "https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live",
-      "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live"
+      "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
+      "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass",
+      "https://www.espn.com/soccer/story/_/id/49064087/ivory-coast-ecuador-live-world-cup-2026-latest-updates-commentary-score-result",
+      "https://www.foxsports.com/watch/fmc-43wd33qm20poy8zk",
+      "https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup",
+      "https://www.espn.com/soccer/report/_/gameId/760422",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/netherlands-japan-highlights-match-report",
+      "https://www.foxsports.com/live-blog/soccer/netherlands-vs-japan-live-updates-score-top-plays-from-group-showdown",
+      "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup",
+      "https://nypost.com/2026/06/15/sports/tunisia-firing-manager-sabri-lamouchi-after-one-world-cup-game/",
+      "https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
+      "https://www.nbcmiami.com/world-cup/world-cup-comes-to-miami-saudi-arabia-takes-on-uruguay-today/3820657/",
+      "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report",
+      "https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026",
+      "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
+      "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match",
+      "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
+      "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report"
     ],
-    "last_verified_at": "2026-06-14T11:12:46+08:00"
+    "last_verified_at": "2026-06-16T16:13:02+08:00"
   },
   "results": [
     {
@@ -93,6 +110,21 @@
       "last_verified_at": "2026-06-14T11:12:46+08:00"
     },
     {
+      "match_id": "006",
+      "home_team_code": "AUS",
+      "away_team_code": "TUR",
+      "home_score": 2,
+      "away_score": 0,
+      "winner_team_code": "AUS",
+      "status": "final",
+      "result_label": "Australia 2-0 Turkiye",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
       "match_id": "007",
       "home_team_code": "BRA",
       "away_team_code": "MAR",
@@ -121,6 +153,134 @@
         "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live"
       ],
       "last_verified_at": "2026-06-14T11:12:46+08:00"
+    },
+    {
+      "match_id": "009",
+      "home_team_code": "CIV",
+      "away_team_code": "ECU",
+      "home_score": 1,
+      "away_score": 0,
+      "winner_team_code": "CIV",
+      "status": "final",
+      "result_label": "Cote d'Ivoire 1-0 Ecuador",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.espn.com/soccer/story/_/id/49064087/ivory-coast-ecuador-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.foxsports.com/watch/fmc-43wd33qm20poy8zk"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "010",
+      "home_team_code": "GER",
+      "away_team_code": "CUW",
+      "home_score": 7,
+      "away_score": 1,
+      "winner_team_code": "GER",
+      "status": "final",
+      "result_label": "Germany 7-1 Curacao",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup",
+        "https://www.espn.com/soccer/report/_/gameId/760422"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "011",
+      "home_team_code": "NED",
+      "away_team_code": "JPN",
+      "home_score": 2,
+      "away_score": 2,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "Netherlands 2-2 Japan",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/netherlands-japan-highlights-match-report",
+        "https://www.foxsports.com/live-blog/soccer/netherlands-vs-japan-live-updates-score-top-plays-from-group-showdown"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "012",
+      "home_team_code": "SWE",
+      "away_team_code": "TUN",
+      "home_score": 5,
+      "away_score": 1,
+      "winner_team_code": "SWE",
+      "status": "final",
+      "result_label": "Sweden 5-1 Tunisia",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup",
+        "https://nypost.com/2026/06/15/sports/tunisia-firing-manager-sabri-lamouchi-after-one-world-cup-game/"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "013",
+      "home_team_code": "KSA",
+      "away_team_code": "URU",
+      "home_score": 1,
+      "away_score": 1,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "Saudi Arabia 1-1 Uruguay",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
+        "https://www.nbcmiami.com/world-cup/world-cup-comes-to-miami-saudi-arabia-takes-on-uruguay-today/3820657/"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "014",
+      "home_team_code": "ESP",
+      "away_team_code": "CPV",
+      "home_score": 0,
+      "away_score": 0,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "Spain 0-0 Cabo Verde",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "015",
+      "home_team_code": "IRN",
+      "away_team_code": "NZL",
+      "home_score": 2,
+      "away_score": 2,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "IR Iran 2-2 New Zealand",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
+        "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "016",
+      "home_team_code": "BEL",
+      "away_team_code": "EGY",
+      "home_score": 1,
+      "away_score": 1,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "Belgium 1-1 Egypt",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
+        "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     }
   ]
 }

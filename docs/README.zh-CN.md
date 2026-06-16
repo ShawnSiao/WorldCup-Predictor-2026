@@ -13,30 +13,22 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-14 |
+| 数据快照 | 2026-06-16 |
 | 赛事周期 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已追踪比赛 | 19 |
-| 已发布预测 | 19 |
-| 已追踪赛果 | 7 |
-| 已发布复盘 | 7 |
+| 仓库已追踪比赛 | 20 |
+| 已发布预测 | 20 |
+| 已追踪赛果 | 16 |
+| 已发布复盘 | 16 |
 
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球时间 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 澳大利亚 vs 土耳其 | D 组 | 2026-06-14 04:00 UTC | BC Place Vancouver | [土耳其胜，2-1](../predictions/match-006-aus-tur.zh-CN.md) / [English](../predictions/match-006-aus-tur.md) |
-| 德国 vs 库拉索 | E 组 | 2026-06-14 17:00 UTC | Houston Stadium | [德国胜，3-0](../predictions/match-010-ger-cuw.zh-CN.md) / [English](../predictions/match-010-ger-cuw.md) |
-| 荷兰 vs 日本 | F 组 | 2026-06-14 20:00 UTC | Dallas Stadium | [荷兰胜，2-1](../predictions/match-011-ned-jpn.zh-CN.md) / [English](../predictions/match-011-ned-jpn.md) |
-| 科特迪瓦 vs 厄瓜多尔 | E 组 | 2026-06-14 23:00 UTC | Philadelphia Stadium | [厄瓜多尔胜，1-0](../predictions/match-009-civ-ecu.zh-CN.md) / [English](../predictions/match-009-civ-ecu.md) |
-| 瑞典 vs 突尼斯 | F 组 | 2026-06-15 02:00 UTC | Monterrey Stadium | [瑞典胜，1-0](../predictions/match-012-swe-tun.zh-CN.md) / [English](../predictions/match-012-swe-tun.md) |
-| 西班牙 vs 佛得角 | H 组 | 2026-06-15 16:00 UTC | Atlanta Stadium | [西班牙胜，3-0](../predictions/match-014-esp-cpv.zh-CN.md) / [English](../predictions/match-014-esp-cpv.md) |
-| 比利时 vs 埃及 | G 组 | 2026-06-15 19:00 UTC | Seattle Stadium | [比利时胜，2-1](../predictions/match-016-bel-egy.zh-CN.md) / [English](../predictions/match-016-bel-egy.md) |
-| 沙特阿拉伯 vs 乌拉圭 | H 组 | 2026-06-15 22:00 UTC | Miami Stadium | [乌拉圭胜，2-0](../predictions/match-013-ksa-uru.zh-CN.md) / [English](../predictions/match-013-ksa-uru.md) |
-| 伊朗 vs 新西兰 | G 组 | 2026-06-16 01:00 UTC | Los Angeles Stadium | [伊朗胜，2-0](../predictions/match-015-irn-nzl.zh-CN.md) / [English](../predictions/match-015-irn-nzl.md) |
 | 法国 vs 塞内加尔 | I 组 | 2026-06-16 16:00 UTC | New York New Jersey Stadium | [法国胜，2-1](../predictions/match-017-fra-sen.zh-CN.md) / [English](../predictions/match-017-fra-sen.md) |
 | 伊拉克 vs 挪威 | I 组 | 2026-06-16 19:00 UTC | Boston Stadium | [挪威胜，2-0](../predictions/match-018-irq-nor.zh-CN.md) / [English](../predictions/match-018-irq-nor.md) |
 | 阿根廷 vs 阿尔及利亚 | J 组 | 2026-06-17 01:00 UTC | Kansas City Stadium | [阿根廷胜，2-0](../predictions/match-019-arg-alg.zh-CN.md) / [English](../predictions/match-019-arg-alg.md) |
+| 奥地利 vs 约旦 | J 组 | 2026-06-17 04:00 UTC | San Francisco Bay Area Stadium | [奥地利胜，2-0](../predictions/match-020-aut-jor.zh-CN.md) / [English](../predictions/match-020-aut-jor.md) |
 
 ## 每日总览图
 
@@ -65,12 +57,13 @@
 [![法国 vs 塞内加尔赛前首图](../assets/cards/match-017-fra-sen-lead.png)](../predictions/match-017-fra-sen.zh-CN.md)
 [![伊拉克 vs 挪威赛前首图](../assets/cards/match-018-irq-nor-lead.png)](../predictions/match-018-irq-nor.zh-CN.md)
 [![阿根廷 vs 阿尔及利亚赛前首图](../assets/cards/match-019-arg-alg-lead.png)](../predictions/match-019-arg-alg.zh-CN.md)
+[![奥地利 vs 约旦赛前首图](../assets/cards/match-020-aut-jor-lead.png)](../predictions/match-020-aut-jor.zh-CN.md)
 
 分享图片目录：[`assets/cards/`](../assets/cards/)。每场预测先嵌入不含比分/胜负的赛前首图，再嵌入结果预测图。
 
 ## 今日赛程
 
-美国 4-1 击败巴拉圭，苏格兰 1-0 击败海地，巴西 1-1 战平摩洛哥，卡塔尔 1-1 战平瑞士。当前 72 小时预测窗口覆盖至 2026-06-17 01:00 UTC 的阿根廷 vs 阿尔及利亚。
+截至第 016 场的已核验完赛比赛均已完成复盘。下一个中国时间比赛日窗口覆盖法国 vs 塞内加尔、伊拉克 vs 挪威、阿根廷 vs 阿尔及利亚、奥地利 vs 约旦，并已把紧凑下风方、转换、定位球、天气和最终首发缺口纳入复盘后校准。
 
 ## 推理模型
 
@@ -98,9 +91,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 019 场：阿根廷 vs 阿尔及利亚](../predictions/match-019-arg-alg.zh-CN.md) / [English](../predictions/match-019-arg-alg.md)
-- 最新复盘：[第 008 场：卡塔尔 vs 瑞士](../reviews/match-008-qat-sui.zh-CN.md) / [English](../reviews/match-008-qat-sui.md)
-- 最新日报：[2026-06-14](../reports/daily/2026-06-14.zh-CN.md) / [English](../reports/daily/2026-06-14.md)
+- 最新预测：[第 020 场：奥地利 vs 约旦](../predictions/match-020-aut-jor.zh-CN.md) / [English](../predictions/match-020-aut-jor.md)
+- 最新复盘：[第 016 场：比利时 vs 埃及](../reviews/match-016-bel-egy.zh-CN.md) / [English](../reviews/match-016-bel-egy.md)
+- 最新日报：[2026-06-15](../reports/daily/2026-06-15.zh-CN.md) / [English](../reports/daily/2026-06-15.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
 - 校准规则：[预测校准](prediction-calibration.zh-CN.md) / [English](prediction-calibration.md)
 - 数据结构：[数据结构](data-schema.zh-CN.md) / [English](data-schema.md)

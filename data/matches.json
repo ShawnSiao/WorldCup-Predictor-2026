@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-14",
-    "coverage": "opening matchday window through Match 019",
+    "snapshot_date": "2026-06-16",
+    "coverage": "opening matchday window through Match 020",
     "official_match_count": 104,
-    "tracked_match_count": 19,
+    "tracked_match_count": 20,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -37,9 +37,10 @@
       "https://www.foxsports.com/soccer/fifa-world-cup-men-sweden-vs-tunisia-jun-14-2026-game-boxscore-647627",
       "https://www.transfermarkt.rotowire.com/soccer/article/sweden-vs-tunisia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117963",
       "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498"
     ],
-    "last_verified_at": "2026-06-14T13:14:35+08:00"
+    "last_verified_at": "2026-06-16T16:13:02+08:00"
   },
   "matches": [
     {
@@ -162,12 +163,13 @@
       "country": "Canada",
       "home_team_code": "AUS",
       "away_team_code": "TUR",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass"
       ],
-      "last_verified_at": "2026-06-11T00:00:06Z"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "007",
@@ -227,7 +229,7 @@
       "country": "United States",
       "home_team_code": "CIV",
       "away_team_code": "ECU",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -236,9 +238,11 @@
         "https://www.foxsports.com/soccer/fifa-world-cup-men-cote-d-ivoire-vs-ecuador-jun-14-2026-game-boxscore-647623",
         "https://www.sofascore.com/football/match/cote-divoire-ecuador/nUbsaUb#id:16296829",
         "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men",
+        "https://www.espn.com/soccer/story/_/id/49064087/ivory-coast-ecuador-live-world-cup-2026-latest-updates-commentary-score-result",
+        "https://www.foxsports.com/watch/fmc-43wd33qm20poy8zk"
       ],
-      "last_verified_at": "2026-06-14T13:14:35+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "010",
@@ -253,7 +257,7 @@
       "country": "United States",
       "home_team_code": "GER",
       "away_team_code": "CUW",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -262,9 +266,11 @@
         "https://www.foxsports.com/soccer/fifa-world-cup-men-germany-vs-curacao-jun-14-2026-game-boxscore-647624",
         "https://www.rotowire.com/soccer/article/germany-vs-curacao-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-117956",
         "https://inside.fifa.com/fifa-world-ranking/GER?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men",
+        "https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup",
+        "https://www.espn.com/soccer/report/_/gameId/760422"
       ],
-      "last_verified_at": "2026-06-14T13:14:35+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "011",
@@ -279,7 +285,7 @@
       "country": "United States",
       "home_team_code": "NED",
       "away_team_code": "JPN",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -288,9 +294,11 @@
         "https://www.foxsports.com/soccer/fifa-world-cup-men-netherlands-vs-japan-jun-14-2026-game-boxscore-647625",
         "https://www.rotowire.com/soccer/article/netherlands-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117958",
         "https://inside.fifa.com/fifa-world-ranking/NED?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/netherlands-japan-highlights-match-report",
+        "https://www.foxsports.com/live-blog/soccer/netherlands-vs-japan-live-updates-score-top-plays-from-group-showdown"
       ],
-      "last_verified_at": "2026-06-14T13:14:35+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "012",
@@ -305,7 +313,7 @@
       "country": "Mexico",
       "home_team_code": "SWE",
       "away_team_code": "TUN",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -314,9 +322,11 @@
         "https://www.foxsports.com/soccer/fifa-world-cup-men-sweden-vs-tunisia-jun-14-2026-game-boxscore-647627",
         "https://www.transfermarkt.rotowire.com/soccer/article/sweden-vs-tunisia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117963",
         "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men",
+        "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup",
+        "https://nypost.com/2026/06/15/sports/tunisia-firing-manager-sabri-lamouchi-after-one-world-cup-game/"
       ],
-      "last_verified_at": "2026-06-14T13:14:35+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "013",
@@ -331,7 +341,7 @@
       "country": "United States",
       "home_team_code": "KSA",
       "away_team_code": "URU",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -340,9 +350,11 @@
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486",
         "https://www.foxsports.com/stories/soccer/world-cup-spain-cape-verde-uruguay-saudi-arabia-iran-belgium-egypt-new-zealand",
         "https://inside.fifa.com/fifa-world-ranking/KSA?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/URU?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/URU?gender=men",
+        "https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
+        "https://www.nbcmiami.com/world-cup/world-cup-comes-to-miami-saudi-arabia-takes-on-uruguay-today/3820657/"
       ],
-      "last_verified_at": "2026-06-15T21:49:26+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "014",
@@ -357,7 +369,7 @@
       "country": "United States",
       "home_team_code": "ESP",
       "away_team_code": "CPV",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -366,9 +378,11 @@
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482",
         "https://www.foxsports.com/stories/soccer/world-cup-spain-cape-verde-uruguay-saudi-arabia-iran-belgium-egypt-new-zealand",
         "https://inside.fifa.com/fifa-world-ranking/ESP?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/CPV?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/CPV?gender=men",
+        "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026"
       ],
-      "last_verified_at": "2026-06-15T21:49:26+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "015",
@@ -383,7 +397,7 @@
       "country": "United States",
       "home_team_code": "IRN",
       "away_team_code": "NZL",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -392,9 +406,11 @@
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476",
         "https://www.foxsports.com/stories/soccer/world-cup-spain-cape-verde-uruguay-saudi-arabia-iran-belgium-egypt-new-zealand",
         "https://inside.fifa.com/fifa-world-ranking/IRN?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/NZL?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/NZL?gender=men",
+        "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
+        "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match"
       ],
-      "last_verified_at": "2026-06-15T21:49:26+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "016",
@@ -409,7 +425,7 @@
       "country": "United States",
       "home_team_code": "BEL",
       "away_team_code": "EGY",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -418,9 +434,11 @@
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478",
         "https://www.foxsports.com/stories/soccer/world-cup-spain-cape-verde-uruguay-saudi-arabia-iran-belgium-egypt-new-zealand",
         "https://inside.fifa.com/fifa-world-ranking/BEL?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men",
+        "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
+        "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report"
       ],
-      "last_verified_at": "2026-06-15T21:49:26+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "017",
@@ -441,9 +459,11 @@
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://theanalyst.com/articles/france-vs-senegal-prediction-world-cup-2026-match-preview",
+        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms"
       ],
-      "last_verified_at": "2026-06-14T11:12:46+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "018",
@@ -464,9 +484,12 @@
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.espn.com/soccer/story/_/id/49047658/fifa-world-cup-2026-iraq-vs-norway-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+        "https://www.theguardian.com/football/2026/jun/15/norway-world-cup-slick-modern-model-erling-haaland",
+        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms"
       ],
-      "last_verified_at": "2026-06-14T11:12:46+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "019",
@@ -487,9 +510,33 @@
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
-        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day"
+        "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
+        "https://www.rotowire.com/soccer/article/2026-world-cup-group-j-preview-argentina-algeria-austria-jordan-tactics-lineups-set-pieces-odds-109964",
+        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms"
       ],
-      "last_verified_at": "2026-06-14T11:12:46+08:00"
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "020",
+      "stage": "Group J",
+      "group": "J",
+      "kickoff_utc": "2026-06-17T04:00:00Z",
+      "kickoff_local": "2026-06-16T21:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "venue_id": "san-francisco-bay-area-stadium",
+      "venue_name": "San Francisco Bay Area Stadium",
+      "city": "San Francisco Bay Area",
+      "country": "United States",
+      "home_team_code": "AUT",
+      "away_team_code": "JOR",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
+        "https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-16/"
+      ],
+      "last_verified_at": "2026-06-16T16:13:02+08:00"
     }
   ]
 }

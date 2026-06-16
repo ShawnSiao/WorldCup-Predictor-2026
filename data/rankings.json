@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-14",
-    "coverage": "teams in the opening matchday window through Match 019",
+    "snapshot_date": "2026-06-16",
+    "coverage": "teams in the opening matchday window through Match 020",
     "ranking_source": "FIFA/Coca-Cola Men's World Ranking team pages",
     "last_official_update": "2026-06-11",
     "next_official_update": "2026-07-20",
@@ -43,9 +43,11 @@
       "https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/NOR?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/ARG?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/AUT?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men"
     ],
-    "last_verified_at": "2026-06-14T11:12:46+08:00"
+    "last_verified_at": "2026-06-16T16:13:02+08:00"
   },
   "rankings": [
     {
@@ -275,6 +277,18 @@
       "team": "Algeria",
       "rank": 35,
       "source_url": "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men"
+    },
+    {
+      "team_code": "AUT",
+      "team": "Austria",
+      "rank": 24,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/AUT?gender=men"
+    },
+    {
+      "team_code": "JOR",
+      "team": "Jordan",
+      "rank": 63,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men"
     }
   ]
 }

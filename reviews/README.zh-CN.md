@@ -13,5 +13,14 @@
 | 003 | 加拿大 1-1 波黑 | partial | [简体中文](match-003-can-bih.zh-CN.md) / [English](match-003-can-bih.md) |
 | 004 | 美国 4-1 巴拉圭 | correct | [简体中文](match-004-usa-par.zh-CN.md) / [English](match-004-usa-par.md) |
 | 005 | 海地 0-1 苏格兰 | correct | [简体中文](match-005-hai-sco.zh-CN.md) / [English](match-005-hai-sco.md) |
+| 006 | 澳大利亚 2-0 土耳其 | wrong | [简体中文](match-006-aus-tur.zh-CN.md) / [English](match-006-aus-tur.md) |
 | 007 | 巴西 1-1 摩洛哥 | partial | [简体中文](match-007-bra-mar.zh-CN.md) / [English](match-007-bra-mar.md) |
 | 008 | 卡塔尔 1-1 瑞士 | partial | [简体中文](match-008-qat-sui.zh-CN.md) / [English](match-008-qat-sui.md) |
+| 009 | 科特迪瓦 1-0 厄瓜多尔 | wrong | [简体中文](match-009-civ-ecu.zh-CN.md) / [English](match-009-civ-ecu.md) |
+| 010 | 德国 7-1 库拉索 | correct | [简体中文](match-010-ger-cuw.zh-CN.md) / [English](match-010-ger-cuw.md) |
+| 011 | 荷兰 2-2 日本 | partial | [简体中文](match-011-ned-jpn.zh-CN.md) / [English](match-011-ned-jpn.md) |
+| 012 | 瑞典 5-1 突尼斯 | partial | [简体中文](match-012-swe-tun.zh-CN.md) / [English](match-012-swe-tun.md) |
+| 013 | 沙特阿拉伯 1-1 乌拉圭 | wrong | [简体中文](match-013-ksa-uru.zh-CN.md) / [English](match-013-ksa-uru.md) |
+| 014 | 西班牙 0-0 佛得角 | wrong | [简体中文](match-014-esp-cpv.zh-CN.md) / [English](match-014-esp-cpv.md) |
+| 015 | 伊朗 2-2 新西兰 | wrong | [简体中文](match-015-irn-nzl.zh-CN.md) / [English](match-015-irn-nzl.md) |
+| 016 | 比利时 1-1 埃及 | partial | [简体中文](match-016-bel-egy.zh-CN.md) / [English](match-016-bel-egy.md) |

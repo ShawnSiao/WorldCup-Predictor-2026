@@ -29,3 +29,4 @@ Each prediction embeds two share images: a fixture-only lead image first, follow
 | 017 | France vs Senegal | France win, 2-1 | [English](match-017-fra-sen.md) / [简体中文](match-017-fra-sen.zh-CN.md) |
 | 018 | Iraq vs Norway | Norway win, 2-0 | [English](match-018-irq-nor.md) / [简体中文](match-018-irq-nor.zh-CN.md) |
 | 019 | Argentina vs Algeria | Argentina win, 2-0 | [English](match-019-arg-alg.md) / [简体中文](match-019-arg-alg.zh-CN.md) |
+| 020 | Austria vs Jordan | Austria win, 2-0 | [English](match-020-aut-jor.md) / [简体中文](match-020-aut-jor.zh-CN.md) |

@@ -6,7 +6,8 @@ kickoff_utc: "2026-06-17T01:00:00Z"
 venue: "Kansas City Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-14T11:12:46+08:00"
-source_snapshot_at: "2026-06-14T11:12:46+08:00"
+updated_at: "2026-06-16T16:13:02+08:00"
+source_snapshot_at: "2026-06-16T16:13:02+08:00"
 lead_image_file: "../assets/cards/match-019-arg-alg-lead.png"
 image_file: "../assets/cards/match-019-arg-alg.png"
 ---
@@ -76,6 +77,10 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位�
 | Odds movement | No complete odds-movement trail is stored. | data gap |
 | Expert views | Reputable schedule and group-preview context reviewed; the main dissenting case is Algeria transition volatility. | supports Argentina |
 
+## Post-Review Calibration Update
+
+Spain's 0-0 draw with Cabo Verde and the Saudi Arabia / Uruguay and Belgium / Egypt draws reduce the certainty around any favorite clean-sheet forecast. Argentina remain the strongest lean in this group window because the ranking, squad-quality baseline, and preview context still separate them from Algeria. The forecast stays 2-0 / 65-22-13, but the 1-1 scenario is now treated as a material warning tied to Algeria's transition route and final lineup uncertainty.
+
 ## Prediction Logic
 
 1. Argentina have the strongest ranking and squad-quality baseline in this matchup, so the base case is a controlled win.
@@ -121,7 +126,9 @@ This is a football match prediction only. It does not constitute investment advi
 - https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches
 - https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
 - https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket
+- https://www.rotowire.com/soccer/article/2026-world-cup-group-j-preview-argentina-algeria-austria-jordan-tactics-lineups-set-pieces-odds-109964
+- https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms
 - https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed
 - https://inside.fifa.com/fifa-world-ranking/ARG?gender=men
 - https://inside.fifa.com/fifa-world-ranking/ALG?gender=men
-- Verified at: 2026-06-14T11:12:46+08:00
+- Verified at: 2026-06-16T16:13:02+08:00

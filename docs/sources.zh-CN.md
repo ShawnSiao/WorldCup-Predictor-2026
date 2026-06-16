@@ -89,22 +89,50 @@
 | New Zealand 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/NZL?gender=men |
 | Belgium 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/BEL?gender=men |
 | Egypt 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/EGY?gender=men |
-
 | 第 004 场官方赛果页 | U.S. Soccer | https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-paraguay-tickets-live-score-match-hub-lineups-highlights |
 | 第 005 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/13/haiti-v-scotland-world-cup-2026-live |
+| 第 006 场赛果交叉核验 | Al Jazeera | https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass |
 | 第 007 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live |
 | 第 008 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live |
+| 第 009 场赛果交叉核验 | ESPN | https://www.espn.com/soccer/story/_/id/49064087/ivory-coast-ecuador-live-world-cup-2026-latest-updates-commentary-score-result |
+| 第 009 场赛果集锦 | FOX Sports | https://www.foxsports.com/watch/fmc-43wd33qm20poy8zk |
+| 第 010 场赛果交叉核验 | Al Jazeera | https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup |
+| 第 010 场数据页交叉核验 | ESPN | https://www.espn.com/soccer/report/_/gameId/760422 |
+| 第 011 场赛果交叉核验 | FIFA | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/netherlands-japan-highlights-match-report |
+| 第 011 场直播页交叉核验 | FOX Sports | https://www.foxsports.com/live-blog/soccer/netherlands-vs-japan-live-updates-score-top-plays-from-group-showdown |
+| 第 012 场赛果交叉核验 | Al Jazeera | https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup |
+| 第 012 场战术扰动报道 | NY Post | https://nypost.com/2026/06/15/sports/tunisia-firing-manager-sabri-lamouchi-after-one-world-cup-game/ |
+| 第 013 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live |
+| 第 013 场当地赛果报道 | NBC Miami | https://www.nbcmiami.com/world-cup/world-cup-comes-to-miami-saudi-arabia-takes-on-uruguay-today/3820657/ |
+| 第 014 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report |
+| 第 014 场文字直播交叉核验 | Al Jazeera | https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026 |
+| 第 015 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest |
+| 第 015 场战报交叉核验 | Al Jazeera | https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match |
+| 第 016 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live |
+| 第 016 场赛后报道 | Guardian | https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report |
 | 开球时间与淘汰赛表交叉核验 | ESPN | https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket |
+| 法国 vs 塞内加尔预览 | Opta Analyst | https://theanalyst.com/articles/france-vs-senegal-prediction-world-cup-2026-match-preview |
+| 第 6 比赛日球队新闻概览 | Times of India | https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms |
+| 伊拉克 vs 挪威球队新闻预览 | ESPN | https://www.espn.com/soccer/story/_/id/49047658/fifa-world-cup-2026-iraq-vs-norway-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| 挪威球队背景 | Guardian | https://www.theguardian.com/football/2026/jun/15/norway-world-cup-slick-modern-model-erling-haaland |
+| J 组战术预览 | RotoWire | https://www.rotowire.com/soccer/article/2026-world-cup-group-j-preview-argentina-algeria-austria-jordan-tactics-lineups-set-pieces-odds-109964 |
+| 奥地利球队指南 | Guardian | https://www.theguardian.com/football/2026/jun/08/austria-world-cup-2026-team-guide |
+| 约旦球队新闻背景 | Guardian | https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026 |
+| 奥地利 vs 约旦场地 / 天气背景 | SF Chronicle | https://www.sfchronicle.com/sports/article/austria-jordan-meet-lights-levi-s-stadium-22305810.php |
+| 奥地利 vs 约旦场馆页 | Levi's Stadium | https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-16/ |
+| 第 020 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498 |
 | France 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/FRA?gender=men |
 | Senegal 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/SEN?gender=men |
 | Iraq 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men |
 | Norway 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/NOR?gender=men |
 | Argentina 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/ARG?gender=men |
 | Algeria 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/ALG?gender=men |
+| Austria 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/AUT?gender=men |
+| Jordan 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/JOR?gender=men |
 
 ## 当前已知缺口
 
 - 尚未导入官方 104 场完整结构化赛程。
 - 尚未导入 48 支球队完整球员名单快照。
-- 第 001-004、009-016 场已在可用范围内加入伤病、球队新闻和可用性来源；第 006、017-019 场仍需在开球前补充对应临场球队新闻来源。
+- 第 001-004、009-020 场已在可用范围内加入伤病、球队新闻和可用性来源；官方首发和最终医疗公告仍是开球前的主要临场缺口。
 - FIFA 排名页面显示最近一次男子排名更新时间为 2026-06-11，下一次官方更新时间为 2026-07-20。

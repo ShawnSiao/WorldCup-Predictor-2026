@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-14",
+    "snapshot_date": "2026-06-16",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-14T13:14:35+08:00"
+    "source_snapshot_at": "2026-06-16T16:13:02+08:00"
   },
   "predictions": [
     {
@@ -460,7 +460,7 @@
       "away_win_probability": 0.23,
       "confidence": "medium",
       "published_at": "2026-06-14T11:12:46+08:00",
-      "source_snapshot_at": "2026-06-14T11:12:46+08:00",
+      "source_snapshot_at": "2026-06-16T16:13:02+08:00",
       "scoreline_scenarios": [
         {
           "label": "primary",
@@ -480,7 +480,8 @@
           "probability": 0.09,
           "rationale": "France control possession but the match stays low scoring if Senegal defend deep."
         }
-      ]
+      ],
+      "updated_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "018",
@@ -497,7 +498,7 @@
       "away_win_probability": 0.56,
       "confidence": "medium",
       "published_at": "2026-06-14T11:12:46+08:00",
-      "source_snapshot_at": "2026-06-14T11:12:46+08:00",
+      "source_snapshot_at": "2026-06-16T16:13:02+08:00",
       "scoreline_scenarios": [
         {
           "label": "primary",
@@ -517,7 +518,8 @@
           "probability": 0.12,
           "rationale": "Norway win but the low block and missing late team-news detail keep the margin narrow."
         }
-      ]
+      ],
+      "updated_at": "2026-06-16T16:13:02+08:00"
     },
     {
       "match_id": "019",
@@ -534,7 +536,7 @@
       "away_win_probability": 0.13,
       "confidence": "medium-high",
       "published_at": "2026-06-14T11:12:46+08:00",
-      "source_snapshot_at": "2026-06-14T11:12:46+08:00",
+      "source_snapshot_at": "2026-06-16T16:13:02+08:00",
       "scoreline_scenarios": [
         {
           "label": "primary",
@@ -554,7 +556,46 @@
           "probability": 0.1,
           "rationale": "Argentina turn territorial control into a wider result if the first goal arrives early."
         }
-      ]
+      ],
+      "updated_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "020",
+      "prediction_file": "predictions/match-020-aut-jor.md",
+      "prediction_file_zh": "predictions/match-020-aut-jor.zh-CN.md",
+      "lead_image_file": "assets/cards/match-020-aut-jor-lead.png",
+      "image_file": "assets/cards/match-020-aut-jor.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "AUT",
+      "predicted_score": "2-0",
+      "home_win_probability": 0.58,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.17,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-0",
+          "probability": 0.14,
+          "rationale": "Austria press high, win second balls, and turn field position into a controlled favorite win."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Jordan stay compact, protect the center, and use Al-Taamari or a set piece to punish one open transition."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-1",
+          "probability": 0.11,
+          "rationale": "Austria still create more volume, but Jordan convert one counter or restart before Austria close it out."
+        }
+      ],
+      "published_at": "2026-06-16T16:13:02+08:00",
+      "updated_at": "2026-06-16T16:13:02+08:00",
+      "source_snapshot_at": "2026-06-16T16:13:02+08:00"
     }
   ]
 }

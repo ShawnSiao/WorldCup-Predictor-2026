@@ -6,7 +6,8 @@ kickoff_utc: "2026-06-16T16:00:00Z"
 venue: "New York New Jersey Stadium"
 model: "ChatGPT 5.5 ultra-high reasoning"
 published_at: "2026-06-14T11:12:46+08:00"
-source_snapshot_at: "2026-06-14T11:12:46+08:00"
+updated_at: "2026-06-16T16:13:02+08:00"
+source_snapshot_at: "2026-06-16T16:13:02+08:00"
 lead_image_file: "../assets/cards/match-017-fra-sen-lead.png"
 image_file: "../assets/cards/match-017-fra-sen.png"
 ---
@@ -76,6 +77,10 @@ $imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位�
 | Odds movement | No complete odds-movement trail is stored. | data gap |
 | Expert views | Reputable schedule and group-preview context reviewed; disagreement is reflected in medium confidence. | supports medium confidence |
 
+## Post-Review Calibration Update
+
+The reviews through Match 016 raised the weight on compact underdogs, goalkeeper variance, transitions after turnovers, and set pieces. France remain the lean because the ranking, depth, and preview context still point to the stronger baseline, but the prior errors make Senegal's 1-1 path more credible than a simple favorite read. No numerical change is made because the original 2-1 / 50-27-23 distribution already preserved a meaningful draw and Senegal upset tail, and the existing result card still matches the maintained forecast.
+
 ## Prediction Logic
 
 1. France carry the stronger ranking baseline and deeper attacking/defensive options, but Senegal are strong enough in transition to keep the distribution tight.
@@ -121,7 +126,9 @@ This is a football match prediction only. It does not constitute investment advi
 - https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches
 - https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf
 - https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket
+- https://theanalyst.com/articles/france-vs-senegal-prediction-world-cup-2026-match-preview
+- https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms
 - https://www.fifa.com/en/articles/fifa-world-cup-2026-squads-confirmed
 - https://inside.fifa.com/fifa-world-ranking/FRA?gender=men
 - https://inside.fifa.com/fifa-world-ranking/SEN?gender=men
-- Verified at: 2026-06-14T11:12:46+08:00
+- Verified at: 2026-06-16T16:13:02+08:00

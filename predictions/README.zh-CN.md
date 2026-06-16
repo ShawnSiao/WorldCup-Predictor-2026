@@ -29,3 +29,4 @@
 | 017 | 法国 vs 塞内加尔 | 法国胜，2-1 | [简体中文](match-017-fra-sen.zh-CN.md) / [English](match-017-fra-sen.md) |
 | 018 | 伊拉克 vs 挪威 | 挪威胜，2-0 | [简体中文](match-018-irq-nor.zh-CN.md) / [English](match-018-irq-nor.md) |
 | 019 | 阿根廷 vs 阿尔及利亚 | 阿根廷胜，2-0 | [简体中文](match-019-arg-alg.zh-CN.md) / [English](match-019-arg-alg.md) |
+| 020 | 奥地利 vs 约旦 | 奥地利胜，2-0 | [简体中文](match-020-aut-jor.zh-CN.md) / [English](match-020-aut-jor.md) |

@@ -24,6 +24,20 @@ Data gaps are closed in three tiers:
 - Data-gap penalty: missing injuries/lineups/weather/market movement keeps confidence at `medium` or lower; two or more major gaps should usually cap confidence at `medium-low`.
 - Dissenting case: every prediction must explicitly state the most plausible route to the non-primary outcome.
 
+## Lessons Through Match 016
+
+The reviews through Match 016 show that the model was too comfortable with favorite control and too slow to raise draw or underdog scenarios. Apply these lessons before every new or refreshed prediction:
+
+- Compact underdogs: a low block plus goalkeeper performance can turn a heavy favorite's shot volume into a draw, as Spain 0-0 Cabo Verde showed.
+- Transition and second balls: Australia 2-0 Turkiye, Cote d'Ivoire 1-0 Ecuador, and Japan's 2-2 draw with the Netherlands all showed that transition execution can beat territory.
+- Set pieces and rebound pressure: Saudi Arabia 1-1 Uruguay showed that a single restart or rebound can erase a clean-sheet forecast.
+- Heat and interruptions: Belgium 1-1 Egypt showed that heat, cooling breaks, and tempo changes can help organized underdogs.
+- Logistics and political context: Iran 2-2 New Zealand showed that travel, visa, security, or forced-base changes can raise concession and draw risk.
+- Late tactical changes: Sweden 5-1 Tunisia showed that recent coach or formation disruption can make older defensive records unreliable.
+- Substitute impact: Belgium's equalizer and multiple late swings show that bench effects should be attached to scoreline scenarios, not only listed as generic risk.
+
+Practical adjustment: for Match 017 onward, keep the headline scoreline but make the `conservative_draw_path` a real alternative when any two of these variables are live. Raise favorite margin only when the opponent has verified structural fragility or the favorite has multiple independent scoring routes.
+
 ## Scoreline Scenarios
 
 For Match 017 onward, every new or refreshed prediction must provide three scoreline scenarios:
