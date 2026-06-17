@@ -77,6 +77,13 @@
 | 第 014 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482 |
 | 第 015 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476 |
 | 第 016 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478 |
+| 第 017 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490 |
+| 第 018 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491 |
+| 第 019 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497 |
+| 第 021 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503 |
+| 第 022 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504 |
+| 第 023 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021494 |
+| 第 024 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505 |
 | G 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-g-preview-prediction-odds-full-team-overviews/ |
 | H 组公开预测与球队背景 | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-h-preview-prediction-odds-full-team-overviews/ |
 | Sweden 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/SWE?gender=men |
@@ -121,6 +128,18 @@
 | 奥地利 vs 约旦场地 / 天气背景 | SF Chronicle | https://www.sfchronicle.com/sports/article/austria-jordan-meet-lights-levi-s-stadium-22305810.php |
 | 奥地利 vs 约旦场馆页 | Levi's Stadium | https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-16/ |
 | 第 020 场官方比赛中心 | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498 |
+| 第 017 场赛果交叉核验 | Al Jazeera | https://www.aljazeera.com/sports/2026/6/16/france-overcome-senegal-test-in-world-cup-opener |
+| 第 017 场战报和首发交叉核验 | ESPN | https://www.espn.com/soccer/report/_/gameId/760430 |
+| 第 018 场赛果交叉核验 | Guardian | https://www.theguardian.com/football/2026/jun/16/norway-iraq-world-cup-2026-group-i-match-report |
+| 第 018 场战报和比分交叉核验 | FOX Sports | https://www.foxsports.com/stories/soccer/world-cup-norway-iraq-france-senegal |
+| 第 019 场赛果交叉核验 | Reuters | https://www.reuters.com/sports/soccer/argentina-beat-algeria-3-0-world-cup-opener-2026-06-17/ |
+| 第 019 场战报和首发交叉核验 | ESPN | https://www.espn.com/soccer/report/_/gameId/760435 |
+| 第 020 场数据页交叉核验 | FOX Sports | https://www.foxsports.com/soccer/fifa-world-cup-men-austria-vs-jordan-jun-16-2026-game-boxscore-647638 |
+| 第 020 场场地和赛前背景 | ABC News | https://abcnews.go.com/Sports/wireStory/austria-jordan-meet-lights-levis-stadium-2026-world-124690252 |
+| 葡萄牙 vs 民主刚果预览 | ESPN | https://www.espn.com/soccer/story/_/id/49062964/fifa-world-cup-2026-portugal-vs-congo-dr-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| 英格兰 vs 克罗地亚预览 | ESPN | https://www.espn.com/soccer/story/_/id/49062978/fifa-world-cup-2026-england-vs-croatia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| 加纳 vs 巴拿马预览 | ESPN | https://www.espn.com/soccer/story/_/id/49062950/fifa-world-cup-2026-ghana-vs-panama-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| 乌兹别克斯坦 vs 哥伦比亚预览 | ESPN | https://www.espn.com/soccer/story/_/id/49062994/fifa-world-cup-2026-uzbekistan-vs-colombia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
 | France 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/FRA?gender=men |
 | Senegal 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/SEN?gender=men |
 | Iraq 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men |
@@ -129,10 +148,18 @@
 | Algeria 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/ALG?gender=men |
 | Austria 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/AUT?gender=men |
 | Jordan 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/JOR?gender=men |
+| Portugal 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/POR?gender=men |
+| Congo DR 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/COD?gender=men |
+| England 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/ENG?gender=men |
+| Croatia 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/CRO?gender=men |
+| Ghana 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/GHA?gender=men |
+| Panama 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/PAN?gender=men |
+| Uzbekistan 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/UZB?gender=men |
+| Colombia 排名 | FIFA | https://inside.fifa.com/fifa-world-ranking/COL?gender=men |
 
 ## 当前已知缺口
 
 - 尚未导入官方 104 场完整结构化赛程。
 - 尚未导入 48 支球队完整球员名单快照。
-- 第 001-004、009-020 场已在可用范围内加入伤病、球队新闻和可用性来源；官方首发和最终医疗公告仍是开球前的主要临场缺口。
+- 第 001-004、009-024 场已在可用范围内加入伤病、球队新闻和可用性来源；官方首发和最终医疗公告仍是开球前的主要临场缺口。
 - FIFA 排名页面显示最近一次男子排名更新时间为 2026-06-11，下一次官方更新时间为 2026-07-20。

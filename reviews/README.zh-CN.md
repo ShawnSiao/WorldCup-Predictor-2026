@@ -24,3 +24,7 @@
 | 014 | 西班牙 0-0 佛得角 | wrong | [简体中文](match-014-esp-cpv.zh-CN.md) / [English](match-014-esp-cpv.md) |
 | 015 | 伊朗 2-2 新西兰 | wrong | [简体中文](match-015-irn-nzl.zh-CN.md) / [English](match-015-irn-nzl.md) |
 | 016 | 比利时 1-1 埃及 | partial | [简体中文](match-016-bel-egy.zh-CN.md) / [English](match-016-bel-egy.md) |
+| 017 | 法国 3-1 塞内加尔 | correct | [简体中文](match-017-fra-sen.zh-CN.md) / [English](match-017-fra-sen.md) |
+| 018 | 伊拉克 1-4 挪威 | correct | [简体中文](match-018-irq-nor.zh-CN.md) / [English](match-018-irq-nor.md) |
+| 019 | 阿根廷 3-0 阿尔及利亚 | correct | [简体中文](match-019-arg-alg.zh-CN.md) / [English](match-019-arg-alg.md) |
+| 020 | 奥地利 3-1 约旦 | correct | [简体中文](match-020-aut-jor.zh-CN.md) / [English](match-020-aut-jor.md) |

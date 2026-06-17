@@ -13,26 +13,26 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-16 |
+| Data snapshot | 2026-06-17 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 20 |
-| Predictions published | 20 |
-| Final results tracked | 16 |
-| Post-match reviews published | 16 |
+| Tracked matches in repository | 24 |
+| Predictions published | 24 |
+| Final results tracked | 20 |
+| Post-match reviews published | 20 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| France vs Senegal | Group I | 2026-06-16 16:00 UTC | New York New Jersey Stadium | [France win, 2-1](predictions/match-017-fra-sen.md) / [简体中文](predictions/match-017-fra-sen.zh-CN.md) |
-| Iraq vs Norway | Group I | 2026-06-16 19:00 UTC | Boston Stadium | [Norway win, 2-0](predictions/match-018-irq-nor.md) / [简体中文](predictions/match-018-irq-nor.zh-CN.md) |
-| Argentina vs Algeria | Group J | 2026-06-17 01:00 UTC | Kansas City Stadium | [Argentina win, 2-0](predictions/match-019-arg-alg.md) / [简体中文](predictions/match-019-arg-alg.zh-CN.md) |
-| Austria vs Jordan | Group J | 2026-06-17 04:00 UTC | San Francisco Bay Area Stadium | [Austria win, 2-0](predictions/match-020-aut-jor.md) / [简体中文](predictions/match-020-aut-jor.zh-CN.md) |
+| Portugal vs Congo DR | Group K | 2026-06-17 17:00 UTC | Houston Stadium | [Portugal win, 3-1](predictions/match-023-por-cod.md) / [简体中文](predictions/match-023-por-cod.zh-CN.md) |
+| England vs Croatia | Group L | 2026-06-17 20:00 UTC | Dallas Stadium | [England win, 2-1](predictions/match-022-eng-cro.md) / [简体中文](predictions/match-022-eng-cro.zh-CN.md) |
+| Ghana vs Panama | Group L | 2026-06-17 23:00 UTC | Toronto Stadium | [Ghana win, 1-0](predictions/match-021-gha-pan.md) / [简体中文](predictions/match-021-gha-pan.zh-CN.md) |
+| Uzbekistan vs Colombia | Group M | 2026-06-18 02:00 UTC | Mexico City Stadium | [Colombia win, 2-1](predictions/match-024-uzb-col.md) / [简体中文](predictions/match-024-uzb-col.zh-CN.md) |
 
 ## Daily Overview Card
 
-[![China-time 2026-06-15 prediction overview card](assets/cards/daily-2026-06-15-summary.png)](reports/daily/2026-06-15.md)
+[![China-time 2026-06-18 prediction overview card](assets/cards/daily-2026-06-18-summary.png)](reports/daily/2026-06-18.md)
 
 The overview card groups the same China-time date into one share image and links each scoreline scenario to its own rationale.
 
@@ -58,12 +58,16 @@ The overview card groups the same China-time date into one share image and links
 [![Iraq vs Norway lead prediction image](assets/cards/match-018-irq-nor-lead.png)](predictions/match-018-irq-nor.md)
 [![Argentina vs Algeria lead prediction image](assets/cards/match-019-arg-alg-lead.png)](predictions/match-019-arg-alg.md)
 [![Austria vs Jordan lead prediction image](assets/cards/match-020-aut-jor-lead.png)](predictions/match-020-aut-jor.md)
+[![Ghana vs Panama lead prediction image](assets/cards/match-021-gha-pan-lead.png)](predictions/match-021-gha-pan.md)
+[![England vs Croatia lead prediction image](assets/cards/match-022-eng-cro-lead.png)](predictions/match-022-eng-cro.md)
+[![Portugal vs Congo DR lead prediction image](assets/cards/match-023-por-cod-lead.png)](predictions/match-023-por-cod.md)
+[![Uzbekistan vs Colombia lead prediction image](assets/cards/match-024-uzb-col-lead.png)](predictions/match-024-uzb-col.md)
 
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 
 ## Today
 
-Reviews are now complete for all verified finals through Match 016. The next China-time matchday window covers France vs Senegal, Iraq vs Norway, Argentina vs Algeria, and Austria vs Jordan, with post-review calibration added for compact underdogs, transitions, set pieces, weather, and final-lineup gaps.
+Reviews are now complete for all verified finals through Match 020. The next China-time matchday window covers Portugal vs Congo DR, England vs Croatia, Ghana vs Panama, and Uzbekistan vs Colombia, with calibration updated for favorite margin, clean-sheet risk, set pieces, and transition paths.
 
 ## Reasoning Model
 
@@ -91,9 +95,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 020: Austria vs Jordan](predictions/match-020-aut-jor.md)
-- Latest review: [Match 016: Belgium vs Egypt](reviews/match-016-bel-egy.md)
-- Latest daily report: [2026-06-15](reports/daily/2026-06-15.md)
+- Latest prediction: [Match 024: Uzbekistan vs Colombia](predictions/match-024-uzb-col.md)
+- Latest review: [Match 020: Austria vs Jordan](reviews/match-020-aut-jor.md)
+- Latest daily report: [2026-06-18](reports/daily/2026-06-18.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

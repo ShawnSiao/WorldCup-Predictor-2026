@@ -30,3 +30,7 @@
 | 018 | 伊拉克 vs 挪威 | 挪威胜，2-0 | [简体中文](match-018-irq-nor.zh-CN.md) / [English](match-018-irq-nor.md) |
 | 019 | 阿根廷 vs 阿尔及利亚 | 阿根廷胜，2-0 | [简体中文](match-019-arg-alg.zh-CN.md) / [English](match-019-arg-alg.md) |
 | 020 | 奥地利 vs 约旦 | 奥地利胜，2-0 | [简体中文](match-020-aut-jor.zh-CN.md) / [English](match-020-aut-jor.md) |
+| 021 | 加纳 vs 巴拿马 | 加纳胜，1-0 | [简体中文](match-021-gha-pan.zh-CN.md) / [English](match-021-gha-pan.md) |
+| 022 | 英格兰 vs 克罗地亚 | 英格兰胜，2-1 | [简体中文](match-022-eng-cro.zh-CN.md) / [English](match-022-eng-cro.md) |
+| 023 | 葡萄牙 vs 民主刚果 | 葡萄牙胜，3-1 | [简体中文](match-023-por-cod.zh-CN.md) / [English](match-023-por-cod.md) |
+| 024 | 乌兹别克斯坦 vs 哥伦比亚 | 哥伦比亚胜，2-1 | [简体中文](match-024-uzb-col.zh-CN.md) / [English](match-024-uzb-col.md) |

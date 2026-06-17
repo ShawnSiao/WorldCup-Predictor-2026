@@ -77,6 +77,13 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Match 014 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482 |
 | Match 015 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476 |
 | Match 016 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478 |
+| Match 017 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490 |
+| Match 018 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491 |
+| Match 019 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497 |
+| Match 021 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503 |
+| Match 022 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504 |
+| Match 023 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021494 |
+| Match 024 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505 |
 | Group G forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-g-preview-prediction-odds-full-team-overviews/ |
 | Group H forecast and team context | NY Post | https://nypost.com/2026/06/10/sports/world-cup-2026-group-h-preview-prediction-odds-full-team-overviews/ |
 | Sweden ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/SWE?gender=men |
@@ -121,6 +128,18 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Austria vs Jordan venue/weather context | SF Chronicle | https://www.sfchronicle.com/sports/article/austria-jordan-meet-lights-levi-s-stadium-22305810.php |
 | Austria vs Jordan venue page | Levi's Stadium | https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-16/ |
 | Match 020 official match centre | FIFA | https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498 |
+| Match 017 final result cross-check | Al Jazeera | https://www.aljazeera.com/sports/2026/6/16/france-overcome-senegal-test-in-world-cup-opener |
+| Match 017 report and lineup cross-check | ESPN | https://www.espn.com/soccer/report/_/gameId/760430 |
+| Match 018 final result cross-check | Guardian | https://www.theguardian.com/football/2026/jun/16/norway-iraq-world-cup-2026-group-i-match-report |
+| Match 018 report and score cross-check | FOX Sports | https://www.foxsports.com/stories/soccer/world-cup-norway-iraq-france-senegal |
+| Match 019 final result cross-check | Reuters | https://www.reuters.com/sports/soccer/argentina-beat-algeria-3-0-world-cup-opener-2026-06-17/ |
+| Match 019 report and lineup cross-check | ESPN | https://www.espn.com/soccer/report/_/gameId/760435 |
+| Match 020 box-score cross-check | FOX Sports | https://www.foxsports.com/soccer/fifa-world-cup-men-austria-vs-jordan-jun-16-2026-game-boxscore-647638 |
+| Match 020 venue and pre-match context | ABC News | https://abcnews.go.com/Sports/wireStory/austria-jordan-meet-lights-levis-stadium-2026-world-124690252 |
+| Portugal vs Congo DR preview | ESPN | https://www.espn.com/soccer/story/_/id/49062964/fifa-world-cup-2026-portugal-vs-congo-dr-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| England vs Croatia preview | ESPN | https://www.espn.com/soccer/story/_/id/49062978/fifa-world-cup-2026-england-vs-croatia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| Ghana vs Panama preview | ESPN | https://www.espn.com/soccer/story/_/id/49062950/fifa-world-cup-2026-ghana-vs-panama-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
+| Uzbekistan vs Colombia preview | ESPN | https://www.espn.com/soccer/story/_/id/49062994/fifa-world-cup-2026-uzbekistan-vs-colombia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups |
 | France ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/FRA?gender=men |
 | Senegal ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/SEN?gender=men |
 | Iraq ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men |
@@ -129,10 +148,18 @@ Secondary sources may be used only when they add context that FIFA does not publ
 | Algeria ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ALG?gender=men |
 | Austria ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/AUT?gender=men |
 | Jordan ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/JOR?gender=men |
+| Portugal ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/POR?gender=men |
+| Congo DR ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/COD?gender=men |
+| England ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/ENG?gender=men |
+| Croatia ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/CRO?gender=men |
+| Ghana ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/GHA?gender=men |
+| Panama ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/PAN?gender=men |
+| Uzbekistan ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/UZB?gender=men |
+| Colombia ranking | FIFA | https://inside.fifa.com/fifa-world-ranking/COL?gender=men |
 
 ## Current Known Gaps
 
 - Full 104-match structured schedule ingestion is pending.
 - Full 48-team player-level squad ingestion is pending.
-- Injury, team-news, and availability sources have been added for Matches 001-004 and 009-020 where available; official lineups and final medical bulletins remain the main late gaps before kickoff.
+- Injury, team-news, and availability sources have been added for Matches 001-004 and 009-024 where available; official lineups and final medical bulletins remain the main late gaps before kickoff.
 - FIFA ranking pages show the last official men's ranking update as 2026-06-11, with the next official update listed for 2026-07-20.

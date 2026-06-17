@@ -13,26 +13,26 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-16 |
+| 数据快照 | 2026-06-17 |
 | 赛事周期 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已追踪比赛 | 20 |
-| 已发布预测 | 20 |
-| 已追踪赛果 | 16 |
-| 已发布复盘 | 16 |
+| 仓库已追踪比赛 | 24 |
+| 已发布预测 | 24 |
+| 已追踪赛果 | 20 |
+| 已发布复盘 | 20 |
 
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球时间 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 法国 vs 塞内加尔 | I 组 | 2026-06-16 16:00 UTC | New York New Jersey Stadium | [法国胜，2-1](../predictions/match-017-fra-sen.zh-CN.md) / [English](../predictions/match-017-fra-sen.md) |
-| 伊拉克 vs 挪威 | I 组 | 2026-06-16 19:00 UTC | Boston Stadium | [挪威胜，2-0](../predictions/match-018-irq-nor.zh-CN.md) / [English](../predictions/match-018-irq-nor.md) |
-| 阿根廷 vs 阿尔及利亚 | J 组 | 2026-06-17 01:00 UTC | Kansas City Stadium | [阿根廷胜，2-0](../predictions/match-019-arg-alg.zh-CN.md) / [English](../predictions/match-019-arg-alg.md) |
-| 奥地利 vs 约旦 | J 组 | 2026-06-17 04:00 UTC | San Francisco Bay Area Stadium | [奥地利胜，2-0](../predictions/match-020-aut-jor.zh-CN.md) / [English](../predictions/match-020-aut-jor.md) |
+| 葡萄牙 vs 民主刚果 | K 组 | 2026-06-17 17:00 UTC | Houston Stadium | [葡萄牙胜，3-1](../predictions/match-023-por-cod.zh-CN.md) / [English](../predictions/match-023-por-cod.md) |
+| 英格兰 vs 克罗地亚 | L 组 | 2026-06-17 20:00 UTC | Dallas Stadium | [英格兰胜，2-1](../predictions/match-022-eng-cro.zh-CN.md) / [English](../predictions/match-022-eng-cro.md) |
+| 加纳 vs 巴拿马 | L 组 | 2026-06-17 23:00 UTC | Toronto Stadium | [加纳胜，1-0](../predictions/match-021-gha-pan.zh-CN.md) / [English](../predictions/match-021-gha-pan.md) |
+| 乌兹别克斯坦 vs 哥伦比亚 | M 组 | 2026-06-18 02:00 UTC | Mexico City Stadium | [哥伦比亚胜，2-1](../predictions/match-024-uzb-col.zh-CN.md) / [English](../predictions/match-024-uzb-col.md) |
 
 ## 每日总览图
 
-[![2026-06-15 中国时间预测总览图](../assets/cards/daily-2026-06-15-summary.png)](../reports/daily/2026-06-15.zh-CN.md)
+[![2026-06-18 中国时间预测总览图](../assets/cards/daily-2026-06-18-summary.png)](../reports/daily/2026-06-18.zh-CN.md)
 
 总览图把同一中国时间日期的比赛放在一张分享图里，并把每个比分情景和对应理由绑定展示。
 
@@ -58,12 +58,16 @@
 [![伊拉克 vs 挪威赛前首图](../assets/cards/match-018-irq-nor-lead.png)](../predictions/match-018-irq-nor.zh-CN.md)
 [![阿根廷 vs 阿尔及利亚赛前首图](../assets/cards/match-019-arg-alg-lead.png)](../predictions/match-019-arg-alg.zh-CN.md)
 [![奥地利 vs 约旦赛前首图](../assets/cards/match-020-aut-jor-lead.png)](../predictions/match-020-aut-jor.zh-CN.md)
+[![加纳 vs 巴拿马赛前首图](../assets/cards/match-021-gha-pan-lead.png)](../predictions/match-021-gha-pan.zh-CN.md)
+[![英格兰 vs 克罗地亚赛前首图](../assets/cards/match-022-eng-cro-lead.png)](../predictions/match-022-eng-cro.zh-CN.md)
+[![葡萄牙 vs 民主刚果赛前首图](../assets/cards/match-023-por-cod-lead.png)](../predictions/match-023-por-cod.zh-CN.md)
+[![乌兹别克斯坦 vs 哥伦比亚赛前首图](../assets/cards/match-024-uzb-col-lead.png)](../predictions/match-024-uzb-col.zh-CN.md)
 
 分享图片目录：[`assets/cards/`](../assets/cards/)。每场预测先嵌入不含比分/胜负的赛前首图，再嵌入结果预测图。
 
 ## 今日赛程
 
-截至第 016 场的已核验完赛比赛均已完成复盘。下一个中国时间比赛日窗口覆盖法国 vs 塞内加尔、伊拉克 vs 挪威、阿根廷 vs 阿尔及利亚、奥地利 vs 约旦，并已把紧凑下风方、转换、定位球、天气和最终首发缺口纳入复盘后校准。
+截至第 020 场的已核验完赛比赛均已完成复盘。下一个中国时间比赛日窗口覆盖葡萄牙 vs 民主刚果、英格兰 vs 克罗地亚、加纳 vs 巴拿马、乌兹别克斯坦 vs 哥伦比亚，并已把热门分差、零封风险、定位球和转换路径纳入复盘后校准。
 
 ## 推理模型
 
@@ -91,9 +95,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 020 场：奥地利 vs 约旦](../predictions/match-020-aut-jor.zh-CN.md) / [English](../predictions/match-020-aut-jor.md)
-- 最新复盘：[第 016 场：比利时 vs 埃及](../reviews/match-016-bel-egy.zh-CN.md) / [English](../reviews/match-016-bel-egy.md)
-- 最新日报：[2026-06-15](../reports/daily/2026-06-15.zh-CN.md) / [English](../reports/daily/2026-06-15.md)
+- 最新预测：[第 024 场：乌兹别克斯坦 vs 哥伦比亚](../predictions/match-024-uzb-col.zh-CN.md) / [English](../predictions/match-024-uzb-col.md)
+- 最新复盘：[第 020 场：奥地利 vs 约旦](../reviews/match-020-aut-jor.zh-CN.md) / [English](../reviews/match-020-aut-jor.md)
+- 最新日报：[2026-06-18](../reports/daily/2026-06-18.zh-CN.md) / [English](../reports/daily/2026-06-18.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
 - 校准规则：[预测校准](prediction-calibration.zh-CN.md) / [English](prediction-calibration.md)
 - 数据结构：[数据结构](data-schema.zh-CN.md) / [English](data-schema.md)

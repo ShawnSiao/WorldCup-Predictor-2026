@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-16",
-    "tracked_result_count": 16,
+    "snapshot_date": "2026-06-17",
+    "tracked_result_count": 20,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
@@ -28,9 +28,21 @@
       "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
       "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match",
       "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
-      "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report"
+      "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490",
+      "https://www.aljazeera.com/sports/2026/6/16/france-overcome-senegal-test-in-world-cup-opener",
+      "https://www.espn.com/soccer/report/_/gameId/760430",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491",
+      "https://www.theguardian.com/football/2026/jun/16/norway-iraq-world-cup-2026-group-i-match-report",
+      "https://www.foxsports.com/stories/soccer/world-cup-norway-iraq-france-senegal",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497",
+      "https://www.reuters.com/sports/soccer/argentina-beat-algeria-3-0-world-cup-opener-2026-06-17/",
+      "https://www.espn.com/soccer/report/_/gameId/760435",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-austria-vs-jordan-jun-16-2026-game-boxscore-647638",
+      "https://abcnews.go.com/Sports/wireStory/austria-jordan-meet-lights-levis-stadium-2026-world-124690252"
     ],
-    "last_verified_at": "2026-06-16T16:13:02+08:00"
+    "last_verified_at": "2026-06-17T14:38:30+08:00"
   },
   "results": [
     {
@@ -281,6 +293,70 @@
         "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report"
       ],
       "last_verified_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "017",
+      "home_team_code": "FRA",
+      "away_team_code": "SEN",
+      "home_score": 3,
+      "away_score": 1,
+      "winner_team_code": "FRA",
+      "status": "final",
+      "result_label": "France 3-1 Senegal",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490",
+        "https://www.aljazeera.com/sports/2026/6/16/france-overcome-senegal-test-in-world-cup-opener",
+        "https://www.espn.com/soccer/report/_/gameId/760430"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "018",
+      "home_team_code": "IRQ",
+      "away_team_code": "NOR",
+      "home_score": 1,
+      "away_score": 4,
+      "winner_team_code": "NOR",
+      "status": "final",
+      "result_label": "Iraq 1-4 Norway",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491",
+        "https://www.theguardian.com/football/2026/jun/16/norway-iraq-world-cup-2026-group-i-match-report",
+        "https://www.foxsports.com/stories/soccer/world-cup-norway-iraq-france-senegal"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "019",
+      "home_team_code": "ARG",
+      "away_team_code": "ALG",
+      "home_score": 3,
+      "away_score": 0,
+      "winner_team_code": "ARG",
+      "status": "final",
+      "result_label": "Argentina 3-0 Algeria",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497",
+        "https://www.reuters.com/sports/soccer/argentina-beat-algeria-3-0-world-cup-opener-2026-06-17/",
+        "https://www.espn.com/soccer/report/_/gameId/760435"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "020",
+      "home_team_code": "AUT",
+      "away_team_code": "JOR",
+      "home_score": 3,
+      "away_score": 1,
+      "winner_team_code": "AUT",
+      "status": "final",
+      "result_label": "Austria 3-1 Jordan",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-austria-vs-jordan-jun-16-2026-game-boxscore-647638",
+        "https://abcnews.go.com/Sports/wireStory/austria-jordan-meet-lights-levis-stadium-2026-world-124690252"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
     }
   ]
 }

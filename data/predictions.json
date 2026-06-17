@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-16",
+    "snapshot_date": "2026-06-17",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-16T16:13:02+08:00"
+    "source_snapshot_at": "2026-06-17T14:38:30+08:00"
   },
   "predictions": [
     {
@@ -596,6 +596,158 @@
       "published_at": "2026-06-16T16:13:02+08:00",
       "updated_at": "2026-06-16T16:13:02+08:00",
       "source_snapshot_at": "2026-06-16T16:13:02+08:00"
+    },
+    {
+      "match_id": "021",
+      "prediction_file": "predictions/match-021-gha-pan.md",
+      "prediction_file_zh": "predictions/match-021-gha-pan.zh-CN.md",
+      "lead_image_file": "assets/cards/match-021-gha-pan-lead.png",
+      "image_file": "assets/cards/match-021-gha-pan.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "GHA",
+      "predicted_score": "1-0",
+      "home_win_probability": 0.43,
+      "draw_probability": 0.29,
+      "away_win_probability": 0.28,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-0",
+          "probability": 0.11,
+          "rationale": "Ghana use physical duels and second balls to edge a low-margin match."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Panama stay compact, slow the match, and answer through a set piece or counter."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-1",
+          "probability": 0.08,
+          "rationale": "Panama punish Ghana chasing spaces if the first goal comes from transition."
+        }
+      ],
+      "published_at": "2026-06-17T14:38:30+08:00",
+      "updated_at": "2026-06-17T14:38:30+08:00",
+      "source_snapshot_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "022",
+      "prediction_file": "predictions/match-022-eng-cro.md",
+      "prediction_file_zh": "predictions/match-022-eng-cro.zh-CN.md",
+      "lead_image_file": "assets/cards/match-022-eng-cro-lead.png",
+      "image_file": "assets/cards/match-022-eng-cro.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "ENG",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.47,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.25,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.12,
+          "rationale": "England convert the stronger final-third quality while Croatia still score through control phases."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Croatia manage midfield tempo and keep England from turning territory into separation."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.08,
+          "rationale": "Croatia score first from a set piece or transition and force England into a stretched chase."
+        }
+      ],
+      "published_at": "2026-06-17T14:38:30+08:00",
+      "updated_at": "2026-06-17T14:38:30+08:00",
+      "source_snapshot_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "023",
+      "prediction_file": "predictions/match-023-por-cod.md",
+      "prediction_file_zh": "predictions/match-023-por-cod.zh-CN.md",
+      "lead_image_file": "assets/cards/match-023-por-cod-lead.png",
+      "image_file": "assets/cards/match-023-por-cod.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "POR",
+      "predicted_score": "3-1",
+      "home_win_probability": 0.7,
+      "draw_probability": 0.19,
+      "away_win_probability": 0.11,
+      "confidence": "medium-high",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "3-1",
+          "probability": 0.16,
+          "rationale": "Portugal press the ranking and attacking-quality gap into repeated box entries while Congo DR still carry transition threat."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.07,
+          "rationale": "Congo DR defend deep, win enough aerial duels, and turn one direct attack into an equalizer."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.13,
+          "rationale": "Portugal control tempo and chance quality but the second goal arrives late."
+        }
+      ],
+      "published_at": "2026-06-17T14:38:30+08:00",
+      "updated_at": "2026-06-17T14:38:30+08:00",
+      "source_snapshot_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "024",
+      "prediction_file": "predictions/match-024-uzb-col.md",
+      "prediction_file_zh": "predictions/match-024-uzb-col.zh-CN.md",
+      "lead_image_file": "assets/cards/match-024-uzb-col-lead.png",
+      "image_file": "assets/cards/match-024-uzb-col.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "COL",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.19,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.54,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.13,
+          "rationale": "Colombia use wide creation and finishing quality to edge a match where Uzbekistan still threaten from restarts."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Uzbekistan keep the game compact and use set pieces or transition to hold Colombia level."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.11,
+          "rationale": "An early Colombia goal opens space and lets the stronger transition side manage the second half."
+        }
+      ],
+      "published_at": "2026-06-17T14:38:30+08:00",
+      "updated_at": "2026-06-17T14:38:30+08:00",
+      "source_snapshot_at": "2026-06-17T14:38:30+08:00"
     }
   ]
 }

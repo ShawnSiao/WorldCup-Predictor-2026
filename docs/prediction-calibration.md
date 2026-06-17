@@ -24,9 +24,9 @@ Data gaps are closed in three tiers:
 - Data-gap penalty: missing injuries/lineups/weather/market movement keeps confidence at `medium` or lower; two or more major gaps should usually cap confidence at `medium-low`.
 - Dissenting case: every prediction must explicitly state the most plausible route to the non-primary outcome.
 
-## Lessons Through Match 016
+## Lessons Through Match 020
 
-The reviews through Match 016 show that the model was too comfortable with favorite control and too slow to raise draw or underdog scenarios. Apply these lessons before every new or refreshed prediction:
+The reviews through Match 020 show that the model still needed the Match 016 caution on draw and underdog routes, but the next four matches also showed that strong favorites can separate once their first pressure wave turns into repeated chance creation. Apply these lessons before every new or refreshed prediction:
 
 - Compact underdogs: a low block plus goalkeeper performance can turn a heavy favorite's shot volume into a draw, as Spain 0-0 Cabo Verde showed.
 - Transition and second balls: Australia 2-0 Turkiye, Cote d'Ivoire 1-0 Ecuador, and Japan's 2-2 draw with the Netherlands all showed that transition execution can beat territory.
@@ -35,8 +35,11 @@ The reviews through Match 016 show that the model was too comfortable with favor
 - Logistics and political context: Iran 2-2 New Zealand showed that travel, visa, security, or forced-base changes can raise concession and draw risk.
 - Late tactical changes: Sweden 5-1 Tunisia showed that recent coach or formation disruption can make older defensive records unreliable.
 - Substitute impact: Belgium's equalizer and multiple late swings show that bench effects should be attached to scoreline scenarios, not only listed as generic risk.
+- Favorite margin upside: France 3-1 Senegal, Norway 4-1 Iraq, Argentina 3-0 Algeria, and Austria 3-1 Jordan all supported the correct winner lean but showed that the model can understate multi-goal favorite routes when the favorite has several independent scoring channels.
+- Clean-sheet separation: opponent transition or set-piece threat should reduce clean-sheet confidence, but it should not automatically suppress the favorite's scoring margin when the favorite can create through central combinations, wide service, set pieces, and bench depth.
+- Late score expansion: Matches 017-020 reinforced that a correct match-state read can still miss the final margin if the model treats second-half substitutions and chasing-game exposure as generic risk rather than as a specific 3-1, 4-1, or 3-0 route.
 
-Practical adjustment: for Match 017 onward, keep the headline scoreline but make the `conservative_draw_path` a real alternative when any two of these variables are live. Raise favorite margin only when the opponent has verified structural fragility or the favorite has multiple independent scoring routes.
+Practical adjustment: for Match 021 onward, keep the `conservative_draw_path` real when any two volatility variables are live, but also add a credible favorite-margin route when the favorite has a ranking edge, multiple scoring profiles, and a bench advantage. Separate "underdog can score" from "favorite cannot win by two or more."
 
 ## Scoreline Scenarios
 

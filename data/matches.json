@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-16",
-    "coverage": "opening matchday window through Match 020",
+    "snapshot_date": "2026-06-17",
+    "coverage": "opening matchday window through Match 024",
     "official_match_count": 104,
-    "tracked_match_count": 20,
+    "tracked_match_count": 24,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -38,9 +38,13 @@
       "https://www.transfermarkt.rotowire.com/soccer/article/sweden-vs-tunisia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117963",
       "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men",
-      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498"
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021501",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505"
     ],
-    "last_verified_at": "2026-06-16T16:13:02+08:00"
+    "last_verified_at": "2026-06-17T14:38:30+08:00"
   },
   "matches": [
     {
@@ -453,7 +457,7 @@
       "country": "United States",
       "home_team_code": "FRA",
       "away_team_code": "SEN",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -461,9 +465,12 @@
         "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
         "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
         "https://theanalyst.com/articles/france-vs-senegal-prediction-world-cup-2026-match-preview",
-        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms"
+        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490",
+        "https://www.aljazeera.com/sports/2026/6/16/france-overcome-senegal-test-in-world-cup-opener",
+        "https://www.espn.com/soccer/report/_/gameId/760430"
       ],
-      "last_verified_at": "2026-06-16T16:13:02+08:00"
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
     },
     {
       "match_id": "018",
@@ -478,7 +485,7 @@
       "country": "United States",
       "home_team_code": "IRQ",
       "away_team_code": "NOR",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -487,9 +494,12 @@
         "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
         "https://www.espn.com/soccer/story/_/id/49047658/fifa-world-cup-2026-iraq-vs-norway-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
         "https://www.theguardian.com/football/2026/jun/15/norway-world-cup-slick-modern-model-erling-haaland",
-        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms"
+        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491",
+        "https://www.theguardian.com/football/2026/jun/16/norway-iraq-world-cup-2026-group-i-match-report",
+        "https://www.foxsports.com/stories/soccer/world-cup-norway-iraq-france-senegal"
       ],
-      "last_verified_at": "2026-06-16T16:13:02+08:00"
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
     },
     {
       "match_id": "019",
@@ -504,7 +514,7 @@
       "country": "United States",
       "home_team_code": "ARG",
       "away_team_code": "ALG",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -512,9 +522,12 @@
         "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
         "https://www.fourfourtwo.com/competition/world-cup-2026-fixtures-day-by-day",
         "https://www.rotowire.com/soccer/article/2026-world-cup-group-j-preview-argentina-algeria-austria-jordan-tactics-lineups-set-pieces-odds-109964",
-        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms"
+        "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-matches-today-messis-argentina-face-algeria-mbappes-france-begin-campaign-haalands-norway-in-action/articleshow/131762251.cms",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497",
+        "https://www.reuters.com/sports/soccer/argentina-beat-algeria-3-0-world-cup-opener-2026-06-17/",
+        "https://www.espn.com/soccer/report/_/gameId/760435"
       ],
-      "last_verified_at": "2026-06-16T16:13:02+08:00"
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
     },
     {
       "match_id": "020",
@@ -529,14 +542,104 @@
       "country": "United States",
       "home_team_code": "AUT",
       "away_team_code": "JOR",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498",
-        "https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-16/"
+        "https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-16/",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-austria-vs-jordan-jun-16-2026-game-boxscore-647638",
+        "https://abcnews.go.com/Sports/wireStory/austria-jordan-meet-lights-levis-stadium-2026-world-124690252"
       ],
-      "last_verified_at": "2026-06-16T16:13:02+08:00"
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "021",
+      "stage": "Group L",
+      "group": "L",
+      "kickoff_utc": "2026-06-17T23:00:00Z",
+      "kickoff_local": "2026-06-17T19:00:00-04:00",
+      "timezone": "America/Toronto",
+      "venue_id": "toronto-stadium",
+      "venue_name": "Toronto Stadium",
+      "city": "Toronto",
+      "country": "Canada",
+      "home_team_code": "GHA",
+      "away_team_code": "PAN",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503",
+        "https://www.espn.com/soccer/story/_/id/49071721/fifa-world-cup-2026-ghana-vs-panama-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "022",
+      "stage": "Group L",
+      "group": "L",
+      "kickoff_utc": "2026-06-17T20:00:00Z",
+      "kickoff_local": "2026-06-17T15:00:00-05:00",
+      "timezone": "America/Chicago",
+      "venue_id": "dallas-stadium",
+      "venue_name": "Dallas Stadium",
+      "city": "Dallas",
+      "country": "United States",
+      "home_team_code": "ENG",
+      "away_team_code": "CRO",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
+        "https://www.espn.com/soccer/story/_/id/49071711/fifa-world-cup-2026-england-vs-croatia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "023",
+      "stage": "Group K",
+      "group": "K",
+      "kickoff_utc": "2026-06-17T17:00:00Z",
+      "kickoff_local": "2026-06-17T12:00:00-05:00",
+      "timezone": "America/Chicago",
+      "venue_id": "houston-stadium",
+      "venue_name": "Houston Stadium",
+      "city": "Houston",
+      "country": "United States",
+      "home_team_code": "POR",
+      "away_team_code": "COD",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021501",
+        "https://www.espn.com/soccer/story/_/id/49071689/fifa-world-cup-2026-portugal-vs-congo-dr-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "024",
+      "stage": "Group M",
+      "group": "M",
+      "kickoff_utc": "2026-06-18T02:00:00Z",
+      "kickoff_local": "2026-06-17T20:00:00-06:00",
+      "timezone": "America/Mexico_City",
+      "venue_id": "mexico-city-stadium",
+      "venue_name": "Mexico City Stadium",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "home_team_code": "UZB",
+      "away_team_code": "COL",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505",
+        "https://www.espn.com/soccer/story/_/id/49071745/fifa-world-cup-2026-uzbekistan-vs-colombia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+      ],
+      "last_verified_at": "2026-06-17T14:38:30+08:00"
     }
   ]
 }

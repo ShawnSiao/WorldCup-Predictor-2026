@@ -30,3 +30,7 @@ Each prediction embeds two share images: a fixture-only lead image first, follow
 | 018 | Iraq vs Norway | Norway win, 2-0 | [English](match-018-irq-nor.md) / [简体中文](match-018-irq-nor.zh-CN.md) |
 | 019 | Argentina vs Algeria | Argentina win, 2-0 | [English](match-019-arg-alg.md) / [简体中文](match-019-arg-alg.zh-CN.md) |
 | 020 | Austria vs Jordan | Austria win, 2-0 | [English](match-020-aut-jor.md) / [简体中文](match-020-aut-jor.zh-CN.md) |
+| 021 | Ghana vs Panama | Ghana win, 1-0 | [English](match-021-gha-pan.md) / [简体中文](match-021-gha-pan.zh-CN.md) |
+| 022 | England vs Croatia | England win, 2-1 | [English](match-022-eng-cro.md) / [简体中文](match-022-eng-cro.zh-CN.md) |
+| 023 | Portugal vs Congo DR | Portugal win, 3-1 | [English](match-023-por-cod.md) / [简体中文](match-023-por-cod.zh-CN.md) |
+| 024 | Uzbekistan vs Colombia | Colombia win, 2-1 | [English](match-024-uzb-col.md) / [简体中文](match-024-uzb-col.zh-CN.md) |

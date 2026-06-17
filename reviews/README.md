@@ -24,6 +24,10 @@ This directory stores post-match reviews. A review is created only after the off
 | 014 | Spain 0-0 Cabo Verde | wrong | [English](match-014-esp-cpv.md) / [简体中文](match-014-esp-cpv.zh-CN.md) |
 | 015 | IR Iran 2-2 New Zealand | wrong | [English](match-015-irn-nzl.md) / [简体中文](match-015-irn-nzl.zh-CN.md) |
 | 016 | Belgium 1-1 Egypt | partial | [English](match-016-bel-egy.md) / [简体中文](match-016-bel-egy.zh-CN.md) |
+| 017 | France 3-1 Senegal | correct | [English](match-017-fra-sen.md) / [简体中文](match-017-fra-sen.zh-CN.md) |
+| 018 | Iraq 1-4 Norway | correct | [English](match-018-irq-nor.md) / [简体中文](match-018-irq-nor.zh-CN.md) |
+| 019 | Argentina 3-0 Algeria | correct | [English](match-019-arg-alg.md) / [简体中文](match-019-arg-alg.zh-CN.md) |
+| 020 | Austria 3-1 Jordan | correct | [English](match-020-aut-jor.md) / [简体中文](match-020-aut-jor.zh-CN.md) |
 
 ## Review Ratings
 

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-16",
-    "coverage": "teams in the opening matchday window through Match 020",
+    "snapshot_date": "2026-06-17",
+    "coverage": "teams in the opening matchday window through Match 024",
     "ranking_source": "FIFA/Coca-Cola Men's World Ranking team pages",
     "last_official_update": "2026-06-11",
     "next_official_update": "2026-07-20",
@@ -45,9 +45,17 @@
       "https://inside.fifa.com/fifa-world-ranking/ARG?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/AUT?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/POR?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/COD?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/ENG?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/CRO?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/GHA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/PAN?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/UZB?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/COL?gender=men"
     ],
-    "last_verified_at": "2026-06-16T16:13:02+08:00"
+    "last_verified_at": "2026-06-17T14:38:30+08:00"
   },
   "rankings": [
     {
@@ -289,6 +297,54 @@
       "team": "Jordan",
       "rank": 63,
       "source_url": "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men"
+    },
+    {
+      "team_code": "POR",
+      "team": "Portugal",
+      "rank": 5,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/POR?gender=men"
+    },
+    {
+      "team_code": "COD",
+      "team": "Congo DR",
+      "rank": 46,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/COD?gender=men"
+    },
+    {
+      "team_code": "ENG",
+      "team": "England",
+      "rank": 4,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/ENG?gender=men"
+    },
+    {
+      "team_code": "CRO",
+      "team": "Croatia",
+      "rank": 11,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/CRO?gender=men"
+    },
+    {
+      "team_code": "GHA",
+      "team": "Ghana",
+      "rank": 73,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/GHA?gender=men"
+    },
+    {
+      "team_code": "PAN",
+      "team": "Panama",
+      "rank": 34,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/PAN?gender=men"
+    },
+    {
+      "team_code": "UZB",
+      "team": "Uzbekistan",
+      "rank": 50,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/UZB?gender=men"
+    },
+    {
+      "team_code": "COL",
+      "team": "Colombia",
+      "rank": 13,
+      "source_url": "https://inside.fifa.com/fifa-world-ranking/COL?gender=men"
     }
   ]
 }
