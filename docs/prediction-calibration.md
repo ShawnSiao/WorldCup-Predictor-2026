@@ -84,3 +84,11 @@ Post-match reviews should add one or more structured error tags when useful:
 - `data_gap_overconfidence`
 
 These tags guide the next daily run's calibration but do not rewrite already-published pre-kickoff predictions.
+
+## Lessons Through Match 024
+
+- Ghana 1-0 Panama validated keeping a full low-margin 1-0 route when physical duels and tempo suppression are central.
+- Portugal 1-1 Congo DR showed the draw path was underweighted for a heavy favorite with unresolved late lineup, weather, market, and direct-underdog variables.
+- England 4-2 Croatia and Uzbekistan 1-3 Colombia showed favorite margin can expand while the opponent still scores; clean-sheet probability must be handled separately from favorite-margin upside.
+- For Match 025 onward, every forecast keeps a serious 1-1 or underdog alternate path, and confidence stays capped at medium unless late team-news, weather, and market snapshots are stored.
+- Current adjustment tags emphasized: `draw_underweighted`, `favorite_margin_understated`, `favorite_margin_overstated`, `clean_sheet_overstated`, `underdog_resilience_underweighted`, and `data_gap_overconfidence`.

@@ -13,26 +13,26 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-17 |
+| 数据快照 | 2026-06-18 |
 | 赛事周期 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已追踪比赛 | 24 |
-| 已发布预测 | 24 |
-| 已追踪赛果 | 20 |
-| 已发布复盘 | 20 |
+| 仓库已追踪比赛 | 28 |
+| 已发布预测 | 28 |
+| 已追踪赛果 | 24 |
+| 已发布复盘 | 24 |
 
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球时间 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 葡萄牙 vs 民主刚果 | K 组 | 2026-06-17 17:00 UTC | Houston Stadium | [葡萄牙胜，3-1](../predictions/match-023-por-cod.zh-CN.md) / [English](../predictions/match-023-por-cod.md) |
-| 英格兰 vs 克罗地亚 | L 组 | 2026-06-17 20:00 UTC | Dallas Stadium | [英格兰胜，2-1](../predictions/match-022-eng-cro.zh-CN.md) / [English](../predictions/match-022-eng-cro.md) |
-| 加纳 vs 巴拿马 | L 组 | 2026-06-17 23:00 UTC | Toronto Stadium | [加纳胜，1-0](../predictions/match-021-gha-pan.zh-CN.md) / [English](../predictions/match-021-gha-pan.md) |
-| 乌兹别克斯坦 vs 哥伦比亚 | M 组 | 2026-06-18 02:00 UTC | Mexico City Stadium | [哥伦比亚胜，2-1](../predictions/match-024-uzb-col.zh-CN.md) / [English](../predictions/match-024-uzb-col.md) |
+| 捷克 vs 南非 | A 组 | 2026-06-18 16:00 UTC / 中国时间 2026-06-19 00:00 | Atlanta Stadium | [捷克胜，2-0](../predictions/match-025-cze-rsa.zh-CN.md) / [English](../predictions/match-025-cze-rsa.md) |
+| 瑞士 vs 波黑 | B 组 | 2026-06-18 19:00 UTC / 中国时间 2026-06-19 03:00 | Los Angeles Stadium | [瑞士胜，1-0](../predictions/match-026-sui-bih.zh-CN.md) / [English](../predictions/match-026-sui-bih.md) |
+| 加拿大 vs 卡塔尔 | B 组 | 2026-06-18 22:00 UTC / 中国时间 2026-06-19 06:00 | BC Place Vancouver | [加拿大胜，2-1](../predictions/match-027-can-qat.zh-CN.md) / [English](../predictions/match-027-can-qat.md) |
+| 墨西哥 vs 韩国 | A 组 | 2026-06-19 01:00 UTC / 中国时间 2026-06-19 09:00 | Estadio Guadalajara | [墨西哥胜，2-1](../predictions/match-028-mex-kor.zh-CN.md) / [English](../predictions/match-028-mex-kor.md) |
 
 ## 每日总览图
 
-[![2026-06-18 中国时间预测总览图](../assets/cards/daily-2026-06-18-summary.png)](../reports/daily/2026-06-18.zh-CN.md)
+[![2026-06-19 中国时间预测总览图](../assets/cards/daily-2026-06-19-summary.png)](../reports/daily/2026-06-19.zh-CN.md)
 
 总览图把同一中国时间日期的比赛放在一张分享图里，并把每个比分情景和对应理由绑定展示。
 
@@ -41,33 +41,37 @@
 [![墨西哥 vs 南非赛前首图](../assets/cards/match-001-mex-rsa-lead.png)](../predictions/match-001-mex-rsa.zh-CN.md)
 [![韩国 vs 捷克赛前首图](../assets/cards/match-002-kor-cze-lead.png)](../predictions/match-002-kor-cze.zh-CN.md)
 [![加拿大 vs 波黑赛前首图](../assets/cards/match-003-can-bih-lead.png)](../predictions/match-003-can-bih.zh-CN.md)
-[![美国 vs 巴拉圭赛前首图](../assets/cards/match-004-usa-par-lead.png)](../predictions/match-004-usa-par.zh-CN.md)
-[![海地 vs 苏格兰赛前首图](../assets/cards/match-005-hai-sco-lead.png)](../predictions/match-005-hai-sco.zh-CN.md)
-[![澳大利亚 vs 土耳其赛前首图](../assets/cards/match-006-aus-tur-lead.png)](../predictions/match-006-aus-tur.zh-CN.md)
-[![巴西 vs 摩洛哥赛前首图](../assets/cards/match-007-bra-mar-lead.png)](../predictions/match-007-bra-mar.zh-CN.md)
+[![USA vs PAR赛前首图](../assets/cards/match-004-usa-par-lead.png)](../predictions/match-004-usa-par.zh-CN.md)
+[![HAI vs SCO赛前首图](../assets/cards/match-005-hai-sco-lead.png)](../predictions/match-005-hai-sco.zh-CN.md)
+[![AUS vs TUR赛前首图](../assets/cards/match-006-aus-tur-lead.png)](../predictions/match-006-aus-tur.zh-CN.md)
+[![BRA vs MAR赛前首图](../assets/cards/match-007-bra-mar-lead.png)](../predictions/match-007-bra-mar.zh-CN.md)
 [![卡塔尔 vs 瑞士赛前首图](../assets/cards/match-008-qat-sui-lead.png)](../predictions/match-008-qat-sui.zh-CN.md)
-[![科特迪瓦 vs 厄瓜多尔赛前首图](../assets/cards/match-009-civ-ecu-lead.png)](../predictions/match-009-civ-ecu.zh-CN.md)
-[![德国 vs 库拉索赛前首图](../assets/cards/match-010-ger-cuw-lead.png)](../predictions/match-010-ger-cuw.zh-CN.md)
-[![荷兰 vs 日本赛前首图](../assets/cards/match-011-ned-jpn-lead.png)](../predictions/match-011-ned-jpn.zh-CN.md)
-[![瑞典 vs 突尼斯赛前首图](../assets/cards/match-012-swe-tun-lead.png)](../predictions/match-012-swe-tun.zh-CN.md)
-[![沙特阿拉伯 vs 乌拉圭赛前首图](../assets/cards/match-013-ksa-uru-lead.png)](../predictions/match-013-ksa-uru.zh-CN.md)
-[![西班牙 vs 佛得角赛前首图](../assets/cards/match-014-esp-cpv-lead.png)](../predictions/match-014-esp-cpv.zh-CN.md)
-[![伊朗 vs 新西兰赛前首图](../assets/cards/match-015-irn-nzl-lead.png)](../predictions/match-015-irn-nzl.zh-CN.md)
-[![比利时 vs 埃及赛前首图](../assets/cards/match-016-bel-egy-lead.png)](../predictions/match-016-bel-egy.zh-CN.md)
-[![法国 vs 塞内加尔赛前首图](../assets/cards/match-017-fra-sen-lead.png)](../predictions/match-017-fra-sen.zh-CN.md)
-[![伊拉克 vs 挪威赛前首图](../assets/cards/match-018-irq-nor-lead.png)](../predictions/match-018-irq-nor.zh-CN.md)
-[![阿根廷 vs 阿尔及利亚赛前首图](../assets/cards/match-019-arg-alg-lead.png)](../predictions/match-019-arg-alg.zh-CN.md)
-[![奥地利 vs 约旦赛前首图](../assets/cards/match-020-aut-jor-lead.png)](../predictions/match-020-aut-jor.zh-CN.md)
+[![CIV vs ECU赛前首图](../assets/cards/match-009-civ-ecu-lead.png)](../predictions/match-009-civ-ecu.zh-CN.md)
+[![GER vs CUW赛前首图](../assets/cards/match-010-ger-cuw-lead.png)](../predictions/match-010-ger-cuw.zh-CN.md)
+[![NED vs JPN赛前首图](../assets/cards/match-011-ned-jpn-lead.png)](../predictions/match-011-ned-jpn.zh-CN.md)
+[![SWE vs TUN赛前首图](../assets/cards/match-012-swe-tun-lead.png)](../predictions/match-012-swe-tun.zh-CN.md)
+[![KSA vs URU赛前首图](../assets/cards/match-013-ksa-uru-lead.png)](../predictions/match-013-ksa-uru.zh-CN.md)
+[![ESP vs CPV赛前首图](../assets/cards/match-014-esp-cpv-lead.png)](../predictions/match-014-esp-cpv.zh-CN.md)
+[![IRN vs NZL赛前首图](../assets/cards/match-015-irn-nzl-lead.png)](../predictions/match-015-irn-nzl.zh-CN.md)
+[![BEL vs EGY赛前首图](../assets/cards/match-016-bel-egy-lead.png)](../predictions/match-016-bel-egy.zh-CN.md)
+[![FRA vs SEN赛前首图](../assets/cards/match-017-fra-sen-lead.png)](../predictions/match-017-fra-sen.zh-CN.md)
+[![IRQ vs NOR赛前首图](../assets/cards/match-018-irq-nor-lead.png)](../predictions/match-018-irq-nor.zh-CN.md)
+[![ARG vs ALG赛前首图](../assets/cards/match-019-arg-alg-lead.png)](../predictions/match-019-arg-alg.zh-CN.md)
+[![AUT vs JOR赛前首图](../assets/cards/match-020-aut-jor-lead.png)](../predictions/match-020-aut-jor.zh-CN.md)
 [![加纳 vs 巴拿马赛前首图](../assets/cards/match-021-gha-pan-lead.png)](../predictions/match-021-gha-pan.zh-CN.md)
 [![英格兰 vs 克罗地亚赛前首图](../assets/cards/match-022-eng-cro-lead.png)](../predictions/match-022-eng-cro.zh-CN.md)
 [![葡萄牙 vs 民主刚果赛前首图](../assets/cards/match-023-por-cod-lead.png)](../predictions/match-023-por-cod.zh-CN.md)
 [![乌兹别克斯坦 vs 哥伦比亚赛前首图](../assets/cards/match-024-uzb-col-lead.png)](../predictions/match-024-uzb-col.zh-CN.md)
+[![捷克 vs 南非赛前首图](../assets/cards/match-025-cze-rsa-lead.png)](../predictions/match-025-cze-rsa.zh-CN.md)
+[![瑞士 vs 波黑赛前首图](../assets/cards/match-026-sui-bih-lead.png)](../predictions/match-026-sui-bih.zh-CN.md)
+[![加拿大 vs 卡塔尔赛前首图](../assets/cards/match-027-can-qat-lead.png)](../predictions/match-027-can-qat.zh-CN.md)
+[![墨西哥 vs 韩国赛前首图](../assets/cards/match-028-mex-kor-lead.png)](../predictions/match-028-mex-kor.zh-CN.md)
 
 分享图片目录：[`assets/cards/`](../assets/cards/)。每场预测先嵌入不含比分/胜负的赛前首图，再嵌入结果预测图。
 
 ## 今日赛程
 
-截至第 020 场的已核验完赛比赛均已完成复盘。下一个中国时间比赛日窗口覆盖葡萄牙 vs 民主刚果、英格兰 vs 克罗地亚、加纳 vs 巴拿马、乌兹别克斯坦 vs 哥伦比亚，并已把热门分差、零封风险、定位球和转换路径纳入复盘后校准。
+截至第 024 场的已核验完赛比赛均已完成复盘。下一个中国时间比赛日窗口覆盖捷克 vs 南非、瑞士 vs 波黑、加拿大 vs 卡塔尔、墨西哥 vs 韩国。校准已提高临场变量未闭合热门队的平局路径，并把热门分差上限和零封概率分开处理。
 
 ## 推理模型
 
@@ -95,9 +99,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 024 场：乌兹别克斯坦 vs 哥伦比亚](../predictions/match-024-uzb-col.zh-CN.md) / [English](../predictions/match-024-uzb-col.md)
-- 最新复盘：[第 020 场：奥地利 vs 约旦](../reviews/match-020-aut-jor.zh-CN.md) / [English](../reviews/match-020-aut-jor.md)
-- 最新日报：[2026-06-18](../reports/daily/2026-06-18.zh-CN.md) / [English](../reports/daily/2026-06-18.md)
+- 最新预测：[第 028 场：墨西哥 vs 韩国](../predictions/match-028-mex-kor.zh-CN.md) / [English](../predictions/match-028-mex-kor.md)
+- 最新复盘：[第 024 场：乌兹别克斯坦 vs 哥伦比亚](../reviews/match-024-uzb-col.zh-CN.md) / [English](../reviews/match-024-uzb-col.md)
+- 最新日报：[2026-06-19](../reports/daily/2026-06-19.zh-CN.md) / [English](../reports/daily/2026-06-19.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
 - 校准规则：[预测校准](prediction-calibration.zh-CN.md) / [English](prediction-calibration.md)
 - 数据结构：[数据结构](data-schema.zh-CN.md) / [English](data-schema.md)

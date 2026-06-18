@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-17",
+    "snapshot_date": "2026-06-18",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-17T14:38:30+08:00"
+    "source_snapshot_at": "2026-06-18T17:05:25+08:00"
   },
   "predictions": [
     {
@@ -748,6 +748,158 @@
       "published_at": "2026-06-17T14:38:30+08:00",
       "updated_at": "2026-06-17T14:38:30+08:00",
       "source_snapshot_at": "2026-06-17T14:38:30+08:00"
+    },
+    {
+      "match_id": "025",
+      "prediction_file": "predictions/match-025-cze-rsa.md",
+      "prediction_file_zh": "predictions/match-025-cze-rsa.zh-CN.md",
+      "lead_image_file": "assets/cards/match-025-cze-rsa-lead.png",
+      "image_file": "assets/cards/match-025-cze-rsa.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "CZE",
+      "predicted_score": "2-0",
+      "home_win_probability": 0.56,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.17,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-0",
+          "probability": 0.14,
+          "rationale": "Czechia use set pieces and territorial control against a South Africa side carrying suspension and defensive-timing risk."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "South Africa sit deep, slow the tempo, and answer through one counterattack or restart."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "3-0",
+          "probability": 0.1,
+          "rationale": "An early Czechia goal exposes the weakened South Africa back line and opens a late-margin route."
+        }
+      ],
+      "published_at": "2026-06-19T00:00:00+08:00",
+      "updated_at": "2026-06-18T17:05:25+08:00",
+      "source_snapshot_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "026",
+      "prediction_file": "predictions/match-026-sui-bih.md",
+      "prediction_file_zh": "predictions/match-026-sui-bih.zh-CN.md",
+      "lead_image_file": "assets/cards/match-026-sui-bih-lead.png",
+      "image_file": "assets/cards/match-026-sui-bih.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "SUI",
+      "predicted_score": "1-0",
+      "home_win_probability": 0.52,
+      "draw_probability": 0.29,
+      "away_win_probability": 0.19,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-0",
+          "probability": 0.13,
+          "rationale": "Switzerland control territory and set-piece volume in a low-event match."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Bosnia and Herzegovina defend compactly and use an aerial outlet or restart to level."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.1,
+          "rationale": "A first Swiss goal forces Bosnia and Herzegovina to open up, creating a late second-goal path."
+        }
+      ],
+      "published_at": "2026-06-19T00:00:00+08:00",
+      "updated_at": "2026-06-18T17:05:25+08:00",
+      "source_snapshot_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "027",
+      "prediction_file": "predictions/match-027-can-qat.md",
+      "prediction_file_zh": "predictions/match-027-can-qat.zh-CN.md",
+      "lead_image_file": "assets/cards/match-027-can-qat-lead.png",
+      "image_file": "assets/cards/match-027-can-qat.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "CAN",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.51,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.21,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.13,
+          "rationale": "Canada use home crowd, width, and pace while Qatar still score through tournament experience."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Qatar slow the tempo, manage restarts, and keep Canada's chance quality below the crowd noise."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.1,
+          "rationale": "Canada's wide pressure suppresses Qatar transitions and turns field position into a second goal."
+        }
+      ],
+      "published_at": "2026-06-19T00:00:00+08:00",
+      "updated_at": "2026-06-18T17:05:25+08:00",
+      "source_snapshot_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "028",
+      "prediction_file": "predictions/match-028-mex-kor.md",
+      "prediction_file_zh": "predictions/match-028-mex-kor.zh-CN.md",
+      "lead_image_file": "assets/cards/match-028-mex-kor-lead.png",
+      "image_file": "assets/cards/match-028-mex-kor.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "MEX",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.45,
+      "draw_probability": 0.3,
+      "away_win_probability": 0.25,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.12,
+          "rationale": "Mexico use Guadalajara host energy and shot volume, but Korea Republic's transition quality still scores."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.12,
+          "rationale": "Mexico's defensive availability risk and Korea Republic's transition threat keep the match level."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.08,
+          "rationale": "Korea Republic punish Mexico chasing space through Son/Lee-led transition attacks."
+        }
+      ],
+      "published_at": "2026-06-19T00:00:00+08:00",
+      "updated_at": "2026-06-18T17:05:25+08:00",
+      "source_snapshot_at": "2026-06-18T17:05:25+08:00"
     }
   ]
 }

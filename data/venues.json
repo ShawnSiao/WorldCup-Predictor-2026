@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-17",
-    "coverage": "venues referenced by tracked matches through Match 024",
+    "snapshot_date": "2026-06-18",
+    "coverage": "venues referenced by tracked matches through Match 028",
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
@@ -9,9 +9,12 @@
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021501",
-      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505"
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+      "https://www.roadtrips.com/world-cup/2026-world-cup-schedule/",
+      "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/"
     ],
-    "last_verified_at": "2026-06-17T14:38:30+08:00"
+    "last_verified_at": "2026-06-18T17:05:25+08:00"
   },
   "venues": [
     {

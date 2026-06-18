@@ -163,3 +163,28 @@
 - 尚未导入 48 支球队完整球员名单快照。
 - 第 001-004、009-024 场已在可用范围内加入伤病、球队新闻和可用性来源；官方首发和最终医疗公告仍是开球前的主要临场缺口。
 - FIFA 排名页面显示最近一次男子排名更新时间为 2026-06-11，下一次官方更新时间为 2026-07-20。
+
+## 2026-06-18 第 021-028 场来源快照
+
+| 范围 | 来源 | 用途 |
+| --- | --- | --- |
+| 第 021 场赛果 | FIFA 比赛中心、ESPN、Sporting News | 核验加纳 1-0 巴拿马并生成复盘。 |
+| 第 022 场赛果 | FIFA 比赛中心、EnglandFootball、Sporting News | 核验英格兰 4-2 克罗地亚并生成复盘。 |
+| 第 023 场赛果 | FIFA 比赛中心、Reuters、ESPN | 核验葡萄牙 1-1 民主刚果并生成复盘。 |
+| 第 024 场赛果 | FIFA 比赛中心、Guardian、Sporting News | 核验乌兹别克斯坦 1-3 哥伦比亚并生成复盘。 |
+| 第 025-028 场赛程 | FIFA scores/fixtures、Roadtrips、CBS | 核验中国时间 2026-06-19 开球和场地。 |
+| 第 025-028 场赛前背景 | SI、Guardian、Sports Mole | 在可用范围内补充战术、球队新闻、场地和风险框架。 |
+
+本快照新增关键 URL：
+
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures
+- https://www.roadtrips.com/world-cup/2026-world-cup-schedule/
+- https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021510
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021509
+- https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/
+- https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report
+- https://www.si.com/soccer/czechia-vs-south-africa-world-cup-preview-predictions-lineups-6-18-26
+- https://www.theguardian.com/football/2026/jun/17/canada-qatar-world-cup-team-news-alphonso-davies
+- https://www.sportsmole.co.uk/football/mexico/world-cup-2026/preview/mexico-vs-south-korea-prediction-team-news-lineups_599397.html
+- 核验时间：2026-06-18T17:05:25+08:00

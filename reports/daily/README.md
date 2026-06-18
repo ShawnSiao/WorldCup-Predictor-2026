@@ -8,6 +8,7 @@ Daily reports summarize schedule changes, new predictions, final results, and po
 
 | Date | Summary |
 | --- | --- |
+| 2026-06-19 | [China-time Group A/B prediction refresh and Match 021-024 reviews](2026-06-19.md) / [简体中文](2026-06-19.zh-CN.md) |
 | 2026-06-18 | [China-time Group K/L/M prediction refresh](2026-06-18.md) / [简体中文](2026-06-18.zh-CN.md) |
 | 2026-06-15 | [China-time Group E/F prediction refresh](2026-06-15.md) / [简体中文](2026-06-15.zh-CN.md) |
 | 2026-06-14 | [Matchday results and Group I/J predictions](2026-06-14.md) / [简体中文](2026-06-14.zh-CN.md) |

@@ -84,3 +84,11 @@
 - `data_gap_overconfidence`
 
 这些标签用于指导下一次每日运行的校准，但不回写已经发布的赛前预测。
+
+## 截至第 024 场的经验
+
+- 加纳 1-0 巴拿马验证：当身体对抗和节奏压制是核心变量时，完整的 1-0 小比分路径必须保留。
+- 葡萄牙 1-1 民主刚果说明：强热门若仍缺临场首发、天气、市场和下风方直接打法变量，平局路径被低估。
+- 英格兰 4-2 克罗地亚、乌兹别克斯坦 1-3 哥伦比亚说明：热门分差可以扩大，同时对手仍能进球；零封概率必须和热门分差上限分开处理。
+- 从第 025 场开始，每场预测都保留严肃的 1-1 或下风方替代路径；除非补齐临场球队新闻、天气和市场快照，否则信心不高于中等。
+- 当前重点校准标签：`draw_underweighted`、`favorite_margin_understated`、`favorite_margin_overstated`、`clean_sheet_overstated`、`underdog_resilience_underweighted`、`data_gap_overconfidence`。

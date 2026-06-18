@@ -163,3 +163,28 @@ Secondary sources may be used only when they add context that FIFA does not publ
 - Full 48-team player-level squad ingestion is pending.
 - Injury, team-news, and availability sources have been added for Matches 001-004 and 009-024 where available; official lineups and final medical bulletins remain the main late gaps before kickoff.
 - FIFA ranking pages show the last official men's ranking update as 2026-06-11, with the next official update listed for 2026-07-20.
+
+## 2026-06-18 Match 021-028 Source Snapshot
+
+| Area | Sources | Use |
+| --- | --- | --- |
+| Match 021 result | FIFA match centre; ESPN; Sporting News | Ghana 1-0 Panama result verification and review. |
+| Match 022 result | FIFA match centre; EnglandFootball; Sporting News | England 4-2 Croatia result verification and review. |
+| Match 023 result | FIFA match centre; Reuters; ESPN | Portugal 1-1 Congo DR result verification and review. |
+| Match 024 result | FIFA match centre; Guardian; Sporting News | Uzbekistan 1-3 Colombia result verification and review. |
+| Match 025-028 schedule | FIFA scores/fixtures; Roadtrips; CBS | China-time 2026-06-19 kickoff and venue verification. |
+| Match 025-028 previews | SI; Guardian; Sports Mole | Tactical, team-news, venue, and risk framing where available. |
+
+Key URLs added in this snapshot:
+
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures
+- https://www.roadtrips.com/world-cup/2026-world-cup-schedule/
+- https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021510
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021509
+- https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/
+- https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report
+- https://www.si.com/soccer/czechia-vs-south-africa-world-cup-preview-predictions-lineups-6-18-26
+- https://www.theguardian.com/football/2026/jun/17/canada-qatar-world-cup-team-news-alphonso-davies
+- https://www.sportsmole.co.uk/football/mexico/world-cup-2026/preview/mexico-vs-south-korea-prediction-team-news-lineups_599397.html
+- Verified at: 2026-06-18T17:05:25+08:00

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-17",
-    "coverage": "opening matchday window through Match 024",
+    "snapshot_date": "2026-06-18",
+    "coverage": "opening matchday window through Match 028",
     "official_match_count": 104,
-    "tracked_match_count": 24,
+    "tracked_match_count": 28,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -42,9 +42,12 @@
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021501",
-      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505"
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+      "https://www.roadtrips.com/world-cup/2026-world-cup-schedule/",
+      "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/"
     ],
-    "last_verified_at": "2026-06-17T14:38:30+08:00"
+    "last_verified_at": "2026-06-18T17:05:25+08:00"
   },
   "matches": [
     {
@@ -566,14 +569,17 @@
       "country": "Canada",
       "home_team_code": "GHA",
       "away_team_code": "PAN",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503",
-        "https://www.espn.com/soccer/story/_/id/49071721/fifa-world-cup-2026-ghana-vs-panama-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+        "https://www.espn.com/soccer/story/_/id/49071721/fifa-world-cup-2026-ghana-vs-panama-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021510",
+        "https://www.espn.com/soccer/match/_/gameId/760436/ghana-panama",
+        "https://www.sportingnews.com/us/soccer/news/ghana-panama-live-score-result-world-cup/4773447545378ec79f6b9b6c"
       ],
-      "last_verified_at": "2026-06-17T14:38:30+08:00"
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
     },
     {
       "match_id": "022",
@@ -588,14 +594,17 @@
       "country": "United States",
       "home_team_code": "ENG",
       "away_team_code": "CRO",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
-        "https://www.espn.com/soccer/story/_/id/49071711/fifa-world-cup-2026-england-vs-croatia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+        "https://www.espn.com/soccer/story/_/id/49071711/fifa-world-cup-2026-england-vs-croatia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021509",
+        "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/england-v-croatia-fifa-world-cup-wednesday-17-june-2026-match-centre",
+        "https://www.sportingnews.com/us/soccer/news/england-croatia-live-score-result-world-cup/6ef1296f64286e9dcf2d5710"
       ],
-      "last_verified_at": "2026-06-17T14:38:30+08:00"
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
     },
     {
       "match_id": "023",
@@ -610,14 +619,16 @@
       "country": "United States",
       "home_team_code": "POR",
       "away_team_code": "COD",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021501",
-        "https://www.espn.com/soccer/story/_/id/49071689/fifa-world-cup-2026-portugal-vs-congo-dr-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+        "https://www.espn.com/soccer/story/_/id/49071689/fifa-world-cup-2026-portugal-vs-congo-dr-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+        "https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/",
+        "https://www.espn.com/soccer/report/_/gameId/760435"
       ],
-      "last_verified_at": "2026-06-17T14:38:30+08:00"
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
     },
     {
       "match_id": "024",
@@ -632,14 +643,116 @@
       "country": "Mexico",
       "home_team_code": "UZB",
       "away_team_code": "COL",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
         "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505",
-        "https://www.espn.com/soccer/story/_/id/49071745/fifa-world-cup-2026-uzbekistan-vs-colombia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups"
+        "https://www.espn.com/soccer/story/_/id/49071745/fifa-world-cup-2026-uzbekistan-vs-colombia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
+        "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report",
+        "https://www.sportingnews.com/us/soccer/news/uzbekistan-colombia-live-score-result-world-cup/bc642d4e6f08b7ad7b7ebf6d"
       ],
-      "last_verified_at": "2026-06-17T14:38:30+08:00"
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "025",
+      "stage": "Group A",
+      "group": "A",
+      "kickoff_utc": "2026-06-18T16:00:00Z",
+      "kickoff_local": "2026-06-18T12:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "atlanta-stadium",
+      "venue_name": "Atlanta Stadium",
+      "city": "Atlanta",
+      "country": "United States",
+      "home_team_code": "CZE",
+      "away_team_code": "RSA",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.roadtrips.com/world-cup/2026-world-cup-schedule/",
+        "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/",
+        "https://www.si.com/soccer/czechia-vs-south-africa-world-cup-preview-predictions-lineups-6-18-26",
+        "https://inside.fifa.com/fifa-world-ranking/CZE?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men"
+      ],
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "026",
+      "stage": "Group B",
+      "group": "B",
+      "kickoff_utc": "2026-06-18T19:00:00Z",
+      "kickoff_local": "2026-06-18T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "venue_id": "los-angeles-stadium",
+      "venue_name": "Los Angeles Stadium",
+      "city": "Los Angeles",
+      "country": "United States",
+      "home_team_code": "SUI",
+      "away_team_code": "BIH",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.roadtrips.com/world-cup/2026-world-cup-schedule/",
+        "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/",
+        "https://inside.fifa.com/fifa-world-ranking/SUI?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men"
+      ],
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "027",
+      "stage": "Group B",
+      "group": "B",
+      "kickoff_utc": "2026-06-18T22:00:00Z",
+      "kickoff_local": "2026-06-18T15:00:00-07:00",
+      "timezone": "America/Vancouver",
+      "venue_id": "bc-place-vancouver",
+      "venue_name": "BC Place Vancouver",
+      "city": "Vancouver",
+      "country": "Canada",
+      "home_team_code": "CAN",
+      "away_team_code": "QAT",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.roadtrips.com/world-cup/2026-world-cup-schedule/",
+        "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/",
+        "https://www.theguardian.com/football/2026/jun/17/canada-qatar-world-cup-team-news-alphonso-davies",
+        "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/QAT?gender=men"
+      ],
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "028",
+      "stage": "Group A",
+      "group": "A",
+      "kickoff_utc": "2026-06-19T01:00:00Z",
+      "kickoff_local": "2026-06-18T19:00:00-06:00",
+      "timezone": "America/Mexico_City",
+      "venue_id": "estadio-guadalajara",
+      "venue_name": "Estadio Guadalajara",
+      "city": "Guadalajara",
+      "country": "Mexico",
+      "home_team_code": "MEX",
+      "away_team_code": "KOR",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://digitalhub.fifa.com/asset/4b5d4417-3343-4732-9cdf-14b6662af407/FWC26-Match-Schedule_English.pdf",
+        "https://www.roadtrips.com/world-cup/2026-world-cup-schedule/",
+        "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/",
+        "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/preview/mexico-vs-south-korea-prediction-team-news-lineups_599397.html",
+        "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/KOR?gender=men"
+      ],
+      "last_verified_at": "2026-06-18T17:05:25+08:00"
     }
   ]
 }
