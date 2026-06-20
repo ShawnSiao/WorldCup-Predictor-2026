@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-18",
-    "tracked_result_count": 24,
+    "snapshot_date": "2026-06-20",
+    "tracked_result_count": 32,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
@@ -51,9 +51,34 @@
       "https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504",
       "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report",
-      "https://www.sportingnews.com/us/soccer/news/uzbekistan-colombia-live-score-result-world-cup/bc642d4e6f08b7ad7b7ebf6d"
+      "https://www.sportingnews.com/us/soccer/news/uzbekistan-colombia-live-score-result-world-cup/bc642d4e6f08b7ad7b7ebf6d",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021440",
+      "https://www.aljazeera.com/sports/liveblog/2026/6/18/czechia-vs-south-africa-live-world-cup-2026",
+      "https://www.espn.com/soccer/report/_/gameId/760438",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/switzerland-bosnia-herzegovina-match-report-highlights",
+      "https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup",
+      "https://www.theguardian.com/football/live/2026/jun/18/switzerland-v-bosnia-and-herzegovina-world-cup-2026-live",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021450",
+      "https://www.foxsports.com/soccer/canada-vs-qatar-jun-18-2026-game-boxscore-647642",
+      "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021442",
+      "https://www.foxsports.com/soccer/mexico-vs-south-korea-jun-19-2026-game-boxscore-647643",
+      "https://www.aljazeera.com/sports/2026/6/19/mexico-beat-south-korea-1-0-become-first-team-to-reach-world-cup-knockouts",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021457",
+      "https://www.foxsports.com/soccer/brazil-vs-haiti-jun-20-2026-game-boxscore-647647",
+      "https://www.espn.com/soccer/story/_/id/49119519/brazil-haiti-live-world-cup-2026-latest-updates-commentary-score-result",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021454",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-scotland-vs-morocco-jun-19-2026-game-boxscore-647646",
+      "https://www.theguardian.com/football/2026/jun/20/scotland-morocco-world-cup-match-report",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021460",
+      "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+      "https://www.sofascore.com/football/match/paraguay-turkiye/aUbsOVb",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021462",
+      "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-australia-tickets-live-score-match-hub-lineups-highlights",
+      "https://www.cbssports.com/soccer/news/usmnt-vs-australia-live-updates-world-cup-2026-score-result/live/"
     ],
-    "last_verified_at": "2026-06-18T17:05:25+08:00"
+    "last_verified_at": "2026-06-20T14:45:00+08:00",
+    "coverage": "results tracked through Match 032"
   },
   "results": [
     {
@@ -432,6 +457,134 @@
         "https://www.sportingnews.com/us/soccer/news/uzbekistan-colombia-live-score-result-world-cup/bc642d4e6f08b7ad7b7ebf6d"
       ],
       "last_verified_at": "2026-06-18T17:05:25+08:00"
+    },
+    {
+      "match_id": "025",
+      "home_team_code": "CZE",
+      "away_team_code": "RSA",
+      "home_score": 1,
+      "away_score": 1,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "Czechia 1-1 South Africa",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021440",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/18/czechia-vs-south-africa-live-world-cup-2026",
+        "https://www.espn.com/soccer/report/_/gameId/760438"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "026",
+      "home_team_code": "SUI",
+      "away_team_code": "BIH",
+      "home_score": 4,
+      "away_score": 1,
+      "winner_team_code": "SUI",
+      "status": "final",
+      "result_label": "Switzerland 4-1 Bosnia and Herzegovina",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/switzerland-bosnia-herzegovina-match-report-highlights",
+        "https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup",
+        "https://www.theguardian.com/football/live/2026/jun/18/switzerland-v-bosnia-and-herzegovina-world-cup-2026-live"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "027",
+      "home_team_code": "CAN",
+      "away_team_code": "QAT",
+      "home_score": 6,
+      "away_score": 0,
+      "winner_team_code": "CAN",
+      "status": "final",
+      "result_label": "Canada 6-0 Qatar",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021450",
+        "https://www.foxsports.com/soccer/canada-vs-qatar-jun-18-2026-game-boxscore-647642",
+        "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "028",
+      "home_team_code": "MEX",
+      "away_team_code": "KOR",
+      "home_score": 1,
+      "away_score": 0,
+      "winner_team_code": "MEX",
+      "status": "final",
+      "result_label": "Mexico 1-0 Korea Republic",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021442",
+        "https://www.foxsports.com/soccer/mexico-vs-south-korea-jun-19-2026-game-boxscore-647643",
+        "https://www.aljazeera.com/sports/2026/6/19/mexico-beat-south-korea-1-0-become-first-team-to-reach-world-cup-knockouts"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "029",
+      "home_team_code": "BRA",
+      "away_team_code": "HAI",
+      "home_score": 3,
+      "away_score": 0,
+      "winner_team_code": "BRA",
+      "status": "final",
+      "result_label": "Brazil 3-0 Haiti",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021457",
+        "https://www.foxsports.com/soccer/brazil-vs-haiti-jun-20-2026-game-boxscore-647647",
+        "https://www.espn.com/soccer/story/_/id/49119519/brazil-haiti-live-world-cup-2026-latest-updates-commentary-score-result"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "030",
+      "home_team_code": "SCO",
+      "away_team_code": "MAR",
+      "home_score": 0,
+      "away_score": 1,
+      "winner_team_code": "MAR",
+      "status": "final",
+      "result_label": "Scotland 0-1 Morocco",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021454",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-scotland-vs-morocco-jun-19-2026-game-boxscore-647646",
+        "https://www.theguardian.com/football/2026/jun/20/scotland-morocco-world-cup-match-report"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "031",
+      "home_team_code": "TUR",
+      "away_team_code": "PAR",
+      "home_score": 0,
+      "away_score": 1,
+      "winner_team_code": "PAR",
+      "status": "final",
+      "result_label": "Turkiye 0-1 Paraguay",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021460",
+        "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+        "https://www.sofascore.com/football/match/paraguay-turkiye/aUbsOVb"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "032",
+      "home_team_code": "USA",
+      "away_team_code": "AUS",
+      "home_score": 2,
+      "away_score": 0,
+      "winner_team_code": "USA",
+      "status": "final",
+      "result_label": "USA 2-0 Australia",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021462",
+        "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-australia-tickets-live-score-match-hub-lineups-highlights",
+        "https://www.cbssports.com/soccer/news/usmnt-vs-australia-live-updates-world-cup-2026-score-result/live/"
+      ],
+      "last_verified_at": "2026-06-20T14:45:00+08:00"
     }
   ]
 }

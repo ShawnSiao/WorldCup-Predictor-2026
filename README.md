@@ -13,26 +13,26 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-18 |
+| Data snapshot | 2026-06-20 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 28 |
-| Predictions published | 28 |
-| Final results tracked | 24 |
-| Post-match reviews published | 24 |
+| Tracked matches in repository | 36 |
+| Predictions published | 36 |
+| Final results tracked | 32 |
+| Post-match reviews published | 32 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Czechia vs South Africa | Group A | 2026-06-18 16:00 UTC / 2026-06-19 00:00 China time | Atlanta Stadium | [Czechia win, 2-0](predictions/match-025-cze-rsa.md) / [简体中文](predictions/match-025-cze-rsa.zh-CN.md) |
-| Switzerland vs Bosnia and Herzegovina | Group B | 2026-06-18 19:00 UTC / 2026-06-19 03:00 China time | Los Angeles Stadium | [Switzerland win, 1-0](predictions/match-026-sui-bih.md) / [简体中文](predictions/match-026-sui-bih.zh-CN.md) |
-| Canada vs Qatar | Group B | 2026-06-18 22:00 UTC / 2026-06-19 06:00 China time | BC Place Vancouver | [Canada win, 2-1](predictions/match-027-can-qat.md) / [简体中文](predictions/match-027-can-qat.zh-CN.md) |
-| Mexico vs Korea Republic | Group A | 2026-06-19 01:00 UTC / 2026-06-19 09:00 China time | Estadio Guadalajara | [Mexico win, 2-1](predictions/match-028-mex-kor.md) / [简体中文](predictions/match-028-mex-kor.zh-CN.md) |
+| Netherlands vs Sweden | Group F | 2026-06-20 17:00 UTC / 2026-06-21 01:00 China time | Houston Stadium | [Draw, 2-2](predictions/match-035-ned-swe.md) / [简体中文](predictions/match-035-ned-swe.zh-CN.md) |
+| Germany vs Cote d'Ivoire | Group E | 2026-06-20 20:00 UTC / 2026-06-21 04:00 China time | Toronto Stadium | [Germany win, 2-1](predictions/match-033-ger-civ.md) / [简体中文](predictions/match-033-ger-civ.zh-CN.md) |
+| Ecuador vs Curacao | Group E | 2026-06-21 00:00 UTC / 2026-06-21 08:00 China time | Kansas City Stadium | [Ecuador win, 2-0](predictions/match-034-ecu-cuw.md) / [简体中文](predictions/match-034-ecu-cuw.zh-CN.md) |
+| Tunisia vs Japan | Group F | 2026-06-21 04:00 UTC / 2026-06-21 12:00 China time | Monterrey Stadium | [Japan win, 0-2](predictions/match-036-tun-jpn.md) / [简体中文](predictions/match-036-tun-jpn.zh-CN.md) |
 
 ## Daily Overview Card
 
-[![China-time 2026-06-19 prediction overview card](assets/cards/daily-2026-06-19-summary.png)](reports/daily/2026-06-19.md)
+[![China-time 2026-06-21 prediction overview card](assets/cards/daily-2026-06-21-summary.png)](reports/daily/2026-06-21.md)
 
 The overview card groups the same China-time date into one share image and links each scoreline scenario to its own rationale.
 
@@ -67,11 +67,27 @@ The overview card groups the same China-time date into one share image and links
 [![Canada vs Qatar lead prediction image](assets/cards/match-027-can-qat-lead.png)](predictions/match-027-can-qat.md)
 [![Mexico vs Korea Republic lead prediction image](assets/cards/match-028-mex-kor-lead.png)](predictions/match-028-mex-kor.md)
 
+[![Brazil vs Haiti lead prediction image](assets/cards/match-029-bra-hai-lead.png)](predictions/match-029-bra-hai.md)
+
+[![Scotland vs Morocco lead prediction image](assets/cards/match-030-sco-mar-lead.png)](predictions/match-030-sco-mar.md)
+
+[![Turkiye vs Paraguay lead prediction image](assets/cards/match-031-tur-par-lead.png)](predictions/match-031-tur-par.md)
+
+[![USA vs Australia lead prediction image](assets/cards/match-032-usa-aus-lead.png)](predictions/match-032-usa-aus.md)
+
+[![Germany vs Cote d'Ivoire lead prediction image](assets/cards/match-033-ger-civ-lead.png)](predictions/match-033-ger-civ.md)
+
+[![Ecuador vs Curacao lead prediction image](assets/cards/match-034-ecu-cuw-lead.png)](predictions/match-034-ecu-cuw.md)
+
+[![Netherlands vs Sweden lead prediction image](assets/cards/match-035-ned-swe-lead.png)](predictions/match-035-ned-swe.md)
+
+[![Tunisia vs Japan lead prediction image](assets/cards/match-036-tun-jpn-lead.png)](predictions/match-036-tun-jpn.md)
+
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 
 ## Today
 
-Reviews are now complete for all verified finals through Match 024. The next China-time matchday window covers Czechia vs South Africa, Switzerland vs Bosnia and Herzegovina, Canada vs Qatar, and Mexico vs Korea Republic. Calibration now raises draw paths for favorites with unresolved late variables and separates favorite-margin upside from clean-sheet probability.
+Reviews are now complete for all verified finals through Match 032. The next China-time matchday window covers Netherlands vs Sweden, Germany vs Cote d'Ivoire, Ecuador vs Curacao, and Tunisia vs Japan. Calibration keeps early-goal, transition, and set-piece routes visible in every scoreline scenario.
 
 ## Reasoning Model
 
@@ -99,9 +115,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 028: Mexico vs Korea Republic](predictions/match-028-mex-kor.md)
-- Latest review: [Match 024: Uzbekistan vs Colombia](reviews/match-024-uzb-col.md)
-- Latest daily report: [2026-06-19](reports/daily/2026-06-19.md)
+- Latest prediction: [Match 036: Tunisia vs Japan](predictions/match-036-tun-jpn.md)
+- Latest review: [Match 032: USA vs Australia](reviews/match-032-usa-aus.md)
+- Latest daily report: [2026-06-21](reports/daily/2026-06-21.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

@@ -13,26 +13,26 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-18 |
+| 数据快照 | 2026-06-20 |
 | 赛事周期 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已追踪比赛 | 28 |
-| 已发布预测 | 28 |
-| 已追踪赛果 | 24 |
-| 已发布复盘 | 24 |
+| 仓库已追踪比赛 | 36 |
+| 已发布预测 | 36 |
+| 已追踪赛果 | 32 |
+| 已发布复盘 | 32 |
 
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球时间 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 捷克 vs 南非 | A 组 | 2026-06-18 16:00 UTC / 中国时间 2026-06-19 00:00 | Atlanta Stadium | [捷克胜，2-0](../predictions/match-025-cze-rsa.zh-CN.md) / [English](../predictions/match-025-cze-rsa.md) |
-| 瑞士 vs 波黑 | B 组 | 2026-06-18 19:00 UTC / 中国时间 2026-06-19 03:00 | Los Angeles Stadium | [瑞士胜，1-0](../predictions/match-026-sui-bih.zh-CN.md) / [English](../predictions/match-026-sui-bih.md) |
-| 加拿大 vs 卡塔尔 | B 组 | 2026-06-18 22:00 UTC / 中国时间 2026-06-19 06:00 | BC Place Vancouver | [加拿大胜，2-1](../predictions/match-027-can-qat.zh-CN.md) / [English](../predictions/match-027-can-qat.md) |
-| 墨西哥 vs 韩国 | A 组 | 2026-06-19 01:00 UTC / 中国时间 2026-06-19 09:00 | Estadio Guadalajara | [墨西哥胜，2-1](../predictions/match-028-mex-kor.zh-CN.md) / [English](../predictions/match-028-mex-kor.md) |
+| 荷兰 vs 瑞典 | F 组 | 2026-06-20 17:00 UTC / 中国时间 2026-06-21 01:00 | Houston Stadium | [平局，2-2](../predictions/match-035-ned-swe.zh-CN.md) / [English](../predictions/match-035-ned-swe.md) |
+| 德国 vs 科特迪瓦 | E 组 | 2026-06-20 20:00 UTC / 中国时间 2026-06-21 04:00 | Toronto Stadium | [德国胜，2-1](../predictions/match-033-ger-civ.zh-CN.md) / [English](../predictions/match-033-ger-civ.md) |
+| 厄瓜多尔 vs 库拉索 | E 组 | 2026-06-21 00:00 UTC / 中国时间 2026-06-21 08:00 | Kansas City Stadium | [厄瓜多尔胜，2-0](../predictions/match-034-ecu-cuw.zh-CN.md) / [English](../predictions/match-034-ecu-cuw.md) |
+| 突尼斯 vs 日本 | F 组 | 2026-06-21 04:00 UTC / 中国时间 2026-06-21 12:00 | Monterrey Stadium | [日本胜，0-2](../predictions/match-036-tun-jpn.zh-CN.md) / [English](../predictions/match-036-tun-jpn.md) |
 
 ## 每日总览图
 
-[![2026-06-19 中国时间预测总览图](../assets/cards/daily-2026-06-19-summary.png)](../reports/daily/2026-06-19.zh-CN.md)
+[![2026-06-21 中国时间预测总览图](../assets/cards/daily-2026-06-21-summary.png)](../reports/daily/2026-06-21.zh-CN.md)
 
 总览图把同一中国时间日期的比赛放在一张分享图里，并把每个比分情景和对应理由绑定展示。
 
@@ -67,11 +67,27 @@
 [![加拿大 vs 卡塔尔赛前首图](../assets/cards/match-027-can-qat-lead.png)](../predictions/match-027-can-qat.zh-CN.md)
 [![墨西哥 vs 韩国赛前首图](../assets/cards/match-028-mex-kor-lead.png)](../predictions/match-028-mex-kor.zh-CN.md)
 
+[![巴西 vs 海地赛前首图](../assets/cards/match-029-bra-hai-lead.png)](../predictions/match-029-bra-hai.zh-CN.md)
+
+[![苏格兰 vs 摩洛哥赛前首图](../assets/cards/match-030-sco-mar-lead.png)](../predictions/match-030-sco-mar.zh-CN.md)
+
+[![土耳其 vs 巴拉圭赛前首图](../assets/cards/match-031-tur-par-lead.png)](../predictions/match-031-tur-par.zh-CN.md)
+
+[![美国 vs 澳大利亚赛前首图](../assets/cards/match-032-usa-aus-lead.png)](../predictions/match-032-usa-aus.zh-CN.md)
+
+[![德国 vs 科特迪瓦赛前首图](../assets/cards/match-033-ger-civ-lead.png)](../predictions/match-033-ger-civ.zh-CN.md)
+
+[![厄瓜多尔 vs 库拉索赛前首图](../assets/cards/match-034-ecu-cuw-lead.png)](../predictions/match-034-ecu-cuw.zh-CN.md)
+
+[![荷兰 vs 瑞典赛前首图](../assets/cards/match-035-ned-swe-lead.png)](../predictions/match-035-ned-swe.zh-CN.md)
+
+[![突尼斯 vs 日本赛前首图](../assets/cards/match-036-tun-jpn-lead.png)](../predictions/match-036-tun-jpn.zh-CN.md)
+
 分享图片目录：[`assets/cards/`](../assets/cards/)。每场预测先嵌入不含比分/胜负的赛前首图，再嵌入结果预测图。
 
 ## 今日赛程
 
-截至第 024 场的已核验完赛比赛均已完成复盘。下一个中国时间比赛日窗口覆盖捷克 vs 南非、瑞士 vs 波黑、加拿大 vs 卡塔尔、墨西哥 vs 韩国。校准已提高临场变量未闭合热门队的平局路径，并把热门分差上限和零封概率分开处理。
+截至第 032 场的已核验完赛比赛均已完成复盘。下一个中国时间比赛日窗口覆盖荷兰 vs 瑞典、德国 vs 科特迪瓦、厄瓜多尔 vs 库拉索、突尼斯 vs 日本。校准继续提高早段进球、转换和定位球对比分情景的权重。
 
 ## 推理模型
 
@@ -99,9 +115,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 028 场：墨西哥 vs 韩国](../predictions/match-028-mex-kor.zh-CN.md) / [English](../predictions/match-028-mex-kor.md)
-- 最新复盘：[第 024 场：乌兹别克斯坦 vs 哥伦比亚](../reviews/match-024-uzb-col.zh-CN.md) / [English](../reviews/match-024-uzb-col.md)
-- 最新日报：[2026-06-19](../reports/daily/2026-06-19.zh-CN.md) / [English](../reports/daily/2026-06-19.md)
+- 最新预测：[第 036 场：突尼斯 vs 日本](../predictions/match-036-tun-jpn.zh-CN.md) / [English](../predictions/match-036-tun-jpn.md)
+- 最新复盘：[第 032 场：美国 vs 澳大利亚](../reviews/match-032-usa-aus.zh-CN.md) / [English](../reviews/match-032-usa-aus.md)
+- 最新日报：[2026-06-21](../reports/daily/2026-06-21.zh-CN.md) / [English](../reports/daily/2026-06-21.md)
 - 方法说明：[预测与复盘方法](methodology.zh-CN.md) / [English](methodology.md)
 - 校准规则：[预测校准](prediction-calibration.zh-CN.md) / [English](prediction-calibration.md)
 - 数据结构：[数据结构](data-schema.zh-CN.md) / [English](data-schema.md)
