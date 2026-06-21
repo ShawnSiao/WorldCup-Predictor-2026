@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-20",
-    "coverage": "opening matchday window through Match 036",
+    "snapshot_date": "2026-06-21",
+    "coverage": "opening matchday window through Match 040",
     "official_match_count": 104,
-    "tracked_match_count": 36,
+    "tracked_match_count": 40,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -81,9 +81,51 @@
       "https://www.si.com/soccer/tunisia-vs-japan-world-cup-preview-predictions-lineups-6-20-26",
       "https://www.sportsmole.co.uk/football/tunisia/world-cup-2026/preview/tunisia-vs-japan-prediction-team-news-lineups_599494.html",
       "https://www.theguardian.com/football/2026/jun/15/tunisia-sack-sabri-lamouchi-one-game-into-world-cup-2026-5-1-defeat-sweden",
-      "https://www.climatecentral.org/world-cup-2026/matches/36"
+      "https://www.climatecentral.org/world-cup-2026/matches/36",
+      "https://www.roadtrips.com/world-cup/2026-world-cup-packages/schedule/",
+      "https://www.cbssports.com/soccer/news/world-cup-2026-schedule-times-dates/",
+      "https://www.wral.com/news/ap/ef8fa-undav-scores-twice-saves-germany-with-2-1-world-cup-win-over-ivory-coast/",
+      "https://www.espn.com/soccer/story/_/id/49129600/germany-ivory-coast-2026-fifa-world-cup-deniz-undav",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ecuador-curacao-match-report-highlights",
+      "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report",
+      "https://www.skysports.com/football/news/29910/13553789/world-cup-2026-ecuador-0-0-curacao-eloy-room-makes-history-with-incredible-15-saves-to-earn-blue-wave-first-ever-point",
+      "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
+      "https://www.espn.com/soccer/match/_/gameId/760447",
+      "https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report",
+      "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
+      "https://www.espn.com/soccer/report/_/gameId/760449",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-tunisia-vs-japan-jun-21-2026-game-boxscore-647651",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021487",
+      "https://www.sportsmole.co.uk/football/uruguay/world-cup-2026/preview/uruguay-vs-cape-verde-prediction-team-news-lineups_599604.html",
+      "https://www.rotowire.com/soccer/article/uruguay-vs-cape-verde-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-h-118935",
+      "https://www.climatecentral.org/world-cup-2026/matches/37",
+      "https://inside.fifa.com/fifa-world-ranking/URU?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/CPV?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021483",
+      "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/spain-vs-saudi-arabia-prediction-team-news-lineups_599589.html",
+      "https://www.rotowire.com/soccer/article/spain-vs-saudi-arabia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-h-118930",
+      "https://www.aljazeera.com/sports/2026/6/20/spain-vs-saudi-arabia-world-cup-2026-yamal-prediction-watch-kickoff",
+      "https://www.theguardian.com/football/2026/jun/21/stung-spain-have-digested-shock-start-but-know-repeat-is-not-an-option",
+      "https://www.climatecentral.org/world-cup-2026/matches/38",
+      "https://inside.fifa.com/fifa-world-ranking/ESP?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/KSA?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021477",
+      "https://www.rotowire.com/soccer/article/belgium-vs-iran-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118933",
+      "https://www.cbssports.com/soccer/news/belgium-vs-iran-world-cup-2026-preview-predictions-watch/",
+      "https://www.espn.com/soccer/story/_/id/49117734/belgium-iran-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+      "https://www.supersport.com/football/news/dd21292c-0993-4ae2-8674-c9e845536a8f/doku-out-of-belgium-s-world-cup-match-against-iran-with-illness",
+      "https://www.theguardian.com/football/2026/jun/19/iran-lodge-complaint-fifa-restrictions-world-cup",
+      "https://www.climatecentral.org/world-cup-2026/matches/39",
+      "https://inside.fifa.com/fifa-world-ranking/BEL?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/IRN?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021480",
+      "https://www.sportsmole.co.uk/football/new-zealand/world-cup-2026/preview/new-zealand-vs-egypt-prediction-team-news-lineups_599606.html",
+      "https://www.rotowire.com/soccer/article/new-zealand-vs-egypt-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118938",
+      "https://www.climatecentral.org/world-cup-2026/matches/40",
+      "https://inside.fifa.com/fifa-world-ranking/NZL?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men"
     ],
-    "last_verified_at": "2026-06-20T16:45:00+08:00"
+    "last_verified_at": "2026-06-21T16:30:00+08:00"
   },
   "matches": [
     {
@@ -904,16 +946,18 @@
       "country": "Canada",
       "home_team_code": "GER",
       "away_team_code": "CIV",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021469",
         "https://www.rotowire.com/soccer/article/germany-vs-ivory-coast-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-118798",
         "https://www.bavarianfootballworks.com/germany-international-soccer/218624/2026-world-cup-group-stage-preview-germany-vs-ivory-coast",
         "https://www.sportsmole.co.uk/football/germany/world-cup-2026/preview/germany-vs-ivory-coast-prediction-team-news-lineups_599489.html",
         "https://inside.fifa.com/fifa-world-ranking/GER?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men",
+        "https://www.wral.com/news/ap/ef8fa-undav-scores-twice-saves-germany-with-2-1-world-cup-win-over-ivory-coast/",
+        "https://www.espn.com/soccer/story/_/id/49129600/germany-ivory-coast-2026-fifa-world-cup-deniz-undav"
       ],
-      "last_verified_at": "2026-06-20T16:45:00+08:00"
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
     },
     {
       "match_id": "034",
@@ -928,7 +972,7 @@
       "country": "United States",
       "home_team_code": "ECU",
       "away_team_code": "CUW",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021465",
         "https://www.si.com/soccer/ecuador-vs-curacao-world-cup-preview-predictions-lineups-6-20-26",
@@ -936,9 +980,12 @@
         "https://www.rotowire.com/soccer/article/ecuador-vs-curacao-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-118799",
         "https://www.sportsmole.co.uk/football/ecuador/world-cup-2026/preview/ecuador-vs-curacao-prediction-team-news-lineups_599563.html",
         "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/CUW?gender=men",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ecuador-curacao-match-report-highlights",
+        "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report",
+        "https://www.skysports.com/football/news/29910/13553789/world-cup-2026-ecuador-0-0-curacao-eloy-room-makes-history-with-incredible-15-saves-to-earn-blue-wave-first-ever-point"
       ],
-      "last_verified_at": "2026-06-20T16:45:00+08:00"
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
     },
     {
       "match_id": "035",
@@ -953,7 +1000,7 @@
       "country": "United States",
       "home_team_code": "NED",
       "away_team_code": "SWE",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021472",
         "https://www.rotowire.com/soccer/article/netherlands-vs-sweden-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-118797",
@@ -961,9 +1008,11 @@
         "https://vsin.com/soccer/netherlands-vs-sweden-same-game-parlay-2026-fifa-world-cup-prediction/",
         "https://www.houstonchronicle.com/world-cup/article/sweden-netherlands-preview-world-cup-22312449.php",
         "https://inside.fifa.com/fifa-world-ranking/NED?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men",
+        "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
+        "https://www.espn.com/soccer/match/_/gameId/760447"
       ],
-      "last_verified_at": "2026-06-20T16:45:00+08:00"
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
     },
     {
       "match_id": "036",
@@ -978,7 +1027,7 @@
       "country": "Mexico",
       "home_team_code": "TUN",
       "away_team_code": "JPN",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021475",
         "https://www.rotowire.com/soccer/article/tunisia-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-118802",
@@ -987,9 +1036,114 @@
         "https://www.theguardian.com/football/2026/jun/15/tunisia-sack-sabri-lamouchi-one-game-into-world-cup-2026-5-1-defeat-sweden",
         "https://www.climatecentral.org/world-cup-2026/matches/36",
         "https://inside.fifa.com/fifa-world-ranking/TUN?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men",
+        "https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report",
+        "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
+        "https://www.espn.com/soccer/report/_/gameId/760449",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-tunisia-vs-japan-jun-21-2026-game-boxscore-647651"
       ],
-      "last_verified_at": "2026-06-20T16:45:00+08:00"
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "037",
+      "stage": "Group H",
+      "group": "H",
+      "kickoff_utc": "2026-06-21T22:00:00Z",
+      "kickoff_local": "2026-06-21T18:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "miami-stadium",
+      "venue_name": "Miami Stadium",
+      "city": "Miami",
+      "country": "United States",
+      "home_team_code": "URU",
+      "away_team_code": "CPV",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021487",
+        "https://www.sportsmole.co.uk/football/uruguay/world-cup-2026/preview/uruguay-vs-cape-verde-prediction-team-news-lineups_599604.html",
+        "https://www.rotowire.com/soccer/article/uruguay-vs-cape-verde-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-h-118935",
+        "https://www.climatecentral.org/world-cup-2026/matches/37",
+        "https://inside.fifa.com/fifa-world-ranking/URU?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/CPV?gender=men"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "038",
+      "stage": "Group H",
+      "group": "H",
+      "kickoff_utc": "2026-06-21T16:00:00Z",
+      "kickoff_local": "2026-06-21T12:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "atlanta-stadium",
+      "venue_name": "Atlanta Stadium",
+      "city": "Atlanta",
+      "country": "United States",
+      "home_team_code": "ESP",
+      "away_team_code": "KSA",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021483",
+        "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/spain-vs-saudi-arabia-prediction-team-news-lineups_599589.html",
+        "https://www.rotowire.com/soccer/article/spain-vs-saudi-arabia-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-h-118930",
+        "https://www.aljazeera.com/sports/2026/6/20/spain-vs-saudi-arabia-world-cup-2026-yamal-prediction-watch-kickoff",
+        "https://www.theguardian.com/football/2026/jun/21/stung-spain-have-digested-shock-start-but-know-repeat-is-not-an-option",
+        "https://www.climatecentral.org/world-cup-2026/matches/38",
+        "https://inside.fifa.com/fifa-world-ranking/ESP?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/KSA?gender=men"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "039",
+      "stage": "Group G",
+      "group": "G",
+      "kickoff_utc": "2026-06-21T19:00:00Z",
+      "kickoff_local": "2026-06-21T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "venue_id": "los-angeles-stadium",
+      "venue_name": "Los Angeles Stadium",
+      "city": "Los Angeles",
+      "country": "United States",
+      "home_team_code": "BEL",
+      "away_team_code": "IRN",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021477",
+        "https://www.rotowire.com/soccer/article/belgium-vs-iran-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118933",
+        "https://www.cbssports.com/soccer/news/belgium-vs-iran-world-cup-2026-preview-predictions-watch/",
+        "https://www.espn.com/soccer/story/_/id/49117734/belgium-iran-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+        "https://www.supersport.com/football/news/dd21292c-0993-4ae2-8674-c9e845536a8f/doku-out-of-belgium-s-world-cup-match-against-iran-with-illness",
+        "https://www.theguardian.com/football/2026/jun/19/iran-lodge-complaint-fifa-restrictions-world-cup",
+        "https://www.climatecentral.org/world-cup-2026/matches/39",
+        "https://inside.fifa.com/fifa-world-ranking/BEL?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/IRN?gender=men"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "040",
+      "stage": "Group G",
+      "group": "G",
+      "kickoff_utc": "2026-06-22T01:00:00Z",
+      "kickoff_local": "2026-06-21T18:00:00-07:00",
+      "timezone": "America/Vancouver",
+      "venue_id": "bc-place-vancouver",
+      "venue_name": "BC Place Vancouver",
+      "city": "Vancouver",
+      "country": "Canada",
+      "home_team_code": "NZL",
+      "away_team_code": "EGY",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021480",
+        "https://www.sportsmole.co.uk/football/new-zealand/world-cup-2026/preview/new-zealand-vs-egypt-prediction-team-news-lineups_599606.html",
+        "https://www.rotowire.com/soccer/article/new-zealand-vs-egypt-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118938",
+        "https://www.climatecentral.org/world-cup-2026/matches/40",
+        "https://inside.fifa.com/fifa-world-ranking/NZL?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
     }
   ]
 }

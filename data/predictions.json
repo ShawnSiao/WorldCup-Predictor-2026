@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-20",
+    "snapshot_date": "2026-06-21",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-20T16:45:00+08:00"
+    "source_snapshot_at": "2026-06-21T16:30:00+08:00"
   },
   "predictions": [
     {
@@ -1204,6 +1204,158 @@
       "published_at": "2026-06-21T00:00:00+08:00",
       "updated_at": "2026-06-20T16:45:00+08:00",
       "source_snapshot_at": "2026-06-20T16:45:00+08:00"
+    },
+    {
+      "match_id": "037",
+      "prediction_file": "predictions/match-037-uru-cpv.md",
+      "prediction_file_zh": "predictions/match-037-uru-cpv.zh-CN.md",
+      "lead_image_file": "assets/cards/match-037-uru-cpv-lead.png",
+      "image_file": "assets/cards/match-037-uru-cpv.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "URU",
+      "predicted_score": "1-0",
+      "home_win_probability": 0.54,
+      "draw_probability": 0.29,
+      "away_win_probability": 0.17,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-0",
+          "probability": 0.13,
+          "rationale": "Uruguay's set-piece and late box pressure eventually break a compact Cape Verde block."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-0",
+          "probability": 0.1,
+          "rationale": "Cape Verde repeat the Spain-style low block and Vozinha keeps the chance quality down."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.1,
+          "rationale": "An early Uruguay goal forces Cape Verde to open up and creates a second-goal route."
+        }
+      ],
+      "published_at": "2026-06-22T00:00:00+08:00",
+      "updated_at": "2026-06-21T16:30:00+08:00",
+      "source_snapshot_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "038",
+      "prediction_file": "predictions/match-038-esp-ksa.md",
+      "prediction_file_zh": "predictions/match-038-esp-ksa.zh-CN.md",
+      "lead_image_file": "assets/cards/match-038-esp-ksa-lead.png",
+      "image_file": "assets/cards/match-038-esp-ksa.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "ESP",
+      "predicted_score": "3-0",
+      "home_win_probability": 0.76,
+      "draw_probability": 0.16,
+      "away_win_probability": 0.08,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "3-0",
+          "probability": 0.16,
+          "rationale": "Spain turn pressure, width, and Yamal-driven creation into a multi-goal response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.07,
+          "rationale": "Saudi Arabia's low block and heat slow Spain, with one transition or set piece enough to level."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.14,
+          "rationale": "Spain control territory but finishing remains moderate and the second goal arrives late."
+        }
+      ],
+      "published_at": "2026-06-22T00:00:00+08:00",
+      "updated_at": "2026-06-21T16:30:00+08:00",
+      "source_snapshot_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "039",
+      "prediction_file": "predictions/match-039-bel-irn.md",
+      "prediction_file_zh": "predictions/match-039-bel-irn.zh-CN.md",
+      "lead_image_file": "assets/cards/match-039-bel-irn-lead.png",
+      "image_file": "assets/cards/match-039-bel-irn.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "BEL",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.55,
+      "draw_probability": 0.26,
+      "away_win_probability": 0.19,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.13,
+          "rationale": "Belgium's De Bruyne/Lukaku route edges the match, but Iran's Taremi path can still score."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Doku's absence and Iran's slow defensive rhythm keep Belgium from separating."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.09,
+          "rationale": "Belgium score first and Iran's disrupted recovery limits the response."
+        }
+      ],
+      "published_at": "2026-06-22T00:00:00+08:00",
+      "updated_at": "2026-06-21T16:30:00+08:00",
+      "source_snapshot_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "040",
+      "prediction_file": "predictions/match-040-nzl-egy.md",
+      "prediction_file_zh": "predictions/match-040-nzl-egy.zh-CN.md",
+      "lead_image_file": "assets/cards/match-040-nzl-egy-lead.png",
+      "image_file": "assets/cards/match-040-nzl-egy.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "EGY",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.22,
+      "draw_probability": 0.29,
+      "away_win_probability": 0.49,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "Salah and Marmoush quality break New Zealand's block, but Wood keeps a scoring route alive."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "New Zealand's set pieces and compact shape frustrate Egypt's finishing."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.09,
+          "rationale": "Egypt score first and manage New Zealand's aerial route without conceding."
+        }
+      ],
+      "published_at": "2026-06-22T00:00:00+08:00",
+      "updated_at": "2026-06-21T16:30:00+08:00",
+      "source_snapshot_at": "2026-06-21T16:30:00+08:00"
     }
   ]
 }

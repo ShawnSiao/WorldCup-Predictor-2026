@@ -13,26 +13,26 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-20 |
+| Data snapshot | 2026-06-21 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 36 |
-| Predictions published | 36 |
-| Final results tracked | 32 |
-| Post-match reviews published | 32 |
+| Tracked matches in repository | 40 |
+| Predictions published | 40 |
+| Final results tracked | 36 |
+| Post-match reviews published | 36 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Netherlands vs Sweden | Group F | 2026-06-20 17:00 UTC / 2026-06-21 01:00 China time | Houston Stadium | [Draw, 2-2](predictions/match-035-ned-swe.md) / [简体中文](predictions/match-035-ned-swe.zh-CN.md) |
-| Germany vs Cote d'Ivoire | Group E | 2026-06-20 20:00 UTC / 2026-06-21 04:00 China time | Toronto Stadium | [Germany win, 2-1](predictions/match-033-ger-civ.md) / [简体中文](predictions/match-033-ger-civ.zh-CN.md) |
-| Ecuador vs Curacao | Group E | 2026-06-21 00:00 UTC / 2026-06-21 08:00 China time | Kansas City Stadium | [Ecuador win, 2-0](predictions/match-034-ecu-cuw.md) / [简体中文](predictions/match-034-ecu-cuw.zh-CN.md) |
-| Tunisia vs Japan | Group F | 2026-06-21 04:00 UTC / 2026-06-21 12:00 China time | Monterrey Stadium | [Japan win, 0-2](predictions/match-036-tun-jpn.md) / [简体中文](predictions/match-036-tun-jpn.zh-CN.md) |
+| Spain vs Saudi Arabia | Group H | 2026-06-21 16:00 UTC / 2026-06-22 00:00 China time | Atlanta Stadium | [Spain win, 3-0](predictions/match-038-esp-ksa.md) / [简体中文](predictions/match-038-esp-ksa.zh-CN.md) |
+| Belgium vs IR Iran | Group G | 2026-06-21 19:00 UTC / 2026-06-22 03:00 China time | Los Angeles Stadium | [Belgium win, 2-1](predictions/match-039-bel-irn.md) / [简体中文](predictions/match-039-bel-irn.zh-CN.md) |
+| Uruguay vs Cape Verde | Group H | 2026-06-21 22:00 UTC / 2026-06-22 06:00 China time | Miami Stadium | [Uruguay win, 1-0](predictions/match-037-uru-cpv.md) / [简体中文](predictions/match-037-uru-cpv.zh-CN.md) |
+| New Zealand vs Egypt | Group G | 2026-06-22 01:00 UTC / 2026-06-22 09:00 China time | BC Place Vancouver | [Egypt win, 1-2](predictions/match-040-nzl-egy.md) / [简体中文](predictions/match-040-nzl-egy.zh-CN.md) |
 
 ## Daily Overview Card
 
-[![China-time 2026-06-21 prediction overview card](assets/cards/daily-2026-06-21-summary.png)](reports/daily/2026-06-21.md)
+[![China-time 2026-06-22 prediction overview card](assets/cards/daily-2026-06-22-summary.png)](reports/daily/2026-06-22.md)
 
 The overview card groups the same China-time date into one share image and links each scoreline scenario to its own rationale.
 
@@ -41,23 +41,23 @@ The overview card groups the same China-time date into one share image and links
 [![Mexico vs South Africa lead prediction image](assets/cards/match-001-mex-rsa-lead.png)](predictions/match-001-mex-rsa.md)
 [![Korea Republic vs Czechia lead prediction image](assets/cards/match-002-kor-cze-lead.png)](predictions/match-002-kor-cze.md)
 [![Canada vs Bosnia and Herzegovina lead prediction image](assets/cards/match-003-can-bih-lead.png)](predictions/match-003-can-bih.md)
-[![USA vs PAR lead prediction image](assets/cards/match-004-usa-par-lead.png)](predictions/match-004-usa-par.md)
-[![HAI vs SCO lead prediction image](assets/cards/match-005-hai-sco-lead.png)](predictions/match-005-hai-sco.md)
-[![AUS vs TUR lead prediction image](assets/cards/match-006-aus-tur-lead.png)](predictions/match-006-aus-tur.md)
-[![BRA vs MAR lead prediction image](assets/cards/match-007-bra-mar-lead.png)](predictions/match-007-bra-mar.md)
+[![USA vs Paraguay lead prediction image](assets/cards/match-004-usa-par-lead.png)](predictions/match-004-usa-par.md)
+[![Haiti vs Scotland lead prediction image](assets/cards/match-005-hai-sco-lead.png)](predictions/match-005-hai-sco.md)
+[![Australia vs Turkiye lead prediction image](assets/cards/match-006-aus-tur-lead.png)](predictions/match-006-aus-tur.md)
+[![Brazil vs Morocco lead prediction image](assets/cards/match-007-bra-mar-lead.png)](predictions/match-007-bra-mar.md)
 [![Qatar vs Switzerland lead prediction image](assets/cards/match-008-qat-sui-lead.png)](predictions/match-008-qat-sui.md)
-[![CIV vs ECU lead prediction image](assets/cards/match-009-civ-ecu-lead.png)](predictions/match-009-civ-ecu.md)
-[![GER vs CUW lead prediction image](assets/cards/match-010-ger-cuw-lead.png)](predictions/match-010-ger-cuw.md)
-[![NED vs JPN lead prediction image](assets/cards/match-011-ned-jpn-lead.png)](predictions/match-011-ned-jpn.md)
-[![SWE vs TUN lead prediction image](assets/cards/match-012-swe-tun-lead.png)](predictions/match-012-swe-tun.md)
-[![KSA vs URU lead prediction image](assets/cards/match-013-ksa-uru-lead.png)](predictions/match-013-ksa-uru.md)
-[![ESP vs CPV lead prediction image](assets/cards/match-014-esp-cpv-lead.png)](predictions/match-014-esp-cpv.md)
-[![IRN vs NZL lead prediction image](assets/cards/match-015-irn-nzl-lead.png)](predictions/match-015-irn-nzl.md)
-[![BEL vs EGY lead prediction image](assets/cards/match-016-bel-egy-lead.png)](predictions/match-016-bel-egy.md)
-[![FRA vs SEN lead prediction image](assets/cards/match-017-fra-sen-lead.png)](predictions/match-017-fra-sen.md)
-[![IRQ vs NOR lead prediction image](assets/cards/match-018-irq-nor-lead.png)](predictions/match-018-irq-nor.md)
-[![ARG vs ALG lead prediction image](assets/cards/match-019-arg-alg-lead.png)](predictions/match-019-arg-alg.md)
-[![AUT vs JOR lead prediction image](assets/cards/match-020-aut-jor-lead.png)](predictions/match-020-aut-jor.md)
+[![Cote d'Ivoire vs Ecuador lead prediction image](assets/cards/match-009-civ-ecu-lead.png)](predictions/match-009-civ-ecu.md)
+[![Germany vs Curacao lead prediction image](assets/cards/match-010-ger-cuw-lead.png)](predictions/match-010-ger-cuw.md)
+[![Netherlands vs Japan lead prediction image](assets/cards/match-011-ned-jpn-lead.png)](predictions/match-011-ned-jpn.md)
+[![Sweden vs Tunisia lead prediction image](assets/cards/match-012-swe-tun-lead.png)](predictions/match-012-swe-tun.md)
+[![Saudi Arabia vs Uruguay lead prediction image](assets/cards/match-013-ksa-uru-lead.png)](predictions/match-013-ksa-uru.md)
+[![Spain vs Cape Verde lead prediction image](assets/cards/match-014-esp-cpv-lead.png)](predictions/match-014-esp-cpv.md)
+[![IR Iran vs New Zealand lead prediction image](assets/cards/match-015-irn-nzl-lead.png)](predictions/match-015-irn-nzl.md)
+[![Belgium vs Egypt lead prediction image](assets/cards/match-016-bel-egy-lead.png)](predictions/match-016-bel-egy.md)
+[![France vs Senegal lead prediction image](assets/cards/match-017-fra-sen-lead.png)](predictions/match-017-fra-sen.md)
+[![Iraq vs Norway lead prediction image](assets/cards/match-018-irq-nor-lead.png)](predictions/match-018-irq-nor.md)
+[![Argentina vs Algeria lead prediction image](assets/cards/match-019-arg-alg-lead.png)](predictions/match-019-arg-alg.md)
+[![Austria vs Jordan lead prediction image](assets/cards/match-020-aut-jor-lead.png)](predictions/match-020-aut-jor.md)
 [![Ghana vs Panama lead prediction image](assets/cards/match-021-gha-pan-lead.png)](predictions/match-021-gha-pan.md)
 [![England vs Croatia lead prediction image](assets/cards/match-022-eng-cro-lead.png)](predictions/match-022-eng-cro.md)
 [![Portugal vs Congo DR lead prediction image](assets/cards/match-023-por-cod-lead.png)](predictions/match-023-por-cod.md)
@@ -66,28 +66,24 @@ The overview card groups the same China-time date into one share image and links
 [![Switzerland vs Bosnia and Herzegovina lead prediction image](assets/cards/match-026-sui-bih-lead.png)](predictions/match-026-sui-bih.md)
 [![Canada vs Qatar lead prediction image](assets/cards/match-027-can-qat-lead.png)](predictions/match-027-can-qat.md)
 [![Mexico vs Korea Republic lead prediction image](assets/cards/match-028-mex-kor-lead.png)](predictions/match-028-mex-kor.md)
-
 [![Brazil vs Haiti lead prediction image](assets/cards/match-029-bra-hai-lead.png)](predictions/match-029-bra-hai.md)
-
 [![Scotland vs Morocco lead prediction image](assets/cards/match-030-sco-mar-lead.png)](predictions/match-030-sco-mar.md)
-
 [![Turkiye vs Paraguay lead prediction image](assets/cards/match-031-tur-par-lead.png)](predictions/match-031-tur-par.md)
-
 [![USA vs Australia lead prediction image](assets/cards/match-032-usa-aus-lead.png)](predictions/match-032-usa-aus.md)
-
 [![Germany vs Cote d'Ivoire lead prediction image](assets/cards/match-033-ger-civ-lead.png)](predictions/match-033-ger-civ.md)
-
 [![Ecuador vs Curacao lead prediction image](assets/cards/match-034-ecu-cuw-lead.png)](predictions/match-034-ecu-cuw.md)
-
 [![Netherlands vs Sweden lead prediction image](assets/cards/match-035-ned-swe-lead.png)](predictions/match-035-ned-swe.md)
-
 [![Tunisia vs Japan lead prediction image](assets/cards/match-036-tun-jpn-lead.png)](predictions/match-036-tun-jpn.md)
+[![Uruguay vs Cape Verde lead prediction image](assets/cards/match-037-uru-cpv-lead.png)](predictions/match-037-uru-cpv.md)
+[![Spain vs Saudi Arabia lead prediction image](assets/cards/match-038-esp-ksa-lead.png)](predictions/match-038-esp-ksa.md)
+[![Belgium vs IR Iran lead prediction image](assets/cards/match-039-bel-irn-lead.png)](predictions/match-039-bel-irn.md)
+[![New Zealand vs Egypt lead prediction image](assets/cards/match-040-nzl-egy-lead.png)](predictions/match-040-nzl-egy.md)
 
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 
 ## Today
 
-Reviews are now complete for all verified finals through Match 032. The next China-time matchday window covers Netherlands vs Sweden, Germany vs Cote d'Ivoire, Ecuador vs Curacao, and Tunisia vs Japan. Calibration keeps early-goal, transition, and set-piece routes visible in every scoreline scenario.
+Reviews are now complete for all verified finals through Match 036. The next China-time matchday window covers Spain vs Saudi Arabia, Belgium vs IR Iran, Uruguay vs Cape Verde, and New Zealand vs Egypt. Calibration now gives more visible weight to goalkeeper overperformance, confirmed absences, heat, and favorite-margin tails.
 
 ## Reasoning Model
 
@@ -97,7 +93,7 @@ The repository publishes concise reasoning summaries only. It does not store hid
 
 ## Platform Announcement Copy
 
-During the World Cup, social-platform posts will explain that the account uses ChatGPT's highest reasoning model for match-by-match football predictions, including outcome lean, projected scoreline, confidence, and key risks. Ready-to-publish English and Simplified Chinese copy is maintained in [Platform Publishing Copy](docs/platform-copy.md).
+During the World Cup, social-platform posts explain that the account uses ChatGPT's highest reasoning model for match-by-match football predictions, including outcome lean, projected scoreline, confidence, and key risks. Ready-to-publish English and Simplified Chinese copy is maintained in [Platform Publishing Copy](docs/platform-copy.md).
 
 ## How The Repository Works
 
@@ -115,9 +111,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 036: Tunisia vs Japan](predictions/match-036-tun-jpn.md)
-- Latest review: [Match 032: USA vs Australia](reviews/match-032-usa-aus.md)
-- Latest daily report: [2026-06-21](reports/daily/2026-06-21.md)
+- Latest prediction: [Match 040: New Zealand vs Egypt](predictions/match-040-nzl-egy.md)
+- Latest review: [Match 036: Tunisia vs Japan](reviews/match-036-tun-jpn.md)
+- Latest daily report: [2026-06-22](reports/daily/2026-06-22.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

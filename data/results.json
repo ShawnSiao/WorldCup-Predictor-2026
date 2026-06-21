@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-20",
-    "tracked_result_count": 32,
+    "snapshot_date": "2026-06-21",
+    "tracked_result_count": 36,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
@@ -75,10 +75,25 @@
       "https://www.sofascore.com/football/match/paraguay-turkiye/aUbsOVb",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021462",
       "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-australia-tickets-live-score-match-hub-lineups-highlights",
-      "https://www.cbssports.com/soccer/news/usmnt-vs-australia-live-updates-world-cup-2026-score-result/live/"
+      "https://www.cbssports.com/soccer/news/usmnt-vs-australia-live-updates-world-cup-2026-score-result/live/",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021469",
+      "https://www.wral.com/news/ap/ef8fa-undav-scores-twice-saves-germany-with-2-1-world-cup-win-over-ivory-coast/",
+      "https://www.espn.com/soccer/story/_/id/49129600/germany-ivory-coast-2026-fifa-world-cup-deniz-undav",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021465",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ecuador-curacao-match-report-highlights",
+      "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report",
+      "https://www.skysports.com/football/news/29910/13553789/world-cup-2026-ecuador-0-0-curacao-eloy-room-makes-history-with-incredible-15-saves-to-earn-blue-wave-first-ever-point",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021472",
+      "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
+      "https://www.espn.com/soccer/match/_/gameId/760447",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021475",
+      "https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report",
+      "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
+      "https://www.espn.com/soccer/report/_/gameId/760449",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-tunisia-vs-japan-jun-21-2026-game-boxscore-647651"
     ],
-    "last_verified_at": "2026-06-20T14:45:00+08:00",
-    "coverage": "results tracked through Match 032"
+    "last_verified_at": "2026-06-21T16:30:00+08:00",
+    "coverage": "results tracked through Match 036"
   },
   "results": [
     {
@@ -585,6 +600,73 @@
         "https://www.cbssports.com/soccer/news/usmnt-vs-australia-live-updates-world-cup-2026-score-result/live/"
       ],
       "last_verified_at": "2026-06-20T14:45:00+08:00"
+    },
+    {
+      "match_id": "033",
+      "home_team_code": "GER",
+      "away_team_code": "CIV",
+      "home_score": 2,
+      "away_score": 1,
+      "winner_team_code": "GER",
+      "status": "final",
+      "result_label": "Germany 2-1 Cote d'Ivoire",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021469",
+        "https://www.wral.com/news/ap/ef8fa-undav-scores-twice-saves-germany-with-2-1-world-cup-win-over-ivory-coast/",
+        "https://www.espn.com/soccer/story/_/id/49129600/germany-ivory-coast-2026-fifa-world-cup-deniz-undav"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "034",
+      "home_team_code": "ECU",
+      "away_team_code": "CUW",
+      "home_score": 0,
+      "away_score": 0,
+      "winner_team_code": null,
+      "status": "final",
+      "result_label": "Ecuador 0-0 Curacao",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021465",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ecuador-curacao-match-report-highlights",
+        "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report",
+        "https://www.skysports.com/football/news/29910/13553789/world-cup-2026-ecuador-0-0-curacao-eloy-room-makes-history-with-incredible-15-saves-to-earn-blue-wave-first-ever-point"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "035",
+      "home_team_code": "NED",
+      "away_team_code": "SWE",
+      "home_score": 5,
+      "away_score": 1,
+      "winner_team_code": "NED",
+      "status": "final",
+      "result_label": "Netherlands 5-1 Sweden",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021472",
+        "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
+        "https://www.espn.com/soccer/match/_/gameId/760447"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "036",
+      "home_team_code": "TUN",
+      "away_team_code": "JPN",
+      "home_score": 0,
+      "away_score": 4,
+      "winner_team_code": "JPN",
+      "status": "final",
+      "result_label": "Tunisia 0-4 Japan",
+      "source_urls": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021475",
+        "https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report",
+        "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
+        "https://www.espn.com/soccer/report/_/gameId/760449",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-tunisia-vs-japan-jun-21-2026-game-boxscore-647651"
+      ],
+      "last_verified_at": "2026-06-21T16:30:00+08:00"
     }
   ]
 }
