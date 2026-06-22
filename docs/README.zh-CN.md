@@ -8,26 +8,26 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-21 |
+| 数据快照 | 2026-06-22 |
 | 赛事窗口 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已跟踪比赛 | 40 |
-| 已发布预测 | 40 |
-| 已跟踪完赛结果 | 36 |
-| 已发布赛后复盘 | 36 |
+| 仓库已跟踪比赛 | 44 |
+| 已发布预测 | 44 |
+| 已跟踪完赛结果 | 40 |
+| 已发布赛后复盘 | 40 |
 
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 西班牙 vs 沙特阿拉伯 | Group H | 2026-06-21 16:00 UTC / 2026-06-22 00:00 China time | Atlanta Stadium | [西班牙胜，3-0](../predictions/match-038-esp-ksa.zh-CN.md) / [English](../predictions/match-038-esp-ksa.md) |
-| 比利时 vs 伊朗 | Group G | 2026-06-21 19:00 UTC / 2026-06-22 03:00 China time | Los Angeles Stadium | [比利时胜，2-1](../predictions/match-039-bel-irn.zh-CN.md) / [English](../predictions/match-039-bel-irn.md) |
-| 乌拉圭 vs 佛得角 | Group H | 2026-06-21 22:00 UTC / 2026-06-22 06:00 China time | Miami Stadium | [乌拉圭胜，1-0](../predictions/match-037-uru-cpv.zh-CN.md) / [English](../predictions/match-037-uru-cpv.md) |
-| 新西兰 vs 埃及 | Group G | 2026-06-22 01:00 UTC / 2026-06-22 09:00 China time | BC Place Vancouver | [埃及胜，1-2](../predictions/match-040-nzl-egy.zh-CN.md) / [English](../predictions/match-040-nzl-egy.md) |
+| 阿根廷 vs 奥地利 | Group J | 2026-06-22 17:00 UTC / 2026-06-23 01:00 China time | Dallas Stadium | [阿根廷胜，2-1](../predictions/match-043-arg-aut.zh-CN.md) / [English](../predictions/match-043-arg-aut.md) |
+| 法国 vs 伊拉克 | Group I | 2026-06-22 21:00 UTC / 2026-06-23 05:00 China time | Philadelphia Stadium | [法国胜，3-0](../predictions/match-042-fra-irq.zh-CN.md) / [English](../predictions/match-042-fra-irq.md) |
+| 挪威 vs 塞内加尔 | Group I | 2026-06-23 00:00 UTC / 2026-06-23 08:00 China time | New York New Jersey Stadium | [平局，2-2](../predictions/match-041-nor-sen.zh-CN.md) / [English](../predictions/match-041-nor-sen.md) |
+| 约旦 vs 阿尔及利亚 | Group J | 2026-06-23 03:00 UTC / 2026-06-23 11:00 China time | San Francisco Bay Area Stadium | [阿尔及利亚胜，1-2](../predictions/match-044-jor-alg.zh-CN.md) / [English](../predictions/match-044-jor-alg.md) |
 
 ## 每日总览图
 
-[![中国时间 2026-06-22 预测总览图](../assets/cards/daily-2026-06-22-summary.png)](../reports/daily/2026-06-22.zh-CN.md)
+[![中国时间 2026-06-23 预测总览图](../assets/cards/daily-2026-06-23-summary.png)](../reports/daily/2026-06-23.zh-CN.md)
 
 总览图把同一中国时间日期的比赛集中到一张分享图，并把每条比分情景对应到独立理由。
 
@@ -73,12 +73,16 @@
 [![西班牙 vs 沙特阿拉伯 预测首图](../assets/cards/match-038-esp-ksa-lead.png)](../predictions/match-038-esp-ksa.zh-CN.md)
 [![比利时 vs 伊朗 预测首图](../assets/cards/match-039-bel-irn-lead.png)](../predictions/match-039-bel-irn.zh-CN.md)
 [![新西兰 vs 埃及 预测首图](../assets/cards/match-040-nzl-egy-lead.png)](../predictions/match-040-nzl-egy.zh-CN.md)
+[![挪威 vs 塞内加尔 预测首图](../assets/cards/match-041-nor-sen-lead.png)](../predictions/match-041-nor-sen.zh-CN.md)
+[![法国 vs 伊拉克 预测首图](../assets/cards/match-042-fra-irq-lead.png)](../predictions/match-042-fra-irq.zh-CN.md)
+[![阿根廷 vs 奥地利 预测首图](../assets/cards/match-043-arg-aut-lead.png)](../predictions/match-043-arg-aut.zh-CN.md)
+[![约旦 vs 阿尔及利亚 预测首图](../assets/cards/match-044-jor-alg-lead.png)](../predictions/match-044-jor-alg.zh-CN.md)
 
 分享图片位于 [`assets/cards/`](../assets/cards/)。每场预测先嵌入不含赛果暗示的首图，再嵌入结果预测配图。
 
 ## 今日状态
 
-截至第 036 场，所有已核验完赛结果都已完成复盘。下一组中国时间比赛包括西班牙 vs 沙特阿拉伯、比利时 vs 伊朗、乌拉圭 vs 佛得角、新西兰 vs 埃及。校准上调门将超常表现、确认缺阵、高温和热门大比分尾部的情景权重。
+截至第 040 场，所有已核验完赛结果都已完成复盘。下一组中国时间比赛包括阿根廷 vs 奥地利、法国 vs 伊拉克、挪威 vs 塞内加尔、约旦 vs 阿尔及利亚。校准上调有进球平局、紧凑弱势方、确认缺少创造点和热门后段扩大分差的情景权重。
 
 ## 推理模型
 
@@ -106,9 +110,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 040 场：新西兰 vs 埃及](../predictions/match-040-nzl-egy.zh-CN.md)
-- 最新复盘：[第 036 场：突尼斯 vs 日本](../reviews/match-036-tun-jpn.zh-CN.md)
-- 最新日报：[2026-06-22](../reports/daily/2026-06-22.zh-CN.md)
+- 最新预测：[第 044 场：约旦 vs 阿尔及利亚](../predictions/match-044-jor-alg.zh-CN.md)
+- 最新复盘：[第 040 场：新西兰 vs 埃及](../reviews/match-040-nzl-egy.zh-CN.md)
+- 最新日报：[2026-06-23](../reports/daily/2026-06-23.zh-CN.md)
 - 方法论：[Prediction and review methodology](methodology.md) / [简体中文](methodology.zh-CN.md)
 - 校准：[Prediction calibration](prediction-calibration.md) / [简体中文](prediction-calibration.zh-CN.md)
 - 数据结构：[Repository data schema](data-schema.md) / [简体中文](data-schema.zh-CN.md)

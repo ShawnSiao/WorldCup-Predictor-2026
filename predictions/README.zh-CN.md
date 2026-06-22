@@ -46,3 +46,7 @@
 | 038 | 西班牙 vs 沙特阿拉伯 | 西班牙胜，3-0 | [中文](match-038-esp-ksa.zh-CN.md) / [English](../predictions/match-038-esp-ksa.md) |
 | 039 | 比利时 vs 伊朗 | 比利时胜，2-1 | [中文](match-039-bel-irn.zh-CN.md) / [English](../predictions/match-039-bel-irn.md) |
 | 040 | 新西兰 vs 埃及 | 埃及胜，1-2 | [中文](match-040-nzl-egy.zh-CN.md) / [English](../predictions/match-040-nzl-egy.md) |
+| 041 | 挪威 vs 塞内加尔 | 平局，2-2 | [中文](match-041-nor-sen.zh-CN.md) / [English](../predictions/match-041-nor-sen.md) |
+| 042 | 法国 vs 伊拉克 | 法国胜，3-0 | [中文](match-042-fra-irq.zh-CN.md) / [English](../predictions/match-042-fra-irq.md) |
+| 043 | 阿根廷 vs 奥地利 | 阿根廷胜，2-1 | [中文](match-043-arg-aut.zh-CN.md) / [English](../predictions/match-043-arg-aut.md) |
+| 044 | 约旦 vs 阿尔及利亚 | 阿尔及利亚胜，1-2 | [中文](match-044-jor-alg.zh-CN.md) / [English](../predictions/match-044-jor-alg.md) |

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-21",
-    "tracked_review_count": 36,
-    "last_verified_at": "2026-06-21T16:30:00+08:00"
+    "snapshot_date": "2026-06-22",
+    "tracked_review_count": 40,
+    "last_verified_at": "2026-06-22T15:01:00+08:00"
   },
   "reviews": [
     {
@@ -436,6 +436,54 @@
       "actual_score": "0-4",
       "published_at": "2026-06-21T16:30:00+08:00",
       "source_snapshot_at": "2026-06-21T16:30:00+08:00"
+    },
+    {
+      "match_id": "037",
+      "review_file": "reviews/match-037-uru-cpv.md",
+      "review_file_zh": "reviews/match-037-uru-cpv.zh-CN.md",
+      "review_rating": "wrong",
+      "predicted_winner": "URU",
+      "actual_winner": null,
+      "predicted_score": "1-0",
+      "actual_score": "2-2",
+      "published_at": "2026-06-22T15:01:00+08:00",
+      "source_snapshot_at": "2026-06-22T15:01:00+08:00"
+    },
+    {
+      "match_id": "038",
+      "review_file": "reviews/match-038-esp-ksa.md",
+      "review_file_zh": "reviews/match-038-esp-ksa.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": "ESP",
+      "actual_winner": "ESP",
+      "predicted_score": "3-0",
+      "actual_score": "4-0",
+      "published_at": "2026-06-22T15:01:00+08:00",
+      "source_snapshot_at": "2026-06-22T15:01:00+08:00"
+    },
+    {
+      "match_id": "039",
+      "review_file": "reviews/match-039-bel-irn.md",
+      "review_file_zh": "reviews/match-039-bel-irn.zh-CN.md",
+      "review_rating": "wrong",
+      "predicted_winner": "BEL",
+      "actual_winner": null,
+      "predicted_score": "2-1",
+      "actual_score": "0-0",
+      "published_at": "2026-06-22T15:01:00+08:00",
+      "source_snapshot_at": "2026-06-22T15:01:00+08:00"
+    },
+    {
+      "match_id": "040",
+      "review_file": "reviews/match-040-nzl-egy.md",
+      "review_file_zh": "reviews/match-040-nzl-egy.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "EGY",
+      "actual_winner": "EGY",
+      "predicted_score": "1-2",
+      "actual_score": "1-3",
+      "published_at": "2026-06-22T15:01:00+08:00",
+      "source_snapshot_at": "2026-06-22T15:01:00+08:00"
     }
   ]
 }

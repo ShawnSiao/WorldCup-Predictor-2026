@@ -13,26 +13,26 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-21 |
+| Data snapshot | 2026-06-22 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 40 |
-| Predictions published | 40 |
-| Final results tracked | 36 |
-| Post-match reviews published | 36 |
+| Tracked matches in repository | 44 |
+| Predictions published | 44 |
+| Final results tracked | 40 |
+| Post-match reviews published | 40 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Spain vs Saudi Arabia | Group H | 2026-06-21 16:00 UTC / 2026-06-22 00:00 China time | Atlanta Stadium | [Spain win, 3-0](predictions/match-038-esp-ksa.md) / [简体中文](predictions/match-038-esp-ksa.zh-CN.md) |
-| Belgium vs IR Iran | Group G | 2026-06-21 19:00 UTC / 2026-06-22 03:00 China time | Los Angeles Stadium | [Belgium win, 2-1](predictions/match-039-bel-irn.md) / [简体中文](predictions/match-039-bel-irn.zh-CN.md) |
-| Uruguay vs Cape Verde | Group H | 2026-06-21 22:00 UTC / 2026-06-22 06:00 China time | Miami Stadium | [Uruguay win, 1-0](predictions/match-037-uru-cpv.md) / [简体中文](predictions/match-037-uru-cpv.zh-CN.md) |
-| New Zealand vs Egypt | Group G | 2026-06-22 01:00 UTC / 2026-06-22 09:00 China time | BC Place Vancouver | [Egypt win, 1-2](predictions/match-040-nzl-egy.md) / [简体中文](predictions/match-040-nzl-egy.zh-CN.md) |
+| Argentina vs Austria | Group J | 2026-06-22 17:00 UTC / 2026-06-23 01:00 China time | Dallas Stadium | [Argentina win, 2-1](predictions/match-043-arg-aut.md) / [简体中文](predictions/match-043-arg-aut.zh-CN.md) |
+| France vs Iraq | Group I | 2026-06-22 21:00 UTC / 2026-06-23 05:00 China time | Philadelphia Stadium | [France win, 3-0](predictions/match-042-fra-irq.md) / [简体中文](predictions/match-042-fra-irq.zh-CN.md) |
+| Norway vs Senegal | Group I | 2026-06-23 00:00 UTC / 2026-06-23 08:00 China time | New York New Jersey Stadium | [Draw, 2-2](predictions/match-041-nor-sen.md) / [简体中文](predictions/match-041-nor-sen.zh-CN.md) |
+| Jordan vs Algeria | Group J | 2026-06-23 03:00 UTC / 2026-06-23 11:00 China time | San Francisco Bay Area Stadium | [Algeria win, 1-2](predictions/match-044-jor-alg.md) / [简体中文](predictions/match-044-jor-alg.zh-CN.md) |
 
 ## Daily Overview Card
 
-[![China-time 2026-06-22 prediction overview card](assets/cards/daily-2026-06-22-summary.png)](reports/daily/2026-06-22.md)
+[![China-time 2026-06-23 prediction overview card](assets/cards/daily-2026-06-23-summary.png)](reports/daily/2026-06-23.md)
 
 The overview card groups the same China-time date into one share image and links each scoreline scenario to its own rationale.
 
@@ -78,12 +78,16 @@ The overview card groups the same China-time date into one share image and links
 [![Spain vs Saudi Arabia lead prediction image](assets/cards/match-038-esp-ksa-lead.png)](predictions/match-038-esp-ksa.md)
 [![Belgium vs IR Iran lead prediction image](assets/cards/match-039-bel-irn-lead.png)](predictions/match-039-bel-irn.md)
 [![New Zealand vs Egypt lead prediction image](assets/cards/match-040-nzl-egy-lead.png)](predictions/match-040-nzl-egy.md)
+[![Norway vs Senegal lead prediction image](assets/cards/match-041-nor-sen-lead.png)](predictions/match-041-nor-sen.md)
+[![France vs Iraq lead prediction image](assets/cards/match-042-fra-irq-lead.png)](predictions/match-042-fra-irq.md)
+[![Argentina vs Austria lead prediction image](assets/cards/match-043-arg-aut-lead.png)](predictions/match-043-arg-aut.md)
+[![Jordan vs Algeria lead prediction image](assets/cards/match-044-jor-alg-lead.png)](predictions/match-044-jor-alg.md)
 
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 
 ## Today
 
-Reviews are now complete for all verified finals through Match 036. The next China-time matchday window covers Spain vs Saudi Arabia, Belgium vs IR Iran, Uruguay vs Cape Verde, and New Zealand vs Egypt. Calibration now gives more visible weight to goalkeeper overperformance, confirmed absences, heat, and favorite-margin tails.
+Reviews are now complete for all verified finals through Match 040. The next China-time matchday window covers Argentina vs Austria, France vs Iraq, Norway vs Senegal, and Jordan vs Algeria. Calibration now gives more visible weight to scoring draws, compact underdogs, confirmed creative absences, and late favorite-margin tails.
 
 ## Reasoning Model
 
@@ -111,9 +115,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 040: New Zealand vs Egypt](predictions/match-040-nzl-egy.md)
-- Latest review: [Match 036: Tunisia vs Japan](reviews/match-036-tun-jpn.md)
-- Latest daily report: [2026-06-22](reports/daily/2026-06-22.md)
+- Latest prediction: [Match 044: Jordan vs Algeria](predictions/match-044-jor-alg.md)
+- Latest review: [Match 040: New Zealand vs Egypt](reviews/match-040-nzl-egy.md)
+- Latest daily report: [2026-06-23](reports/daily/2026-06-23.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-21",
-    "coverage": "opening matchday window through Match 040",
+    "snapshot_date": "2026-06-22",
+    "coverage": "opening matchday window through Match 044",
     "official_match_count": 104,
-    "tracked_match_count": 40,
+    "tracked_match_count": 44,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -123,9 +123,34 @@
       "https://www.rotowire.com/soccer/article/new-zealand-vs-egypt-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118938",
       "https://www.climatecentral.org/world-cup-2026/matches/40",
       "https://inside.fifa.com/fifa-world-ranking/NZL?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-uruguay-vs-cape-verde-jun-21-2026-game-boxscore-647654",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-spain-vs-saudi-arabia-jun-21-2026-game-boxscore-647652",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-belgium-vs-iran-jun-21-2026-game-boxscore-647653",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-new-zealand-vs-egypt-jun-21-2026-game-boxscore-647655",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-norway-vs-senegal-jun-22-2026-game-boxscore-647656",
+      "https://www.sportsmole.co.uk/football/norway/world-cup-2026/preview/norway-vs-senegal-prediction-team-news-lineups_599682.html",
+      "https://www.climatecentral.org/world-cup-2026/matches/41",
+      "https://inside.fifa.com/fifa-world-ranking/NOR?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/SEN?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021492",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-france-vs-iraq-jun-22-2026-game-boxscore-647657",
+      "https://www.sportsmole.co.uk/football/france/world-cup-2026/preview/france-vs-iraq-prediction-team-news-lineups_599679.html",
+      "https://www.climatecentral.org/world-cup-2026/matches/42",
+      "https://inside.fifa.com/fifa-world-ranking/FRA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-argentina-vs-austria-jun-22-2026-game-boxscore-647658",
+      "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/preview/argentina-vs-austria-prediction-team-news-lineups_599672.html",
+      "https://www.climatecentral.org/world-cup-2026/matches/43",
+      "https://inside.fifa.com/fifa-world-ranking/ARG?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/AUT?gender=men",
+      "https://www.foxsports.com/soccer/fifa-world-cup-men-jordan-vs-algeria-jun-22-2026-game-boxscore-647659",
+      "https://www.sportsmole.co.uk/football/jordan/world-cup-2026/preview/jordan-vs-algeria-prediction-team-news-lineups_599675.html",
+      "https://www.climatecentral.org/world-cup-2026/matches/44",
+      "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men"
     ],
-    "last_verified_at": "2026-06-21T16:30:00+08:00"
+    "last_verified_at": "2026-06-22T15:01:00+08:00"
   },
   "matches": [
     {
@@ -1057,16 +1082,17 @@
       "country": "United States",
       "home_team_code": "URU",
       "away_team_code": "CPV",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021487",
         "https://www.sportsmole.co.uk/football/uruguay/world-cup-2026/preview/uruguay-vs-cape-verde-prediction-team-news-lineups_599604.html",
         "https://www.rotowire.com/soccer/article/uruguay-vs-cape-verde-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-h-118935",
         "https://www.climatecentral.org/world-cup-2026/matches/37",
         "https://inside.fifa.com/fifa-world-ranking/URU?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/CPV?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/CPV?gender=men",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-uruguay-vs-cape-verde-jun-21-2026-game-boxscore-647654"
       ],
-      "last_verified_at": "2026-06-21T16:30:00+08:00"
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
     },
     {
       "match_id": "038",
@@ -1081,7 +1107,7 @@
       "country": "United States",
       "home_team_code": "ESP",
       "away_team_code": "KSA",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021483",
         "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/spain-vs-saudi-arabia-prediction-team-news-lineups_599589.html",
@@ -1090,9 +1116,10 @@
         "https://www.theguardian.com/football/2026/jun/21/stung-spain-have-digested-shock-start-but-know-repeat-is-not-an-option",
         "https://www.climatecentral.org/world-cup-2026/matches/38",
         "https://inside.fifa.com/fifa-world-ranking/ESP?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/KSA?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/KSA?gender=men",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-spain-vs-saudi-arabia-jun-21-2026-game-boxscore-647652"
       ],
-      "last_verified_at": "2026-06-21T16:30:00+08:00"
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
     },
     {
       "match_id": "039",
@@ -1107,7 +1134,7 @@
       "country": "United States",
       "home_team_code": "BEL",
       "away_team_code": "IRN",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021477",
         "https://www.rotowire.com/soccer/article/belgium-vs-iran-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118933",
@@ -1117,9 +1144,10 @@
         "https://www.theguardian.com/football/2026/jun/19/iran-lodge-complaint-fifa-restrictions-world-cup",
         "https://www.climatecentral.org/world-cup-2026/matches/39",
         "https://inside.fifa.com/fifa-world-ranking/BEL?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/IRN?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/IRN?gender=men",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-belgium-vs-iran-jun-21-2026-game-boxscore-647653"
       ],
-      "last_verified_at": "2026-06-21T16:30:00+08:00"
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
     },
     {
       "match_id": "040",
@@ -1134,16 +1162,114 @@
       "country": "Canada",
       "home_team_code": "NZL",
       "away_team_code": "EGY",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021480",
         "https://www.sportsmole.co.uk/football/new-zealand/world-cup-2026/preview/new-zealand-vs-egypt-prediction-team-news-lineups_599606.html",
         "https://www.rotowire.com/soccer/article/new-zealand-vs-egypt-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-g-118938",
         "https://www.climatecentral.org/world-cup-2026/matches/40",
         "https://inside.fifa.com/fifa-world-ranking/NZL?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/EGY?gender=men",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-new-zealand-vs-egypt-jun-21-2026-game-boxscore-647655"
       ],
-      "last_verified_at": "2026-06-21T16:30:00+08:00"
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
+    },
+    {
+      "match_id": "041",
+      "stage": "Group I",
+      "group": "I",
+      "kickoff_utc": "2026-06-23T00:00:00Z",
+      "kickoff_local": "2026-06-22T20:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "new-york-new-jersey-stadium",
+      "venue_name": "New York New Jersey Stadium",
+      "city": "New York/New Jersey",
+      "country": "United States",
+      "home_team_code": "NOR",
+      "away_team_code": "SEN",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-norway-vs-senegal-jun-22-2026-game-boxscore-647656",
+        "https://www.sportsmole.co.uk/football/norway/world-cup-2026/preview/norway-vs-senegal-prediction-team-news-lineups_599682.html",
+        "https://www.climatecentral.org/world-cup-2026/matches/41",
+        "https://inside.fifa.com/fifa-world-ranking/NOR?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/SEN?gender=men"
+      ],
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
+    },
+    {
+      "match_id": "042",
+      "stage": "Group I",
+      "group": "I",
+      "kickoff_utc": "2026-06-22T21:00:00Z",
+      "kickoff_local": "2026-06-22T17:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "philadelphia-stadium",
+      "venue_name": "Philadelphia Stadium",
+      "city": "Philadelphia",
+      "country": "United States",
+      "home_team_code": "FRA",
+      "away_team_code": "IRQ",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021492",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-france-vs-iraq-jun-22-2026-game-boxscore-647657",
+        "https://www.sportsmole.co.uk/football/france/world-cup-2026/preview/france-vs-iraq-prediction-team-news-lineups_599679.html",
+        "https://www.climatecentral.org/world-cup-2026/matches/42",
+        "https://inside.fifa.com/fifa-world-ranking/FRA?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/IRQ?gender=men"
+      ],
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
+    },
+    {
+      "match_id": "043",
+      "stage": "Group J",
+      "group": "J",
+      "kickoff_utc": "2026-06-22T17:00:00Z",
+      "kickoff_local": "2026-06-22T12:00:00-05:00",
+      "timezone": "America/Chicago",
+      "venue_id": "dallas-stadium",
+      "venue_name": "Dallas Stadium",
+      "city": "Dallas",
+      "country": "United States",
+      "home_team_code": "ARG",
+      "away_team_code": "AUT",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-argentina-vs-austria-jun-22-2026-game-boxscore-647658",
+        "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/preview/argentina-vs-austria-prediction-team-news-lineups_599672.html",
+        "https://www.climatecentral.org/world-cup-2026/matches/43",
+        "https://inside.fifa.com/fifa-world-ranking/ARG?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/AUT?gender=men"
+      ],
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
+    },
+    {
+      "match_id": "044",
+      "stage": "Group J",
+      "group": "J",
+      "kickoff_utc": "2026-06-23T03:00:00Z",
+      "kickoff_local": "2026-06-22T20:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "venue_id": "san-francisco-bay-area-stadium",
+      "venue_name": "San Francisco Bay Area Stadium",
+      "city": "San Francisco Bay Area",
+      "country": "United States",
+      "home_team_code": "JOR",
+      "away_team_code": "ALG",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.foxsports.com/soccer/fifa-world-cup-men-jordan-vs-algeria-jun-22-2026-game-boxscore-647659",
+        "https://www.sportsmole.co.uk/football/jordan/world-cup-2026/preview/jordan-vs-algeria-prediction-team-news-lineups_599675.html",
+        "https://www.climatecentral.org/world-cup-2026/matches/44",
+        "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men"
+      ],
+      "last_verified_at": "2026-06-22T15:01:00+08:00"
     }
   ]
 }

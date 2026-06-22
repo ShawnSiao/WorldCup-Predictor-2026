@@ -46,3 +46,7 @@ All predictions use ChatGPT 5.5 ultra-high reasoning. Each match includes a fixt
 | 038 | Spain vs Saudi Arabia | Spain win, 3-0 | [Prediction](../predictions/match-038-esp-ksa.md) / [简体中文](../predictions/match-038-esp-ksa.zh-CN.md) |
 | 039 | Belgium vs IR Iran | Belgium win, 2-1 | [Prediction](../predictions/match-039-bel-irn.md) / [简体中文](../predictions/match-039-bel-irn.zh-CN.md) |
 | 040 | New Zealand vs Egypt | Egypt win, 1-2 | [Prediction](../predictions/match-040-nzl-egy.md) / [简体中文](../predictions/match-040-nzl-egy.zh-CN.md) |
+| 041 | Norway vs Senegal | Draw, 2-2 | [Prediction](../predictions/match-041-nor-sen.md) / [简体中文](../predictions/match-041-nor-sen.zh-CN.md) |
+| 042 | France vs Iraq | France win, 3-0 | [Prediction](../predictions/match-042-fra-irq.md) / [简体中文](../predictions/match-042-fra-irq.zh-CN.md) |
+| 043 | Argentina vs Austria | Argentina win, 2-1 | [Prediction](../predictions/match-043-arg-aut.md) / [简体中文](../predictions/match-043-arg-aut.zh-CN.md) |
+| 044 | Jordan vs Algeria | Algeria win, 1-2 | [Prediction](../predictions/match-044-jor-alg.md) / [简体中文](../predictions/match-044-jor-alg.zh-CN.md) |

@@ -42,3 +42,7 @@
 | 034 | 厄瓜多尔 vs 库拉索 | 厄瓜多尔 0-0 库拉索 | wrong | [中文](../reviews/match-034-ecu-cuw.zh-CN.md) / [English](../reviews/match-034-ecu-cuw.md) |
 | 035 | 荷兰 vs 瑞典 | 荷兰 5-1 瑞典 | wrong | [中文](../reviews/match-035-ned-swe.zh-CN.md) / [English](../reviews/match-035-ned-swe.md) |
 | 036 | 突尼斯 vs 日本 | 突尼斯 0-4 日本 | partial | [中文](../reviews/match-036-tun-jpn.zh-CN.md) / [English](../reviews/match-036-tun-jpn.md) |
+| 037 | 乌拉圭 vs 佛得角 | 乌拉圭 2-2 佛得角 | wrong | [中文](../reviews/match-037-uru-cpv.zh-CN.md) / [English](../reviews/match-037-uru-cpv.md) |
+| 038 | 西班牙 vs 沙特阿拉伯 | 西班牙 4-0 沙特阿拉伯 | correct | [中文](../reviews/match-038-esp-ksa.zh-CN.md) / [English](../reviews/match-038-esp-ksa.md) |
+| 039 | 比利时 vs 伊朗 | 比利时 0-0 伊朗 | wrong | [中文](../reviews/match-039-bel-irn.zh-CN.md) / [English](../reviews/match-039-bel-irn.md) |
+| 040 | 新西兰 vs 埃及 | 新西兰 1-3 埃及 | partial | [中文](../reviews/match-040-nzl-egy.zh-CN.md) / [English](../reviews/match-040-nzl-egy.md) |
