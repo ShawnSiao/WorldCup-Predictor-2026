@@ -50,3 +50,7 @@
 | 042 | 法国 vs 伊拉克 | 法国胜，3-0 | [中文](match-042-fra-irq.zh-CN.md) / [English](../predictions/match-042-fra-irq.md) |
 | 043 | 阿根廷 vs 奥地利 | 阿根廷胜，2-1 | [中文](match-043-arg-aut.zh-CN.md) / [English](../predictions/match-043-arg-aut.md) |
 | 044 | 约旦 vs 阿尔及利亚 | 阿尔及利亚胜，1-2 | [中文](match-044-jor-alg.zh-CN.md) / [English](../predictions/match-044-jor-alg.md) |
+| 045 | 英格兰 vs 加纳 | 英格兰胜，2-1 | [中文](match-045-eng-gha.zh-CN.md) / [English](../predictions/match-045-eng-gha.md) |
+| 046 | 巴拿马 vs 克罗地亚 | 克罗地亚胜，1-2 | [中文](match-046-pan-cro.zh-CN.md) / [English](../predictions/match-046-pan-cro.md) |
+| 047 | 葡萄牙 vs 乌兹别克斯坦 | 葡萄牙胜，2-0 | [中文](match-047-por-uzb.zh-CN.md) / [English](../predictions/match-047-por-uzb.md) |
+| 048 | 哥伦比亚 vs 刚果（金） | 哥伦比亚胜，2-1 | [中文](match-048-col-cod.zh-CN.md) / [English](../predictions/match-048-col-cod.md) |

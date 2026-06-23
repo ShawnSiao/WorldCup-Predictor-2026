@@ -50,3 +50,7 @@ All predictions use ChatGPT 5.5 ultra-high reasoning. Each match includes a fixt
 | 042 | France vs Iraq | France win, 3-0 | [Prediction](../predictions/match-042-fra-irq.md) / [简体中文](../predictions/match-042-fra-irq.zh-CN.md) |
 | 043 | Argentina vs Austria | Argentina win, 2-1 | [Prediction](../predictions/match-043-arg-aut.md) / [简体中文](../predictions/match-043-arg-aut.zh-CN.md) |
 | 044 | Jordan vs Algeria | Algeria win, 1-2 | [Prediction](../predictions/match-044-jor-alg.md) / [简体中文](../predictions/match-044-jor-alg.zh-CN.md) |
+| 045 | England vs Ghana | England win, 2-1 | [Prediction](../predictions/match-045-eng-gha.md) / [简体中文](../predictions/match-045-eng-gha.zh-CN.md) |
+| 046 | Panama vs Croatia | Croatia win, 1-2 | [Prediction](../predictions/match-046-pan-cro.md) / [简体中文](../predictions/match-046-pan-cro.zh-CN.md) |
+| 047 | Portugal vs Uzbekistan | Portugal win, 2-0 | [Prediction](../predictions/match-047-por-uzb.md) / [简体中文](../predictions/match-047-por-uzb.zh-CN.md) |
+| 048 | Colombia vs Congo DR | Colombia win, 2-1 | [Prediction](../predictions/match-048-col-cod.md) / [简体中文](../predictions/match-048-col-cod.zh-CN.md) |

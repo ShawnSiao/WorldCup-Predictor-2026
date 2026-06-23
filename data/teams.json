@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-18",
-    "coverage": "teams in the opening matchday window through Match 028",
+    "snapshot_date": "2026-06-23",
+    "coverage": "all 48 qualified teams with Group K/L correction",
     "official_team_count": 48,
     "tracked_team_count": 48,
     "source_urls": [
@@ -13,7 +13,7 @@
       "https://www.roadtrips.com/world-cup/2026-world-cup-schedule/",
       "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-schedule-locations-full-list-of-matchups-groups-dates-times-mexico-opener-copa-rematch/"
     ],
-    "last_verified_at": "2026-06-18T17:05:25+08:00"
+    "last_verified_at": "2026-06-23T21:48:00+08:00"
   },
   "teams": [
     {
@@ -341,14 +341,14 @@
     {
       "team_code": "UZB",
       "name": "Uzbekistan",
-      "group": "M",
+      "group": "K",
       "confederation": "AFC",
       "role": "qualified team"
     },
     {
       "team_code": "COL",
       "name": "Colombia",
-      "group": "M",
+      "group": "K",
       "confederation": "CONMEBOL",
       "role": "qualified team"
     }

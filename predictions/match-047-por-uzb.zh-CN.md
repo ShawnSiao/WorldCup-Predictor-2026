@@ -1,0 +1,127 @@
+---
+match_id: "047"
+match: "葡萄牙 vs 乌兹别克斯坦"
+stage: "K 组"
+kickoff_utc: "2026-06-23T17:00:00Z"
+venue: "Houston Stadium"
+model: "ChatGPT 5.5 ultra-high reasoning"
+published_at: "2026-06-24T00:00:00+08:00"
+source_snapshot_at: "2026-06-23T21:48:00+08:00"
+lead_image_file: "../assets/cards/match-047-por-uzb-lead.png"
+image_file: "../assets/cards/match-047-por-uzb.png"
+---
+
+# 第 047 场：葡萄牙 vs 乌兹别克斯坦
+
+[仪表盘](../docs/README.zh-CN.md) | [English](match-047-por-uzb.md) | [日报](../reports/daily/2026-06-24.zh-CN.md)
+
+## 预测配图
+
+![葡萄牙 vs 乌兹别克斯坦 预测首图](../assets/cards/match-047-por-uzb-lead.png)
+
+![葡萄牙 vs 乌兹别克斯坦 预测配图](../assets/cards/match-047-por-uzb.png)
+
+首图生成指令：
+
+```text
+$imagegen: 生成【社交平台赛事预测首图】，16:9 横版，真实位图图片，只展示赛事对阵、比赛阶段、城市/场馆氛围和球队色彩；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不输出比分，不输出预测胜负，不输出概率，不使用胜/平/负、晋级、爆冷等结果暗示词；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+```
+
+结果图生成指令：
+
+```text
+$imagegen: 生成【社交平台赛事预测配图】，16:9 横版，真实位图图片，用于抖音、小红书、微博和微信分享；中文文档配图的主要比赛信息必须使用简体中文，可在画面合适位置保留英文队名/赛事信息作为辅助文字；不要生成 SVG，不要生成 HTML，不要生成代码图，不要生成线框图，不要使用官方 FIFA 标志或水印。
+```
+
+## 预测
+
+| 结果 | 概率 |
+| --- | ---: |
+| 葡萄牙胜 | 66% |
+| 平局 | 21% |
+| 乌兹别克斯坦胜 | 13% |
+
+- 预测胜者：葡萄牙
+- 预测比分：葡萄牙 vs 乌兹别克斯坦 2-0
+- 信心等级：中等
+- 模型：ChatGPT 5.5 ultra-high reasoning
+
+## 比分情景
+
+| 情景 | 比分 | 概率 | 判断 |
+| --- | --- | ---: | --- |
+| 主情景 | 2-0 | 14% | 如果高温没有完全压低节奏，葡萄牙天赋优势和反弹压力指向可控胜利。 |
+| 保守 / 平局路径 | 1-1 | 9% | 休斯敦高温和葡萄牙终结波动，让乌兹别克斯坦守住阵型并通过一次定位球或反击得分。 |
+| 上限 / 替代路径 | 3-1 | 10% | 葡萄牙早段进球迫使乌兹别克斯坦前压，后段出现转换空间。 |
+
+## 事实依据
+
+- FIFA 比赛中心和预览页确认葡萄牙 vs 乌兹别克斯坦在 Houston Stadium 进行，中国时间为 2026-06-24 01:00。
+- FIFA 排名显示葡萄牙第 5、乌兹别克斯坦第 50；葡萄牙首战 1-1 战平刚果（金），乌兹别克斯坦 1-3 负于哥伦比亚。
+- 已检查 Climate Central 第 047 场页面；休斯敦正午开球会抬高热风险和节奏管理风险。
+
+## 预测覆盖检查
+
+| 维度 | 快照状态 | 倾向 |
+| --- | --- | --- |
+| 战术 | 葡萄牙应主导控球和机会量；乌兹别克斯坦需要紧凑防守、反击和定位球效率。 | 支持葡萄牙 |
+| 球员 | 葡萄牙排名和进攻深度明显更强，但首战暴露了终结和节奏风险。 | 支持葡萄牙 |
+| 伤病 / 停赛 | 已检查 FIFA 球队新闻预览；最终首发和临场医疗状态未归档。 | 数据缺口降低信心 |
+| 赛程 / 休息 / 旅行 | 休斯敦正午开球抬高两队的热管理和轮换风险。 | 混合 |
+| 历史 | 当前小组状态比旧交锋更有价值。 | 低权重 |
+| 舆情 | 葡萄牙被期待从首战丢分后反弹；乌兹别克斯坦按紧凑下风方处理。 | 支持葡萄牙 |
+| 天气 / 场馆条件 | 已检查 Climate Central 第 047 场页面；高温是最清晰的场地变量。 | 支持低节奏 |
+| 心理 | 葡萄牙需要对刚果（金）的平局后作出可控回应；乌兹别克斯坦 1-3 后同样需要积分。 | 支持葡萄牙但有压力风险 |
+| 赔率变化 | 完整赔率变化未存储；热门赔率只作为上下文。 | 数据缺口 |
+| 专家观点 | 已检查 FIFA 预览；完整独立临场共识仍有限。 | 支持葡萄牙但有数据缺口 |
+
+## 预测逻辑
+
+1. 葡萄牙在排名、阵容质量和当前小组动机上有更强基础面。
+2. 2-0 比分保留下风方主要得分路线，避免把热门优势处理成确定性。
+3. 信心没有升到高位，因为最终首发、临场医疗新闻和完整赔率变化尚未完全归档。
+
+## 风险因素
+
+- 休斯敦正午高温、葡萄牙首战慢热，以及乌兹别克斯坦转换 / 定位球回应。
+- 最终首发、临场医疗更新、比赛小时级天气和市场变化未完全存储。
+- 早段进球可能把比赛从热门队可控压制改造成转换拉锯。
+
+## 平台分享文案
+
+### 抖音
+
+世界杯K 组预测：葡萄牙 vs 乌兹别克斯坦。倾向：葡萄牙胜，2-0。关键风险：休斯敦正午高温、葡萄牙首战慢热，以及乌兹别克斯坦转换 / 定位球回应。
+仅为足球赛事预测，不构成任何投资建议。
+
+### 小红书
+
+葡萄牙 vs 乌兹别克斯坦预测：葡萄牙胜，2-0。信心：中等。临场首发和市场变化仍是主要数据缺口。
+仅为足球赛事预测，不构成任何投资建议。
+
+### 微博
+
+K 组预测：葡萄牙 vs 乌兹别克斯坦 2-0。概率：POR 66%，平局 21%，UZB 13%。
+仅为足球赛事预测，不构成任何投资建议。#世界杯# #WorldCup2026#
+
+### 微信
+
+葡萄牙 vs 乌兹别克斯坦预测：葡萄牙胜，2-0。判断基于 FIFA 官方赛程和预览核验、FIFA 排名页、场地 / 天气资料、前序赛果和截至第 044 场的复盘校准。This is a football match prediction only and does not constitute investment advice. 仅为足球赛事预测，不构成任何投资建议。
+
+## 免责声明
+
+This is a football match prediction only. It does not constitute investment advice, financial advice, or any guarantee of outcome.
+
+仅为足球赛事预测，不构成任何投资建议、财务建议或结果承诺。
+
+## 来源快照
+
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503
+- https://www.fifa.com/en/articles/portugal-uzbekistan-preview-live-stream-team-news-tickets
+- https://www.climatecentral.org/world-cup-2026/matches/47
+- https://inside.fifa.com/fifa-world-ranking/POR?gender=men
+- https://inside.fifa.com/fifa-world-ranking/UZB?gender=men
+- https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/
+- https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report
+- 核验时间：2026-06-23T21:48:00+08:00

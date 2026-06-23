@@ -188,3 +188,31 @@
 - https://www.theguardian.com/football/2026/jun/17/canada-qatar-world-cup-team-news-alphonso-davies
 - https://www.sportsmole.co.uk/football/mexico/world-cup-2026/preview/mexico-vs-south-korea-prediction-team-news-lineups_599397.html
 - 核验时间：2026-06-18T17:05:25+08:00
+
+## 2026-06-23 第 041-048 场来源快照
+
+| 范围 | 来源 | 用途 |
+| --- | --- | --- |
+| 第 041-044 场赛果 | FOX Sports 比分页、FIFA 赛程页 | 核验挪威 3-2 塞内加尔、法国 3-0 伊拉克、阿根廷 2-0 奥地利、约旦 1-2 阿尔及利亚并生成复盘。 |
+| 第 045-048 场赛程 | FIFA 比赛中心、FIFA 预览页 | 核验中国时间 2026-06-24 开球、场地、小组和球队新闻框架。 |
+| 第 045-048 场预测背景 | FIFA 排名、Climate Central 场地页、前序战报 | 用于生成概率简报、比分情景和场地 / 天气风险备注。 |
+
+本快照新增关键 URL：
+
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021506
+- https://www.fifa.com/en/articles/england-ghana-preview-live-stream-team-news-tickets
+- https://www.climatecentral.org/world-cup-2026/matches/45
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021511
+- https://www.fifa.com/en/articles/panama-croatia-preview-live-stream-team-news-tickets
+- https://www.climatecentral.org/world-cup-2026/matches/46
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503
+- https://www.fifa.com/en/articles/portugal-uzbekistan-preview-live-stream-team-news-tickets
+- https://www.climatecentral.org/world-cup-2026/matches/47
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508
+- https://www.fifa.com/en/articles/colombia-congo-dr-preview-live-stream-team-news-tickets
+- https://www.climatecentral.org/world-cup-2026/matches/48
+- https://www.foxsports.com/soccer/fifa-world-cup-men-norway-vs-senegal-jun-22-2026-game-boxscore-647656
+- https://www.foxsports.com/soccer/fifa-world-cup-men-france-vs-iraq-jun-22-2026-game-boxscore-647657
+- https://www.foxsports.com/soccer/fifa-world-cup-men-argentina-vs-austria-jun-22-2026-game-boxscore-647658
+- https://www.foxsports.com/soccer/fifa-world-cup-men-jordan-vs-algeria-jun-22-2026-game-boxscore-647659
+- 核验时间：2026-06-23T21:48:00+08:00

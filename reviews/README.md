@@ -46,3 +46,7 @@ Each completed match records predicted winner, actual winner, scoreline error, a
 | 038 | Spain vs Saudi Arabia | Spain 4-0 Saudi Arabia | correct | [Review](../reviews/match-038-esp-ksa.md) / [简体中文](../reviews/match-038-esp-ksa.zh-CN.md) |
 | 039 | Belgium vs IR Iran | Belgium 0-0 IR Iran | wrong | [Review](../reviews/match-039-bel-irn.md) / [简体中文](../reviews/match-039-bel-irn.zh-CN.md) |
 | 040 | New Zealand vs Egypt | New Zealand 1-3 Egypt | partial | [Review](../reviews/match-040-nzl-egy.md) / [简体中文](../reviews/match-040-nzl-egy.zh-CN.md) |
+| 041 | Norway vs Senegal | Norway 3-2 Senegal | wrong | [Review](../reviews/match-041-nor-sen.md) / [简体中文](../reviews/match-041-nor-sen.zh-CN.md) |
+| 042 | France vs Iraq | France 3-0 Iraq | correct | [Review](../reviews/match-042-fra-irq.md) / [简体中文](../reviews/match-042-fra-irq.zh-CN.md) |
+| 043 | Argentina vs Austria | Argentina 2-0 Austria | correct | [Review](../reviews/match-043-arg-aut.md) / [简体中文](../reviews/match-043-arg-aut.zh-CN.md) |
+| 044 | Jordan vs Algeria | Jordan 1-2 Algeria | correct | [Review](../reviews/match-044-jor-alg.md) / [简体中文](../reviews/match-044-jor-alg.zh-CN.md) |
