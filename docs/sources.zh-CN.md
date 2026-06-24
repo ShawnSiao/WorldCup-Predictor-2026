@@ -216,3 +216,42 @@
 - https://www.foxsports.com/soccer/fifa-world-cup-men-argentina-vs-austria-jun-22-2026-game-boxscore-647658
 - https://www.foxsports.com/soccer/fifa-world-cup-men-jordan-vs-algeria-jun-22-2026-game-boxscore-647659
 - 核验时间：2026-06-23T21:48:00+08:00
+
+## 2026-06-24 第 045-054 场来源快照
+
+| 范围 | 来源 | 用途 |
+| --- | --- | --- |
+| 第 045-048 场赛果 | FIFA 比赛中心和战报页 | 核验英格兰 0-0 加纳、巴拿马 0-1 克罗地亚、葡萄牙 5-0 乌兹别克斯坦、哥伦比亚 1-0 刚果（金）并生成复盘。 |
+| 第 049-054 场赛程 | FIFA 比赛中心、FIFA 第 14 比赛日预览 | 核验中国时间 2026-06-25 开球、场地、小组和球队新闻框架。 |
+| 第 049-054 场预测背景 | FIFA 排名、Climate Central、可用的 RotoWire / SI / Sports Mole | 用于生成概率简报、比分情景和场地 / 天气风险备注。 |
+
+本快照新增关键 URL：
+
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021506
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-ghana-highlights-match-report
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021511
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-highlights-match-report
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-uzbekistan-highlights-match-report
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/colombia-congo-dr-highlights-match-report
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451
+- https://www.climatecentral.org/world-cup-2026/matches/51
+- https://www.rotowire.com/soccer/article/switzerland-vs-canada-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119146
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448
+- https://www.climatecentral.org/world-cup-2026/matches/52
+- https://www.rotowire.com/soccer/article/bosnia-herzegovina-vs-qatar-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119141
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455
+- https://www.climatecentral.org/world-cup-2026/matches/49
+- https://www.rotowire.com/soccer/article/scotland-vs-brazil-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-119147
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452
+- https://www.climatecentral.org/world-cup-2026/matches/50
+- https://www.si.com/soccer/haiti-vs-morocco-world-cup-preview-predictions-lineups-6-24-26
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444
+- https://www.climatecentral.org/world-cup-2026/matches/53
+- https://www.rotowire.com/soccer/article/czechia-vs-mexico-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-a-119143
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445
+- https://www.climatecentral.org/world-cup-2026/matches/54
+- https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-south-africa-prediction-team-news-lineups_599786.html
+- 核验时间：2026-06-24T22:20:00+08:00

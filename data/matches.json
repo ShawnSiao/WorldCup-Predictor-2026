@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-23",
-    "coverage": "opening matchday window through Match 048",
+    "snapshot_date": "2026-06-24",
+    "coverage": "opening matchday window through Match 054",
     "official_match_count": 104,
-    "tracked_match_count": 48,
+    "tracked_match_count": 54,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -159,9 +159,44 @@
       "https://www.climatecentral.org/world-cup-2026/matches/47",
       "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508",
       "https://www.fifa.com/en/articles/colombia-congo-dr-preview-live-stream-team-news-tickets",
-      "https://www.climatecentral.org/world-cup-2026/matches/48"
+      "https://www.climatecentral.org/world-cup-2026/matches/48",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-ghana-highlights-match-report",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-highlights-match-report",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-uzbekistan-highlights-match-report",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/colombia-congo-dr-highlights-match-report",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451",
+      "https://www.climatecentral.org/world-cup-2026/matches/51",
+      "https://inside.fifa.com/fifa-world-ranking/SUI?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men",
+      "https://www.rotowire.com/soccer/article/switzerland-vs-canada-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119146",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448",
+      "https://www.climatecentral.org/world-cup-2026/matches/52",
+      "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/QAT?gender=men",
+      "https://www.rotowire.com/soccer/article/bosnia-herzegovina-vs-qatar-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119141",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455",
+      "https://www.climatecentral.org/world-cup-2026/matches/49",
+      "https://inside.fifa.com/fifa-world-ranking/SCO?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/BRA?gender=men",
+      "https://www.rotowire.com/soccer/article/scotland-vs-brazil-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-119147",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452",
+      "https://www.climatecentral.org/world-cup-2026/matches/50",
+      "https://inside.fifa.com/fifa-world-ranking/MAR?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/HAI?gender=men",
+      "https://www.si.com/soccer/haiti-vs-morocco-world-cup-preview-predictions-lineups-6-24-26",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444",
+      "https://www.climatecentral.org/world-cup-2026/matches/53",
+      "https://inside.fifa.com/fifa-world-ranking/CZE?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
+      "https://www.rotowire.com/soccer/article/czechia-vs-mexico-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-a-119143",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445",
+      "https://www.climatecentral.org/world-cup-2026/matches/54",
+      "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/KOR?gender=men",
+      "https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-south-africa-prediction-team-news-lineups_599786.html"
     ],
-    "last_verified_at": "2026-06-22T15:01:00+08:00"
+    "last_verified_at": "2026-06-24T22:20:00+08:00"
   },
   "matches": [
     {
@@ -1295,7 +1330,7 @@
       "country": "United States",
       "home_team_code": "ENG",
       "away_team_code": "GHA",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021506",
@@ -1304,9 +1339,10 @@
         "https://inside.fifa.com/fifa-world-ranking/ENG?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/GHA?gender=men",
         "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/england-v-croatia-fifa-world-cup-wednesday-17-june-2026-match-centre",
-        "https://www.sportingnews.com/us/soccer/news/ghana-panama-live-score-result-world-cup/4773447545378ec79f6b9b6c"
+        "https://www.sportingnews.com/us/soccer/news/ghana-panama-live-score-result-world-cup/4773447545378ec79f6b9b6c",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-ghana-highlights-match-report"
       ],
-      "last_verified_at": "2026-06-23T21:48:00+08:00"
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
     },
     {
       "match_id": "046",
@@ -1321,7 +1357,7 @@
       "country": "Canada",
       "home_team_code": "PAN",
       "away_team_code": "CRO",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021511",
@@ -1330,9 +1366,10 @@
         "https://inside.fifa.com/fifa-world-ranking/PAN?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/CRO?gender=men",
         "https://www.sportingnews.com/us/soccer/news/england-croatia-live-score-result-world-cup/6ef1296f64286e9dcf2d5710",
-        "https://www.sportingnews.com/us/soccer/news/ghana-panama-live-score-result-world-cup/4773447545378ec79f6b9b6c"
+        "https://www.sportingnews.com/us/soccer/news/ghana-panama-live-score-result-world-cup/4773447545378ec79f6b9b6c",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-highlights-match-report"
       ],
-      "last_verified_at": "2026-06-23T21:48:00+08:00"
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
     },
     {
       "match_id": "047",
@@ -1347,7 +1384,7 @@
       "country": "United States",
       "home_team_code": "POR",
       "away_team_code": "UZB",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503",
@@ -1356,9 +1393,10 @@
         "https://inside.fifa.com/fifa-world-ranking/POR?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/UZB?gender=men",
         "https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/",
-        "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report"
+        "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-uzbekistan-highlights-match-report"
       ],
-      "last_verified_at": "2026-06-23T21:48:00+08:00"
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
     },
     {
       "match_id": "048",
@@ -1373,7 +1411,7 @@
       "country": "Mexico",
       "home_team_code": "COL",
       "away_team_code": "COD",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508",
@@ -1382,9 +1420,160 @@
         "https://inside.fifa.com/fifa-world-ranking/COL?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/COD?gender=men",
         "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-match-report",
-        "https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/"
+        "https://www.reuters.com/sports/soccer/portugal-held-by-congo-dr-1-1-world-cup-opener-2026-06-17/",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/colombia-congo-dr-highlights-match-report"
       ],
-      "last_verified_at": "2026-06-23T21:48:00+08:00"
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "051",
+      "stage": "Group B",
+      "group": "B",
+      "kickoff_utc": "2026-06-24T19:00:00Z",
+      "kickoff_local": "2026-06-24T12:00:00-07:00",
+      "timezone": "America/Vancouver",
+      "venue_id": "bc-place-vancouver",
+      "venue_name": "BC Place Vancouver",
+      "city": "Vancouver",
+      "country": "Canada",
+      "home_team_code": "SUI",
+      "away_team_code": "CAN",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026",
+        "https://www.climatecentral.org/world-cup-2026/matches/51",
+        "https://inside.fifa.com/fifa-world-ranking/SUI?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men",
+        "https://www.rotowire.com/soccer/article/switzerland-vs-canada-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119146"
+      ],
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "052",
+      "stage": "Group B",
+      "group": "B",
+      "kickoff_utc": "2026-06-24T19:00:00Z",
+      "kickoff_local": "2026-06-24T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "venue_id": "seattle-stadium",
+      "venue_name": "Seattle Stadium",
+      "city": "Seattle",
+      "country": "United States",
+      "home_team_code": "BIH",
+      "away_team_code": "QAT",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026",
+        "https://www.climatecentral.org/world-cup-2026/matches/52",
+        "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/QAT?gender=men",
+        "https://www.rotowire.com/soccer/article/bosnia-herzegovina-vs-qatar-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119141"
+      ],
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "049",
+      "stage": "Group C",
+      "group": "C",
+      "kickoff_utc": "2026-06-24T22:00:00Z",
+      "kickoff_local": "2026-06-24T18:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "miami-stadium",
+      "venue_name": "Miami Stadium",
+      "city": "Miami",
+      "country": "United States",
+      "home_team_code": "SCO",
+      "away_team_code": "BRA",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026",
+        "https://www.climatecentral.org/world-cup-2026/matches/49",
+        "https://inside.fifa.com/fifa-world-ranking/SCO?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/BRA?gender=men",
+        "https://www.rotowire.com/soccer/article/scotland-vs-brazil-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-119147"
+      ],
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "050",
+      "stage": "Group C",
+      "group": "C",
+      "kickoff_utc": "2026-06-24T22:00:00Z",
+      "kickoff_local": "2026-06-24T18:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "atlanta-stadium",
+      "venue_name": "Atlanta Stadium",
+      "city": "Atlanta",
+      "country": "United States",
+      "home_team_code": "MAR",
+      "away_team_code": "HAI",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026",
+        "https://www.climatecentral.org/world-cup-2026/matches/50",
+        "https://inside.fifa.com/fifa-world-ranking/MAR?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/HAI?gender=men",
+        "https://www.si.com/soccer/haiti-vs-morocco-world-cup-preview-predictions-lineups-6-24-26"
+      ],
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "053",
+      "stage": "Group A",
+      "group": "A",
+      "kickoff_utc": "2026-06-25T01:00:00Z",
+      "kickoff_local": "2026-06-24T19:00:00-06:00",
+      "timezone": "America/Mexico_City",
+      "venue_id": "mexico-city-stadium",
+      "venue_name": "Mexico City Stadium",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "home_team_code": "CZE",
+      "away_team_code": "MEX",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026",
+        "https://www.climatecentral.org/world-cup-2026/matches/53",
+        "https://inside.fifa.com/fifa-world-ranking/CZE?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
+        "https://www.rotowire.com/soccer/article/czechia-vs-mexico-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-a-119143"
+      ],
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "054",
+      "stage": "Group A",
+      "group": "A",
+      "kickoff_utc": "2026-06-25T01:00:00Z",
+      "kickoff_local": "2026-06-24T19:00:00-06:00",
+      "timezone": "America/Monterrey",
+      "venue_id": "monterrey-stadium",
+      "venue_name": "Monterrey Stadium",
+      "city": "Monterrey",
+      "country": "Mexico",
+      "home_team_code": "RSA",
+      "away_team_code": "KOR",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026",
+        "https://www.climatecentral.org/world-cup-2026/matches/54",
+        "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/KOR?gender=men",
+        "https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-south-africa-prediction-team-news-lineups_599786.html"
+      ],
+      "last_verified_at": "2026-06-24T22:20:00+08:00"
     }
   ]
 }

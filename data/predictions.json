@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-23",
+    "snapshot_date": "2026-06-24",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-23T21:48:00+08:00"
+    "source_snapshot_at": "2026-06-24T22:20:00+08:00"
   },
   "predictions": [
     {
@@ -1660,6 +1660,234 @@
       "published_at": "2026-06-24T00:00:00+08:00",
       "updated_at": "2026-06-23T21:48:00+08:00",
       "source_snapshot_at": "2026-06-23T21:48:00+08:00"
+    },
+    {
+      "match_id": "051",
+      "prediction_file": "predictions/match-051-sui-can.md",
+      "prediction_file_zh": "predictions/match-051-sui-can.zh-CN.md",
+      "lead_image_file": "assets/cards/match-051-sui-can-lead.png",
+      "image_file": "assets/cards/match-051-sui-can.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "draw",
+      "predicted_winner": null,
+      "predicted_score": "1-1",
+      "home_win_probability": 0.31,
+      "draw_probability": 0.36,
+      "away_win_probability": 0.33,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-1",
+          "probability": 0.12,
+          "rationale": "Both top Group B teams protect the point while still creating one scoring phase each."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-0",
+          "probability": 0.08,
+          "rationale": "If the other Group B match stays close, neither side needs to overcommit."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.09,
+          "rationale": "Canada's home intensity and transition speed turn one late phase into a narrow win."
+        }
+      ],
+      "published_at": "2026-06-25T00:00:00+08:00",
+      "updated_at": "2026-06-24T22:20:00+08:00",
+      "source_snapshot_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "052",
+      "prediction_file": "predictions/match-052-bih-qat.md",
+      "prediction_file_zh": "predictions/match-052-bih-qat.zh-CN.md",
+      "lead_image_file": "assets/cards/match-052-bih-qat-lead.png",
+      "image_file": "assets/cards/match-052-bih-qat.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "BIH",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.41,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.31,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.11,
+          "rationale": "Bosnia's must-win direct game finds two moments while Qatar still respond once."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Both teams chase but finishing variance leaves a shared point."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.08,
+          "rationale": "Qatar's rebound works if they score first and Bosnia's chase opens transition space."
+        }
+      ],
+      "published_at": "2026-06-25T00:00:00+08:00",
+      "updated_at": "2026-06-24T22:20:00+08:00",
+      "source_snapshot_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "049",
+      "prediction_file": "predictions/match-049-sco-bra.md",
+      "prediction_file_zh": "predictions/match-049-sco-bra.zh-CN.md",
+      "lead_image_file": "assets/cards/match-049-sco-bra-lead.png",
+      "image_file": "assets/cards/match-049-sco-bra.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "BRA",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.19,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.56,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.13,
+          "rationale": "Brazil's quality edge wins, but Scotland's low block and restarts keep a goal live."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Miami conditions and Scottish compactness stall Brazil's separation."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.11,
+          "rationale": "Brazil score first, control rest defense, and manage a cleaner second half."
+        }
+      ],
+      "published_at": "2026-06-25T00:00:00+08:00",
+      "updated_at": "2026-06-24T22:20:00+08:00",
+      "source_snapshot_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "050",
+      "prediction_file": "predictions/match-050-mar-hai.md",
+      "prediction_file_zh": "predictions/match-050-mar-hai.zh-CN.md",
+      "lead_image_file": "assets/cards/match-050-mar-hai-lead.png",
+      "image_file": "assets/cards/match-050-mar-hai.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "MAR",
+      "predicted_score": "3-0",
+      "home_win_probability": 0.76,
+      "draw_probability": 0.15,
+      "away_win_probability": 0.09,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "3-0",
+          "probability": 0.15,
+          "rationale": "Morocco's structure and ranking edge turn control into a multi-goal win."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.06,
+          "rationale": "The draw path needs heavy Morocco rotation and one Haiti transition finish."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.13,
+          "rationale": "Morocco control the match but rotate enough to keep the margin lower."
+        }
+      ],
+      "published_at": "2026-06-25T00:00:00+08:00",
+      "updated_at": "2026-06-24T22:20:00+08:00",
+      "source_snapshot_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "053",
+      "prediction_file": "predictions/match-053-cze-mex.md",
+      "prediction_file_zh": "predictions/match-053-cze-mex.zh-CN.md",
+      "lead_image_file": "assets/cards/match-053-cze-mex-lead.png",
+      "image_file": "assets/cards/match-053-cze-mex.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "MEX",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.2,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.55,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "Mexico's host edge and transition control overcome one Czechia set-piece response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Mexico protect group position and Czechia's physical route earns a point."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.09,
+          "rationale": "Mexico score first and Czechia's chase opens counterattack space."
+        }
+      ],
+      "published_at": "2026-06-25T00:00:00+08:00",
+      "updated_at": "2026-06-24T22:20:00+08:00",
+      "source_snapshot_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "054",
+      "prediction_file": "predictions/match-054-rsa-kor.md",
+      "prediction_file_zh": "predictions/match-054-rsa-kor.zh-CN.md",
+      "lead_image_file": "assets/cards/match-054-rsa-kor-lead.png",
+      "image_file": "assets/cards/match-054-rsa-kor.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "KOR",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.24,
+      "draw_probability": 0.29,
+      "away_win_probability": 0.47,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.11,
+          "rationale": "Korea's transition edge wins, but South Africa's urgency creates one scoring response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "South Africa stay compact and Korea fail to separate before the heat slows the game."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.08,
+          "rationale": "Korea score first and manage the chase without conceding."
+        }
+      ],
+      "published_at": "2026-06-25T00:00:00+08:00",
+      "updated_at": "2026-06-24T22:20:00+08:00",
+      "source_snapshot_at": "2026-06-24T22:20:00+08:00"
     }
   ]
 }

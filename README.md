@@ -13,25 +13,28 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-23 |
+| Data snapshot | 2026-06-25 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 48 |
-| Predictions published | 48 |
-| Final results tracked | 44 |
-| Post-match reviews published | 44 |
+| Tracked matches in repository | 54 |
+| Predictions published | 54 |
+| Final results tracked | 48 |
+| Post-match reviews published | 48 |
 
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Portugal vs Uzbekistan | Group K | 2026-06-23 17:00 UTC / 2026-06-24 01:00 China time | Houston Stadium | [Portugal win, 2-0](predictions/match-047-por-uzb.md) / [简体中文](predictions/match-047-por-uzb.zh-CN.md) |
-| England vs Ghana | Group L | 2026-06-23 20:00 UTC / 2026-06-24 04:00 China time | Boston Stadium | [England win, 2-1](predictions/match-045-eng-gha.md) / [简体中文](predictions/match-045-eng-gha.zh-CN.md) |
-| Panama vs Croatia | Group L | 2026-06-23 23:00 UTC / 2026-06-24 07:00 China time | Toronto Stadium | [Croatia win, 1-2](predictions/match-046-pan-cro.md) / [简体中文](predictions/match-046-pan-cro.zh-CN.md) |
-| Colombia vs Congo DR | Group K | 2026-06-24 02:00 UTC / 2026-06-24 10:00 China time | Guadalajara Stadium | [Colombia win, 2-1](predictions/match-048-col-cod.md) / [简体中文](predictions/match-048-col-cod.zh-CN.md) |
+| Switzerland vs Canada | Group B | 2026-06-25 19:00 UTC / 2026-06-25 03:00 China time | BC Place Vancouver | [Draw, 1-1](predictions/match-051-sui-can.md) / [简体中文](predictions/match-051-sui-can.zh-CN.md) |
+| Bosnia and Herzegovina vs Qatar | Group B | 2026-06-25 19:00 UTC / 2026-06-25 03:00 China time | Seattle Stadium | [Bosnia and Herzegovina win, 2-1](predictions/match-052-bih-qat.md) / [简体中文](predictions/match-052-bih-qat.zh-CN.md) |
+| Scotland vs Brazil | Group C | 2026-06-25 22:00 UTC / 2026-06-25 06:00 China time | Miami Stadium | [Brazil win, 1-2](predictions/match-049-sco-bra.md) / [简体中文](predictions/match-049-sco-bra.zh-CN.md) |
+| Morocco vs Haiti | Group C | 2026-06-25 22:00 UTC / 2026-06-25 06:00 China time | Atlanta Stadium | [Morocco win, 3-0](predictions/match-050-mar-hai.md) / [简体中文](predictions/match-050-mar-hai.zh-CN.md) |
+| Czechia vs Mexico | Group A | 2026-06-25 01:00 UTC / 2026-06-25 09:00 China time | Mexico City Stadium | [Mexico win, 1-2](predictions/match-053-cze-mex.md) / [简体中文](predictions/match-053-cze-mex.zh-CN.md) |
+| South Africa vs Korea Republic | Group A | 2026-06-25 01:00 UTC / 2026-06-25 09:00 China time | Monterrey Stadium | [Korea Republic win, 1-2](predictions/match-054-rsa-kor.md) / [简体中文](predictions/match-054-rsa-kor.zh-CN.md) |
+
 ## Daily Overview Card
 
-[![China-time 2026-06-24 prediction overview card](assets/cards/daily-2026-06-24-summary.png)](reports/daily/2026-06-24.md)
+[![China-time 2026-06-25 prediction overview card](assets/cards/daily-2026-06-25-summary.png)](reports/daily/2026-06-25.md)
 
 The overview card groups the same China-time date into one share image and links each scoreline scenario to its own rationale.
 
@@ -85,12 +88,18 @@ The overview card groups the same China-time date into one share image and links
 [![Panama vs Croatia lead prediction image](assets/cards/match-046-pan-cro-lead.png)](predictions/match-046-pan-cro.md)
 [![Portugal vs Uzbekistan lead prediction image](assets/cards/match-047-por-uzb-lead.png)](predictions/match-047-por-uzb.md)
 [![Colombia vs Congo DR lead prediction image](assets/cards/match-048-col-cod-lead.png)](predictions/match-048-col-cod.md)
+[![Switzerland vs Canada lead prediction image](assets/cards/match-051-sui-can-lead.png)](predictions/match-051-sui-can.md)
+[![Bosnia and Herzegovina vs Qatar lead prediction image](assets/cards/match-052-bih-qat-lead.png)](predictions/match-052-bih-qat.md)
+[![Scotland vs Brazil lead prediction image](assets/cards/match-049-sco-bra-lead.png)](predictions/match-049-sco-bra.md)
+[![Morocco vs Haiti lead prediction image](assets/cards/match-050-mar-hai-lead.png)](predictions/match-050-mar-hai.md)
+[![Czechia vs Mexico lead prediction image](assets/cards/match-053-cze-mex-lead.png)](predictions/match-053-cze-mex.md)
+[![South Africa vs Korea Republic lead prediction image](assets/cards/match-054-rsa-kor-lead.png)](predictions/match-054-rsa-kor.md)
 
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 
 ## Today
 
-Reviews are now complete for all verified finals through Match 044. The next China-time matchday window covers Portugal vs Uzbekistan, England vs Ghana, Panama vs Croatia, and Colombia vs Congo DR. Calibration now gives more visible weight to high-event favorite win tails, compact underdogs, heat-managed tempo, and clean-sheet control by elite favorites.
+Reviews are now complete for all verified finals through Match 048. The next China-time matchday window covers Switzerland vs Canada, Bosnia and Herzegovina vs Qatar, Scotland vs Brazil, Morocco vs Haiti, Czechia vs Mexico, and South Africa vs Korea Republic. Calibration now gives more visible weight to compact underdog 0-0 routes, elite-favorite multi-goal tails after a stalled opener, and clean-sheet control in one-goal favorite wins.
 
 ## Reasoning Model
 
@@ -118,9 +127,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 048: Colombia vs Congo DR](predictions/match-048-col-cod.md)
-- Latest review: [Match 044: Jordan vs Algeria](reviews/match-044-jor-alg.md)
-- Latest daily report: [2026-06-24](reports/daily/2026-06-24.md)
+- Latest prediction: [Match 054: South Africa vs Korea Republic](predictions/match-054-rsa-kor.md)
+- Latest review: [Match 048: Colombia vs Congo DR](reviews/match-048-col-cod.md)
+- Latest daily report: [2026-06-25](reports/daily/2026-06-25.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

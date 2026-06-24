@@ -216,3 +216,42 @@ Key URLs added in this snapshot:
 - https://www.foxsports.com/soccer/fifa-world-cup-men-argentina-vs-austria-jun-22-2026-game-boxscore-647658
 - https://www.foxsports.com/soccer/fifa-world-cup-men-jordan-vs-algeria-jun-22-2026-game-boxscore-647659
 - Verified at: 2026-06-23T21:48:00+08:00
+
+## 2026-06-24 Match 045-054 Source Snapshot
+
+| Area | Sources | Use |
+| --- | --- | --- |
+| Match 045-048 results | FIFA match-centre and match-report pages | Verified England 0-0 Ghana, Panama 0-1 Croatia, Portugal 5-0 Uzbekistan, and Colombia 1-0 Congo DR for reviews. |
+| Match 049-054 schedule | FIFA match-centre pages; FIFA Matchday 14 preview | Verified China-time 2026-06-25 kickoff times, venues, groups, and team-news framing. |
+| Match 049-054 prediction context | FIFA rankings; Climate Central; RotoWire/SI/Sports Mole where available | Built probability briefs, scoreline scenarios, and venue/weather risk notes. |
+
+Key URLs added in this snapshot:
+
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021506
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-ghana-highlights-match-report
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021511
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-highlights-match-report
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-uzbekistan-highlights-match-report
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/colombia-congo-dr-highlights-match-report
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fourteen-24-june-2026
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451
+- https://www.climatecentral.org/world-cup-2026/matches/51
+- https://www.rotowire.com/soccer/article/switzerland-vs-canada-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119146
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448
+- https://www.climatecentral.org/world-cup-2026/matches/52
+- https://www.rotowire.com/soccer/article/bosnia-herzegovina-vs-qatar-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-b-119141
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455
+- https://www.climatecentral.org/world-cup-2026/matches/49
+- https://www.rotowire.com/soccer/article/scotland-vs-brazil-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-119147
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452
+- https://www.climatecentral.org/world-cup-2026/matches/50
+- https://www.si.com/soccer/haiti-vs-morocco-world-cup-preview-predictions-lineups-6-24-26
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444
+- https://www.climatecentral.org/world-cup-2026/matches/53
+- https://www.rotowire.com/soccer/article/czechia-vs-mexico-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-a-119143
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445
+- https://www.climatecentral.org/world-cup-2026/matches/54
+- https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-south-africa-prediction-team-news-lineups_599786.html
+- Verified at: 2026-06-24T22:20:00+08:00
