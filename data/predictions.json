@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-24",
+    "snapshot_date": "2026-06-25",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-24T22:20:00+08:00"
+    "source_snapshot_at": "2026-06-25T13:51:27+08:00"
   },
   "predictions": [
     {
@@ -1888,6 +1888,234 @@
       "published_at": "2026-06-25T00:00:00+08:00",
       "updated_at": "2026-06-24T22:20:00+08:00",
       "source_snapshot_at": "2026-06-24T22:20:00+08:00"
+    },
+    {
+      "match_id": "055",
+      "prediction_file": "predictions/match-055-cuw-civ.md",
+      "prediction_file_zh": "predictions/match-055-cuw-civ.zh-CN.md",
+      "lead_image_file": "assets/cards/match-055-cuw-civ-lead.png",
+      "image_file": "assets/cards/match-055-cuw-civ.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "CIV",
+      "predicted_score": "0-2",
+      "home_win_probability": 0.14,
+      "draw_probability": 0.24,
+      "away_win_probability": 0.62,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-2",
+          "probability": 0.14,
+          "rationale": "Côte d'Ivoire's stronger baseline and qualification incentive convert pressure without needing a shootout."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.09,
+          "rationale": "Curaçao keep the low block compact and use the Ecuador-style frustration path to nick one transition or restart."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-1",
+          "probability": 0.12,
+          "rationale": "If Philadelphia tempo is slow, Côte d'Ivoire still edge it through one decisive box entry."
+        }
+      ],
+      "published_at": "2026-06-26T00:00:00+08:00",
+      "updated_at": "2026-06-25T13:51:27+08:00",
+      "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    },
+    {
+      "match_id": "056",
+      "prediction_file": "predictions/match-056-ecu-ger.md",
+      "prediction_file_zh": "predictions/match-056-ecu-ger.zh-CN.md",
+      "lead_image_file": "assets/cards/match-056-ecu-ger-lead.png",
+      "image_file": "assets/cards/match-056-ecu-ger.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "GER",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.18,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.57,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "Germany's depth wins despite Ecuador's urgency and likely physical response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Germany rotation plus Ecuador's defensive urgency can keep the match level."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.11,
+          "rationale": "Germany score first, Ecuador chase, and a late transition settles the group script."
+        }
+      ],
+      "published_at": "2026-06-26T00:00:00+08:00",
+      "updated_at": "2026-06-25T13:51:27+08:00",
+      "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    },
+    {
+      "match_id": "057",
+      "prediction_file": "predictions/match-057-jpn-swe.md",
+      "prediction_file_zh": "predictions/match-057-jpn-swe.zh-CN.md",
+      "lead_image_file": "assets/cards/match-057-jpn-swe-lead.png",
+      "image_file": "assets/cards/match-057-jpn-swe.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "draw",
+      "predicted_winner": null,
+      "predicted_score": "1-1",
+      "home_win_probability": 0.35,
+      "draw_probability": 0.34,
+      "away_win_probability": 0.31,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Japan protect the qualification route while Sweden's set-piece pressure earns a response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-0",
+          "probability": 0.08,
+          "rationale": "Japan manage tempo and Sweden's chance quality remains limited."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-1",
+          "probability": 0.09,
+          "rationale": "Japan's press and transitions punish Sweden if they overchase the win."
+        }
+      ],
+      "published_at": "2026-06-26T00:00:00+08:00",
+      "updated_at": "2026-06-25T13:51:27+08:00",
+      "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    },
+    {
+      "match_id": "058",
+      "prediction_file": "predictions/match-058-tun-ned.md",
+      "prediction_file_zh": "predictions/match-058-tun-ned.zh-CN.md",
+      "lead_image_file": "assets/cards/match-058-tun-ned-lead.png",
+      "image_file": "assets/cards/match-058-tun-ned.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "NED",
+      "predicted_score": "0-3",
+      "home_win_probability": 0.08,
+      "draw_probability": 0.14,
+      "away_win_probability": 0.78,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-3",
+          "probability": 0.15,
+          "rationale": "The Netherlands' attacking form meets a Tunisia side whose defensive confidence has already been stressed."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.05,
+          "rationale": "The draw path needs heavy Dutch rotation and one Tunisia transition finish."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.14,
+          "rationale": "The Netherlands control the match at a lower tempo and stop short of a rout."
+        }
+      ],
+      "published_at": "2026-06-26T00:00:00+08:00",
+      "updated_at": "2026-06-25T13:51:27+08:00",
+      "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    },
+    {
+      "match_id": "059",
+      "prediction_file": "predictions/match-059-tur-usa.md",
+      "prediction_file_zh": "predictions/match-059-tur-usa.zh-CN.md",
+      "lead_image_file": "assets/cards/match-059-tur-usa-lead.png",
+      "image_file": "assets/cards/match-059-tur-usa.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "USA",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.18,
+      "draw_probability": 0.23,
+      "away_win_probability": 0.59,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.13,
+          "rationale": "USA host depth wins, but Türkiye's desperation creates one scoring response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "USA rotation and group-position management keep Türkiye in the game."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.11,
+          "rationale": "USA score first and use Türkiye's chase to find a second transition goal."
+        }
+      ],
+      "published_at": "2026-06-26T00:00:00+08:00",
+      "updated_at": "2026-06-25T13:51:27+08:00",
+      "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    },
+    {
+      "match_id": "060",
+      "prediction_file": "predictions/match-060-par-aus.md",
+      "prediction_file_zh": "predictions/match-060-par-aus.zh-CN.md",
+      "lead_image_file": "assets/cards/match-060-par-aus-lead.png",
+      "image_file": "assets/cards/match-060-par-aus.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "AUS",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.28,
+      "draw_probability": 0.3,
+      "away_win_probability": 0.42,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "Australia's table position and transition game punish Paraguay when the match opens late."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Australia can protect a qualification route while Paraguay's urgency earns one reply."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-0",
+          "probability": 0.08,
+          "rationale": "A cautious simultaneous-group script keeps both sides from converting limited chances."
+        }
+      ],
+      "published_at": "2026-06-26T00:00:00+08:00",
+      "updated_at": "2026-06-25T13:51:27+08:00",
+      "source_snapshot_at": "2026-06-25T13:51:27+08:00"
     }
   ]
 }

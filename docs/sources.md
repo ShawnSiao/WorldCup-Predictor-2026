@@ -255,3 +255,36 @@ Key URLs added in this snapshot:
 - https://www.climatecentral.org/world-cup-2026/matches/54
 - https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-south-africa-prediction-team-news-lineups_599786.html
 - Verified at: 2026-06-24T22:20:00+08:00
+
+
+## 2026-06-25 Match 049-060 Source Snapshot
+
+| Area | Sources | Use |
+| --- | --- | --- |
+| Match 049-054 results | FIFA match-centre pages; FIFA Matchday 14 review page | Verified Scotland 0-3 Brazil, Morocco 4-2 Haiti, Switzerland 2-1 Canada, Bosnia and Herzegovina 3-1 Qatar, Czechia 0-3 Mexico, and South Africa 1-0 Korea Republic for reviews. |
+| Match 055-060 schedule | FIFA match-centre pages; FIFA Matchday 15 preview | Verified China-time 2026-06-26 kickoff times, venues, groups, and team-news framing. |
+| Match 055-060 prediction context | FIFA rankings; Climate Central match pages; prior group results | Built probability briefs, scoreline scenarios, and venue/weather risk notes. |
+
+Key URLs added in this snapshot:
+
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-14-round-up-review-highlights
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fifteen-25-june-2026
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021468
+- https://www.climatecentral.org/world-cup-2026/matches/55
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021466
+- https://www.climatecentral.org/world-cup-2026/matches/56
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021471
+- https://www.climatecentral.org/world-cup-2026/matches/57
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021473
+- https://www.climatecentral.org/world-cup-2026/matches/58
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021459
+- https://www.climatecentral.org/world-cup-2026/matches/59
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021461
+- https://www.climatecentral.org/world-cup-2026/matches/60
+- Verified at: 2026-06-25T13:51:27+08:00

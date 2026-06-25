@@ -255,3 +255,36 @@
 - https://www.climatecentral.org/world-cup-2026/matches/54
 - https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/preview/south-korea-vs-south-africa-prediction-team-news-lineups_599786.html
 - 核验时间：2026-06-24T22:20:00+08:00
+
+
+## 2026-06-25 第 049-060 场来源快照
+
+| 范围 | 来源 | 用途 |
+| --- | --- | --- |
+| 第 049-054 场赛果 | FIFA 比赛中心、FIFA 第 14 比赛日复盘页 | 核验苏格兰 0-3 巴西、摩洛哥 4-2 海地、瑞士 2-1 加拿大、波黑 3-1 卡塔尔、捷克 0-3 墨西哥、南非 1-0 韩国并生成复盘。 |
+| 第 055-060 场赛程 | FIFA 比赛中心、FIFA 第 15 比赛日预览 | 核验中国时间 2026-06-26 开球、场地、小组和球队新闻框架。 |
+| 第 055-060 场预测背景 | FIFA 排名、Climate Central 场次页、前序小组结果 | 用于生成概率简报、比分情景和场地 / 天气风险备注。 |
+
+本快照新增关键 URL：
+
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-14-round-up-review-highlights
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fifteen-25-june-2026
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021468
+- https://www.climatecentral.org/world-cup-2026/matches/55
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021466
+- https://www.climatecentral.org/world-cup-2026/matches/56
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021471
+- https://www.climatecentral.org/world-cup-2026/matches/57
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021473
+- https://www.climatecentral.org/world-cup-2026/matches/58
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021459
+- https://www.climatecentral.org/world-cup-2026/matches/59
+- https://www.fifa.com/en/match-centre/match/17/285023/289273/400021461
+- https://www.climatecentral.org/world-cup-2026/matches/60
+- 核验时间：2026-06-25T13:51:27+08:00

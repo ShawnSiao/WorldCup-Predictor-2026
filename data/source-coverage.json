@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-18",
+    "snapshot_date": "2026-06-25",
     "purpose": "Source coverage plan for closing pre-match prediction data gaps.",
-    "last_reviewed_at": "2026-06-18T17:05:25+08:00"
+    "last_reviewed_at": "2026-06-25T13:51:27+08:00"
   },
   "dimensions": [
     {
@@ -19,7 +19,7 @@
         "ESPN fixtures/results"
       ],
       "refresh_cadence": "Daily, plus immediately after final whistle for tracked matches.",
-      "prediction_use": "Match context, lifecycle status, result records, review triggers through reviewed Match 024 and predicted Match 028."
+      "prediction_use": "Match context, lifecycle status, result records, and review triggers through reviewed Match 054 and predicted Match 060."
     },
     {
       "dimension": "squads_players",
@@ -108,7 +108,7 @@
         "manual review tags from daily automation"
       ],
       "refresh_cadence": "After each reviewed match.",
-      "prediction_use": "Calibration feedback through Match 024 for draw floor, favorite margin, clean-sheet, underdog resilience, transition routes, set-piece risk, host pressure, and favorite-margin upside."
+      "prediction_use": "Calibration feedback through Match 054 for draw floor, favorite margin, clean-sheet, underdog resilience, transition routes, set-piece risk, host pressure, and must-win underdog branches."
     }
   ]
 }
