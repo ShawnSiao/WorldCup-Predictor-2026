@@ -268,7 +268,7 @@
 本快照新增关键 URL：
 
 - https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-14-round-up-review-highlights
-- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fifteen-25-june-2026
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-15-preview-group-d-e-f
 - https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455
 - https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452
 - https://www.fifa.com/en/match-centre/match/17/285023/289273/400021451

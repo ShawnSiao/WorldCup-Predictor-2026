@@ -118,7 +118,7 @@ This is a football match prediction only. It does not constitute investment advi
 
 - https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures
 - https://www.fifa.com/en/match-centre/match/17/285023/289273/400021473
-- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matches-preview-matchday-fifteen-25-june-2026
+- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-15-preview-group-d-e-f
 - https://www.climatecentral.org/world-cup-2026/matches/58
 - https://inside.fifa.com/fifa-world-ranking/TUN?gender=men
 - https://inside.fifa.com/fifa-world-ranking/NED?gender=men
