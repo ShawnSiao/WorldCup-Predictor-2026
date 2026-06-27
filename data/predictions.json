@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-25",
+    "snapshot_date": "2026-06-27",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    "source_snapshot_at": "2026-06-27T22:45:00+08:00"
   },
   "predictions": [
     {
@@ -2116,6 +2116,462 @@
       "published_at": "2026-06-26T00:00:00+08:00",
       "updated_at": "2026-06-25T13:51:27+08:00",
       "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    },
+    {
+      "match_id": "061",
+      "prediction_file": "predictions/match-061-nor-fra.md",
+      "prediction_file_zh": "predictions/match-061-nor-fra.zh-CN.md",
+      "lead_image_file": "assets/cards/match-061-nor-fra-lead.png",
+      "image_file": "assets/cards/match-061-nor-fra.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "FRA",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.25,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.47,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "France's depth wins a tight top-of-group match."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Norway's direct threat and France rotation hold the game level."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-2",
+          "probability": 0.07,
+          "rationale": "If the match opens early, both attacks can trade chances."
+        }
+      ],
+      "published_at": "2026-06-27T00:00:00+08:00",
+      "updated_at": "2026-06-26T22:16:00+08:00",
+      "source_snapshot_at": "2026-06-26T22:16:00+08:00"
+    },
+    {
+      "match_id": "062",
+      "prediction_file": "predictions/match-062-sen-irq.md",
+      "prediction_file_zh": "predictions/match-062-sen-irq.zh-CN.md",
+      "lead_image_file": "assets/cards/match-062-sen-irq-lead.png",
+      "image_file": "assets/cards/match-062-sen-irq.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "SEN",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.47,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.26,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.12,
+          "rationale": "Senegal's athletic edge creates enough volume despite Iraq's response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Iraq keep the game narrow and Senegal finishing stays uneven."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-0",
+          "probability": 0.09,
+          "rationale": "Senegal score first and keep Iraq chasing without a clean look."
+        }
+      ],
+      "published_at": "2026-06-27T00:00:00+08:00",
+      "updated_at": "2026-06-26T22:16:00+08:00",
+      "source_snapshot_at": "2026-06-26T22:16:00+08:00"
+    },
+    {
+      "match_id": "063",
+      "prediction_file": "predictions/match-063-egy-irn.md",
+      "prediction_file_zh": "predictions/match-063-egy-irn.zh-CN.md",
+      "lead_image_file": "assets/cards/match-063-egy-irn-lead.png",
+      "image_file": "assets/cards/match-063-egy-irn.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "draw",
+      "predicted_winner": null,
+      "predicted_score": "1-1",
+      "home_win_probability": 0.33,
+      "draw_probability": 0.34,
+      "away_win_probability": 0.33,
+      "confidence": "low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Both sides have enough structure to score once but not separate."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-0",
+          "probability": 0.08,
+          "rationale": "Egypt protect the table position and Iran's final ball stalls."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-1",
+          "probability": 0.08,
+          "rationale": "Egypt punish Iran if the chase becomes stretched."
+        }
+      ],
+      "published_at": "2026-06-27T00:00:00+08:00",
+      "updated_at": "2026-06-26T22:16:00+08:00",
+      "source_snapshot_at": "2026-06-26T22:16:00+08:00"
+    },
+    {
+      "match_id": "064",
+      "prediction_file": "predictions/match-064-nzl-bel.md",
+      "prediction_file_zh": "predictions/match-064-nzl-bel.zh-CN.md",
+      "lead_image_file": "assets/cards/match-064-nzl-bel-lead.png",
+      "image_file": "assets/cards/match-064-nzl-bel.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "BEL",
+      "predicted_score": "0-2",
+      "home_win_probability": 0.12,
+      "draw_probability": 0.22,
+      "away_win_probability": 0.66,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-2",
+          "probability": 0.14,
+          "rationale": "Belgium's quality and need for a result produce controlled separation."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.07,
+          "rationale": "New Zealand score from a restart and Belgium's finishing stays cold."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-1",
+          "probability": 0.12,
+          "rationale": "Belgium control the game but stop short of a larger margin."
+        }
+      ],
+      "published_at": "2026-06-27T00:00:00+08:00",
+      "updated_at": "2026-06-26T22:16:00+08:00",
+      "source_snapshot_at": "2026-06-26T22:16:00+08:00"
+    },
+    {
+      "match_id": "065",
+      "prediction_file": "predictions/match-065-cpv-ksa.md",
+      "prediction_file_zh": "predictions/match-065-cpv-ksa.zh-CN.md",
+      "lead_image_file": "assets/cards/match-065-cpv-ksa-lead.png",
+      "image_file": "assets/cards/match-065-cpv-ksa.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "CPV",
+      "predicted_score": "1-0",
+      "home_win_probability": 0.41,
+      "draw_probability": 0.32,
+      "away_win_probability": 0.27,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-0",
+          "probability": 0.11,
+          "rationale": "Cabo Verde's compactness turns one moment into a narrow win."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Saudi Arabia respond if Cabo Verde cannot protect the lead."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-1",
+          "probability": 0.08,
+          "rationale": "A more open late chase gives Cabo Verde another transition chance."
+        }
+      ],
+      "published_at": "2026-06-27T00:00:00+08:00",
+      "updated_at": "2026-06-26T22:16:00+08:00",
+      "source_snapshot_at": "2026-06-26T22:16:00+08:00"
+    },
+    {
+      "match_id": "066",
+      "prediction_file": "predictions/match-066-uru-esp.md",
+      "prediction_file_zh": "predictions/match-066-uru-esp.zh-CN.md",
+      "lead_image_file": "assets/cards/match-066-uru-esp-lead.png",
+      "image_file": "assets/cards/match-066-uru-esp.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "ESP",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.24,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.48,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "Spain's control wins despite Uruguay's pressure response."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Uruguay's duel intensity holds Spain to one goal."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.09,
+          "rationale": "Spain score first and manage Uruguay's chase cleanly."
+        }
+      ],
+      "published_at": "2026-06-27T00:00:00+08:00",
+      "updated_at": "2026-06-26T22:16:00+08:00",
+      "source_snapshot_at": "2026-06-26T22:16:00+08:00"
+    },
+    {
+      "match_id": "067",
+      "prediction_file": "predictions/match-067-pan-eng.md",
+      "prediction_file_zh": "predictions/match-067-pan-eng.zh-CN.md",
+      "lead_image_file": "assets/cards/match-067-pan-eng-lead.png",
+      "image_file": "assets/cards/match-067-pan-eng.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "ENG",
+      "predicted_score": "0-2",
+      "home_win_probability": 0.1,
+      "draw_probability": 0.17,
+      "away_win_probability": 0.73,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-2",
+          "probability": 0.15,
+          "rationale": "England's depth and table control create a clean two-goal path."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-0",
+          "probability": 0.05,
+          "rationale": "Panama's low block and England rotation slow the game."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-3",
+          "probability": 0.11,
+          "rationale": "If England score early, Panama's chase opens the margin."
+        }
+      ],
+      "published_at": "2026-06-28T00:00:00+08:00",
+      "updated_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "068",
+      "prediction_file": "predictions/match-068-cro-gha.md",
+      "prediction_file_zh": "predictions/match-068-cro-gha.zh-CN.md",
+      "lead_image_file": "assets/cards/match-068-cro-gha-lead.png",
+      "image_file": "assets/cards/match-068-cro-gha.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "CRO",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.46,
+      "draw_probability": 0.29,
+      "away_win_probability": 0.25,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.12,
+          "rationale": "Croatia's ranking and must-win pressure create enough late volume."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Ghana's compactness turns the match into a shared-point script."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-0",
+          "probability": 0.1,
+          "rationale": "Croatia edge a lower-tempo match through one set-play or box entry."
+        }
+      ],
+      "published_at": "2026-06-28T00:00:00+08:00",
+      "updated_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "069",
+      "prediction_file": "predictions/match-069-col-por.md",
+      "prediction_file_zh": "predictions/match-069-col-por.zh-CN.md",
+      "lead_image_file": "assets/cards/match-069-col-por-lead.png",
+      "image_file": "assets/cards/match-069-col-por.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "draw",
+      "predicted_winner": null,
+      "predicted_score": "1-1",
+      "home_win_probability": 0.32,
+      "draw_probability": 0.34,
+      "away_win_probability": 0.34,
+      "confidence": "low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Two qualified-level sides trade control without needing full exposure."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-0",
+          "probability": 0.07,
+          "rationale": "Both protect table position and chance quality stays low."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.09,
+          "rationale": "Portugal's attacking quality wins if Colombia overprotect the draw."
+        }
+      ],
+      "published_at": "2026-06-28T00:00:00+08:00",
+      "updated_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "070",
+      "prediction_file": "predictions/match-070-cod-uzb.md",
+      "prediction_file_zh": "predictions/match-070-cod-uzb.zh-CN.md",
+      "lead_image_file": "assets/cards/match-070-cod-uzb-lead.png",
+      "image_file": "assets/cards/match-070-cod-uzb.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "COD",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.41,
+      "draw_probability": 0.29,
+      "away_win_probability": 0.3,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.11,
+          "rationale": "Congo DR's physical edge turns pressure into two scoring phases."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Uzbekistan stay compact and punish one open transition."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-0",
+          "probability": 0.09,
+          "rationale": "A lower-tempo match still leaves Congo DR with the cleaner single chance."
+        }
+      ],
+      "published_at": "2026-06-28T00:00:00+08:00",
+      "updated_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "071",
+      "prediction_file": "predictions/match-071-alg-aut.md",
+      "prediction_file_zh": "predictions/match-071-alg-aut.zh-CN.md",
+      "lead_image_file": "assets/cards/match-071-alg-aut-lead.png",
+      "image_file": "assets/cards/match-071-alg-aut.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "AUT",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.29,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.43,
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.11,
+          "rationale": "Austria's press and ranking edge narrowly beat Algeria's transition threat."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Both teams protect against the decisive mistake."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-2",
+          "probability": 0.08,
+          "rationale": "Austria score first and Algeria's chase opens the second goal."
+        }
+      ],
+      "published_at": "2026-06-28T00:00:00+08:00",
+      "updated_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "072",
+      "prediction_file": "predictions/match-072-jor-arg.md",
+      "prediction_file_zh": "predictions/match-072-jor-arg.zh-CN.md",
+      "lead_image_file": "assets/cards/match-072-jor-arg-lead.png",
+      "image_file": "assets/cards/match-072-jor-arg.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "ARG",
+      "predicted_score": "0-3",
+      "home_win_probability": 0.05,
+      "draw_probability": 0.1,
+      "away_win_probability": 0.85,
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "0-3",
+          "probability": 0.16,
+          "rationale": "Argentina's quality and depth eventually stretch Jordan's block."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-2",
+          "probability": 0.13,
+          "rationale": "Argentina rotate and control without chasing a larger margin."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-3",
+          "probability": 0.07,
+          "rationale": "Jordan find one set-piece response but Argentina still separate."
+        }
+      ],
+      "published_at": "2026-06-28T00:00:00+08:00",
+      "updated_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
     }
   ]
 }

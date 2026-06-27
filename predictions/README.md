@@ -66,3 +66,15 @@ All predictions use ChatGPT 5.5 ultra-high reasoning. Each match includes a fixt
 | 058 | Tunisia vs Netherlands | Netherlands win, 0-3 | [Prediction](../predictions/match-058-tun-ned.md) / [简体中文](../predictions/match-058-tun-ned.zh-CN.md) |
 | 059 | Türkiye vs USA | USA win, 1-2 | [Prediction](../predictions/match-059-tur-usa.md) / [简体中文](../predictions/match-059-tur-usa.zh-CN.md) |
 | 060 | Paraguay vs Australia | Australia win, 1-2 | [Prediction](../predictions/match-060-par-aus.md) / [简体中文](../predictions/match-060-par-aus.zh-CN.md) |
+| 061 | Norway vs France | France win, 1-2 | [Prediction](../predictions/match-061-nor-fra.md) / [简体中文](../predictions/match-061-nor-fra.zh-CN.md) |
+| 062 | Senegal vs Iraq | Senegal win, 2-1 | [Prediction](../predictions/match-062-sen-irq.md) / [简体中文](../predictions/match-062-sen-irq.zh-CN.md) |
+| 063 | Egypt vs IR Iran | Draw, 1-1 | [Prediction](../predictions/match-063-egy-irn.md) / [简体中文](../predictions/match-063-egy-irn.zh-CN.md) |
+| 064 | New Zealand vs Belgium | Belgium win, 0-2 | [Prediction](../predictions/match-064-nzl-bel.md) / [简体中文](../predictions/match-064-nzl-bel.zh-CN.md) |
+| 065 | Cabo Verde vs Saudi Arabia | Cabo Verde win, 1-0 | [Prediction](../predictions/match-065-cpv-ksa.md) / [简体中文](../predictions/match-065-cpv-ksa.zh-CN.md) |
+| 066 | Uruguay vs Spain | Spain win, 1-2 | [Prediction](../predictions/match-066-uru-esp.md) / [简体中文](../predictions/match-066-uru-esp.zh-CN.md) |
+| 067 | Panama vs England | England win, 0-2 | [Prediction](../predictions/match-067-pan-eng.md) / [简体中文](../predictions/match-067-pan-eng.zh-CN.md) |
+| 068 | Croatia vs Ghana | Croatia win, 2-1 | [Prediction](../predictions/match-068-cro-gha.md) / [简体中文](../predictions/match-068-cro-gha.zh-CN.md) |
+| 069 | Colombia vs Portugal | Draw, 1-1 | [Prediction](../predictions/match-069-col-por.md) / [简体中文](../predictions/match-069-col-por.zh-CN.md) |
+| 070 | Congo DR vs Uzbekistan | Congo DR win, 2-1 | [Prediction](../predictions/match-070-cod-uzb.md) / [简体中文](../predictions/match-070-cod-uzb.zh-CN.md) |
+| 071 | Algeria vs Austria | Austria win, 1-2 | [Prediction](../predictions/match-071-alg-aut.md) / [简体中文](../predictions/match-071-alg-aut.zh-CN.md) |
+| 072 | Jordan vs Argentina | Argentina win, 0-3 | [Prediction](../predictions/match-072-jor-arg.md) / [简体中文](../predictions/match-072-jor-arg.zh-CN.md) |

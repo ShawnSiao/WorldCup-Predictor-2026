@@ -288,3 +288,10 @@
 - https://www.fifa.com/en/match-centre/match/17/285023/289273/400021461
 - https://www.climatecentral.org/world-cup-2026/matches/60
 - 核验时间：2026-06-25T13:51:27+08:00
+
+
+## 2026-06-27 第 055-072 场来源快照
+
+- Reviewed results through Match 066 and added prediction sources through Match 072.
+- Key sources: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures; https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-16-preview-group-g-h-i; https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-17-preview-group-j-k-l.
+- Verified at: 2026-06-27T22:45:00+08:00

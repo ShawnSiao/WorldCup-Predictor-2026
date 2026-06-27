@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-25",
-    "tracked_review_count": 54,
-    "last_verified_at": "2026-06-25T13:51:27+08:00"
+    "snapshot_date": "2026-06-27",
+    "tracked_review_count": 66,
+    "last_verified_at": "2026-06-27T22:45:00+08:00"
   },
   "reviews": [
     {
@@ -652,6 +652,150 @@
       "actual_score": "1-0",
       "published_at": "2026-06-25T13:51:27+08:00",
       "source_snapshot_at": "2026-06-25T13:51:27+08:00"
+    },
+    {
+      "match_id": "055",
+      "review_file": "reviews/match-055-cuw-civ.md",
+      "review_file_zh": "reviews/match-055-cuw-civ.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": "CIV",
+      "actual_winner": "CIV",
+      "predicted_score": "0-2",
+      "actual_score": "0-2",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "056",
+      "review_file": "reviews/match-056-ecu-ger.md",
+      "review_file_zh": "reviews/match-056-ecu-ger.zh-CN.md",
+      "review_rating": "wrong",
+      "predicted_winner": "GER",
+      "actual_winner": "ECU",
+      "predicted_score": "1-2",
+      "actual_score": "2-1",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "057",
+      "review_file": "reviews/match-057-jpn-swe.md",
+      "review_file_zh": "reviews/match-057-jpn-swe.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": null,
+      "actual_winner": null,
+      "predicted_score": "1-1",
+      "actual_score": "1-1",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "058",
+      "review_file": "reviews/match-058-tun-ned.md",
+      "review_file_zh": "reviews/match-058-tun-ned.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": "NED",
+      "actual_winner": "NED",
+      "predicted_score": "0-3",
+      "actual_score": "1-3",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "059",
+      "review_file": "reviews/match-059-tur-usa.md",
+      "review_file_zh": "reviews/match-059-tur-usa.zh-CN.md",
+      "review_rating": "wrong",
+      "predicted_winner": "USA",
+      "actual_winner": "TUR",
+      "predicted_score": "1-2",
+      "actual_score": "3-2",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "060",
+      "review_file": "reviews/match-060-par-aus.md",
+      "review_file_zh": "reviews/match-060-par-aus.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "AUS",
+      "actual_winner": null,
+      "predicted_score": "1-2",
+      "actual_score": "0-0",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "061",
+      "review_file": "reviews/match-061-nor-fra.md",
+      "review_file_zh": "reviews/match-061-nor-fra.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "FRA",
+      "actual_winner": "FRA",
+      "predicted_score": "1-2",
+      "actual_score": "1-4",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "062",
+      "review_file": "reviews/match-062-sen-irq.md",
+      "review_file_zh": "reviews/match-062-sen-irq.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "SEN",
+      "actual_winner": "SEN",
+      "predicted_score": "2-1",
+      "actual_score": "5-0",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "063",
+      "review_file": "reviews/match-063-egy-irn.md",
+      "review_file_zh": "reviews/match-063-egy-irn.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": null,
+      "actual_winner": null,
+      "predicted_score": "1-1",
+      "actual_score": "1-1",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "064",
+      "review_file": "reviews/match-064-nzl-bel.md",
+      "review_file_zh": "reviews/match-064-nzl-bel.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "BEL",
+      "actual_winner": "BEL",
+      "predicted_score": "0-2",
+      "actual_score": "1-5",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "065",
+      "review_file": "reviews/match-065-cpv-ksa.md",
+      "review_file_zh": "reviews/match-065-cpv-ksa.zh-CN.md",
+      "review_rating": "wrong",
+      "predicted_winner": "CPV",
+      "actual_winner": null,
+      "predicted_score": "1-0",
+      "actual_score": "0-0",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "066",
+      "review_file": "reviews/match-066-uru-esp.md",
+      "review_file_zh": "reviews/match-066-uru-esp.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": "ESP",
+      "actual_winner": "ESP",
+      "predicted_score": "1-2",
+      "actual_score": "0-1",
+      "published_at": "2026-06-27T22:45:00+08:00",
+      "source_snapshot_at": "2026-06-27T22:45:00+08:00"
     }
   ]
 }

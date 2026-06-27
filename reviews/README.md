@@ -60,3 +60,15 @@ Each completed match records predicted winner, actual winner, scoreline error, a
 | 052 | Bosnia and Herzegovina vs Qatar | Bosnia and Herzegovina 3-1 Qatar | correct | [Review](../reviews/match-052-bih-qat.md) / [简体中文](../reviews/match-052-bih-qat.zh-CN.md) |
 | 053 | Czechia vs Mexico | Czechia 0-3 Mexico | partial | [Review](../reviews/match-053-cze-mex.md) / [简体中文](../reviews/match-053-cze-mex.zh-CN.md) |
 | 054 | South Africa vs Korea Republic | South Africa 1-0 Korea Republic | wrong | [Review](../reviews/match-054-rsa-kor.md) / [简体中文](../reviews/match-054-rsa-kor.zh-CN.md) |
+| 055 | Curaçao vs Côte d'Ivoire | Curaçao 0-2 Côte d'Ivoire | correct | [Review](../reviews/match-055-cuw-civ.md) / [简体中文](../reviews/match-055-cuw-civ.zh-CN.md) |
+| 056 | Ecuador vs Germany | Ecuador 2-1 Germany | wrong | [Review](../reviews/match-056-ecu-ger.md) / [简体中文](../reviews/match-056-ecu-ger.zh-CN.md) |
+| 057 | Japan vs Sweden | Japan 1-1 Sweden | correct | [Review](../reviews/match-057-jpn-swe.md) / [简体中文](../reviews/match-057-jpn-swe.zh-CN.md) |
+| 058 | Tunisia vs Netherlands | Tunisia 1-3 Netherlands | correct | [Review](../reviews/match-058-tun-ned.md) / [简体中文](../reviews/match-058-tun-ned.zh-CN.md) |
+| 059 | Türkiye vs USA | Türkiye 3-2 USA | wrong | [Review](../reviews/match-059-tur-usa.md) / [简体中文](../reviews/match-059-tur-usa.zh-CN.md) |
+| 060 | Paraguay vs Australia | Paraguay 0-0 Australia | partial | [Review](../reviews/match-060-par-aus.md) / [简体中文](../reviews/match-060-par-aus.zh-CN.md) |
+| 061 | Norway vs France | Norway 1-4 France | partial | [Review](../reviews/match-061-nor-fra.md) / [简体中文](../reviews/match-061-nor-fra.zh-CN.md) |
+| 062 | Senegal vs Iraq | Senegal 5-0 Iraq | partial | [Review](../reviews/match-062-sen-irq.md) / [简体中文](../reviews/match-062-sen-irq.zh-CN.md) |
+| 063 | Egypt vs IR Iran | Egypt 1-1 IR Iran | correct | [Review](../reviews/match-063-egy-irn.md) / [简体中文](../reviews/match-063-egy-irn.zh-CN.md) |
+| 064 | New Zealand vs Belgium | New Zealand 1-5 Belgium | partial | [Review](../reviews/match-064-nzl-bel.md) / [简体中文](../reviews/match-064-nzl-bel.zh-CN.md) |
+| 065 | Cabo Verde vs Saudi Arabia | Cabo Verde 0-0 Saudi Arabia | wrong | [Review](../reviews/match-065-cpv-ksa.md) / [简体中文](../reviews/match-065-cpv-ksa.zh-CN.md) |
+| 066 | Uruguay vs Spain | Uruguay 0-1 Spain | correct | [Review](../reviews/match-066-uru-esp.md) / [简体中文](../reviews/match-066-uru-esp.zh-CN.md) |

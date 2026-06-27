@@ -66,3 +66,15 @@
 | 058 | 突尼斯 vs 荷兰 | 荷兰胜，0-3 | [预测](../predictions/match-058-tun-ned.zh-CN.md) / [English](../predictions/match-058-tun-ned.md) |
 | 059 | 土耳其 vs 美国 | 美国胜，1-2 | [预测](../predictions/match-059-tur-usa.zh-CN.md) / [English](../predictions/match-059-tur-usa.md) |
 | 060 | 巴拉圭 vs 澳大利亚 | 澳大利亚胜，1-2 | [预测](../predictions/match-060-par-aus.zh-CN.md) / [English](../predictions/match-060-par-aus.md) |
+| 061 | 挪威 vs 法国 | 法国胜，1-2 | [预测](../predictions/match-061-nor-fra.zh-CN.md) / [English](../predictions/match-061-nor-fra.md) |
+| 062 | 塞内加尔 vs 伊拉克 | 塞内加尔胜，2-1 | [预测](../predictions/match-062-sen-irq.zh-CN.md) / [English](../predictions/match-062-sen-irq.md) |
+| 063 | 埃及 vs 伊朗 | 平局，1-1 | [预测](../predictions/match-063-egy-irn.zh-CN.md) / [English](../predictions/match-063-egy-irn.md) |
+| 064 | 新西兰 vs 比利时 | 比利时胜，0-2 | [预测](../predictions/match-064-nzl-bel.zh-CN.md) / [English](../predictions/match-064-nzl-bel.md) |
+| 065 | 佛得角 vs 沙特阿拉伯 | 佛得角胜，1-0 | [预测](../predictions/match-065-cpv-ksa.zh-CN.md) / [English](../predictions/match-065-cpv-ksa.md) |
+| 066 | 乌拉圭 vs 西班牙 | 西班牙胜，1-2 | [预测](../predictions/match-066-uru-esp.zh-CN.md) / [English](../predictions/match-066-uru-esp.md) |
+| 067 | 巴拿马 vs 英格兰 | 英格兰胜，0-2 | [预测](../predictions/match-067-pan-eng.zh-CN.md) / [English](../predictions/match-067-pan-eng.md) |
+| 068 | 克罗地亚 vs 加纳 | 克罗地亚胜，2-1 | [预测](../predictions/match-068-cro-gha.zh-CN.md) / [English](../predictions/match-068-cro-gha.md) |
+| 069 | 哥伦比亚 vs 葡萄牙 | 平局，1-1 | [预测](../predictions/match-069-col-por.zh-CN.md) / [English](../predictions/match-069-col-por.md) |
+| 070 | 刚果（金） vs 乌兹别克斯坦 | 刚果（金）胜，2-1 | [预测](../predictions/match-070-cod-uzb.zh-CN.md) / [English](../predictions/match-070-cod-uzb.md) |
+| 071 | 阿尔及利亚 vs 奥地利 | 奥地利胜，1-2 | [预测](../predictions/match-071-alg-aut.zh-CN.md) / [English](../predictions/match-071-alg-aut.md) |
+| 072 | 约旦 vs 阿根廷 | 阿根廷胜，0-3 | [预测](../predictions/match-072-jor-arg.zh-CN.md) / [English](../predictions/match-072-jor-arg.md) |

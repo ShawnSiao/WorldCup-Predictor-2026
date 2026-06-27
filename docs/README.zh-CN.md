@@ -8,26 +8,26 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-25 |
+| 数据快照 | 2026-06-27 |
 | 赛事窗口 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已跟踪比赛 | 60 |
-| 已发布预测 | 60 |
-| 已跟踪完赛结果 | 54 |
-| 已发布赛后复盘 | 54 |
+| 仓库已跟踪比赛 | 72 |
+| 已发布预测 | 72 |
+| 已跟踪完赛结果 | 66 |
+| 已发布赛后复盘 | 66 |
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 库拉索 vs 科特迪瓦 | E 组 | 2026-06-25 20:00 UTC / 2026-06-26 04:00 中国时间 | Philadelphia Stadium | [科特迪瓦胜，0-2](../predictions/match-055-cuw-civ.zh-CN.md) / [English](../predictions/match-055-cuw-civ.md) |
-| 厄瓜多尔 vs 德国 | E 组 | 2026-06-25 20:00 UTC / 2026-06-26 04:00 中国时间 | New York New Jersey Stadium | [德国胜，1-2](../predictions/match-056-ecu-ger.zh-CN.md) / [English](../predictions/match-056-ecu-ger.md) |
-| 日本 vs 瑞典 | F 组 | 2026-06-25 23:00 UTC / 2026-06-26 07:00 中国时间 | Dallas Stadium | [平局，1-1](../predictions/match-057-jpn-swe.zh-CN.md) / [English](../predictions/match-057-jpn-swe.md) |
-| 突尼斯 vs 荷兰 | F 组 | 2026-06-25 23:00 UTC / 2026-06-26 07:00 中国时间 | Kansas City Stadium | [荷兰胜，0-3](../predictions/match-058-tun-ned.zh-CN.md) / [English](../predictions/match-058-tun-ned.md) |
-| 土耳其 vs 美国 | D 组 | 2026-06-26 02:00 UTC / 2026-06-26 10:00 中国时间 | Los Angeles Stadium | [美国胜，1-2](../predictions/match-059-tur-usa.zh-CN.md) / [English](../predictions/match-059-tur-usa.md) |
-| 巴拉圭 vs 澳大利亚 | D 组 | 2026-06-26 02:00 UTC / 2026-06-26 10:00 中国时间 | San Francisco Bay Area Stadium | [澳大利亚胜，1-2](../predictions/match-060-par-aus.zh-CN.md) / [English](../predictions/match-060-par-aus.md) |
+| 巴拿马 vs 英格兰 | L 组 | 2026-06-27 21:00 UTC / 2026-06-28 05:00 中国时间 | New York New Jersey Stadium | [英格兰胜，0-2](../predictions/match-067-pan-eng.zh-CN.md) / [English](../predictions/match-067-pan-eng.md) |
+| 克罗地亚 vs 加纳 | L 组 | 2026-06-27 21:00 UTC / 2026-06-28 05:00 中国时间 | Philadelphia Stadium | [克罗地亚胜，2-1](../predictions/match-068-cro-gha.zh-CN.md) / [English](../predictions/match-068-cro-gha.md) |
+| 哥伦比亚 vs 葡萄牙 | K 组 | 2026-06-27 23:30 UTC / 2026-06-28 07:30 中国时间 | Miami Stadium | [平局，1-1](../predictions/match-069-col-por.zh-CN.md) / [English](../predictions/match-069-col-por.md) |
+| 刚果（金） vs 乌兹别克斯坦 | K 组 | 2026-06-27 23:30 UTC / 2026-06-28 07:30 中国时间 | Atlanta Stadium | [刚果（金）胜，2-1](../predictions/match-070-cod-uzb.zh-CN.md) / [English](../predictions/match-070-cod-uzb.md) |
+| 阿尔及利亚 vs 奥地利 | J 组 | 2026-06-28 02:00 UTC / 2026-06-28 10:00 中国时间 | Kansas City Stadium | [奥地利胜，1-2](../predictions/match-071-alg-aut.zh-CN.md) / [English](../predictions/match-071-alg-aut.md) |
+| 约旦 vs 阿根廷 | J 组 | 2026-06-28 02:00 UTC / 2026-06-28 10:00 中国时间 | Dallas Stadium | [阿根廷胜，0-3](../predictions/match-072-jor-arg.zh-CN.md) / [English](../predictions/match-072-jor-arg.md) |
 ## 每日总览图
 
-[![中国时间 2026-06-26 预测总览图](../assets/cards/daily-2026-06-26-summary.png)](../reports/daily/2026-06-26.zh-CN.md)
+[![中国时间 2026-06-28 预测总览图](../assets/cards/daily-2026-06-28-summary.png)](../reports/daily/2026-06-28.zh-CN.md)
 
 总览图把同一中国时间日期的比赛集中到一张分享图，并把每条比分情景对应到独立理由。
 ## 预测首图
@@ -92,11 +92,23 @@
 [![突尼斯 vs 荷兰 预测首图](../assets/cards/match-058-tun-ned-lead.png)](../predictions/match-058-tun-ned.zh-CN.md)
 [![土耳其 vs 美国 预测首图](../assets/cards/match-059-tur-usa-lead.png)](../predictions/match-059-tur-usa.zh-CN.md)
 [![巴拉圭 vs 澳大利亚 预测首图](../assets/cards/match-060-par-aus-lead.png)](../predictions/match-060-par-aus.zh-CN.md)
+[![挪威 vs 法国 预测首图](../assets/cards/match-061-nor-fra-lead.png)](../predictions/match-061-nor-fra.zh-CN.md)
+[![塞内加尔 vs 伊拉克 预测首图](../assets/cards/match-062-sen-irq-lead.png)](../predictions/match-062-sen-irq.zh-CN.md)
+[![埃及 vs 伊朗 预测首图](../assets/cards/match-063-egy-irn-lead.png)](../predictions/match-063-egy-irn.zh-CN.md)
+[![新西兰 vs 比利时 预测首图](../assets/cards/match-064-nzl-bel-lead.png)](../predictions/match-064-nzl-bel.zh-CN.md)
+[![佛得角 vs 沙特阿拉伯 预测首图](../assets/cards/match-065-cpv-ksa-lead.png)](../predictions/match-065-cpv-ksa.zh-CN.md)
+[![乌拉圭 vs 西班牙 预测首图](../assets/cards/match-066-uru-esp-lead.png)](../predictions/match-066-uru-esp.zh-CN.md)
+[![巴拿马 vs 英格兰 预测首图](../assets/cards/match-067-pan-eng-lead.png)](../predictions/match-067-pan-eng.zh-CN.md)
+[![克罗地亚 vs 加纳 预测首图](../assets/cards/match-068-cro-gha-lead.png)](../predictions/match-068-cro-gha.zh-CN.md)
+[![哥伦比亚 vs 葡萄牙 预测首图](../assets/cards/match-069-col-por-lead.png)](../predictions/match-069-col-por.zh-CN.md)
+[![刚果（金） vs 乌兹别克斯坦 预测首图](../assets/cards/match-070-cod-uzb-lead.png)](../predictions/match-070-cod-uzb.zh-CN.md)
+[![阿尔及利亚 vs 奥地利 预测首图](../assets/cards/match-071-alg-aut-lead.png)](../predictions/match-071-alg-aut.zh-CN.md)
+[![约旦 vs 阿根廷 预测首图](../assets/cards/match-072-jor-arg-lead.png)](../predictions/match-072-jor-arg.zh-CN.md)
 
 分享图片位于 [`assets/cards/`](../assets/cards/)。每场预测先嵌入不含赛果暗示的首图，再嵌入结果预测配图。
 ## 今日状态
 
-截至第 054 场，所有已核验完赛结果都已完成复盘。下一组中国时间比赛包括库拉索 vs 科特迪瓦、厄瓜多尔 vs 德国、日本 vs 瑞典、突尼斯 vs 荷兰、土耳其 vs 美国、巴拉圭 vs 澳大利亚。校准上调先得分热门的零封和多球胜尾部，同时在必须赢球弱势方场景保留低比分冷门分支。
+截至第 066 场，所有已核验完赛结果都已完成复盘。下一组中国时间比赛包括巴拿马 vs 英格兰、克罗地亚 vs 加纳、哥伦比亚 vs 葡萄牙、刚果（金）vs 乌兹别克斯坦、阿尔及利亚 vs 奥地利、约旦 vs 阿根廷。校准上调比利时、法国、塞内加尔大胜后的热门分差尾部，同时保留末轮出线战的平局保护路径。
 ## 推理模型
 
 全部预测指定使用 ChatGPT 5.5 ultra-high reasoning model。
@@ -123,9 +135,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 060 场：巴拉圭 vs 澳大利亚](../predictions/match-060-par-aus.zh-CN.md)
-- 最新复盘：[第 054 场：南非 vs 韩国](../reviews/match-054-rsa-kor.zh-CN.md)
-- 最新日报：[2026-06-26](../reports/daily/2026-06-26.zh-CN.md)
+- 最新预测：[第 072 场：约旦 vs 阿根廷](../predictions/match-072-jor-arg.zh-CN.md)
+- 最新复盘：[第 066 场：乌拉圭 vs 西班牙](../reviews/match-066-uru-esp.zh-CN.md)
+- 最新日报：[2026-06-28](../reports/daily/2026-06-28.zh-CN.md)
 - 方法论：[Prediction and review methodology](methodology.md) / [简体中文](methodology.zh-CN.md)
 - 校准：[Prediction calibration](prediction-calibration.md) / [简体中文](prediction-calibration.zh-CN.md)
 - 数据结构：[Repository data schema](data-schema.md) / [简体中文](data-schema.zh-CN.md)

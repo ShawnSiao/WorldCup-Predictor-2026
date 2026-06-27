@@ -60,3 +60,15 @@
 | 052 | 波黑 vs 卡塔尔 | 波黑 3-1 卡塔尔 | correct | [复盘](../reviews/match-052-bih-qat.zh-CN.md) / [English](../reviews/match-052-bih-qat.md) |
 | 053 | 捷克 vs 墨西哥 | 捷克 0-3 墨西哥 | partial | [复盘](../reviews/match-053-cze-mex.zh-CN.md) / [English](../reviews/match-053-cze-mex.md) |
 | 054 | 南非 vs 韩国 | 南非 1-0 韩国 | wrong | [复盘](../reviews/match-054-rsa-kor.zh-CN.md) / [English](../reviews/match-054-rsa-kor.md) |
+| 055 | 库拉索 vs 科特迪瓦 | 库拉索 0-2 科特迪瓦 | correct | [复盘](../reviews/match-055-cuw-civ.zh-CN.md) / [English](../reviews/match-055-cuw-civ.md) |
+| 056 | 厄瓜多尔 vs 德国 | 厄瓜多尔 2-1 德国 | wrong | [复盘](../reviews/match-056-ecu-ger.zh-CN.md) / [English](../reviews/match-056-ecu-ger.md) |
+| 057 | 日本 vs 瑞典 | 日本 1-1 瑞典 | correct | [复盘](../reviews/match-057-jpn-swe.zh-CN.md) / [English](../reviews/match-057-jpn-swe.md) |
+| 058 | 突尼斯 vs 荷兰 | 突尼斯 1-3 荷兰 | correct | [复盘](../reviews/match-058-tun-ned.zh-CN.md) / [English](../reviews/match-058-tun-ned.md) |
+| 059 | 土耳其 vs 美国 | 土耳其 3-2 美国 | wrong | [复盘](../reviews/match-059-tur-usa.zh-CN.md) / [English](../reviews/match-059-tur-usa.md) |
+| 060 | 巴拉圭 vs 澳大利亚 | 巴拉圭 0-0 澳大利亚 | partial | [复盘](../reviews/match-060-par-aus.zh-CN.md) / [English](../reviews/match-060-par-aus.md) |
+| 061 | 挪威 vs 法国 | 挪威 1-4 法国 | partial | [复盘](../reviews/match-061-nor-fra.zh-CN.md) / [English](../reviews/match-061-nor-fra.md) |
+| 062 | 塞内加尔 vs 伊拉克 | 塞内加尔 5-0 伊拉克 | partial | [复盘](../reviews/match-062-sen-irq.zh-CN.md) / [English](../reviews/match-062-sen-irq.md) |
+| 063 | 埃及 vs 伊朗 | 埃及 1-1 伊朗 | correct | [复盘](../reviews/match-063-egy-irn.zh-CN.md) / [English](../reviews/match-063-egy-irn.md) |
+| 064 | 新西兰 vs 比利时 | 新西兰 1-5 比利时 | partial | [复盘](../reviews/match-064-nzl-bel.zh-CN.md) / [English](../reviews/match-064-nzl-bel.md) |
+| 065 | 佛得角 vs 沙特阿拉伯 | 佛得角 0-0 沙特阿拉伯 | wrong | [复盘](../reviews/match-065-cpv-ksa.zh-CN.md) / [English](../reviews/match-065-cpv-ksa.md) |
+| 066 | 乌拉圭 vs 西班牙 | 乌拉圭 0-1 西班牙 | correct | [复盘](../reviews/match-066-uru-esp.zh-CN.md) / [English](../reviews/match-066-uru-esp.md) |
