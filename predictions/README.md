@@ -78,3 +78,4 @@ All predictions use ChatGPT 5.5 ultra-high reasoning. Each match includes a fixt
 | 070 | Congo DR vs Uzbekistan | Congo DR win, 2-1 | [Prediction](../predictions/match-070-cod-uzb.md) / [简体中文](../predictions/match-070-cod-uzb.zh-CN.md) |
 | 071 | Algeria vs Austria | Austria win, 1-2 | [Prediction](../predictions/match-071-alg-aut.md) / [简体中文](../predictions/match-071-alg-aut.zh-CN.md) |
 | 072 | Jordan vs Argentina | Argentina win, 0-3 | [Prediction](../predictions/match-072-jor-arg.md) / [简体中文](../predictions/match-072-jor-arg.zh-CN.md) |
+| 073 | South Africa vs Canada | Canada win, 1-2 | [Prediction](../predictions/match-073-rsa-can.md) / [简体中文](../predictions/match-073-rsa-can.zh-CN.md) |

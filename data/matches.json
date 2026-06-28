@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-27",
-    "coverage": "opening matchday window through Match 072",
+    "snapshot_date": "2026-06-28",
+    "coverage": "opening matchday window through Match 073",
     "official_match_count": 104,
-    "tracked_match_count": 72,
+    "tracked_match_count": 73,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -214,7 +214,11 @@
       "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/AUS?gender=men",
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-16-preview-group-g-h-i",
-      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-17-preview-group-j-k-l"
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-17-preview-group-j-k-l",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021518",
+      "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-returns-canada-world-cup-moment-of-destiny",
+      "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
+      "https://www.ticketmaster.com/world-cup-round-of-16-w73-houston-07-04-2026/event/Z7r9jZ1A7434t"
     ],
     "last_verified_at": "2026-06-27T22:45:00+08:00"
   },
@@ -1902,7 +1906,7 @@
       "country": "United States",
       "home_team_code": "PAN",
       "away_team_code": "ENG",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021512",
@@ -1911,7 +1915,7 @@
         "https://inside.fifa.com/fifa-world-ranking/PAN?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/ENG?gender=men"
       ],
-      "last_verified_at": "2026-06-27T22:45:00+08:00"
+      "last_verified_at": "2026-06-28T17:00:00+08:00"
     },
     {
       "match_id": "068",
@@ -1926,7 +1930,7 @@
       "country": "United States",
       "home_team_code": "CRO",
       "away_team_code": "GHA",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021509",
@@ -1935,7 +1939,7 @@
         "https://inside.fifa.com/fifa-world-ranking/CRO?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/GHA?gender=men"
       ],
-      "last_verified_at": "2026-06-27T22:45:00+08:00"
+      "last_verified_at": "2026-06-28T17:00:00+08:00"
     },
     {
       "match_id": "069",
@@ -1950,7 +1954,7 @@
       "country": "United States",
       "home_team_code": "COL",
       "away_team_code": "POR",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021502",
@@ -1959,7 +1963,7 @@
         "https://inside.fifa.com/fifa-world-ranking/COL?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/POR?gender=men"
       ],
-      "last_verified_at": "2026-06-27T22:45:00+08:00"
+      "last_verified_at": "2026-06-28T17:00:00+08:00"
     },
     {
       "match_id": "070",
@@ -1974,7 +1978,7 @@
       "country": "United States",
       "home_team_code": "COD",
       "away_team_code": "UZB",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021500",
@@ -1983,7 +1987,7 @@
         "https://inside.fifa.com/fifa-world-ranking/COD?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/UZB?gender=men"
       ],
-      "last_verified_at": "2026-06-27T22:45:00+08:00"
+      "last_verified_at": "2026-06-28T17:00:00+08:00"
     },
     {
       "match_id": "071",
@@ -1998,7 +2002,7 @@
       "country": "United States",
       "home_team_code": "ALG",
       "away_team_code": "AUT",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021497",
@@ -2007,7 +2011,7 @@
         "https://inside.fifa.com/fifa-world-ranking/ALG?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/AUT?gender=men"
       ],
-      "last_verified_at": "2026-06-27T22:45:00+08:00"
+      "last_verified_at": "2026-06-28T17:00:00+08:00"
     },
     {
       "match_id": "072",
@@ -2022,7 +2026,7 @@
       "country": "United States",
       "home_team_code": "JOR",
       "away_team_code": "ARG",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021499",
@@ -2031,7 +2035,31 @@
         "https://inside.fifa.com/fifa-world-ranking/JOR?gender=men",
         "https://inside.fifa.com/fifa-world-ranking/ARG?gender=men"
       ],
-      "last_verified_at": "2026-06-27T22:45:00+08:00"
+      "last_verified_at": "2026-06-28T17:00:00+08:00"
+    },
+    {
+      "match_id": "073",
+      "stage": "Round of 32",
+      "kickoff_utc": "2026-06-28T19:00:00Z",
+      "kickoff_local": "2026-06-28T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "venue_id": "los-angeles-stadium",
+      "venue_name": "Los Angeles Stadium",
+      "city": "Los Angeles",
+      "country": "United States",
+      "home_team_code": "RSA",
+      "away_team_code": "CAN",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021518",
+        "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-returns-canada-world-cup-moment-of-destiny",
+        "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
+        "https://www.ticketmaster.com/world-cup-round-of-16-w73-houston-07-04-2026/event/Z7r9jZ1A7434t",
+        "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men"
+      ],
+      "last_verified_at": "2026-06-28T17:00:00+08:00"
     }
   ]
 }

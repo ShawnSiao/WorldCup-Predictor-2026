@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-27",
+    "snapshot_date": "2026-06-28",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    "source_snapshot_at": "2026-06-28T17:00:00+08:00"
   },
   "predictions": [
     {
@@ -2572,6 +2572,48 @@
       "published_at": "2026-06-28T00:00:00+08:00",
       "updated_at": "2026-06-27T22:45:00+08:00",
       "source_snapshot_at": "2026-06-27T22:45:00+08:00"
+    },
+    {
+      "match_id": "073",
+      "prediction_file": "predictions/match-073-rsa-can.md",
+      "prediction_file_zh": "predictions/match-073-rsa-can.zh-CN.md",
+      "lead_image_file": "assets/cards/match-073-rsa-can-lead.png",
+      "image_file": "assets/cards/match-073-rsa-can.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "CAN",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.22,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.51,
+      "advancement_probability": {
+        "RSA": 0.38,
+        "CAN": 0.62
+      },
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "Canada's attacking depth and left-side speed create the clearest regulation-time edge."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.13,
+          "rationale": "South Africa's compact block and set-piece route can drag the match toward extra time."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-0",
+          "probability": 0.08,
+          "rationale": "South Africa turn one restart or transition into an underdog knockout script."
+        }
+      ],
+      "published_at": "2026-06-29T00:00:00+08:00",
+      "updated_at": "2026-06-28T17:00:00+08:00",
+      "source_snapshot_at": "2026-06-28T17:00:00+08:00"
     }
   ]
 }

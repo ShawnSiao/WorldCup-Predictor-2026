@@ -295,3 +295,11 @@
 - Reviewed results through Match 066 and added prediction sources through Match 072.
 - Key sources: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures; https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-16-preview-group-g-h-i; https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-17-preview-group-j-k-l.
 - Verified at: 2026-06-27T22:45:00+08:00
+
+
+## 2026-06-28 第 067-073 场来源快照
+
+- 已复盘第 067-072 场赛果，并新增 32 强赛第 073 场预测。
+- 关键来源：FIFA 赛程 / 赛果和比赛中心页面、Guardian 球队新闻与赛程路径报道、Ticketmaster / FIFA 休斯敦 W73-v-W75 列表、FIFA 排名页面，以及 `$imagegen` 生成资产。
+- 第 073 场重点核验：南非 vs 加拿大开球、Los Angeles Stadium、加拿大可用性新闻、南非 Mokoena 回归，以及 W73 通往休斯敦 16 强赛对阵 W75 的签表路径。
+- 核验时间：2026-06-28T17:00:00+08:00

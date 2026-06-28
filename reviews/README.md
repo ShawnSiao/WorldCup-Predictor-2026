@@ -72,3 +72,9 @@ Each completed match records predicted winner, actual winner, scoreline error, a
 | 064 | New Zealand vs Belgium | New Zealand 1-5 Belgium | partial | [Review](../reviews/match-064-nzl-bel.md) / [简体中文](../reviews/match-064-nzl-bel.zh-CN.md) |
 | 065 | Cabo Verde vs Saudi Arabia | Cabo Verde 0-0 Saudi Arabia | wrong | [Review](../reviews/match-065-cpv-ksa.md) / [简体中文](../reviews/match-065-cpv-ksa.zh-CN.md) |
 | 066 | Uruguay vs Spain | Uruguay 0-1 Spain | correct | [Review](../reviews/match-066-uru-esp.md) / [简体中文](../reviews/match-066-uru-esp.zh-CN.md) |
+| 067 | Panama vs England | Panama 0-2 England | correct | [Review](../reviews/match-067-pan-eng.md) / [简体中文](../reviews/match-067-pan-eng.zh-CN.md) |
+| 068 | Croatia vs Ghana | Croatia 2-1 Ghana | correct | [Review](../reviews/match-068-cro-gha.md) / [简体中文](../reviews/match-068-cro-gha.zh-CN.md) |
+| 069 | Colombia vs Portugal | Colombia 0-0 Portugal | correct | [Review](../reviews/match-069-col-por.md) / [简体中文](../reviews/match-069-col-por.zh-CN.md) |
+| 070 | Congo DR vs Uzbekistan | Congo DR 3-1 Uzbekistan | correct | [Review](../reviews/match-070-cod-uzb.md) / [简体中文](../reviews/match-070-cod-uzb.zh-CN.md) |
+| 071 | Algeria vs Austria | Algeria 3-3 Austria | wrong | [Review](../reviews/match-071-alg-aut.md) / [简体中文](../reviews/match-071-alg-aut.zh-CN.md) |
+| 072 | Jordan vs Argentina | Jordan 1-3 Argentina | correct | [Review](../reviews/match-072-jor-arg.md) / [简体中文](../reviews/match-072-jor-arg.zh-CN.md) |

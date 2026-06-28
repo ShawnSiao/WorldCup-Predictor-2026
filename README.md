@@ -13,28 +13,23 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-27 |
+| Data snapshot | 2026-06-28 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 72 |
-| Predictions published | 72 |
-| Final results tracked | 66 |
-| Post-match reviews published | 66 |
+| Tracked matches in repository | 73 |
+| Predictions published | 73 |
+| Final results tracked | 72 |
+| Post-match reviews published | 72 |
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Panama vs England | Group L | 2026-06-27 21:00 UTC / 2026-06-28 05:00 China time | New York New Jersey Stadium | [England win, 0-2](predictions/match-067-pan-eng.md) / [简体中文](predictions/match-067-pan-eng.zh-CN.md) |
-| Croatia vs Ghana | Group L | 2026-06-27 21:00 UTC / 2026-06-28 05:00 China time | Philadelphia Stadium | [Croatia win, 2-1](predictions/match-068-cro-gha.md) / [简体中文](predictions/match-068-cro-gha.zh-CN.md) |
-| Colombia vs Portugal | Group K | 2026-06-27 23:30 UTC / 2026-06-28 07:30 China time | Miami Stadium | [Draw, 1-1](predictions/match-069-col-por.md) / [简体中文](predictions/match-069-col-por.zh-CN.md) |
-| Congo DR vs Uzbekistan | Group K | 2026-06-27 23:30 UTC / 2026-06-28 07:30 China time | Atlanta Stadium | [Congo DR win, 2-1](predictions/match-070-cod-uzb.md) / [简体中文](predictions/match-070-cod-uzb.zh-CN.md) |
-| Algeria vs Austria | Group J | 2026-06-28 02:00 UTC / 2026-06-28 10:00 China time | Kansas City Stadium | [Austria win, 1-2](predictions/match-071-alg-aut.md) / [简体中文](predictions/match-071-alg-aut.zh-CN.md) |
-| Jordan vs Argentina | Group J | 2026-06-28 02:00 UTC / 2026-06-28 10:00 China time | Dallas Stadium | [Argentina win, 0-3](predictions/match-072-jor-arg.md) / [简体中文](predictions/match-072-jor-arg.zh-CN.md) |
+| South Africa vs Canada | Round of 32 | 2026-06-28 19:00 UTC / 2026-06-29 03:00 China time | Los Angeles Stadium | [Canada win, 1-2](predictions/match-073-rsa-can.md) / [简体中文](predictions/match-073-rsa-can.zh-CN.md) |
 ## Daily Overview Card
 
-[![China-time 2026-06-28 prediction overview card](assets/cards/daily-2026-06-28-summary.png)](reports/daily/2026-06-28.md)
+[![China-time 2026-06-29 prediction overview card](assets/cards/daily-2026-06-29-summary.png)](reports/daily/2026-06-29.md)
 
-The overview card groups the same China-time date into one share image and links each scoreline scenario to its own rationale.
+The overview card captures the one-match China-time date with probability, scoreline scenarios, and bracket-path strategy notes.
 ## Featured Prediction Image Sets
 
 [![Mexico vs South Africa lead prediction image](assets/cards/match-001-mex-rsa-lead.png)](predictions/match-001-mex-rsa.md)
@@ -110,10 +105,11 @@ The overview card groups the same China-time date into one share image and links
 [![Algeria vs Austria lead prediction image](assets/cards/match-071-alg-aut-lead.png)](predictions/match-071-alg-aut.md)
 [![Jordan vs Argentina lead prediction image](assets/cards/match-072-jor-arg-lead.png)](predictions/match-072-jor-arg.md)
 
+[![South Africa vs Canada lead prediction image](assets/cards/match-073-rsa-can-lead.png)](predictions/match-073-rsa-can.md)
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 ## Today
 
-Reviews are now complete for all verified finals through Match 066. The next China-time matchday window covers Panama vs England, Croatia vs Ghana, Colombia vs Portugal, Congo DR vs Uzbekistan, Algeria vs Austria, and Jordan vs Argentina. Calibration now raises favorite-margin tails after Belgium, France, and Senegal blowouts while keeping draw protection for tight final-round qualification games.
+Reviews are now complete for all verified finals through Match 072. The next China-time window is Match 073, South Africa vs Canada, the first Round of 32 match. Calibration now keeps Canada's attacking edge while raising the extra-time draw path and requiring explicit bracket-path strategy analysis.
 ## Reasoning Model
 
 All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model.
@@ -140,9 +136,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 072: Jordan vs Argentina](predictions/match-072-jor-arg.md)
-- Latest review: [Match 066: Uruguay vs Spain](reviews/match-066-uru-esp.md)
-- Latest daily report: [2026-06-28](reports/daily/2026-06-28.md)
+- Latest prediction: [Match 073: South Africa vs Canada](predictions/match-073-rsa-can.md)
+- Latest review: [Match 072: Jordan vs Argentina](reviews/match-072-jor-arg.md)
+- Latest daily report: [2026-06-29](reports/daily/2026-06-29.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

@@ -72,3 +72,9 @@
 | 064 | 新西兰 vs 比利时 | 新西兰 1-5 比利时 | partial | [复盘](../reviews/match-064-nzl-bel.zh-CN.md) / [English](../reviews/match-064-nzl-bel.md) |
 | 065 | 佛得角 vs 沙特阿拉伯 | 佛得角 0-0 沙特阿拉伯 | wrong | [复盘](../reviews/match-065-cpv-ksa.zh-CN.md) / [English](../reviews/match-065-cpv-ksa.md) |
 | 066 | 乌拉圭 vs 西班牙 | 乌拉圭 0-1 西班牙 | correct | [复盘](../reviews/match-066-uru-esp.zh-CN.md) / [English](../reviews/match-066-uru-esp.md) |
+| 067 | 巴拿马 vs 英格兰 | 巴拿马 0-2 英格兰 | correct | [复盘](../reviews/match-067-pan-eng.zh-CN.md) / [English](../reviews/match-067-pan-eng.md) |
+| 068 | 克罗地亚 vs 加纳 | 克罗地亚 2-1 加纳 | correct | [复盘](../reviews/match-068-cro-gha.zh-CN.md) / [English](../reviews/match-068-cro-gha.md) |
+| 069 | 哥伦比亚 vs 葡萄牙 | 哥伦比亚 0-0 葡萄牙 | correct | [复盘](../reviews/match-069-col-por.zh-CN.md) / [English](../reviews/match-069-col-por.md) |
+| 070 | 刚果（金） vs 乌兹别克斯坦 | 刚果（金） 3-1 乌兹别克斯坦 | correct | [复盘](../reviews/match-070-cod-uzb.zh-CN.md) / [English](../reviews/match-070-cod-uzb.md) |
+| 071 | 阿尔及利亚 vs 奥地利 | 阿尔及利亚 3-3 奥地利 | wrong | [复盘](../reviews/match-071-alg-aut.zh-CN.md) / [English](../reviews/match-071-alg-aut.md) |
+| 072 | 约旦 vs 阿根廷 | 约旦 1-3 阿根廷 | correct | [复盘](../reviews/match-072-jor-arg.zh-CN.md) / [English](../reviews/match-072-jor-arg.md) |

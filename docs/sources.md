@@ -295,3 +295,11 @@ Key URLs added in this snapshot:
 - Reviewed results through Match 066 and added prediction sources through Match 072.
 - Key sources: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures; https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-16-preview-group-g-h-i; https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-17-preview-group-j-k-l.
 - Verified at: 2026-06-27T22:45:00+08:00
+
+
+## 2026-06-28 Match 067-073 Source Snapshot
+
+- Reviewed results for Match 067-072 and added the Round of 32 Match 073 prediction.
+- Key sources: FIFA fixtures/results and match-centre pages, Guardian team-news and bracket-path reporting, Ticketmaster/FIFA Houston W73-v-W75 listing, FIFA ranking pages, and generated `$imagegen` assets.
+- Match 073 source focus: South Africa vs Canada kickoff, Los Angeles Stadium, Canada availability news, South Africa Mokoena return, and W73 bracket path toward a Houston Round of 16 against W75.
+- Verified at: 2026-06-28T17:00:00+08:00

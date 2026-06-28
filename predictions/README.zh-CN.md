@@ -78,3 +78,4 @@
 | 070 | 刚果（金） vs 乌兹别克斯坦 | 刚果（金）胜，2-1 | [预测](../predictions/match-070-cod-uzb.zh-CN.md) / [English](../predictions/match-070-cod-uzb.md) |
 | 071 | 阿尔及利亚 vs 奥地利 | 奥地利胜，1-2 | [预测](../predictions/match-071-alg-aut.zh-CN.md) / [English](../predictions/match-071-alg-aut.md) |
 | 072 | 约旦 vs 阿根廷 | 阿根廷胜，0-3 | [预测](../predictions/match-072-jor-arg.zh-CN.md) / [English](../predictions/match-072-jor-arg.md) |
+| 073 | 南非 vs 加拿大 | 加拿大胜，1-2 | [预测](../predictions/match-073-rsa-can.zh-CN.md) / [English](../predictions/match-073-rsa-can.md) |
