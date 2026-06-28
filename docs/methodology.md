@@ -20,12 +20,15 @@ Each pre-match prediction must complete a pre-result coverage pass before publis
 - public sentiment, media narrative, and crowd expectation
 - weather, climate, pitch, altitude, and venue conditions
 - psychology, pressure, motivation, and group/knockout incentives
+- bracket path incentives, including whether winning, drawing, or losing changes next-round opponent strength, rest/travel burden, draw quadrant, or qualification route
 - reputable public forecast signals and movement, clearly labeled as context
 - expert views from reputable analysts or official broadcast/editorial sources
 
 If an input is unavailable, stale, or unverified, the prediction must label the gap, explain how it affects confidence, and avoid using the missing item as confirmed evidence.
 
 Data gaps should be closed through the source tiers in [Prediction Calibration](prediction-calibration.md). In short: schedule/results/rankings are refreshed from official structured sources; weather, odds movement, and expert views require timestamped snapshots; injuries, suspensions, and likely lineups require official or reputable late team-news verification before confidence can be raised.
+
+Every prediction must include a bracket path incentive read. This applies to all matches, not only final group matches. The forecast should compare the current live table or bracket against plausible next-round paths, then explain whether a team has reason to protect a draw, chase top spot, manage minutes, avoid a stronger opponent, or accept a lower-risk route. If the path is not yet fixed, the forecast must say so and keep the strategy effect as a confidence limiter rather than confirmed intent.
 
 ## Prediction Output
 
@@ -45,6 +48,8 @@ Group-stage predictions include:
 - risk factors
 - platform share copy
 - investment advice disclaimer
+
+The prediction copy must describe the strategy read clearly enough for readers to see how bracket path incentives affected the published probabilities, scoreline scenarios, rotation risk, and confidence level.
 
 Knockout predictions should add advancement probability and separate regulation-time outcome from extra-time or penalty scenarios.
 

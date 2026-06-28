@@ -38,11 +38,13 @@ Every prediction file in `predictions/` must include:
 - `## Disclaimer`
 - `## Source Snapshot`
 
-Prediction reasoning must be based on current facts such as official schedule, venue, team strength, rankings, squad availability, recent form, and verified source updates.
+Prediction reasoning must be based on current facts such as official schedule, venue, team strength, rankings, squad availability, recent form, group table state, knockout bracket path, and verified source updates.
 
-Before publishing any predicted result, the model must complete a documented coverage pass across all of these dimensions: tactics, players, injuries/suspensions, schedule/rest/travel, head-to-head and tournament history, public sentiment/media narrative, weather and venue conditions, psychology/pressure/motivation, odds movement, and expert views. If a dimension is unavailable or not yet verified, the prediction must say so explicitly, explain the impact on confidence, and avoid treating that dimension as confirmed evidence.
+Before publishing any predicted result, the model must complete a documented coverage pass across all of these dimensions: tactics, players, injuries/suspensions, schedule/rest/travel, head-to-head and tournament history, public sentiment/media narrative, weather and venue conditions, psychology/pressure/motivation, bracket path incentives, odds movement, and expert views. If a dimension is unavailable or not yet verified, the prediction must say so explicitly, explain the impact on confidence, and avoid treating that dimension as confirmed evidence.
 
-Use `data/source-coverage.json` and `docs/prediction-calibration.md` as the standing data-gap closure plan. Schedule/results/rankings should be refreshed from official structured sources. Weather, odds movement, expert views, injuries, suspensions, and likely lineups need timestamped snapshots or official/reputable late team-news verification before confidence is raised.
+Every prediction must explicitly evaluate bracket path incentives, including whether winning, drawing, or losing changes the next-round opponent quality, rest/travel burden, draw quadrant, or qualification route. This applies to every match, not only final group matches. When the next-round path is not yet fixed, the prediction must state the current uncertainty, compare the live table or bracket possibilities with reputable source data, and explain how this uncertainty affects probabilities, scoreline scenarios, rotation risk, risk appetite, and confidence. Do not assume deliberate underperformance; treat any "Tian Ji horse racing" style strategy as a hypothesis that requires table/bracket incentives, coach incentives, and squad-rotation evidence.
+
+Use `data/source-coverage.json` and `docs/prediction-calibration.md` as the standing data-gap closure plan. Schedule/results/rankings should be refreshed from official structured sources. Weather, bracket path incentives, odds movement, expert views, injuries, suspensions, and likely lineups need timestamped snapshots or official/reputable late team-news verification before confidence is raised.
 
 For Match 017 onward, every new or refreshed prediction must include three scoreline scenarios in addition to the three-way win/draw/loss probabilities:
 

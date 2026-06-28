@@ -41,6 +41,7 @@ IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 SCORELINE_SCENARIO_REQUIRED_FROM_MATCH = 17
 SCORELINE_SCENARIO_LABELS = {"primary", "conservative_draw_path", "upside_alternate"}
 DAILY_OVERVIEW_REQUIRED_FROM = "2026-06-15"
+BRACKET_PATH_INCENTIVE_REQUIRED_FROM_MATCH = 73
 SOURCE_COVERAGE_DIMENSIONS = {
     "schedule_results",
     "squads_players",
@@ -48,6 +49,7 @@ SOURCE_COVERAGE_DIMENSIONS = {
     "weather_venue_pitch",
     "odds_market_movement",
     "expert_tactical_views",
+    "bracket_path_incentives",
     "post_match_error_tags",
 }
 PREDICTION_REQUIRED_SECTIONS = [
@@ -165,6 +167,45 @@ def requires_scoreline_scenarios(match_id: str | None) -> bool:
         return False
 
 
+def requires_bracket_path_incentives(match_id: str | None) -> bool:
+    if not match_id:
+        return False
+    try:
+        return int(match_id) >= BRACKET_PATH_INCENTIVE_REQUIRED_FROM_MATCH
+    except ValueError:
+        return False
+
+
+def extract_markdown_section(text: str, heading: str) -> str:
+    marker = f"{heading}\n"
+    start = text.find(marker)
+    if start == -1:
+        return ""
+    body_start = start + len(marker)
+    next_heading = text.find("\n## ", body_start)
+    if next_heading == -1:
+        return text[body_start:]
+    return text[body_start:next_heading]
+
+
+def validate_bracket_path_incentive_row(
+    text: str,
+    match_id: str | None,
+    label: str,
+    heading: str,
+    required_terms: tuple[str, ...],
+    errors: list[str],
+) -> None:
+    if not requires_bracket_path_incentives(match_id):
+        return
+    section = extract_markdown_section(text, heading)
+    if not section:
+        return
+    normalized = section.lower()
+    if not any(term.lower() in normalized for term in required_terms):
+        errors.append(f"{label} {match_id} missing bracket path incentive coverage row")
+
+
 def validate_scoreline_scenarios(match_id: str | None, prediction: dict, errors: list[str]) -> None:
     if not requires_scoreline_scenarios(match_id):
         return
@@ -266,6 +307,14 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
                 errors.append(f"Prediction {match_id} must include a Chinese investment advice disclaimer")
             if requires_scoreline_scenarios(match_id) and "## Scoreline Scenarios" not in prediction_text:
                 errors.append(f"Prediction {match_id} missing required section: ## Scoreline Scenarios")
+            validate_bracket_path_incentive_row(
+                prediction_text,
+                match_id,
+                "Prediction",
+                "## Prediction Coverage Checklist",
+                ("Bracket path incentives", "Path incentives", "Tian Ji", "bracket strategy"),
+                errors,
+            )
             validate_image_order(
                 prediction_text,
                 match_id,
@@ -292,6 +341,14 @@ def validate_predictions(repo_root: Path, match_ids: set[str], errors: list[str]
                 errors.append(f"Chinese prediction {match_id} missing required section: ## 比分情景")
             if "投资建议" not in prediction_text_zh:
                 errors.append(f"Chinese prediction {match_id} must include a Chinese investment advice disclaimer")
+            validate_bracket_path_incentive_row(
+                prediction_text_zh,
+                match_id,
+                "Chinese prediction",
+                "## 预测覆盖检查",
+                ("赛程路径激励", "签表策略", "田忌赛马", "路径激励"),
+                errors,
+            )
         lead_image_valid = validate_raster_image(repo_root, match_id, "lead_image_file", lead_image_file, errors)
         result_image_valid = validate_raster_image(repo_root, match_id, "image_file", result_image_file, errors)
         if lead_image_file and result_image_file and lead_image_file == result_image_file:

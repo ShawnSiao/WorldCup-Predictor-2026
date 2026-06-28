@@ -23,6 +23,16 @@ Data gaps are closed in three tiers:
 - Clean-sheet caution: avoid 2-0 or 3-0 as the only scoreline path when the opponent has verified transition, set-piece, or crowd/host-context routes.
 - Data-gap penalty: missing injuries/lineups/weather/market movement keeps confidence at `medium` or lower; two or more major gaps should usually cap confidence at `medium-low`.
 - Dissenting case: every prediction must explicitly state the most plausible route to the non-primary outcome.
+- Bracket path incentives: every prediction must compare the current table or bracket paths for win/draw/loss outcomes. Treat intentional path selection or "Tian Ji horse racing" style rotation as a risk hypothesis, not a fact, unless current standings, plausible next-round opponents, coach incentives, and team-selection evidence all support it.
+
+## Bracket Path Incentives
+
+For every new or refreshed prediction, add a bracket path incentive read before publishing probabilities:
+
+- Identify what each outcome does to qualification, group rank, likely next-round opponent strength, travel/rest burden, and draw quadrant.
+- Check current table and bracket data from official or reputable sources at the source snapshot time.
+- Compare the normal football incentive to win with any strategic incentive to protect a draw, rotate, manage goal difference, avoid a stronger opponent, or accept a lower-risk route.
+- Reflect the finding in probabilities, scoreline scenarios, risk factors, and confidence. If the path is unclear, label it as a data gap and avoid claiming strategic intent.
 
 ## Lessons Through Match 020
 

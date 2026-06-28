@@ -3,7 +3,7 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from scripts.validate_repo import validate_repository
+from scripts.validate_repo import BRACKET_PATH_INCENTIVE_REQUIRED_FROM_MATCH, validate_repository
 
 
 class RepositoryValidationTest(unittest.TestCase):
@@ -55,6 +55,18 @@ class RepositoryValidationTest(unittest.TestCase):
 
         self.assertIn("ChatGPT 最高推理模型", platform_copy)
         self.assertIn("仅为足球赛事预测，不构成任何投资建议。", platform_copy)
+
+    def test_future_predictions_require_bracket_path_incentives(self):
+        repo_root = Path(__file__).resolve().parents[1]
+        agent_index = (repo_root / "AGENTS.md").read_text(encoding="utf-8")
+        methodology = (repo_root / "docs" / "methodology.md").read_text(encoding="utf-8")
+        methodology_zh = (repo_root / "docs" / "methodology.zh-CN.md").read_text(encoding="utf-8")
+
+        self.assertEqual(BRACKET_PATH_INCENTIVE_REQUIRED_FROM_MATCH, 73)
+        self.assertIn("bracket path incentives", agent_index)
+        self.assertIn("Tian Ji horse racing", agent_index)
+        self.assertIn("bracket path incentive", methodology)
+        self.assertIn("赛程路径激励", methodology_zh)
 
     def test_prediction_records_reference_existing_share_images(self):
         repo_root = Path(__file__).resolve().parents[1]

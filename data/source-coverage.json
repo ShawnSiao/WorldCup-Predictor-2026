@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-27",
+    "snapshot_date": "2026-06-28",
     "purpose": "Source coverage plan for closing pre-match prediction data gaps.",
-    "last_reviewed_at": "2026-06-27T22:45:00+08:00"
+    "last_reviewed_at": "2026-06-28T00:00:00+08:00"
   },
   "dimensions": [
     {
@@ -95,6 +95,22 @@
       ],
       "refresh_cadence": "T-72h baseline and T-24h disagreement pass.",
       "prediction_use": "Dissenting case, tactical matchup, public narrative, psychology, late formation surprises, and substitute-impact scenarios."
+    },
+    {
+      "dimension": "bracket_path_incentives",
+      "coverage_status": "new_required",
+      "primary_sources": [
+        "FIFA fixtures/results pages",
+        "FIFA match centre group tables and bracket pages",
+        "official tournament regulations"
+      ],
+      "fallback_sources": [
+        "reputable live tables",
+        "AP/Guardian/ESPN bracket explainers",
+        "official federation match previews"
+      ],
+      "refresh_cadence": "Every prediction run, plus immediately after any same-group or same-bracket result changes the path.",
+      "prediction_use": "Compare win/draw/loss paths for qualification, group rank, likely next-round opponent strength, travel/rest burden, draw quadrant, rotation risk, and strategic path-selection hypotheses."
     },
     {
       "dimension": "post_match_error_tags",
