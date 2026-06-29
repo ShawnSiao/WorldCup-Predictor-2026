@@ -13,23 +13,25 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-28 |
+| Data snapshot | 2026-06-29 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 73 |
-| Predictions published | 73 |
-| Final results tracked | 72 |
-| Post-match reviews published | 72 |
+| Tracked matches in repository | 76 |
+| Predictions published | 76 |
+| Final results tracked | 73 |
+| Post-match reviews published | 73 |
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| South Africa vs Canada | Round of 32 | 2026-06-28 19:00 UTC / 2026-06-29 03:00 China time | Los Angeles Stadium | [Canada win, 1-2](predictions/match-073-rsa-can.md) / [简体中文](predictions/match-073-rsa-can.zh-CN.md) |
+| Brazil vs Japan | Round of 32 | 2026-06-29 17:00 UTC / 2026-06-30 01:00 China time | Houston Stadium | [Brazil win, 2-1](predictions/match-076-bra-jpn.md) / [简体中文](predictions/match-076-bra-jpn.zh-CN.md) |
+| Germany vs Paraguay | Round of 32 | 2026-06-29 20:30 UTC / 2026-06-30 04:30 China time | Boston Stadium | [Germany win, 2-1](predictions/match-074-ger-par.md) / [简体中文](predictions/match-074-ger-par.zh-CN.md) |
+| Netherlands vs Morocco | Round of 32 | 2026-06-30 01:00 UTC / 2026-06-30 09:00 China time | Monterrey Stadium | [Netherlands win, 2-1](predictions/match-075-ned-mar.md) / [简体中文](predictions/match-075-ned-mar.zh-CN.md) |
 ## Daily Overview Card
 
-[![China-time 2026-06-29 prediction overview card](assets/cards/daily-2026-06-29-summary.png)](reports/daily/2026-06-29.md)
+[![China-time 2026-06-30 prediction overview card](assets/cards/daily-2026-06-30-summary.png)](reports/daily/2026-06-30.md)
 
-The overview card captures the one-match China-time date with probability, scoreline scenarios, and bracket-path strategy notes.
+The overview card captures the three-match China-time Round of 32 window with probability, scoreline scenarios, and bracket-path strategy notes.
 ## Featured Prediction Image Sets
 
 [![Mexico vs South Africa lead prediction image](assets/cards/match-001-mex-rsa-lead.png)](predictions/match-001-mex-rsa.md)
@@ -106,10 +108,13 @@ The overview card captures the one-match China-time date with probability, score
 [![Jordan vs Argentina lead prediction image](assets/cards/match-072-jor-arg-lead.png)](predictions/match-072-jor-arg.md)
 
 [![South Africa vs Canada lead prediction image](assets/cards/match-073-rsa-can-lead.png)](predictions/match-073-rsa-can.md)
+[![Germany vs Paraguay lead prediction image](assets/cards/match-074-ger-par-lead.png)](predictions/match-074-ger-par.md)
+[![Netherlands vs Morocco lead prediction image](assets/cards/match-075-ned-mar-lead.png)](predictions/match-075-ned-mar.md)
+[![Brazil vs Japan lead prediction image](assets/cards/match-076-bra-jpn-lead.png)](predictions/match-076-bra-jpn.md)
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 ## Today
 
-Reviews are now complete for all verified finals through Match 072. The next China-time window is Match 073, South Africa vs Canada, the first Round of 32 match. Calibration now keeps Canada's attacking edge while raising the extra-time draw path and requiring explicit bracket-path strategy analysis.
+Match 073 is now reviewed: Canada beat South Africa 1-0, matching the Canada winner lean but narrowing the scoring profile. The next China-time window covers Brazil vs Japan, Germany vs Paraguay, and Netherlands vs Morocco, with every forecast treating knockout path incentives as win-path resource management rather than any benefit from losing.
 ## Reasoning Model
 
 All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model.
@@ -136,9 +141,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 073: South Africa vs Canada](predictions/match-073-rsa-can.md)
-- Latest review: [Match 072: Jordan vs Argentina](reviews/match-072-jor-arg.md)
-- Latest daily report: [2026-06-29](reports/daily/2026-06-29.md)
+- Latest prediction: [Match 076: Brazil vs Japan](predictions/match-076-bra-jpn.md)
+- Latest review: [Match 073: South Africa vs Canada](reviews/match-073-rsa-can.md)
+- Latest daily report: [2026-06-30](reports/daily/2026-06-30.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

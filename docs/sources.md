@@ -303,3 +303,11 @@ Key URLs added in this snapshot:
 - Key sources: FIFA fixtures/results and match-centre pages, Guardian team-news and bracket-path reporting, Ticketmaster/FIFA Houston W73-v-W75 listing, FIFA ranking pages, and generated `$imagegen` assets.
 - Match 073 source focus: South Africa vs Canada kickoff, Los Angeles Stadium, Canada availability news, South Africa Mokoena return, and W73 bracket path toward a Houston Round of 16 against W75.
 - Verified at: 2026-06-28T17:00:00+08:00
+
+## 2026-06-29 Match 073-076 Source Snapshot
+
+- Reviewed Match 073: South Africa 0-1 Canada, with the Canada winner lean correct and the total-goals profile overstated.
+- Added Round of 32 predictions for Match 074 Germany vs Paraguay, Match 075 Netherlands vs Morocco, and Match 076 Brazil vs Japan.
+- Key sources: FIFA fixtures/results and match-centre pages, FIFA team/ranking pages, public Round-of-32 preview and odds snippets, Climate Central match weather pages, and `$imagegen` generated raster assets.
+- Bracket-path focus: knockout losses have no next-round benefit; the strategy analysis therefore evaluates next-opponent quality, rest/travel, cards, substitutions, extra-time risk, and whether any resource-management hypothesis is evidence-backed.
+- Verified at: 2026-06-29T22:15:00+08:00

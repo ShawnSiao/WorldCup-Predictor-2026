@@ -8,6 +8,7 @@ Daily reports summarize schedule changes, new predictions, final results, and po
 
 | Date | Summary |
 | --- | --- |
+| 2026-06-30 | [Round of 32 Match 074-076 predictions and Match 073 review](2026-06-30.md) / [简体中文](2026-06-30.zh-CN.md) |
 | 2026-06-29 | [Round of 32 Match 073 prediction and Match 067-072 reviews](2026-06-29.md) / [简体中文](2026-06-29.zh-CN.md) |
 | 2026-06-28 | [China-time Group J/K/L prediction refresh and Match 061-066 reviews](2026-06-28.md) / [简体中文](2026-06-28.zh-CN.md) |
 | 2026-06-27 | [China-time Group G/H/I prediction refresh and Match 055-060 reviews](2026-06-27.md) / [简体中文](2026-06-27.zh-CN.md) |

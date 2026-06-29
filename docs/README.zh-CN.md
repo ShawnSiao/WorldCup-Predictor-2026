@@ -8,23 +8,25 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-28 |
+| 数据快照 | 2026-06-29 |
 | 赛事窗口 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已跟踪比赛 | 73 |
-| 已发布预测 | 73 |
-| 已跟踪完赛结果 | 72 |
-| 已发布赛后复盘 | 72 |
+| 仓库已跟踪比赛 | 76 |
+| 已发布预测 | 76 |
+| 已跟踪完赛结果 | 73 |
+| 已发布赛后复盘 | 73 |
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 南非 vs 加拿大 | 32 强赛 | 2026-06-28 19:00 UTC / 2026-06-29 03:00 中国时间 | Los Angeles Stadium | [加拿大胜，1-2](../predictions/match-073-rsa-can.zh-CN.md) / [English](../predictions/match-073-rsa-can.md) |
+| 巴西 vs 日本 | 32 强赛 | 2026-06-29 17:00 UTC / 2026-06-30 01:00 中国时间 | Houston Stadium | [巴西胜，2-1](../predictions/match-076-bra-jpn.zh-CN.md) / [English](../predictions/match-076-bra-jpn.md) |
+| 德国 vs 巴拉圭 | 32 强赛 | 2026-06-29 20:30 UTC / 2026-06-30 04:30 中国时间 | Boston Stadium | [德国胜，2-1](../predictions/match-074-ger-par.zh-CN.md) / [English](../predictions/match-074-ger-par.md) |
+| 荷兰 vs 摩洛哥 | 32 强赛 | 2026-06-30 01:00 UTC / 2026-06-30 09:00 中国时间 | Monterrey Stadium | [荷兰胜，2-1](../predictions/match-075-ned-mar.zh-CN.md) / [English](../predictions/match-075-ned-mar.md) |
 ## 每日总览图
 
-[![中国时间 2026-06-29 预测总览图](../assets/cards/daily-2026-06-29-summary.png)](../reports/daily/2026-06-29.zh-CN.md)
+[![中国时间 2026-06-30 预测总览图](../assets/cards/daily-2026-06-30-summary.png)](../reports/daily/2026-06-30.zh-CN.md)
 
-总览图记录这个中国时间单场比赛窗口，包含概率、比分情景和赛程路径策略备注。
+总览图记录这个中国时间三场 32 强赛窗口，包含概率、比分情景和赛程路径策略备注。
 ## 预测首图
 
 [![墨西哥 vs 南非 预测首图](../assets/cards/match-001-mex-rsa-lead.png)](../predictions/match-001-mex-rsa.zh-CN.md)
@@ -101,10 +103,13 @@
 [![约旦 vs 阿根廷 预测首图](../assets/cards/match-072-jor-arg-lead.png)](../predictions/match-072-jor-arg.zh-CN.md)
 
 [![南非 vs 加拿大 预测首图](../assets/cards/match-073-rsa-can-lead.png)](../predictions/match-073-rsa-can.zh-CN.md)
+[![德国 vs 巴拉圭 预测首图](../assets/cards/match-074-ger-par-lead.png)](../predictions/match-074-ger-par.zh-CN.md)
+[![荷兰 vs 摩洛哥 预测首图](../assets/cards/match-075-ned-mar-lead.png)](../predictions/match-075-ned-mar.zh-CN.md)
+[![巴西 vs 日本 预测首图](../assets/cards/match-076-bra-jpn-lead.png)](../predictions/match-076-bra-jpn.zh-CN.md)
 分享图片位于 [`assets/cards/`](../assets/cards/)。每场预测先嵌入不含赛果暗示的首图，再嵌入结果预测配图。
 ## 今日状态
 
-截至第 072 场，所有已核验完赛结果都已完成复盘。下一组中国时间窗口是第 073 场，南非 vs 加拿大，也是首场 32 强赛。校准保留加拿大进攻优势，同时上调加时平局路径，并要求显式分析赛程路径策略。
+第 073 场已经完成复盘：加拿大 1-0 击败南非，命中加拿大胜出方向，但实际总进球更低。下一组中国时间窗口包括巴西 vs 日本、德国 vs 巴拉圭、荷兰 vs 摩洛哥；所有预测都把淘汰赛路径激励处理为胜出后的资源管理，而不是输球获益。
 ## 推理模型
 
 全部预测指定使用 ChatGPT 5.5 ultra-high reasoning model。
@@ -131,9 +136,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 073 场：南非 vs 加拿大](../predictions/match-073-rsa-can.zh-CN.md)
-- 最新复盘：[第 072 场：约旦 vs 阿根廷](../reviews/match-072-jor-arg.zh-CN.md)
-- 最新日报：[2026-06-29](../reports/daily/2026-06-29.zh-CN.md)
+- 最新预测：[第 076 场：巴西 vs 日本](../predictions/match-076-bra-jpn.zh-CN.md)
+- 最新复盘：[第 073 场：南非 vs 加拿大](../reviews/match-073-rsa-can.zh-CN.md)
+- 最新日报：[2026-06-30](../reports/daily/2026-06-30.zh-CN.md)
 - 方法论：[Prediction and review methodology](methodology.md) / [简体中文](methodology.zh-CN.md)
 - 校准：[Prediction calibration](prediction-calibration.md) / [简体中文](prediction-calibration.zh-CN.md)
 - 数据结构：[Repository data schema](data-schema.md) / [简体中文](data-schema.zh-CN.md)

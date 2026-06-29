@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-28",
+    "snapshot_date": "2026-06-29",
     "purpose": "Source coverage plan for closing pre-match prediction data gaps.",
-    "last_reviewed_at": "2026-06-28T17:00:00+08:00"
+    "last_reviewed_at": "2026-06-29T22:15:00+08:00"
   },
   "dimensions": [
     {
@@ -19,7 +19,7 @@
         "ESPN fixtures/results"
       ],
       "refresh_cadence": "Daily, plus immediately after final whistle for tracked matches.",
-      "prediction_use": "Match context, lifecycle status, result records, and review triggers through reviewed Match 066 and predicted Match 072."
+      "prediction_use": "Match context, lifecycle status, result records, and review triggers through reviewed Match 073 and predicted Match 076."
     },
     {
       "dimension": "squads_players",
@@ -110,7 +110,7 @@
         "official federation match previews"
       ],
       "refresh_cadence": "Every prediction run, plus immediately after any same-group or same-bracket result changes the path.",
-      "prediction_use": "Compare win/draw/loss paths for qualification, group rank, likely next-round opponent strength, travel/rest burden, draw quadrant, rotation risk, and strategic path-selection hypotheses."
+      "prediction_use": "Compare win/draw/loss paths for qualification, group rank, likely next-round opponent strength, travel/rest burden, draw quadrant, rotation risk, and strategic path-selection hypotheses. For current Round of 32 predictions, losing has no next-round benefit, so the analysis focuses on win-path management."
     },
     {
       "dimension": "post_match_error_tags",
@@ -124,7 +124,7 @@
         "manual review tags from daily automation"
       ],
       "refresh_cadence": "After each reviewed match.",
-      "prediction_use": "Calibration feedback through Match 066 for draw floor, favorite margin, clean-sheet, underdog resilience, transition routes, set-piece risk, host pressure, and must-win underdog branches."
+      "prediction_use": "Calibration feedback through Match 073 for draw floor, favorite margin, clean-sheet, underdog resilience, transition routes, set-piece risk, host pressure, knockout extra-time risk, and bracket-path management."
     }
   ]
 }

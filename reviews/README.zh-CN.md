@@ -78,3 +78,4 @@
 | 070 | 刚果（金） vs 乌兹别克斯坦 | 刚果（金） 3-1 乌兹别克斯坦 | correct | [复盘](../reviews/match-070-cod-uzb.zh-CN.md) / [English](../reviews/match-070-cod-uzb.md) |
 | 071 | 阿尔及利亚 vs 奥地利 | 阿尔及利亚 3-3 奥地利 | wrong | [复盘](../reviews/match-071-alg-aut.zh-CN.md) / [English](../reviews/match-071-alg-aut.md) |
 | 072 | 约旦 vs 阿根廷 | 约旦 1-3 阿根廷 | correct | [复盘](../reviews/match-072-jor-arg.zh-CN.md) / [English](../reviews/match-072-jor-arg.md) |
+| 073 | 南非 vs 加拿大 | 南非 0-1 加拿大 | correct | [复盘](../reviews/match-073-rsa-can.zh-CN.md) / [English](../reviews/match-073-rsa-can.md) |

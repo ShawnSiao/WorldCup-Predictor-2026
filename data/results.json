@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-28",
-    "tracked_result_count": 72,
+    "snapshot_date": "2026-06-29",
+    "tracked_result_count": 73,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
@@ -118,10 +118,11 @@
       "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
       "https://www.ticketmaster.com/world-cup-round-of-16-w73-houston-07-04-2026/event/Z7r9jZ1A7434t",
       "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men",
+      "https://www.sbnation.com/soccer/2026/6/28/24187408/canada-south-africa-world-cup-2026-final-score-round-of-32"
     ],
-    "last_verified_at": "2026-06-28T17:00:00+08:00",
-    "coverage": "results tracked through Match 072"
+    "last_verified_at": "2026-06-29T22:15:00+08:00",
+    "coverage": "results tracked through Match 073"
   },
   "results": [
     {
@@ -1231,6 +1232,22 @@
         "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021499"
       ],
       "last_verified_at": "2026-06-28T17:00:00+08:00"
+    },
+    {
+      "match_id": "073",
+      "home_team_code": "RSA",
+      "away_team_code": "CAN",
+      "home_score": 0,
+      "away_score": 1,
+      "winner_team_code": "CAN",
+      "status": "final",
+      "result_label": "South Africa 0-1 Canada",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021518",
+        "https://www.sbnation.com/soccer/2026/6/28/24187408/canada-south-africa-world-cup-2026-final-score-round-of-32"
+      ],
+      "last_verified_at": "2026-06-29T22:15:00+08:00"
     }
   ]
 }

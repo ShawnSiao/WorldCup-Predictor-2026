@@ -79,3 +79,6 @@ All predictions use ChatGPT 5.5 ultra-high reasoning. Each match includes a fixt
 | 071 | Algeria vs Austria | Austria win, 1-2 | [Prediction](../predictions/match-071-alg-aut.md) / [简体中文](../predictions/match-071-alg-aut.zh-CN.md) |
 | 072 | Jordan vs Argentina | Argentina win, 0-3 | [Prediction](../predictions/match-072-jor-arg.md) / [简体中文](../predictions/match-072-jor-arg.zh-CN.md) |
 | 073 | South Africa vs Canada | Canada win, 1-2 | [Prediction](../predictions/match-073-rsa-can.md) / [简体中文](../predictions/match-073-rsa-can.zh-CN.md) |
+| 074 | Germany vs Paraguay | Germany win, 2-1 | [Prediction](../predictions/match-074-ger-par.md) / [简体中文](../predictions/match-074-ger-par.zh-CN.md) |
+| 075 | Netherlands vs Morocco | Netherlands win, 2-1 | [Prediction](../predictions/match-075-ned-mar.md) / [简体中文](../predictions/match-075-ned-mar.zh-CN.md) |
+| 076 | Brazil vs Japan | Brazil win, 2-1 | [Prediction](../predictions/match-076-bra-jpn.md) / [简体中文](../predictions/match-076-bra-jpn.zh-CN.md) |

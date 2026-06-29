@@ -78,3 +78,4 @@ Each completed match records predicted winner, actual winner, scoreline error, a
 | 070 | Congo DR vs Uzbekistan | Congo DR 3-1 Uzbekistan | correct | [Review](../reviews/match-070-cod-uzb.md) / [简体中文](../reviews/match-070-cod-uzb.zh-CN.md) |
 | 071 | Algeria vs Austria | Algeria 3-3 Austria | wrong | [Review](../reviews/match-071-alg-aut.md) / [简体中文](../reviews/match-071-alg-aut.zh-CN.md) |
 | 072 | Jordan vs Argentina | Jordan 1-3 Argentina | correct | [Review](../reviews/match-072-jor-arg.md) / [简体中文](../reviews/match-072-jor-arg.zh-CN.md) |
+| 073 | South Africa vs Canada | South Africa 0-1 Canada | correct | [Review](../reviews/match-073-rsa-can.md) / [简体中文](../reviews/match-073-rsa-can.zh-CN.md) |
