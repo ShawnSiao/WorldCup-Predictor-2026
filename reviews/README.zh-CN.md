@@ -79,3 +79,6 @@
 | 071 | 阿尔及利亚 vs 奥地利 | 阿尔及利亚 3-3 奥地利 | wrong | [复盘](../reviews/match-071-alg-aut.zh-CN.md) / [English](../reviews/match-071-alg-aut.md) |
 | 072 | 约旦 vs 阿根廷 | 约旦 1-3 阿根廷 | correct | [复盘](../reviews/match-072-jor-arg.zh-CN.md) / [English](../reviews/match-072-jor-arg.md) |
 | 073 | 南非 vs 加拿大 | 南非 0-1 加拿大 | correct | [复盘](../reviews/match-073-rsa-can.zh-CN.md) / [English](../reviews/match-073-rsa-can.md) |
+| 074 | 德国 vs 巴拉圭 | 德国 1-1 巴拉圭；巴拉圭点球 4-3 胜出 | partial | [复盘](../reviews/match-074-ger-par.zh-CN.md) / [English](../reviews/match-074-ger-par.md) |
+| 075 | 荷兰 vs 摩洛哥 | 荷兰 1-1 摩洛哥；摩洛哥点球 3-2 胜出 | partial | [复盘](../reviews/match-075-ned-mar.zh-CN.md) / [English](../reviews/match-075-ned-mar.md) |
+| 076 | 巴西 vs 日本 | 巴西 2-1 日本 | correct | [复盘](../reviews/match-076-bra-jpn.zh-CN.md) / [English](../reviews/match-076-bra-jpn.md) |

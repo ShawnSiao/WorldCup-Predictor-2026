@@ -82,3 +82,6 @@ All predictions use ChatGPT 5.5 ultra-high reasoning. Each match includes a fixt
 | 074 | Germany vs Paraguay | Germany win, 2-1 | [Prediction](../predictions/match-074-ger-par.md) / [简体中文](../predictions/match-074-ger-par.zh-CN.md) |
 | 075 | Netherlands vs Morocco | Netherlands win, 2-1 | [Prediction](../predictions/match-075-ned-mar.md) / [简体中文](../predictions/match-075-ned-mar.zh-CN.md) |
 | 076 | Brazil vs Japan | Brazil win, 2-1 | [Prediction](../predictions/match-076-bra-jpn.md) / [简体中文](../predictions/match-076-bra-jpn.zh-CN.md) |
+| 077 | France vs Sweden | France win, 2-1 | [Prediction](../predictions/match-077-fra-swe.md) / [简体中文](../predictions/match-077-fra-swe.zh-CN.md) |
+| 078 | Cote d'Ivoire vs Norway | Norway win, 1-2 | [Prediction](../predictions/match-078-civ-nor.md) / [简体中文](../predictions/match-078-civ-nor.zh-CN.md) |
+| 079 | Mexico vs Ecuador | Draw, 1-1; Mexico advancement lean | [Prediction](../predictions/match-079-mex-ecu.md) / [简体中文](../predictions/match-079-mex-ecu.zh-CN.md) |

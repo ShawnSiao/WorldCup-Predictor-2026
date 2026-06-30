@@ -79,3 +79,6 @@ Each completed match records predicted winner, actual winner, scoreline error, a
 | 071 | Algeria vs Austria | Algeria 3-3 Austria | wrong | [Review](../reviews/match-071-alg-aut.md) / [简体中文](../reviews/match-071-alg-aut.zh-CN.md) |
 | 072 | Jordan vs Argentina | Jordan 1-3 Argentina | correct | [Review](../reviews/match-072-jor-arg.md) / [简体中文](../reviews/match-072-jor-arg.zh-CN.md) |
 | 073 | South Africa vs Canada | South Africa 0-1 Canada | correct | [Review](../reviews/match-073-rsa-can.md) / [简体中文](../reviews/match-073-rsa-can.zh-CN.md) |
+| 074 | Germany vs Paraguay | Germany 1-1 Paraguay; Paraguay won 4-3 on penalties | partial | [Review](../reviews/match-074-ger-par.md) / [简体中文](../reviews/match-074-ger-par.zh-CN.md) |
+| 075 | Netherlands vs Morocco | Netherlands 1-1 Morocco; Morocco won 3-2 on penalties | partial | [Review](../reviews/match-075-ned-mar.md) / [简体中文](../reviews/match-075-ned-mar.zh-CN.md) |
+| 076 | Brazil vs Japan | Brazil 2-1 Japan | correct | [Review](../reviews/match-076-bra-jpn.md) / [简体中文](../reviews/match-076-bra-jpn.zh-CN.md) |

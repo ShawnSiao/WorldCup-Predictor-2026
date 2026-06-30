@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-29",
-    "tracked_result_count": 73,
+    "snapshot_date": "2026-06-30",
+    "tracked_result_count": 76,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
@@ -119,10 +119,19 @@
       "https://www.ticketmaster.com/world-cup-round-of-16-w73-houston-07-04-2026/event/Z7r9jZ1A7434t",
       "https://inside.fifa.com/fifa-world-ranking/RSA?gender=men",
       "https://inside.fifa.com/fifa-world-ranking/CAN?gender=men",
-      "https://www.sbnation.com/soccer/2026/6/28/24187408/canada-south-africa-world-cup-2026-final-score-round-of-32"
+      "https://www.sbnation.com/soccer/2026/6/28/24187408/canada-south-africa-world-cup-2026-final-score-round-of-32",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021519",
+      "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany",
+      "https://www.foxsports.com/soccer/fifa-world-cup/scores",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021520",
+      "https://www.aljazeera.com/sports/liveblog/2026/6/29/netherlands-vs-morocco-live-world-cup-2026-last-32-match-updates",
+      "https://www.espn.com/soccer/report/_/gameId/760495",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021521",
+      "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16",
+      "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e"
     ],
-    "last_verified_at": "2026-06-29T22:15:00+08:00",
-    "coverage": "results tracked through Match 073"
+    "last_verified_at": "2026-06-30T23:55:00+08:00",
+    "coverage": "results tracked through Match 076"
   },
   "results": [
     {
@@ -1248,6 +1257,63 @@
         "https://www.sbnation.com/soccer/2026/6/28/24187408/canada-south-africa-world-cup-2026-final-score-round-of-32"
       ],
       "last_verified_at": "2026-06-29T22:15:00+08:00"
+    },
+    {
+      "match_id": "074",
+      "home_team_code": "GER",
+      "away_team_code": "PAR",
+      "home_score": 1,
+      "away_score": 1,
+      "winner_team_code": "PAR",
+      "status": "final",
+      "result_label": "Germany 1-1 Paraguay (Paraguay won 4-3 on penalties)",
+      "decided_by": "penalties",
+      "penalty_score": "3-4",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021519",
+        "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
+      ],
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "075",
+      "home_team_code": "NED",
+      "away_team_code": "MAR",
+      "home_score": 1,
+      "away_score": 1,
+      "winner_team_code": "MAR",
+      "status": "final",
+      "result_label": "Netherlands 1-1 Morocco (Morocco won 3-2 on penalties)",
+      "decided_by": "penalties",
+      "penalty_score": "2-3",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021520",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/29/netherlands-vs-morocco-live-world-cup-2026-last-32-match-updates",
+        "https://www.espn.com/soccer/report/_/gameId/760495",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
+      ],
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "076",
+      "home_team_code": "BRA",
+      "away_team_code": "JPN",
+      "home_score": 2,
+      "away_score": 1,
+      "winner_team_code": "BRA",
+      "status": "final",
+      "result_label": "Brazil 2-1 Japan",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021521",
+        "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16",
+        "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
+      ],
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
     }
   ]
 }

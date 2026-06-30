@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-29",
-    "coverage": "opening matchday window through Match 076",
+    "snapshot_date": "2026-06-30",
+    "coverage": "opening matchday window through Match 079",
     "official_match_count": 104,
-    "tracked_match_count": 76,
+    "tracked_match_count": 79,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://vod.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches",
@@ -229,9 +229,27 @@
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/brazil-japan-live-stream-team-news-tickets",
       "https://www.climatecentral.org/world-cup-2026/matches/74",
       "https://www.climatecentral.org/world-cup-2026/matches/75",
-      "https://www.climatecentral.org/world-cup-2026/matches/76"
+      "https://www.climatecentral.org/world-cup-2026/matches/76",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523",
+      "https://www.si.com/soccer/france-vs-sweden-world-cup-preview-predictions-lineups-6-30-26",
+      "https://www.cbssports.com/soccer/news/france-vs-sweden-world-cup-2026-preview-predictions-watch/amp/",
+      "https://www.climatecentral.org/world-cup-2026/matches/77",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522",
+      "https://www.rotowire.com/soccer/article/ivory-coast-vs-norway-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120216",
+      "https://www.vsin.com/soccer/ivory-coast-vs-norway-picks-best-bets-and-prediction-june-30",
+      "https://www.climatecentral.org/world-cup-2026/matches/78",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021524",
+      "https://www.foxsports.com/soccer/fifa-world-cup/scores",
+      "https://www.si.com/soccer/mexico-vs-ecuador-world-cup-preview-predictions-lineups-6-30-26",
+      "https://www.lineups.com/articles/mexico-vs-ecuador-prediction-odds-lineups-preview-world-cup-2026-06-30",
+      "https://www.climatecentral.org/world-cup-2026/matches/79",
+      "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany",
+      "https://www.aljazeera.com/sports/liveblog/2026/6/29/netherlands-vs-morocco-live-world-cup-2026-last-32-match-updates",
+      "https://www.espn.com/soccer/report/_/gameId/760495",
+      "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16",
+      "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e"
     ],
-    "last_verified_at": "2026-06-27T22:45:00+08:00"
+    "last_verified_at": "2026-06-30T23:55:00+08:00"
   },
   "matches": [
     {
@@ -2085,7 +2103,7 @@
       "country": "United States",
       "home_team_code": "GER",
       "away_team_code": "PAR",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021519",
@@ -2093,9 +2111,11 @@
         "https://www.foxsports.com/stories/soccer/world-cup-round-32-predictions-one-thing-watch-every-team",
         "https://www.climatecentral.org/world-cup-2026/matches/74",
         "https://inside.fifa.com/fifa-world-ranking/GER?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/PAR?gender=men",
+        "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
       ],
-      "last_verified_at": "2026-06-29T22:15:00+08:00"
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
     },
     {
       "match_id": "075",
@@ -2109,7 +2129,7 @@
       "country": "Mexico",
       "home_team_code": "NED",
       "away_team_code": "MAR",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021520",
@@ -2117,9 +2137,12 @@
         "https://www.foxsports.com/stories/soccer/world-cup-round-32-predictions-one-thing-watch-every-team",
         "https://www.climatecentral.org/world-cup-2026/matches/75",
         "https://inside.fifa.com/fifa-world-ranking/NED?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/MAR?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/MAR?gender=men",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/29/netherlands-vs-morocco-live-world-cup-2026-last-32-match-updates",
+        "https://www.espn.com/soccer/report/_/gameId/760495",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
       ],
-      "last_verified_at": "2026-06-29T22:15:00+08:00"
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
     },
     {
       "match_id": "076",
@@ -2133,7 +2156,7 @@
       "country": "United States",
       "home_team_code": "BRA",
       "away_team_code": "JPN",
-      "status": "predicted",
+      "status": "reviewed",
       "source_urls": [
         "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
         "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021521",
@@ -2141,9 +2164,90 @@
         "https://www.foxsports.com/stories/soccer/world-cup-round-32-predictions-one-thing-watch-every-team",
         "https://www.climatecentral.org/world-cup-2026/matches/76",
         "https://inside.fifa.com/fifa-world-ranking/BRA?gender=men",
-        "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men"
+        "https://inside.fifa.com/fifa-world-ranking/JPN?gender=men",
+        "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16",
+        "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
       ],
-      "last_verified_at": "2026-06-29T22:15:00+08:00"
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "077",
+      "stage": "Round of 32",
+      "kickoff_utc": "2026-06-30T21:00:00Z",
+      "kickoff_local": "2026-06-30T17:00:00-04:00",
+      "timezone": "America/New_York",
+      "venue_id": "new-york-new-jersey-stadium",
+      "venue_name": "New York New Jersey Stadium",
+      "city": "East Rutherford",
+      "country": "United States",
+      "home_team_code": "FRA",
+      "away_team_code": "SWE",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523",
+        "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+        "https://www.foxsports.com/stories/soccer/world-cup-round-32-predictions-one-thing-watch-every-team",
+        "https://www.si.com/soccer/france-vs-sweden-world-cup-preview-predictions-lineups-6-30-26",
+        "https://www.cbssports.com/soccer/news/france-vs-sweden-world-cup-2026-preview-predictions-watch/amp/",
+        "https://www.climatecentral.org/world-cup-2026/matches/77",
+        "https://inside.fifa.com/fifa-world-ranking/FRA?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men"
+      ],
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "078",
+      "stage": "Round of 32",
+      "kickoff_utc": "2026-06-30T17:00:00Z",
+      "kickoff_local": "2026-06-30T12:00:00-05:00",
+      "timezone": "America/Chicago",
+      "venue_id": "dallas-stadium",
+      "venue_name": "Dallas Stadium",
+      "city": "Arlington",
+      "country": "United States",
+      "home_team_code": "CIV",
+      "away_team_code": "NOR",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522",
+        "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+        "https://www.foxsports.com/stories/soccer/world-cup-round-32-predictions-one-thing-watch-every-team",
+        "https://www.rotowire.com/soccer/article/ivory-coast-vs-norway-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120216",
+        "https://www.vsin.com/soccer/ivory-coast-vs-norway-picks-best-bets-and-prediction-june-30",
+        "https://www.climatecentral.org/world-cup-2026/matches/78",
+        "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/NOR?gender=men"
+      ],
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "079",
+      "stage": "Round of 32",
+      "kickoff_utc": "2026-07-01T01:00:00Z",
+      "kickoff_local": "2026-06-30T19:00:00-06:00",
+      "timezone": "America/Mexico_City",
+      "venue_id": "mexico-city-stadium",
+      "venue_name": "Mexico City Stadium",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "home_team_code": "MEX",
+      "away_team_code": "ECU",
+      "status": "predicted",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021524",
+        "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores",
+        "https://www.si.com/soccer/mexico-vs-ecuador-world-cup-preview-predictions-lineups-6-30-26",
+        "https://www.lineups.com/articles/mexico-vs-ecuador-prediction-odds-lineups-preview-world-cup-2026-06-30",
+        "https://www.climatecentral.org/world-cup-2026/matches/79",
+        "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
+        "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men"
+      ],
+      "last_verified_at": "2026-06-30T23:55:00+08:00"
     }
   ]
 }

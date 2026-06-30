@@ -82,3 +82,6 @@
 | 074 | 德国 vs 巴拉圭 | 德国胜，2-1 | [预测](../predictions/match-074-ger-par.zh-CN.md) / [English](../predictions/match-074-ger-par.md) |
 | 075 | 荷兰 vs 摩洛哥 | 荷兰胜，2-1 | [预测](../predictions/match-075-ned-mar.zh-CN.md) / [English](../predictions/match-075-ned-mar.md) |
 | 076 | 巴西 vs 日本 | 巴西胜，2-1 | [预测](../predictions/match-076-bra-jpn.zh-CN.md) / [English](../predictions/match-076-bra-jpn.md) |
+| 077 | 法国 vs 瑞典 | 法国胜，2-1 | [预测](../predictions/match-077-fra-swe.zh-CN.md) / [English](../predictions/match-077-fra-swe.md) |
+| 078 | 科特迪瓦 vs 挪威 | 挪威胜，1-2 | [预测](../predictions/match-078-civ-nor.zh-CN.md) / [English](../predictions/match-078-civ-nor.md) |
+| 079 | 墨西哥 vs 厄瓜多尔 | 常规时间 1-1，墨西哥晋级倾向 | [预测](../predictions/match-079-mex-ecu.zh-CN.md) / [English](../predictions/match-079-mex-ecu.md) |

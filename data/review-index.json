@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-29",
-    "tracked_review_count": 73,
-    "last_verified_at": "2026-06-29T22:15:00+08:00"
+    "snapshot_date": "2026-06-30",
+    "tracked_review_count": 76,
+    "last_verified_at": "2026-06-30T23:55:00+08:00"
   },
   "reviews": [
     {
@@ -880,6 +880,42 @@
       "actual_score": "0-1",
       "published_at": "2026-06-29T22:15:00+08:00",
       "source_snapshot_at": "2026-06-29T22:15:00+08:00"
+    },
+    {
+      "match_id": "074",
+      "review_file": "reviews/match-074-ger-par.md",
+      "review_file_zh": "reviews/match-074-ger-par.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "GER",
+      "actual_winner": "PAR",
+      "predicted_score": "2-1",
+      "actual_score": "1-1, Paraguay 4-3 on penalties",
+      "published_at": "2026-06-30T23:55:00+08:00",
+      "source_snapshot_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "075",
+      "review_file": "reviews/match-075-ned-mar.md",
+      "review_file_zh": "reviews/match-075-ned-mar.zh-CN.md",
+      "review_rating": "partial",
+      "predicted_winner": "NED",
+      "actual_winner": "MAR",
+      "predicted_score": "2-1",
+      "actual_score": "1-1, Morocco 3-2 on penalties",
+      "published_at": "2026-06-30T23:55:00+08:00",
+      "source_snapshot_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "076",
+      "review_file": "reviews/match-076-bra-jpn.md",
+      "review_file_zh": "reviews/match-076-bra-jpn.zh-CN.md",
+      "review_rating": "correct",
+      "predicted_winner": "BRA",
+      "actual_winner": "BRA",
+      "predicted_score": "2-1",
+      "actual_score": "2-1",
+      "published_at": "2026-06-30T23:55:00+08:00",
+      "source_snapshot_at": "2026-06-30T23:55:00+08:00"
     }
   ]
 }

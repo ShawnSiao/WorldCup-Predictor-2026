@@ -1,8 +1,35 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-29",
+    "snapshot_date": "2026-06-30",
     "model": "ChatGPT 5.5 ultra-high reasoning",
-    "source_snapshot_at": "2026-06-29T22:15:00+08:00"
+    "source_snapshot_at": "2026-06-29T22:15:00+08:00",
+    "coverage": "predictions published through Match 079",
+    "tracked_prediction_count": 79,
+    "last_verified_at": "2026-06-30T23:55:00+08:00",
+    "source_urls": [
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523",
+      "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "https://www.foxsports.com/stories/soccer/world-cup-round-32-predictions-one-thing-watch-every-team",
+      "https://www.si.com/soccer/france-vs-sweden-world-cup-preview-predictions-lineups-6-30-26",
+      "https://www.cbssports.com/soccer/news/france-vs-sweden-world-cup-2026-preview-predictions-watch/amp/",
+      "https://www.climatecentral.org/world-cup-2026/matches/77",
+      "https://inside.fifa.com/fifa-world-ranking/FRA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/SWE?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522",
+      "https://www.rotowire.com/soccer/article/ivory-coast-vs-norway-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120216",
+      "https://www.vsin.com/soccer/ivory-coast-vs-norway-picks-best-bets-and-prediction-june-30",
+      "https://www.climatecentral.org/world-cup-2026/matches/78",
+      "https://inside.fifa.com/fifa-world-ranking/CIV?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/NOR?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021524",
+      "https://www.foxsports.com/soccer/fifa-world-cup/scores",
+      "https://www.si.com/soccer/mexico-vs-ecuador-world-cup-preview-predictions-lineups-6-30-26",
+      "https://www.lineups.com/articles/mexico-vs-ecuador-prediction-odds-lineups-preview-world-cup-2026-06-30",
+      "https://www.climatecentral.org/world-cup-2026/matches/79",
+      "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men"
+    ]
   },
   "predictions": [
     {
@@ -2740,6 +2767,132 @@
       "published_at": "2026-06-30T00:00:00+08:00",
       "updated_at": "2026-06-29T22:15:00+08:00",
       "source_snapshot_at": "2026-06-29T22:15:00+08:00"
+    },
+    {
+      "match_id": "077",
+      "prediction_file": "predictions/match-077-fra-swe.md",
+      "prediction_file_zh": "predictions/match-077-fra-swe.zh-CN.md",
+      "lead_image_file": "assets/cards/match-077-fra-swe-lead.png",
+      "image_file": "assets/cards/match-077-fra-swe.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "FRA",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.55,
+      "draw_probability": 0.25,
+      "away_win_probability": 0.2,
+      "advancement_probability": {
+        "FRA": 0.66,
+        "SWE": 0.34
+      },
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.13,
+          "rationale": "France's attacking depth and wide acceleration create enough chances, but Sweden's set pieces keep the margin narrow."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Sweden's compact block, aerial threat, and slower tempo drag the match into extra-time territory."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-1",
+          "probability": 0.07,
+          "rationale": "A Swedish set piece or second-ball sequence lands first and France chase against a protected box."
+        }
+      ],
+      "published_at": "2026-07-01T00:00:00+08:00",
+      "updated_at": "2026-06-30T23:55:00+08:00",
+      "source_snapshot_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "078",
+      "prediction_file": "predictions/match-078-civ-nor.md",
+      "prediction_file_zh": "predictions/match-078-civ-nor.zh-CN.md",
+      "lead_image_file": "assets/cards/match-078-civ-nor-lead.png",
+      "image_file": "assets/cards/match-078-civ-nor.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "away_win",
+      "predicted_winner": "NOR",
+      "predicted_score": "1-2",
+      "home_win_probability": 0.3,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.43,
+      "advancement_probability": {
+        "CIV": 0.44,
+        "NOR": 0.56
+      },
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-2",
+          "probability": 0.12,
+          "rationale": "Norway's elite penalty-box reference and direct service edge a physical match, while Cote d'Ivoire still find transition pressure."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.12,
+          "rationale": "Cote d'Ivoire's duel strength and set-piece value slow Norway enough to force extra time."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "2-1",
+          "probability": 0.08,
+          "rationale": "Cote d'Ivoire win second balls, turn the match into transition phases, and punish Norway before the final pass settles."
+        }
+      ],
+      "published_at": "2026-07-01T00:00:00+08:00",
+      "updated_at": "2026-06-30T23:55:00+08:00",
+      "source_snapshot_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "079",
+      "prediction_file": "predictions/match-079-mex-ecu.md",
+      "prediction_file_zh": "predictions/match-079-mex-ecu.zh-CN.md",
+      "lead_image_file": "assets/cards/match-079-mex-ecu-lead.png",
+      "image_file": "assets/cards/match-079-mex-ecu.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "draw",
+      "predicted_winner": null,
+      "predicted_score": "1-1",
+      "home_win_probability": 0.33,
+      "draw_probability": 0.34,
+      "away_win_probability": 0.33,
+      "advancement_probability": {
+        "MEX": 0.53,
+        "ECU": 0.47
+      },
+      "confidence": "low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-1",
+          "probability": 0.12,
+          "rationale": "Mexico's host context and Ecuador's midfield ball-winning cancel each other out through a tense regulation match."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "0-0",
+          "probability": 0.08,
+          "rationale": "Both sides protect central zones, altitude and pressure slow tempo, and the tie shifts toward extra time."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.09,
+          "rationale": "Ecuador turn a Mexico buildup loss into a transition goal and defend the final phase under pressure."
+        }
+      ],
+      "published_at": "2026-07-01T00:00:00+08:00",
+      "updated_at": "2026-06-30T23:55:00+08:00",
+      "source_snapshot_at": "2026-06-30T23:55:00+08:00"
     }
   ]
 }

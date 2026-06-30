@@ -311,3 +311,12 @@ Key URLs added in this snapshot:
 - Key sources: FIFA fixtures/results and match-centre pages, FIFA team/ranking pages, public Round-of-32 preview and odds snippets, Climate Central match weather pages, and `$imagegen` generated raster assets.
 - Bracket-path focus: knockout losses have no next-round benefit; the strategy analysis therefore evaluates next-opponent quality, rest/travel, cards, substitutions, extra-time risk, and whether any resource-management hypothesis is evidence-backed.
 - Verified at: 2026-06-29T22:15:00+08:00
+
+
+## 2026-06-30 Match 074-079 Source Snapshot
+
+- Reviewed Match 074 Germany 1-1 Paraguay, Paraguay 4-3 on penalties; Match 075 Netherlands 1-1 Morocco, Morocco 3-2 on penalties; and Match 076 Brazil 2-1 Japan.
+- Added Round of 32 predictions for Match 077 France vs Sweden, Match 078 Cote d'Ivoire vs Norway, and Match 079 Mexico vs Ecuador.
+- Key sources: FIFA fixtures/results and match-centre pages, ESPN bracket/schedule, FIFA ranking pages, public Round-of-32 previews and odds snippets, Climate Central match weather pages, and `$imagegen` generated raster assets.
+- Bracket-path focus: Paraguay and Brazil results changed visible next opponents. Knockout losses still have no next-round benefit, so Tian Ji-style underperformance is treated as unsupported unless live bracket incentives, coach incentives, and rotation evidence all support it.
+- Verified at: 2026-06-30T23:55:00+08:00

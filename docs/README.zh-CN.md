@@ -8,23 +8,23 @@
 
 | 项目 | 状态 |
 | --- | --- |
-| 数据快照 | 2026-06-29 |
+| 数据快照 | 2026-06-30 |
 | 赛事窗口 | 2026-06-11 至 2026-07-19 |
 | 官方比赛总数 | 104 |
-| 仓库已跟踪比赛 | 76 |
-| 已发布预测 | 76 |
-| 已跟踪完赛结果 | 73 |
-| 已发布赛后复盘 | 73 |
+| 仓库已跟踪比赛 | 79 |
+| 已发布预测 | 79 |
+| 已跟踪完赛结果 | 76 |
+| 已发布赛后复盘 | 76 |
 ## 近期比赛
 
 | 比赛 | 阶段 | 开球 | 场地 | 预测 |
 | --- | --- | --- | --- | --- |
-| 巴西 vs 日本 | 32 强赛 | 2026-06-29 17:00 UTC / 2026-06-30 01:00 中国时间 | Houston Stadium | [巴西胜，2-1](../predictions/match-076-bra-jpn.zh-CN.md) / [English](../predictions/match-076-bra-jpn.md) |
-| 德国 vs 巴拉圭 | 32 强赛 | 2026-06-29 20:30 UTC / 2026-06-30 04:30 中国时间 | Boston Stadium | [德国胜，2-1](../predictions/match-074-ger-par.zh-CN.md) / [English](../predictions/match-074-ger-par.md) |
-| 荷兰 vs 摩洛哥 | 32 强赛 | 2026-06-30 01:00 UTC / 2026-06-30 09:00 中国时间 | Monterrey Stadium | [荷兰胜，2-1](../predictions/match-075-ned-mar.zh-CN.md) / [English](../predictions/match-075-ned-mar.md) |
+| 科特迪瓦 vs 挪威 | 32 强赛 | 2026-06-30 17:00 UTC / 2026-07-01 01:00 中国时间 | Dallas Stadium | [挪威胜，1-2](../predictions/match-078-civ-nor.zh-CN.md) / [English](../predictions/match-078-civ-nor.md) |
+| 法国 vs 瑞典 | 32 强赛 | 2026-06-30 21:00 UTC / 2026-07-01 05:00 中国时间 | New York New Jersey Stadium | [法国胜，2-1](../predictions/match-077-fra-swe.zh-CN.md) / [English](../predictions/match-077-fra-swe.md) |
+| 墨西哥 vs 厄瓜多尔 | 32 强赛 | 2026-07-01 01:00 UTC / 2026-07-01 09:00 中国时间 | Mexico City Stadium | [常规时间 1-1，墨西哥晋级倾向](../predictions/match-079-mex-ecu.zh-CN.md) / [English](../predictions/match-079-mex-ecu.md) |
 ## 每日总览图
 
-[![中国时间 2026-06-30 预测总览图](../assets/cards/daily-2026-06-30-summary.png)](../reports/daily/2026-06-30.zh-CN.md)
+[![中国时间 2026-07-01 预测总览图](../assets/cards/daily-2026-07-01-summary.png)](../reports/daily/2026-07-01.zh-CN.md)
 
 总览图记录这个中国时间三场 32 强赛窗口，包含概率、比分情景和赛程路径策略备注。
 ## 预测首图
@@ -106,6 +106,9 @@
 [![德国 vs 巴拉圭 预测首图](../assets/cards/match-074-ger-par-lead.png)](../predictions/match-074-ger-par.zh-CN.md)
 [![荷兰 vs 摩洛哥 预测首图](../assets/cards/match-075-ned-mar-lead.png)](../predictions/match-075-ned-mar.zh-CN.md)
 [![巴西 vs 日本 预测首图](../assets/cards/match-076-bra-jpn-lead.png)](../predictions/match-076-bra-jpn.zh-CN.md)
+[![法国 vs 瑞典 预测首图](../assets/cards/match-077-fra-swe-lead.png)](../predictions/match-077-fra-swe.zh-CN.md)
+[![科特迪瓦 vs 挪威 预测首图](../assets/cards/match-078-civ-nor-lead.png)](../predictions/match-078-civ-nor.zh-CN.md)
+[![墨西哥 vs 厄瓜多尔 预测首图](../assets/cards/match-079-mex-ecu-lead.png)](../predictions/match-079-mex-ecu.zh-CN.md)
 分享图片位于 [`assets/cards/`](../assets/cards/)。每场预测先嵌入不含赛果暗示的首图，再嵌入结果预测配图。
 ## 今日状态
 
@@ -136,9 +139,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## 当前产物
 
-- 最新预测：[第 076 场：巴西 vs 日本](../predictions/match-076-bra-jpn.zh-CN.md)
-- 最新复盘：[第 073 场：南非 vs 加拿大](../reviews/match-073-rsa-can.zh-CN.md)
-- 最新日报：[2026-06-30](../reports/daily/2026-06-30.zh-CN.md)
+- 最新预测：[第 079 场：墨西哥 vs 厄瓜多尔](../predictions/match-079-mex-ecu.zh-CN.md)
+- 最新复盘：[第 076 场：巴西 vs 日本](../reviews/match-076-bra-jpn.zh-CN.md)
+- 最新日报：[2026-07-01](../reports/daily/2026-07-01.zh-CN.md)
 - 方法论：[Prediction and review methodology](methodology.md) / [简体中文](methodology.zh-CN.md)
 - 校准：[Prediction calibration](prediction-calibration.md) / [简体中文](prediction-calibration.zh-CN.md)
 - 数据结构：[Repository data schema](data-schema.md) / [简体中文](data-schema.zh-CN.md)
