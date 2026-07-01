@@ -320,3 +320,12 @@ Key URLs added in this snapshot:
 - Key sources: FIFA fixtures/results and match-centre pages, ESPN bracket/schedule, FIFA ranking pages, public Round-of-32 previews and odds snippets, Climate Central match weather pages, and `$imagegen` generated raster assets.
 - Bracket-path focus: Paraguay and Brazil results changed visible next opponents. Knockout losses still have no next-round benefit, so Tian Ji-style underperformance is treated as unsupported unless live bracket incentives, coach incentives, and rotation evidence all support it.
 - Verified at: 2026-06-30T23:55:00+08:00
+
+
+## 2026-07-01 Match 077-082 Source Snapshot
+
+- Reviewed Match 077 France 3-0 Sweden, Match 078 Cote d'Ivoire 1-2 Norway, and Match 079 Mexico 2-0 Ecuador.
+- Added Round of 32 predictions for Match 080 England vs Congo DR, Match 081 USA vs Bosnia and Herzegovina, and Match 082 Belgium vs Senegal.
+- Key sources: FIFA fixtures/results and match-centre pages, ESPN bracket/schedule, Al Jazeera Wednesday bracket update, FIFA ranking pages, SI/Fox/U.S. Soccer previews, Climate Central match weather pages, and `$imagegen` generated raster assets.
+- Bracket-path focus: Mexico is now the visible next opponent for the England/Congo DR winner; W81/W82 remains an interdependent branch. Knockout losses still have no next-round benefit, so Tian Ji-style underperformance remains unsupported without live bracket, coach incentive, and rotation evidence.
+- Verified at: 2026-07-01T20:51:00+08:00

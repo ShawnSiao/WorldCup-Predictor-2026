@@ -82,3 +82,6 @@ Each completed match records predicted winner, actual winner, scoreline error, a
 | 074 | Germany vs Paraguay | Germany 1-1 Paraguay; Paraguay won 4-3 on penalties | partial | [Review](../reviews/match-074-ger-par.md) / [简体中文](../reviews/match-074-ger-par.zh-CN.md) |
 | 075 | Netherlands vs Morocco | Netherlands 1-1 Morocco; Morocco won 3-2 on penalties | partial | [Review](../reviews/match-075-ned-mar.md) / [简体中文](../reviews/match-075-ned-mar.zh-CN.md) |
 | 076 | Brazil vs Japan | Brazil 2-1 Japan | correct | [Review](../reviews/match-076-bra-jpn.md) / [简体中文](../reviews/match-076-bra-jpn.zh-CN.md) |
+| 077 | France vs Sweden | France 3-0 Sweden | correct | [Review](../reviews/match-077-fra-swe.md) / [简体中文](../reviews/match-077-fra-swe.zh-CN.md) |
+| 078 | Cote d'Ivoire vs Norway | Cote d'Ivoire 1-2 Norway | correct | [Review](../reviews/match-078-civ-nor.md) / [简体中文](../reviews/match-078-civ-nor.zh-CN.md) |
+| 079 | Mexico vs Ecuador | Mexico 2-0 Ecuador | partial | [Review](../reviews/match-079-mex-ecu.md) / [简体中文](../reviews/match-079-mex-ecu.zh-CN.md) |

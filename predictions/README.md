@@ -85,3 +85,6 @@ All predictions use ChatGPT 5.5 ultra-high reasoning. Each match includes a fixt
 | 077 | France vs Sweden | France win, 2-1 | [Prediction](../predictions/match-077-fra-swe.md) / [简体中文](../predictions/match-077-fra-swe.zh-CN.md) |
 | 078 | Cote d'Ivoire vs Norway | Norway win, 1-2 | [Prediction](../predictions/match-078-civ-nor.md) / [简体中文](../predictions/match-078-civ-nor.zh-CN.md) |
 | 079 | Mexico vs Ecuador | Draw, 1-1; Mexico advancement lean | [Prediction](../predictions/match-079-mex-ecu.md) / [简体中文](../predictions/match-079-mex-ecu.zh-CN.md) |
+| 080 | England vs Congo DR | England win, 1-0 | [Prediction](../predictions/match-080-eng-cod.md) / [简体中文](../predictions/match-080-eng-cod.zh-CN.md) |
+| 081 | USA vs Bosnia and Herzegovina | USA win, 2-1 | [Prediction](../predictions/match-081-usa-bih.md) / [简体中文](../predictions/match-081-usa-bih.zh-CN.md) |
+| 082 | Belgium vs Senegal | Belgium win, 2-1 | [Prediction](../predictions/match-082-bel-sen.md) / [简体中文](../predictions/match-082-bel-sen.zh-CN.md) |

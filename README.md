@@ -13,23 +13,23 @@ Track the 2026 FIFA World Cup schedule, publish match-by-match predictions, and 
 
 | Item | Status |
 | --- | --- |
-| Data snapshot | 2026-06-30 |
+| Data snapshot | 2026-07-01 |
 | Tournament window | 2026-06-11 to 2026-07-19 |
 | Official match count | 104 |
-| Tracked matches in repository | 79 |
-| Predictions published | 79 |
-| Final results tracked | 76 |
-| Post-match reviews published | 76 |
+| Tracked matches in repository | 82 |
+| Predictions published | 82 |
+| Final results tracked | 79 |
+| Post-match reviews published | 79 |
 ## Next Matches
 
 | Match | Stage | Kickoff | Venue | Prediction |
 | --- | --- | --- | --- | --- |
-| Cote d'Ivoire vs Norway | Round of 32 | 2026-06-30 17:00 UTC / 2026-07-01 01:00 China time | Dallas Stadium | [Norway win, 1-2](predictions/match-078-civ-nor.md) / [简体中文](predictions/match-078-civ-nor.zh-CN.md) |
-| France vs Sweden | Round of 32 | 2026-06-30 21:00 UTC / 2026-07-01 05:00 China time | New York New Jersey Stadium | [France win, 2-1](predictions/match-077-fra-swe.md) / [简体中文](predictions/match-077-fra-swe.zh-CN.md) |
-| Mexico vs Ecuador | Round of 32 | 2026-07-01 01:00 UTC / 2026-07-01 09:00 China time | Mexico City Stadium | [Draw, 1-1; Mexico advancement lean](predictions/match-079-mex-ecu.md) / [简体中文](predictions/match-079-mex-ecu.zh-CN.md) |
+| England vs Congo DR | Round of 32 | 2026-07-01 16:00 UTC / 2026-07-02 00:00 China time | Atlanta Stadium | [England win, 1-0](predictions/match-080-eng-cod.md) / [简体中文](predictions/match-080-eng-cod.zh-CN.md) |
+| Belgium vs Senegal | Round of 32 | 2026-07-01 20:00 UTC / 2026-07-02 04:00 China time | Seattle Stadium | [Belgium win, 2-1](predictions/match-082-bel-sen.md) / [简体中文](predictions/match-082-bel-sen.zh-CN.md) |
+| USA vs Bosnia and Herzegovina | Round of 32 | 2026-07-02 00:00 UTC / 2026-07-02 08:00 China time | San Francisco Bay Area Stadium | [USA win, 2-1](predictions/match-081-usa-bih.md) / [简体中文](predictions/match-081-usa-bih.zh-CN.md) |
 ## Daily Overview Card
 
-[![China-time 2026-07-01 prediction overview card](assets/cards/daily-2026-07-01-summary.png)](reports/daily/2026-07-01.md)
+[![China-time 2026-07-02 prediction overview card](assets/cards/daily-2026-07-02-summary.png)](reports/daily/2026-07-02.md)
 
 The overview card captures the three-match China-time Round of 32 window with probability, scoreline scenarios, and bracket-path strategy notes.
 ## Featured Prediction Image Sets
@@ -114,10 +114,13 @@ The overview card captures the three-match China-time Round of 32 window with pr
 [![France vs Sweden lead prediction image](assets/cards/match-077-fra-swe-lead.png)](predictions/match-077-fra-swe.md)
 [![Cote d'Ivoire vs Norway lead prediction image](assets/cards/match-078-civ-nor-lead.png)](predictions/match-078-civ-nor.md)
 [![Mexico vs Ecuador lead prediction image](assets/cards/match-079-mex-ecu-lead.png)](predictions/match-079-mex-ecu.md)
+[![England vs Congo DR lead prediction image](assets/cards/match-080-eng-cod-lead.png)](predictions/match-080-eng-cod.md)
+[![USA vs Bosnia and Herzegovina lead prediction image](assets/cards/match-081-usa-bih-lead.png)](predictions/match-081-usa-bih.md)
+[![Belgium vs Senegal lead prediction image](assets/cards/match-082-bel-sen-lead.png)](predictions/match-082-bel-sen.md)
 Share images live under [`assets/cards/`](assets/cards/). Each prediction embeds a fixture-only lead image first and the result prediction card second.
 ## Today
 
-Matches 074-076 are now reviewed: Brazil beat Japan 2-1 for an exact prediction hit, while Paraguay and Morocco both advanced on penalties after 1-1 draws that matched the conservative draw paths but beat the published favourite advancement leans. The next China-time window covers Cote d'Ivoire vs Norway, France vs Sweden, and Mexico vs Ecuador, with every forecast explicitly checking whether any Tian Ji-style bracket strategy is evidence-backed.
+Matches 077-079 are now reviewed: France beat Sweden 3-0, Norway beat Cote d'Ivoire 2-1 for an exact scoreline hit, and Mexico beat Ecuador 2-0 after the model correctly leaned Mexico to advance but overvalued the regulation draw. The next China-time window covers England vs Congo DR, Belgium vs Senegal, and USA vs Bosnia and Herzegovina, with every forecast again treating Tian Ji-style underperformance as unsupported because knockout losses end the tournament.
 ## Reasoning Model
 
 All prediction reasoning is specified to use the ChatGPT 5.5 ultra-high reasoning model.
@@ -144,9 +147,9 @@ scheduled -> predicted -> live -> final -> reviewed
 
 ## Current Artifacts
 
-- Latest prediction: [Match 079: Mexico vs Ecuador](predictions/match-079-mex-ecu.md)
-- Latest review: [Match 076: Brazil vs Japan](reviews/match-076-bra-jpn.md)
-- Latest daily report: [2026-07-01](reports/daily/2026-07-01.md)
+- Latest prediction: [Match 082: Belgium vs Senegal](predictions/match-082-bel-sen.md)
+- Latest review: [Match 079: Mexico vs Ecuador](reviews/match-079-mex-ecu.md)
+- Latest daily report: [2026-07-02](reports/daily/2026-07-02.md)
 - Methodology: [Prediction and review methodology](docs/methodology.md) / [简体中文](docs/methodology.zh-CN.md)
 - Calibration: [Prediction calibration](docs/prediction-calibration.md) / [简体中文](docs/prediction-calibration.zh-CN.md)
 - Data schema: [Repository data schema](docs/data-schema.md) / [简体中文](docs/data-schema.zh-CN.md)

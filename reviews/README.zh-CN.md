@@ -82,3 +82,6 @@
 | 074 | 德国 vs 巴拉圭 | 德国 1-1 巴拉圭；巴拉圭点球 4-3 胜出 | partial | [复盘](../reviews/match-074-ger-par.zh-CN.md) / [English](../reviews/match-074-ger-par.md) |
 | 075 | 荷兰 vs 摩洛哥 | 荷兰 1-1 摩洛哥；摩洛哥点球 3-2 胜出 | partial | [复盘](../reviews/match-075-ned-mar.zh-CN.md) / [English](../reviews/match-075-ned-mar.md) |
 | 076 | 巴西 vs 日本 | 巴西 2-1 日本 | correct | [复盘](../reviews/match-076-bra-jpn.zh-CN.md) / [English](../reviews/match-076-bra-jpn.md) |
+| 077 | 法国 vs 瑞典 | 法国 3-0 瑞典 | correct | [复盘](../reviews/match-077-fra-swe.zh-CN.md) / [English](../reviews/match-077-fra-swe.md) |
+| 078 | 科特迪瓦 vs 挪威 | 科特迪瓦 1-2 挪威 | correct | [复盘](../reviews/match-078-civ-nor.zh-CN.md) / [English](../reviews/match-078-civ-nor.md) |
+| 079 | 墨西哥 vs 厄瓜多尔 | 墨西哥 2-0 厄瓜多尔 | partial | [复盘](../reviews/match-079-mex-ecu.zh-CN.md) / [English](../reviews/match-079-mex-ecu.md) |

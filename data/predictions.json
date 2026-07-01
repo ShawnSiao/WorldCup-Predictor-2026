@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-30",
+    "snapshot_date": "2026-07-01",
     "model": "ChatGPT 5.5 ultra-high reasoning",
     "source_snapshot_at": "2026-06-29T22:15:00+08:00",
-    "coverage": "predictions published through Match 079",
-    "tracked_prediction_count": 79,
-    "last_verified_at": "2026-06-30T23:55:00+08:00",
+    "coverage": "predictions published through Match 082",
+    "tracked_prediction_count": 82,
+    "last_verified_at": "2026-07-01T20:51:00+08:00",
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
       "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523",
@@ -28,7 +28,25 @@
       "https://www.lineups.com/articles/mexico-vs-ecuador-prediction-odds-lineups-preview-world-cup-2026-06-30",
       "https://www.climatecentral.org/world-cup-2026/matches/79",
       "https://inside.fifa.com/fifa-world-ranking/MEX?gender=men",
-      "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men"
+      "https://inside.fifa.com/fifa-world-ranking/ECU?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021512",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-21-preview-round-of-32",
+      "https://www.aljazeera.com/sports/2026/7/1/fifa_world-cup-wednesday-schedule-predictions-bracket-update",
+      "https://www.si.com/soccer/england-vs-dr-congo-world-cup-preview-predictions-lineups-7-1-26",
+      "https://www.climatecentral.org/world-cup-2026/matches/80",
+      "https://inside.fifa.com/fifa-world-ranking/ENG?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/COD?gender=men",
+      "https://www.ussoccer.com/stories/2026/06/usmnt/match-preview-vs-bosnia-herzegovina-san-francisco-bay-california-fifa-world-cup",
+      "https://www.si.com/soccer/usa-vs-bosnia-herzegovina-world-cup-preview-predictions-lineups-7-1-26",
+      "https://www.climatecentral.org/world-cup-2026/matches/81",
+      "https://inside.fifa.com/fifa-world-ranking/USA?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/BIH?gender=men",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021525",
+      "https://www.fox.com/soccer/fifa-world-cup/round-of-32-match-82-jul-1-2026",
+      "https://www.si.com/soccer/belgium-vs-senegal-world-cup-preview-predictions-lineups-7-1-26",
+      "https://www.climatecentral.org/world-cup-2026/matches/82",
+      "https://inside.fifa.com/fifa-world-ranking/BEL?gender=men",
+      "https://inside.fifa.com/fifa-world-ranking/SEN?gender=men"
     ]
   },
   "predictions": [
@@ -2893,6 +2911,132 @@
       "published_at": "2026-07-01T00:00:00+08:00",
       "updated_at": "2026-06-30T23:55:00+08:00",
       "source_snapshot_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "080",
+      "prediction_file": "predictions/match-080-eng-cod.md",
+      "prediction_file_zh": "predictions/match-080-eng-cod.zh-CN.md",
+      "lead_image_file": "assets/cards/match-080-eng-cod-lead.png",
+      "image_file": "assets/cards/match-080-eng-cod.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "ENG",
+      "predicted_score": "1-0",
+      "home_win_probability": 0.62,
+      "draw_probability": 0.23,
+      "away_win_probability": 0.15,
+      "advancement_probability": {
+        "ENG": 0.73,
+        "COD": 0.27
+      },
+      "confidence": "medium-low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "1-0",
+          "probability": 0.14,
+          "rationale": "England's control and set-piece pressure create one decisive chance while Congo DR keep the match compact."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Congo DR survive long spells without the ball and convert a transition or dead-ball chance."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "0-1",
+          "probability": 0.05,
+          "rationale": "England's possession becomes sterile, and Congo DR protect an early transition goal."
+        }
+      ],
+      "published_at": "2026-07-02T00:00:00+08:00",
+      "updated_at": "2026-07-01T20:51:00+08:00",
+      "source_snapshot_at": "2026-07-01T20:51:00+08:00"
+    },
+    {
+      "match_id": "081",
+      "prediction_file": "predictions/match-081-usa-bih.md",
+      "prediction_file_zh": "predictions/match-081-usa-bih.zh-CN.md",
+      "lead_image_file": "assets/cards/match-081-usa-bih-lead.png",
+      "image_file": "assets/cards/match-081-usa-bih.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "USA",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.61,
+      "draw_probability": 0.22,
+      "away_win_probability": 0.17,
+      "advancement_probability": {
+        "USA": 0.72,
+        "BIH": 0.28
+      },
+      "confidence": "medium",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.13,
+          "rationale": "USA use home tempo and wide pressure to create enough chances, while Bosnia's set-piece threat keeps one goal live."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.1,
+          "rationale": "Bosnia slow the match, win aerial duels, and force extra-time pressure."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "3-1",
+          "probability": 0.09,
+          "rationale": "USA score first, press into transition chances, and stretch Bosnia late."
+        }
+      ],
+      "published_at": "2026-07-02T00:00:00+08:00",
+      "updated_at": "2026-07-01T20:51:00+08:00",
+      "source_snapshot_at": "2026-07-01T20:51:00+08:00"
+    },
+    {
+      "match_id": "082",
+      "prediction_file": "predictions/match-082-bel-sen.md",
+      "prediction_file_zh": "predictions/match-082-bel-sen.zh-CN.md",
+      "lead_image_file": "assets/cards/match-082-bel-sen-lead.png",
+      "image_file": "assets/cards/match-082-bel-sen.png",
+      "model": "ChatGPT 5.5 ultra-high reasoning",
+      "predicted_outcome": "home_win",
+      "predicted_winner": "BEL",
+      "predicted_score": "2-1",
+      "home_win_probability": 0.43,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.3,
+      "advancement_probability": {
+        "BEL": 0.55,
+        "SEN": 0.45
+      },
+      "confidence": "low",
+      "scoreline_scenarios": [
+        {
+          "label": "primary",
+          "scoreline": "2-1",
+          "probability": 0.11,
+          "rationale": "Belgium's final-third quality edges a volatile match, but Senegal's pace keeps the margin narrow."
+        },
+        {
+          "label": "conservative_draw_path",
+          "scoreline": "1-1",
+          "probability": 0.11,
+          "rationale": "Senegal's compactness and transition threat slow Belgium enough to force extra time."
+        },
+        {
+          "label": "upside_alternate",
+          "scoreline": "1-2",
+          "probability": 0.1,
+          "rationale": "Senegal attack Belgium's ageing defensive spaces and turn one transition into the decisive goal."
+        }
+      ],
+      "published_at": "2026-07-02T00:00:00+08:00",
+      "updated_at": "2026-07-01T20:51:00+08:00",
+      "source_snapshot_at": "2026-07-01T20:51:00+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-30",
-    "tracked_result_count": 76,
+    "snapshot_date": "2026-07-01",
+    "tracked_result_count": 79,
     "source_urls": [
       "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
       "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
@@ -128,10 +128,16 @@
       "https://www.espn.com/soccer/report/_/gameId/760495",
       "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021521",
       "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16",
-      "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e"
+      "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523",
+      "https://www.si.com/soccer/france-player-ratings-vs-sweden-history-maker-kylian-mbappe-world-cup",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522",
+      "https://www.si.com/soccer/norway-player-ratings-vs-ivory-coast-haaland-world-cup",
+      "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021516",
+      "https://www.aljazeera.com/sports/2026/7/1/fifa_world-cup-wednesday-schedule-predictions-bracket-update"
     ],
-    "last_verified_at": "2026-06-30T23:55:00+08:00",
-    "coverage": "results tracked through Match 076"
+    "last_verified_at": "2026-07-01T20:51:00+08:00",
+    "coverage": "results tracked through Match 079"
   },
   "results": [
     {
@@ -1314,6 +1320,57 @@
         "https://www.foxsports.com/soccer/fifa-world-cup/scores"
       ],
       "last_verified_at": "2026-06-30T23:55:00+08:00"
+    },
+    {
+      "match_id": "077",
+      "home_team_code": "FRA",
+      "away_team_code": "SWE",
+      "home_score": 3,
+      "away_score": 0,
+      "winner_team_code": "FRA",
+      "status": "final",
+      "result_label": "France 3-0 Sweden",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523",
+        "https://www.si.com/soccer/france-player-ratings-vs-sweden-history-maker-kylian-mbappe-world-cup",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
+      ],
+      "last_verified_at": "2026-07-01T20:51:00+08:00"
+    },
+    {
+      "match_id": "078",
+      "home_team_code": "CIV",
+      "away_team_code": "NOR",
+      "home_score": 1,
+      "away_score": 2,
+      "winner_team_code": "NOR",
+      "status": "final",
+      "result_label": "Cote d'Ivoire 1-2 Norway",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522",
+        "https://www.si.com/soccer/norway-player-ratings-vs-ivory-coast-haaland-world-cup",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
+      ],
+      "last_verified_at": "2026-07-01T20:51:00+08:00"
+    },
+    {
+      "match_id": "079",
+      "home_team_code": "MEX",
+      "away_team_code": "ECU",
+      "home_score": 2,
+      "away_score": 0,
+      "winner_team_code": "MEX",
+      "status": "final",
+      "result_label": "Mexico 2-0 Ecuador",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021516",
+        "https://www.aljazeera.com/sports/2026/7/1/fifa_world-cup-wednesday-schedule-predictions-bracket-update",
+        "https://www.foxsports.com/soccer/fifa-world-cup/scores"
+      ],
+      "last_verified_at": "2026-07-01T20:51:00+08:00"
     }
   ]
 }

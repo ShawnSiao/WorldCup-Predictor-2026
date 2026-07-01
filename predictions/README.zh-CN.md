@@ -85,3 +85,6 @@
 | 077 | 法国 vs 瑞典 | 法国胜，2-1 | [预测](../predictions/match-077-fra-swe.zh-CN.md) / [English](../predictions/match-077-fra-swe.md) |
 | 078 | 科特迪瓦 vs 挪威 | 挪威胜，1-2 | [预测](../predictions/match-078-civ-nor.zh-CN.md) / [English](../predictions/match-078-civ-nor.md) |
 | 079 | 墨西哥 vs 厄瓜多尔 | 常规时间 1-1，墨西哥晋级倾向 | [预测](../predictions/match-079-mex-ecu.zh-CN.md) / [English](../predictions/match-079-mex-ecu.md) |
+| 080 | 英格兰 vs 刚果（金） | 英格兰胜，1-0 | [预测](../predictions/match-080-eng-cod.zh-CN.md) / [English](../predictions/match-080-eng-cod.md) |
+| 081 | 美国 vs 波黑 | 美国胜，2-1 | [预测](../predictions/match-081-usa-bih.zh-CN.md) / [English](../predictions/match-081-usa-bih.md) |
+| 082 | 比利时 vs 塞内加尔 | 比利时胜，2-1 | [预测](../predictions/match-082-bel-sen.zh-CN.md) / [English](../predictions/match-082-bel-sen.md) |
